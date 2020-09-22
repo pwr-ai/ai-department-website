@@ -5,16 +5,19 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title = "Department of Computational Intelligence"
+  [en.params]
+    description = "Website of Department of Computational Intelligence, Wroclaw University of Science and Technology"
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
+[pl]
+  languageCode = "pl-PL"
+  contentDir = "content/pl"
+  title = "Katedra Inteligencji Obliczeniowej"
+  [pl.params]
+    description = "Strona Katedry Inteligencji Obliczeniowej Politechniki Wrocławskiej"
+#  [[pl.menu.main]]
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
