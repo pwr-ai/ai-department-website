@@ -1,4 +1,5 @@
 ---
+authors:["piasecki"]
 title: Clarin project
 summary: European Research Infrastructure for Language Resources and Technology
 tags:
