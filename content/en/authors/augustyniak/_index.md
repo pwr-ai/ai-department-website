@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. candidate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -60,6 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- PhD Students
+- Project's staff
 ---
 Short description in third person.
