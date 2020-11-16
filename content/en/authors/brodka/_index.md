@@ -15,19 +15,36 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: Department of Computational Intelligence, Wroclaw University of Science and Technology
-  url: ""
+  url: "http://piotrbrodka.pl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Social Network Anaysis and .....
+bio: My research interests include Complex Network Anaysis and Spreading Proceses in Complex Networks
 
 interests:
-- interest 1
-- interest 2
-- interest 3
+- Network Science
+- Spreading Proceses in Complex Networks 
+- Dynamic of Social Networks
+- Controll of Complex Networks
+- Multilayer Networks
 
 education:
   courses:
-  - course: MsC in Computer Science
+  - course: D.Sc. in Information and Communication Technology
+    institution: Wroclaw University of Science and Technology
+    year: 2020
+  - course: Stanford Center fo Professional Development "Science - Management - Commercialization"
+    institution: Stanford University, USA
+    year: 2013
+  - course: Ph.D. in Computer Science, Network Science (with  honours)
+    institution: Wroclaw University of Science and Technology
+    year: 2012
+  - course: Postgraduate studies in Research Project Management and Commercialization of research results
+    institution: Wroclaw University of Science and Technology, International Project Management Association
+    year: 2012
+  - course: MsC in Computer Science 
+    institution: Blekinge Institute of Technology
+    year: 2012
+  - course: MsC in Computer Science (with  honours)
     institution: Wroclaw University of Science and Technology
     year: 2008
 
@@ -41,13 +58,19 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/tkajdanowicz
+  link: https://twitter.com/brodkapiotr
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=GOoaHHEAAAAJ
+  link: https://scholar.google.com/citations?user=T7v65jEAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/kajdanowicz
+  link: https://github.com/pbrodka
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6474-0089
+- icon: home
+  icon_pack: fab
+  link: http://piotrbrodka.pl/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +85,5 @@ email: ""
 user_groups:
 - Faculty
 ---
-Short description in third person.
+Piotr Bródka is associate professor of Computer Science at the Department of Computational Intelligence, Wroclaw University of Science and Technology. He has received MSc in Computer Science from the Wroclaw University of Technology, Poland in 2008 and PhD in 2012 (He also received MSc in Computer Science from Blekinge Institute of Technology, Sweedne). He was a visiting scholar at Stanford University in 2013 and visiting professor at University of Technology Sydney in 2018 and 2019. He has authored over 70 scholarly and research articles on a variety of areas related to complex networks, focusing on the extraction and dynamics of communities within social networks, spreading processes in complex networks and the analysis of multilayer network. In 2015 he has received 3 years scholarship for the best young scientists awarded by Polish Ministry of Science and Higher Education. He is certified project manager (IPMA D and IPMA D RD). You can meet him at most of top conferences on social networks and social informatics e.g.: NetSci, NetSciX, IC2S2, ASONAM, SocInfo etc.
+
