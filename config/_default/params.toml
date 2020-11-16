@@ -16,7 +16,7 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false 
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Katedra Inteligencji Obliczeniowej"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Katedra Inteligencji Obliczeniowej na Politechnice Wrocławskiej prowadzi badania z zakresu sztucznej inteligencji oraz kształci wybitnych specjalistów z tej dziedziny."
 
 ############################
 ## Site Features
@@ -75,7 +75,7 @@ privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/pwr-ai/kio-website", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "kio_logo_with_text_pl.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "kiopwr"
@@ -153,7 +153,7 @@ main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = false 
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
