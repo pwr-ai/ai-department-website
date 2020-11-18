@@ -43,6 +43,6 @@ url_project: http://scikit.ml/
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: scikit-multilearn
+projects: ["scikit-multilearn"]
 
 ---
