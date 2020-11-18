@@ -1,5 +1,5 @@
 ---
-title: " scikit-multilearn: A Python library for Multi-Label Classification "
+title: "scikit-multilearn: A Python library for Multi-Label Classification"
 authors:
 - szymanski
 - kajdanowicz
