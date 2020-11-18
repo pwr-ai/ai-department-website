@@ -18,12 +18,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Social Network Anaysis and .....
+bio: Piotr Szymański is an assistant Professor at the Department of Computational Intelligence at the 
+     Wrocław University of Science and Technology and a Machine Learning Engineer at Avaya. Professionally involved 
+     in data analysis, statistical reasoning, geospatial data science, natural language processing, machine learning and 
+     artificial intelligence techniques.
 
 interests:
-- urban data 
-- interest 2
-- interest 3
+- urban data science 
+- spoken language understanding
+- natural language processing
+- representation learning
 
 education:
   courses:
