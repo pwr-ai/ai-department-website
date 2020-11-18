@@ -1,6 +1,6 @@
 ---
-title: 'scikit-multilearn - A Python library for Multi-Label Classification'
-summary: 'scikit-multilearn is a Python library for performing multi-label classification compatible with the scikit-learn ecosystem.'
+title: 'scikit-multilearn'
+summary: 'A Python library for performing multi-label classification compatible with the scikit-learn ecosystem.'
 tags:
 - "multi-label classification"
 - "python library"
