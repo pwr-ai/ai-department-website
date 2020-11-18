@@ -12,4 +12,8 @@ image:
   caption: "Photo by jesse orrico on Unsplash"
   focal_point: "Smart"
 
+authors:
+- szymanski
+- kajdanowicz
+
 ---
