@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MsC in Computer Science
+  - course: MsC in Computer Science TEST
     institution: Wroclaw University of Science and Technology
     year: 2008
 
