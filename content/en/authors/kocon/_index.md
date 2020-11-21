@@ -19,8 +19,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Jan Kocoń is an assistant professor at the Department of Computational Intelligence at the 
-     Wrocław University of Science and Technology. Areas of interest: natural language processing, machine learning and 
-     artificial intelligence. Main projects: [http://clarin-pl.eu](CLARIN-PL), [https://sentimenti.com](Sentimenti), [http://plwordnet.pwr.edu.pl/wordnet](plWordNet).
+     Wrocław University of Science and Technology. Areas of interest: natural language processing, 
+     machine learning and artificial intelligence.
 
 interests:
 - natural language processing
