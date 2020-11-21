@@ -66,4 +66,4 @@ user_groups:
 - PhD Students
 
 ---
-Krzysztof Rajda is a PhD Student of Computer Science at Department of Computational Intelligence, Wroclaw University of Science and Technology. He has received MSc in Computer Science from the Wroclaw University of Technology, Poland in 2016. During PhD Studies he's working on multidocument descriptive summarization. Professionaly, Head of R&D at Internet Monitoring company Brand24. Passionate of social media mentions analysis, folk metal and (currently) babysitting a child.  
+Krzysztof Rajda is a PhD Student of Computer Science at Department of Computational Intelligence, Wroclaw University of Science and Technology. He has received MSc in Computer Science from the Wroclaw University of Technology, Poland in 2016. During PhD Studies he's working on multidocument descriptive summarization. Professionaly, Head of R&D at Internet Monitoring company [Brand24](https://brand24.com). Passionate of social media mentions analysis, folk metal and (currently) babysitting a child.  
