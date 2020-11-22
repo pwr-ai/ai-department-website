@@ -21,9 +21,12 @@ organizations:
 bio: My research interests include Social Network Anaysis and .....
 
 interests:
-- interest 1
-- interest 2
-- interest 3
+- Network science
+- Complex networks
+- Spreading processes
+- Blockchain
+- Machine learning
+- Temporal networks
 
 education:
   courses:
@@ -74,4 +77,4 @@ email: ""
 user_groups:
 - Faculty
 ---
-Short description in third person.
+Radosław Michalski is an Assistant Professor with the Department of Computational Intelligence, Wrocław University of Science and Technology, Wrocław, Poland. His research interests include network science, complex (especially temporal) networks, and spreading processes on top of these. In many cases he uses machine learning to reveal specific phenomena in networks. Recently, he also started to investigate another complex network - based on blockchain, where entities are linked by transactions. He has coauthored over 50 publications in these areas, fifteen of which were published in influential journals. For more details, visit his [personal webpage](https://www.ii.pwr.edu.pl/~michalski).
