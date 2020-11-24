@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am PhD student exploring end-to-end deep learning solutions for emotion recognition from 
-physiological and behavioral signals. 
+bio: I am PhD student exploring end-to-end deep learning solutions for emotion recognition from physiological and behavioural signals. 
 
 interests:
 - Deep learning
