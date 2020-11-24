@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Łukasz Augustyniak
+title: Marcin Wątroba
 
 # Username (this should match the folder name)
 authors:
-- augustyniak
+- watroba
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,18 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP.
+bio: My research interests include Natural Language processing, Deep Learning and Social Media Analysis.
 
 interests:
-- interest 1
-- interest 2
-- interest 3
+- Social Media Analysis
+- Natural Language processing
+- Deep Learning
 
 education:
   courses:
   - course: MsC in Computer Science
     institution: Wroclaw University of Science and Technology
-    year: 2008
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,15 +39,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/markowanga
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "marcin.watroba@pwr.edu.pl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -63,4 +57,4 @@ user_groups:
 - PhD Students
 - Project's staff
 ---
-Short description in third person.
+Marcin Wątroba is a junior researcher at the Wrocław University of Technology. In 2020, he completed his master's degree. He has several years of experience as a software developer. Mainly interested in social media processing and natural language processing. Privately, he likes traveling, playing tennis and skiing.
