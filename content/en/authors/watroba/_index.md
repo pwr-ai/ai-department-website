@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Project's staff
 
 # Organizations/Affiliations
 organizations:
@@ -53,8 +53,7 @@ email: "marcin.watroba@pwr.edu.pl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- PhD Students
-- Project's staff
+# user_groups:
+# - Project's staff
 ---
 Marcin Wątroba is a junior researcher at the Wrocław University of Technology. In 2020, he completed his master's degree. He has several years of experience as a software developer. Mainly interested in social media processing and natural language processing. Privately, he likes traveling, playing tennis and skiing.
