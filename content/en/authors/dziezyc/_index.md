@@ -33,7 +33,7 @@ education:
     institution: Wroclaw University of Science and Technology
     year: 2018
   - course: Eng in Computer Science
-    institution: Wroclaw University
+    institution: University of Wroclaw
     year: 2016
 
 # Social/Academic Networking
@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: mailto:maciej.dziezyc@pwr.edu.pl
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=kcZvQwgAAAAJ
@@ -74,4 +74,9 @@ user_groups:
 - PhD Students
 - Project's staff
 ---
-Short description in third person.
+He is a PhD student at Department of Computational Intelligence, a computer scientists at
+[https://emotions.pwr.edu.pl/](CLARIN-PL) project, and a member of the [https://emotions.pwr.edu.pl](Emognition) research
+group. His research is concentrated on end-to-end deep learning solutions
+for emotion recognition from physiological and behavioural signals. At the beginning of his PhD he was
+researching the effectiveness of polish and european science which resulted in solutions which are being commercialized.
+He has also almost 3 years of experience as a software engineer.
