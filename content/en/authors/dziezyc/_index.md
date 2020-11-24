@@ -75,7 +75,7 @@ user_groups:
 - Project's staff
 ---
 He is a PhD student at Department of Computational Intelligence, a computer scientists at
-[https://emotions.pwr.edu.pl/](CLARIN-PL) project, and a member of the [https://emotions.pwr.edu.pl](Emognition) research
+[CLARIN-PL](http://clarin-pl.eu) project, and a member of the [Emognition](https://emotions.pwr.edu.pl) research
 group. His research is concentrated on end-to-end deep learning solutions
 for emotion recognition from physiological and behavioural signals. At the beginning of his PhD he was
 researching the effectiveness of polish and european science which resulted in solutions which are being commercialized.
