@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Study Artificial Intelligence @ WrUT"
+title = "Study Artificial Intelligence @ WrUST"
 
 hero_media = "logo_PWr_szare_ang_poziom_bez_tla.png"
 
