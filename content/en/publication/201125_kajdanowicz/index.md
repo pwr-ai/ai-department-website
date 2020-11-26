@@ -64,3 +64,4 @@ projects: [2017_kajdanowicz_ncn_sonata]
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+{{< youtube s1p4UHtUG3g >}}

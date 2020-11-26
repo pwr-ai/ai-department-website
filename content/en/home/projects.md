@@ -30,10 +30,6 @@ subtitle = ""
     tag = "Deep Learning"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
-
-  [[content.filter_button]]
     name = "Networks"
     tag = "Complex Networks"
 

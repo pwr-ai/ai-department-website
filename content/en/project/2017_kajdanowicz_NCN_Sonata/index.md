@@ -5,7 +5,7 @@ tags:
 - National Centre of Science
 - Complex Networks
 - Machine Learning
-- Deep Learning
+- Deep Learning 
 - Representation Learning
 date: "2017-02-01T00:00:00Z"
 
