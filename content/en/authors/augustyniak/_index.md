@@ -41,7 +41,7 @@ education:
     - course: Master in Law
       institution: Wroclaw University
       year: 2014
-    - course: MsC in Computer Science
+    - course: MsC in Computer Science (excellent grade)
       institution: Wroclaw University of Science and Technology
       year: 2013
 
