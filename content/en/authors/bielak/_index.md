@@ -18,18 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP.
+bio: My research interests include graph representation learning and large scale data processing.
 
 interests:
-- interest 1
-- interest 2
-- interest 3
+- representation learning
+- unsupervised graph embedding
+- large scale data processing
 
 education:
   courses:
-  - course: MsC in Computer Science
+  - course: MsC in Computer Science (with honours)
     institution: Wroclaw University of Science and Technology
-    year: 2008
+    year: 2019
+  - course: B.Eng. in Computer Science (with honours)
+    institution: Wroclaw University of Science and Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,15 +42,15 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/
+  link: https://scholar.google.ca/citations?user=Z0lkjn0AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/pbielak
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/pbielak
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +65,4 @@ email: ""
 user_groups:
 - PhD Students
 ---
-Short description in third person.
+Piotr is a passionate programmer and machine learning enthusiast. He started his research in ML while working at Intel on reinforcement learning methods for large scale cluster schedulers. The work was then continued during his Bachelor thesis (RL-based Linux process scheduler). Later, during Masters studies, he explored the area of representation learning on graphs. His Master thesis “Incremental learning techniques for embedding of temporal graphs” won the first prize in the national competition for the “Best Master thesis in Computer Science”. Currently, he focuses on unsupervised representation learning methods for attributed graphs. He is also interested in large scale data processing methods.
