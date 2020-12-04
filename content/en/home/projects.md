@@ -33,7 +33,7 @@ subtitle = ""
     name = "Networks"
     tag = "Complex Networks"
 
- [[content.filter_button]]
+  [[content.filter_button]]
     name = "NLP"
     tag = "Natural Language Processing"
 
