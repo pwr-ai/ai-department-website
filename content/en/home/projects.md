@@ -33,6 +33,10 @@ subtitle = ""
     name = "Networks"
     tag = "Complex Networks"
 
+ [[content.filter_button]]
+    name = "NLP"
+    tag = "Natural Language Processing"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
