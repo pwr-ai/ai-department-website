@@ -30,7 +30,7 @@ education:
   - course: MSc in Computer Science
     institution: Wroclaw University of Science and Technology
     year: 1991
-- course: PhD in Computer Science
+  - course: PhD in Computer Science
     institution: Wroclaw University of Science and Technology
     year: 2000
 
