@@ -18,18 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP.
+bio: My research interests include Social Network Anaysis.
 
 interests:
-- interest 1
-- interest 2
-- interest 3
+- Network Science
+- Social Networks Analysis
+- Machine Learning
 
 education:
   courses:
   - course: MsC in Computer Science
     institution: Wroclaw University of Science and Technology
-    year: 2008
+    year: 2019
+  - course: B.Eng. in Computer Science
+    institution: Silesian University of Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,15 +42,18 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:mateusz.nurek@pwr.edu.pl
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Mateusz_Nurek
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1863-9331
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/
+  link: https://scholar.google.com/citations?user=H8fsOdkAAAAJ&hl=pl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,6 +67,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
-- Faculty
 ---
-Short description in third person.
+Mateusz Nurek is a PhD student at the Department of Computational Intelligence, Wroclaw University of Science and Technology. His research area includes network science and machine learning. Mateusz is primarily interested in using computational intelligence to study social aspects; therefore, his current research focuses on problems such as the classification of human relationships or predicting personality traits based on communication patterns.
