@@ -1,15 +1,10 @@
-<style>
-  .element {
-    all: unset;
-  }
-</style>
-<div id="webchat" class="element"></div>
+<div id="webchat"></div>
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
 <script>
   WebChat.default.init({
     selector: "#webchat",
     customData: {"language": "pl"},
-    socketUrl: "https://widget-base-polish-chatbot.dialog-research.ml",
+    socketUrl: "http://base-polish-chatbot.dialog-research.ml",
     socketPath: "/socket.io",
     title: "Title",
     subtitle: "Subtitle"
