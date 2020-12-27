@@ -9,3 +9,6 @@ heading_font = "Proxima Nova"
 body_font = "Proxima Nova"
 nav_font = "Proxima Nova"
 mono_font = "Proxima Nova"
+
+font_size = 16
+font_size_small = 14
