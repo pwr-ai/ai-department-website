@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Full Professor
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,16 @@ organizations:
 bio: My research interests include Social Network Anaysis and .....
 
 interests:
-- interest 1
-- interest 2
-- interest 3
 
 education:
   courses:
-  - course: MsC in Computer Science
+  - course: MSc in Computer Science
     institution: Wroclaw University of Science and Technology
-    year: 2008
+    year: 1991
+  - course: PhD in Computer Science
+    institution: Wroclaw University of Science and Technology
+    year: 2000
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,20 +40,20 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/tkajdanowicz
+# - icon: twitter
+#  icon_pack: fab
+#  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=GOoaHHEAAAAJ
+  link: https://scholar.google.pl/citations?user=cxLgNccAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/kajdanowicz
+  link: https://github.com/kazienko
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+link: https://kazienko.eu/sites/default/files/Kazienko%20CV%20PL.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
