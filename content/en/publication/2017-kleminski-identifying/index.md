@@ -19,7 +19,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: In *Lecture Notes in Social Networks*
 
-abstract: In this paper, we investigate an interpretable definition of promising research topics, complemented with a predictive model. Two methods of topic identification were employed: bag of words and the LDA model, with reflection on their applicability and usefulness in the task of retrieving topics on a set of publication titles. Next, different criteria for promising topic were analyzed with respect to their usefulness and shortcomings. For verification purposes, the DBLP data set, an online open reference of computer science publications, is used. The presented results reveal potential of the proposed method for identification of promising research topics.
+abstract: "In this paper, we investigate an interpretable definition of promising research topics, complemented with a predictive model. Two methods of topic identification were employed: bag of words and the LDA model, with reflection on their applicability and usefulness in the task of retrieving topics on a set of publication titles. Next, different criteria for promising topic were analyzed with respect to their usefulness and shortcomings. For verification purposes, the DBLP data set, an online open reference of computer science publications, is used. The presented results reveal potential of the proposed method for identification of promising research topics."
 
 tags:
 - Research prediction
