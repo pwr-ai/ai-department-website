@@ -17,7 +17,6 @@ organizations:
 - name: Department of Computational Intelligence, Wroclaw University of Science and Technology
   url: ""
 
-# TODO: refill
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
