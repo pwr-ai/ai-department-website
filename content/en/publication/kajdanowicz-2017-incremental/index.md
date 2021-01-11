@@ -2,7 +2,7 @@
 title: "Incremental Learning in Dynamic Networks for Node Classification"
 authors:
 - kajdanowicz
-- tagowski
+- Kamil Tagowski
 - falkiewicz
 - kazienko
 date: "2017-09-11T00:00:00Z"
