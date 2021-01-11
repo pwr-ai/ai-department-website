@@ -18,9 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Social Network Anaysis and .....
+bio: My research interests include Social Network Anaysis and .
 
 interests:
+- Social Media Analytics
+- Machine Learning
+- Emotional Intelligence
 
 education:
   courses:
@@ -31,7 +34,6 @@ education:
     institution: Wroclaw University of Science and Technology
     year: 2000
 
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -40,9 +42,6 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#  icon_pack: fab
-#  link: 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.pl/citations?user=cxLgNccAAAAJ
@@ -63,4 +62,13 @@ email: ""
 user_groups:
 - Faculty
 ---
-Short description in third person.
+Przemysław Kazienko, Ph.D. is a full professor and leader of ENGINE - the European Centre for Data Science at 
+Wroclaw University of Science and Technology, Poland. 
+He authored over 200 research papers, including 38 in journals with impact factor related to social network analysis, 
+complex networks, spread of influence, collective classification, machine learning, affective computing, sentiment 
+analysis, DSS in medicine, finances and telecommunication, knowledge management, collaborative systems, data mining, 
+recommender systems, information retrieval, and data security. He gave 15 keynote/invited talks for international 
+audience and served and served as a co-chair of over 20 international scientific conferences and workshops. 
+He is an IEEE Senior Member, a member of the Editorial Board of Social Network Analysis and Mining, Social Informatics, 
+International Journal of Knowledge Society Research, International Journal of Human Capital. He is also on the board of 
+Network Science Society.
