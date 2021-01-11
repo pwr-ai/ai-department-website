@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I started my adventure with computers at the age of 2. My scientific expertise is broad and covers multiple machine learning topics like natural language processing, computer vision. Besides working for numerous startups as a full-stack developer, I was also a software architect at Nokia. I am passionate about software craftsmanship and modern approaches for software development. In free time, beside learning esoteric programming languages, I study state of the art machine learning methods and practice software development.
+bio: Data Scientist, Machine Learning Engineer, Software Architect, Entrepreneur
 
 interests:
 - distributed processing
@@ -63,4 +63,5 @@ user_groups:
 - PhD Students
 - Project's staff
 ---
-Roman Bartusiak is a Ph.D. candidate in Computer Science at the Wroclaw University of Science and Technology, Poland. He received MSc in Computer Science from the Wroclaw University of Technology in 2015 with distinction. Roman works in the area of distributed procesing of networked data with main interest in graph partitioning. He is also a successful entrepreneur.
+Roman Bartusiak started his adventure with computers at the age of 2. His scientific expertise is broad and covers multiple machine learning topics like natural language processing, computer vision. Besides working for numerous startups as a full-stack developer, he was also a software architect at Nokia. He is a passionate about software craftsmanship and modern approaches for software development. In free time, beside learning esoteric programming languages, He study state of the art machine learning methods and practice software development.
+Roman Bartusiak is a Ph.D. candidate in Computer Science at the Wroclaw University of Science and Technology, Poland. He received MSc in Computer Science from the Wroclaw University of Technology in 2015 with distinction. Roman works in the area of distributed procesing of networked data with main interest in graph partitioning. 
