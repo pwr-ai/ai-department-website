@@ -30,8 +30,13 @@ subtitle = ""
     tag = "Deep Learning"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Networks"
+    tag = "Complex Networks"
+
+  [[content.filter_button]]
+    name = "NLP"
+    tag = "Natural Language Processing"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
