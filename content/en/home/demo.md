@@ -30,4 +30,4 @@ design:
 
 You are invited to join our new **AI M.Sc. programme** for B.Eng. graduates.
 
-[View more](https://studiujdatascience.pl) about the programme.
+[View more](https://studiuj.ai) about the programme.
