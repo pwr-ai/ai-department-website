@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: Department of Computational Intelligence, Wroclaw University of Science and Technology
-  url: "http://piotrbrodka.pl/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Complex Network Anaysis and Spreading Proceses in Complex Networks
@@ -41,10 +41,10 @@ education:
   - course: Postgraduate studies in Research Project Management and Commercialization of research results
     institution: Wroclaw University of Science and Technology, International Project Management Association
     year: 2012
-  - course: MsC in Computer Science 
+  - course: MSc in Computer Science 
     institution: Blekinge Institute of Technology
     year: 2012
-  - course: MsC in Computer Science (with  honours)
+  - course: MSc in Computer Science (with  honours)
     institution: Wroclaw University of Science and Technology
     year: 2008
 
@@ -56,9 +56,15 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/brodkapiotr
+- icon: home
+  icon_pack: fas
+  link: http://piotrbrodka.pl/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:piotr.brodka@pwr.edu.pl
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Piotr_Brodka2
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=T7v65jEAAAAJ&hl
@@ -68,9 +74,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6474-0089
-- icon: home
+- icon: twitter
   icon_pack: fab
-  link: http://piotrbrodka.pl/
+  link: https://twitter.com/brodkapiotr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
