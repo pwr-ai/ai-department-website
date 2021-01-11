@@ -18,15 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: During my study in the Institute of Engineering Cybernetics, Wroclaw University of Technology, together with my husband, under the supervision of Prof. Roman Galar, we have initiated project on evolutionary processes modelling. That project ended by defending the Master Thesis focused on application of so called preadaptive principle to model evolutionary processes. In the following years we have continued our interest in evolutionary modelling. I have focused my work on application of evolutionary ideas to forecasting substitution processes (Witold was working on methodological problems of computer simulation of evolutionary processes and investigating the role of diversity in accelerating evolutionary change). After finishing PhD theses we worked in Future Research Centre in Wroclaw, and in 1980s we were engaged in forecasting of socio-economic development. In the 1989 I have started to work in Department of Computer Science where I worked on specialised operators of evolutionary algorithms and Artificial Intelligence. 
+bio: During my study at the Institute of Engineering Cybernetics, Wroclaw University of Technology, together with my husband, under the supervision of Prof. Roman Galar, we have initiated project on evolutionary processes modelling. That project ended by defending the Master Thesis focused on the application of so-called preadaptive principle to model evolutionary processes. Next years, as an assistant professor in the Futures Research Center, I have been engaged in research on forecasting methods and evolutionary computation at the beginning of my scientific career. In 1998 I moved to the Institute of Informatics, where currently I am a full professor. Over time, my interest has widened to nature-inspired methods, data mining, knowledge-based systems, and intelligent image analysis methods. Generating a hierarchy of groups of objects is the newest area of researches.
+ 
 
 interests:
 - Evolutionary Algorithms
-- Stock Market Analysis
+- Machine learning
+- Generating a hierarchy of groups of objects
 
 
 education:
   courses:
+  - course: Professor – scientific title in Poland, in Computer Science (Artificial Intelligence)
+    institution: Systems Research Institute Polish Academy of Sciences
+    year: 2009
+    
   - course: Habilitation in Computer Sciencec
     institution: Faculty of Electronics, Wroclaw University of Science and Technology
     year: 2000
