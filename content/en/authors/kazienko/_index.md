@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include Social Network Anaysis and .
 
 interests:
-- interest 1
-- interest 2
-- interest 3
+- Social Media Analytics
+- Machine Learning
+- Emotional Intelligence
 
 education:
   courses:
