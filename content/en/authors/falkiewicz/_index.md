@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:maciej.falkiewicz@pwr.edu.pl".
+  link: "mailto:maciej.falkiewicz@pwr.edu.pl"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Maciej35880983
