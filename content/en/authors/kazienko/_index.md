@@ -34,7 +34,6 @@ education:
     institution: Wroclaw University of Science and Technology
     year: 2000
 
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -43,9 +42,6 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#  icon_pack: fab
-#  link: 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.pl/citations?user=cxLgNccAAAAJ

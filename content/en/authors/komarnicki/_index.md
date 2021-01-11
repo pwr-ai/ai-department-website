@@ -21,9 +21,7 @@ organizations:
 bio: My research interests include NLP.
 
 interests:
-- interest 1
-- interest 2
-- interest 3
+
 
 education:
   courses:
