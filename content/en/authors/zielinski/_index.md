@@ -18,18 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP.
+bio: My research interests include computer vision and visual representation learning using deep convolutional neural networks.
 
 interests:
-- interest 1
-- interest 2
-- interest 3
+- deep learning
+- computer vision
+- representation learning
+- deep reinforcement learning
 
 education:
   courses:
-  - course: MsC in Computer Science
+  - course: MsC in Computer Science (with honours)
     institution: Wroclaw University of Science and Technology
-    year: 2008
+    year: 2019
+  - course: B.Eng. in Control Engineering and Robotics (with honours)
+    institution: Wroclaw University of Science and Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,15 +43,18 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:p.zielinski@pwr.edu.pl
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/
+  link: https://scholar.google.com/citations?user=aISibuAAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/piotlinski
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +69,4 @@ email: ""
 user_groups:
 - PhD Students
 ---
-Short description in third person.
+Piotr is a PhD Student at the Department of Computational Intelligence. His great passion for computer vision started during his Bachelor studies when he was working on autonomous vehicles navigation in "Robocik" Science Club. In his Master thesis, he explored deep reinforcement learning methods' application for autonomous underwater vehicle navigation. His research work was awarded the third prize in national Data Science Masters competition, organized by the Faculty of Mathematics and Information Science at Warsaw University of Technology. Currently, his research interests turned towards representation learning in computer vision, especially multi-object representation learning using deep convolutional neural networks.
