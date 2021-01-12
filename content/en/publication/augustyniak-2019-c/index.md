@@ -48,4 +48,5 @@ abstract:
   source highly affect aspect detection performance. An additional CRF layer consistently
   improves the results as well.
 publication: "*arXiv*"
+url_pdf: https://arxiv.org/pdf/1909.04917
 ---

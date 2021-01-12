@@ -50,5 +50,5 @@ publication_types:
 abstract: ''
 publication: '*Interspeech 2019, 20th Annual Conference of the International Speech
   Communication Association, Graz, Austria, 15-19 September 2019*'
-url_pdf: http://www.isca-speech.org/archive/Interspeech_2019/abstracts/8002.html
+url_pdf: https://arxiv.org/pdf/1909.02851
 ---

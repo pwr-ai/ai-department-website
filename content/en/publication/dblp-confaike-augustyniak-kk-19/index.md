@@ -32,9 +32,9 @@ projects: []
 publishDate: '2020-12-05T17:11:46.376704Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'We proposed a new accurate aspect extraction method that makes use of both word and character-based embeddings. We have conducted experiments of various models of aspect extraction using LSTM and BiLSTM including CRF enhancement on five different pre-trained word embeddings extended with character embeddings. The results revealed that BiLSTM outperforms regular LSTM, but also word embedding coverage in train and test sets profoundly impacted aspect detection performance. Moreover, the additional CRF layer consistently improves the results across different models and text embeddings. Summing up, we obtained state-of-the-art F-score results for SemEval Restaurants (85%) and Laptops (80%).'
 publication: '*2nd IEEE International Conference on Artificial Intelligence and Knowledge
   Engineering, AIKE 2019, Sardinia, Italy, June 3-5, 2019*'
-url_pdf: https://doi.org/10.1109/AIKE.2019.00016
+url_pdf: https://arxiv.org/pdf/1909.01276
 doi: 10.1109/AIKE.2019.00016
 ---

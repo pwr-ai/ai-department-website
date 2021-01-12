@@ -55,4 +55,5 @@ abstract: In this paper we present a method for correcting automatic speech reco
   method with a baseline, which uses only the most likely transcript hypothesis (best
   path), and find an increase in the total number of recognized intents by 25.1%.
 publication: '*arXiv*'
+url_pdf: https://arxiv.org/pdf/1908.07888
 ---
