@@ -49,7 +49,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GOoaHHEAAAAJ
-- icon: facebook-official
+- icon: facebook
   icon_pack: fab
   link: https://fb.com/niedakh
 - icon: github
