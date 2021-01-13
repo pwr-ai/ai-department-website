@@ -27,9 +27,10 @@ Our work connects to fields like linear algebra, distributed systems, deep learn
 - machine learning methods,
 - computational linguistics,
 - machine vision,
-- medical diagnosis and decision support systems
-- computational problems solving
-- soft and heuristic calculation methods
+- affective computing,
+- medical diagnosis and decision support systems,
+- computational problems solving,
+- soft and heuristic calculation methods,
 - evolutionary algorithms
 
 <!--
