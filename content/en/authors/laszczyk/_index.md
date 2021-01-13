@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Maciej Laszczyk
-
+weight: 131
 # Username (this should match the folder name)
 authors:
 - laszczyk

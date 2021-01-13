@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Kamil Tagowski
-
+weight: 241
 # Username (this should match the folder name)
 authors:
 - tagowski
