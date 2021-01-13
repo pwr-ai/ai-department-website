@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jan Jakubik
-
+weight: 61
 # Username (this should match the folder name)
 authors:
 - jakubik

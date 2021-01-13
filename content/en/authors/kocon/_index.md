@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jan Kocoń
-
+weight: 101
 # Username (this should match the folder name)
 authors:
 - kocon
