@@ -59,7 +59,7 @@ social:
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: home
-  icon_pack: fab
+  icon_pack: fas
   link: http://piotrbrodka.pl/
 - icon: envelope
   icon_pack: fas
@@ -72,9 +72,6 @@ social:
   link: https://orcid.org/0000-0002-6474-0089
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=T7v65jEAAAAJ&hl
-- icon: google-scholar
-  icon_pack: fab
   link: https://scholar.google.com/citations?user=T7v65jEAAAAJ&hl
 - icon: github
   icon_pack: fab
