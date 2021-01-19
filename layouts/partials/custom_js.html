@@ -3,10 +3,12 @@
 <script>
   WebChat.default.init({
     selector: "#webchat",
+    initPayload: "/greeting",
     customData: {"language": "pl"},
-    socketUrl: "https://base-polish-chatbot.dialog-research.ml",
+    socketUrl: "https://botfront-rasa.dialog-research.ml/",
     socketPath: "/socket.io",
     title: "Katedra Inteligencji Obliczeniowej",
-    subtitle: "Chatbot"
+    subtitle: "Chatbot",
+    params: {"storage": "session"}
   })
 </script>
