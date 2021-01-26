@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Wiktor Walentynowicz
+weight: 1
 
 # Username (this should match the folder name)
 authors:
@@ -31,7 +32,7 @@ education:
     - course: PhD in Computer Science, Artificial Intelligence
       institution: Wroclaw University of Science and Technology
       year:
-   - course: MsC in Computer Science
+    - course: MsC in Computer Science
       institution: Wroclaw University of Science and Technology
       year: 2018
 
@@ -45,7 +46,7 @@ social:
   #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.pl/citations?hl=pl&user=GMmMbaoAAAAJ
+    link: https://scholar.google.pl/citations?hl=en&user=GMmMbaoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/wiktorwalentynowicz
@@ -72,4 +73,3 @@ user_groups:
 ---
 
 Wiktor is a NLP Researcher with 4+ years of experience in various NLP projects (morphological tagging, twitter texts analysis, keyphrases extraction and more). At the moment he is finishing a PhD in Natural Language Processing, related to influence of normalisation noisy texts on syntactic analysis tasks at the Wroclaw University of Science and Technology, Poland. He works in projects of research group G4.19 at Wroclaw University of Science and Technology and takes part in other commercial projects conductet by Wroclaw University of Science and Technology.
-
