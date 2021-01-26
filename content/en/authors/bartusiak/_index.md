@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Roman Bartusiak
-
+weight: 11
 # Username (this should match the folder name)
 authors:
 - bartusiak

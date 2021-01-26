@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Mateusz Nurek
-
+weight: 161
 # Username (this should match the folder name)
 authors:
 - nurek

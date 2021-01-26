@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Rajmund Klemiński
-
+weight: 91
 # Username (this should match the folder name)
 authors:
 - kleminski

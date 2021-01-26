@@ -21,15 +21,17 @@ design:
 
 ---
 
-Our work connects to fields like linear algebra, distributed systems, deep learning, and even neuroscience. Some of our ongoing projects include:
+Our work connects to fields like linear algebra, distributed systems, deep learning, complex networks, and even neuroscience. Some of our ongoing projects include:
 
-- intelligent data analysis methods,
-- machine learning methods,
+- intelligent data analysis,
+- machine learning,
 - computational linguistics,
+- computational network science,
 - machine vision,
-- medical diagnosis and decision support systems
-- computational problems solving
-- soft and heuristic calculation methods
+- affective computing,
+- medical diagnosis and decision support systems,
+- computational problems solving,
+- soft and heuristic calculation methods,
 - evolutionary algorithms
 
 <!--

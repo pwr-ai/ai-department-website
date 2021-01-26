@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Maciej Dzieżyc
-
+weight: 41
 # Username (this should match the folder name)
 authors:
 - dziezyc

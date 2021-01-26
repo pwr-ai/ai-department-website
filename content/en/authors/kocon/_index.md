@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jan Kocoń
-
+weight: 101
 # Username (this should match the folder name)
 authors:
 - kocon
@@ -50,7 +50,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pmQHb5IAAAAJ
-- icon: facebook-official
+- icon: facebook
   icon_pack: fab
   link: https://fb.com/jan.kocon.1988
 - icon: github

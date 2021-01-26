@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Michał Przewoźniczek
-
+weight: 181
 # Username (this should match the folder name)
 authors:
 - przewozniczek
@@ -36,15 +36,15 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/tkajdanowicz
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/tkajdanowicz
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=GOoaHHEAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kajdanowicz
+  link: https://scholar.google.pl/citations?user=dq_pnzwAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/kajdanowicz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
