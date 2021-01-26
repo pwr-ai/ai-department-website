@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Computer Science, Artificial Intelligence
       institution: Wroclaw University of Science and Technology
-      year:
+      year: 2022
     - course: MsC in Computer Science
       institution: Wroclaw University of Science and Technology
       year: 2018
