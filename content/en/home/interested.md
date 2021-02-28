@@ -21,5 +21,5 @@ design:
 
 ---
 
-If you’re interested in joining our group, send an email with your interests and CV to kio-opportunities@pwr.edu.pl
+If you’re interested in joining our group, send an email with your interests and CV to kio@pwr.edu.pl
 
