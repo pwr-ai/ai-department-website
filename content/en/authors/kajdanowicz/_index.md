@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor, head of faculty's doctoral studies, deputy head
+role: Associate Professor, head of faculty's doctoral studies, head of department
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Representation Learning, Relational Inference and NLP.
+bio: My research interests include representation learning, social network and media analysis, and machine learning.
 
 interests:
 - Social Network and Media Analysis
@@ -78,7 +78,7 @@ email: ""
 user_groups:
 - Faculty
 ---
-Professor Tomasz Kajdanowicz gradscience  with  honours, both from Wroclaw University of Technology, Poland, in 2008 and 2012, respectively. HisPhD was given The Best Polish Ph.D. Diserta-tion Award in 2012/2013, European Associationfor Artificial Intelligence – Polish Chapter, 2014.Recently,  he  serves  as  an  assistant  professorof Wroclaw University of Science and Technol-ogy at the Faculty of Computational Intelligence,Poland.  He  was  a  co-chair  and  a  member  oforganizing  committee  of  multiple  workshops  and  summer  schools  onData  Science,  Artificial  Intelligence,  Machine  Learning  and  Big  Data.He regularly serves as a member of international programme commit-tees and the reviewer for prestige international journals and scientificconferences in the area of Social Networks, Machine Learning, PrallelComputing,  Data  and  Knowledge  Management,  Big  Data,  IntelligentSystems. He has authored over 70 research articles in a variety of areasrelated  to  Ensemble  Classification,  Collective  Classification,  MachineLearning, Social Network Analysis, Collaborative Systems, Data Mining,Recommender  Systems  and  Big  Data,  including  principals  of  Map-Reduce and Bulk Synchronous Parallel paradigms. He also initializedand  led  7  research  projects  in  cooperation  with  commercial  compa-nies,  including  large  international  corporations.  Tomasz  holds  ITIL  v3Foundation Certificate and multiple professional certificates from projectmanagement and data science.
+Professor Tomasz Kajdanowicz graduated with MSc and Ph.D. with honors, both from Wroclaw University of Technology, Poland, in 2008 and 2012, respectively. His Ph.D. was given The Best Polish Ph.D. Dissertation Award in 2012/2013, European Association for Artificial Intelligence – Polish Chapter, 2014. Recently, he serves as an associate professor of Wroclaw University of Science and Technology at the Faculty of Computer Science, Poland. He leads the Department of Computational Intelligence. He was a co-chair and a member of the organizing committee of multiple workshops and summer schools on Data Science, Artificial Intelligence, Machine Learning, and Big Data. He regularly serves as a member of international program committees and a reviewer for prestigious international journals and scientific conferences in the area of Social Networks, Machine Learning, PrallelComputing, Data and Knowledge Management, Big Data, IntelligentSystems. He has authored over 100 research articles in a variety of areas related to Ensemble Classification, Collective Classification, MachineLearning, Social Network Analysis, Collaborative Systems, Data Mining, Recommender Systems, Representation Learning, and Big Data. He also initialized and led 10 research projects in cooperation with commercial companies, including large international corporations. Tomasz holds ITIL v3Foundation Certificate and multiple professional certificates from project management and data science.
  
-He conducted  research  at  Stanford  University, USA, University of Sydney, Australia University of Notre Dame, USA and Technical  University  of  Dortmund.  His  research  interests  includes  social network analysis, machine learning and representation learning.
+He conducted  research  at  Stanford  University, USA, University of Sydney, Australia University of Notre Dame, USA and Technical  University  of  Dortmund.  His  research interests include social network and media analysis, machine learning and representation learning.
 
