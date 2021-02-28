@@ -21,9 +21,13 @@ organizations:
 bio: My research interests include Social Network Anaysis and .
 
 interests:
-- Social Media Analytics
 - Machine Learning
-- Emotional Intelligence
+- Affective Computing
+- Emotion Recognition
+- Wearables
+- Personalization
+- Natural Language Processing
+- Social Media Analytics
 
 education:
   courses:
@@ -33,6 +37,12 @@ education:
   - course: PhD in Computer Science
     institution: Wroclaw University of Science and Technology
     year: 2000
+  - course: D.Sc. in Computer Science
+    institution: Silesian University of Technology
+    year: 2009
+  - course: Full professorship (Life-time, conferred by The President of Republic of Poland)
+    institution: Wroclaw University of Science and Technology
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,6 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/kazienko
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://kazienko.eu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
