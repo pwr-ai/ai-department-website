@@ -69,5 +69,5 @@ email: ""
 user_groups:
 - Faculty
 ---
-In recent years, Stanisław have been learning how to apply research in business and life. He has spent 15+ months at the top world’s universities: Cambridge (UK), Oxford (UK), NTU (Singapore), UC Davis (USA), UTS (AU). He is also a CEO of Mobilited.com and a member of the Top 500 Innovators association. He believes that persistence and clear communication are equally important to the excellence of your research.
+In recent years, Stanisław has been learning how to apply research in business and life. He has spent 15+ months at the top world’s universities: Cambridge (UK), Oxford (UK), NTU (Singapore), UC Davis (USA), UTS (AU). He is also a CEO of Mobilited.com and a member of the Top 500 Innovators association. He believes that persistence and clear communication are equally important to the excellence of your research.
 Stanisław's research interests include emotion recognition from physiological data, mobile and wearable technologies, group evolution analysis and prediction, social network analysis. He has authored over 20 research articles.
