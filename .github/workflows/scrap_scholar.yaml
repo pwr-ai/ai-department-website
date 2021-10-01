@@ -16,8 +16,8 @@ jobs:
           python-version: ${{ matrix.python-version }}
       - name: Install dependencies
         run: |
-          apt-get update
-          apt-get install -y tor
+          sudo apt-get update
+          sudo apt-get install -y tor
           pip install -r .github/publication_processor/requirements.txt
       - name: Scrap
         run: python -u .github/publication_processor/main.py
