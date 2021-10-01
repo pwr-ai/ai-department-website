@@ -45,7 +45,7 @@ education:
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.pl/citations?user=dq_pnzwAAAAJ&hl=en
+    link: https://scholar.google.pl/citations?user=bmJw3Z0AAAAJ&hl=en
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Lukasz_Augustyniak
