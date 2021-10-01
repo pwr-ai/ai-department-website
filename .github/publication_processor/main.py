@@ -91,6 +91,8 @@ if __name__ == '__main__':
     pg = ProxyGenerator()
     pg.Tor_Internal(tor_cmd="tor")
     scholarly.use_proxy(pg)
+    os.mkdir('scholar_user')
+    os.mkdir('scholar_publication')
 
     get_users()
     print(get_pubs_names())
