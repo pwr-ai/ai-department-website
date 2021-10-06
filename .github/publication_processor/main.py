@@ -15,6 +15,19 @@ scholarly.scholarly.set_logger(True)
 
 from scholarly import scholarly, ProxyGenerator
 
+_PUBS_LIST_PATH = 'pubs.json'
+
+
+def get_all_pubs_scrapped() -> List[str]:
+    if os.path.isfile(_PUBS_LIST_PATH):
+        with open(_PUBS_LIST_PATH, 'r') as f:
+            return json.loads(f.read())
+    else:
+        return []
+
+
+def mark_pub_as_downloaded(publication_name: str) -> None:
+
 
 def get_user_id_from_scholar_link(link: str) -> Optional[str]:
     query_dict = {
@@ -100,13 +113,18 @@ def scrap_publication(publication_name: str):
         f.write(publication_json)
 
 
+def create_dir_soft(dir_path: str):
+    if not os.path.isdir(dir_path):
+        os.mkdir(dir_path)
+
+
 def main_scrap() -> bool:
     try:
         pg = ProxyGenerator()
         pg.Tor_Internal(tor_cmd="tor")
         scholarly.use_proxy(pg)
-        os.mkdir('scholar_user')
-        os.mkdir('scholar_publication')
+        create_dir_soft('scholar_user')
+        create_dir_soft('scholar_publication')
 
         get_users()
         print(get_pubs_names())
