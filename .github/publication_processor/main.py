@@ -115,7 +115,7 @@ def main_scrap() -> bool:
         return True
     except Exception as e:
         print(e)
-        traceback.print_tb(e)
+        traceback.print_exc()
     return False
 
 
