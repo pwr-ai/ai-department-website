@@ -27,7 +27,7 @@ def get_all_pubs_scrapped() -> List[str]:
 
 
 def mark_pub_as_downloaded(publication_name: str) -> None:
-
+    pass
 
 def get_user_id_from_scholar_link(link: str) -> Optional[str]:
     query_dict = {
