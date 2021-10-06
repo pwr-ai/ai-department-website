@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import traceback
 import uuid
 from pathlib import Path
 from typing import List, Optional, Dict
@@ -57,12 +58,15 @@ def find_all_scholar_ids(path_root: str) -> Dict[str, str]:
 
 
 def scrap_user(username: str, user_id: str):
+    user_filename = f'scholar_user/{username}.json'
+    if os.path.isfile(user_filename):
+        print(f'username {username} already scrapped')
+        return
     print(f'start scrap {username} {user_id}')
     author = scholarly.search_author_id(user_id, filled=True)
-    scholarly.pprint(author)
     user_json = json.dumps(author)
     print(user_json)
-    with open(f'scholar_user/{username}.json', 'w') as f:
+    with open(user_filename, 'w') as f:
         f.write(user_json)
 
 
@@ -81,7 +85,6 @@ def get_pubs_names() -> List[str]:
         path = f'scholar_user/{it}'
         with open(path, 'r') as f:
             for pub in json.loads(f.read())['publications']:
-                # print(path, pub['bib']['title'])
                 to_return.append(pub['bib']['title'])
     return to_return
 
@@ -90,18 +93,37 @@ def scrap_publication(publication_name: str):
     print('scrap publication', publication_name)
     pub = scholarly.search_single_pub(publication_name, filled=True)
     scholarly.pprint(pub)
+    publication_json = json.dumps(pub)
+    bib_title = json.loads(publication_json)['bib']['title']
+    print(bib_title, publication_name == bib_title)
     with open(f'scholar_publication/{uuid.uuid4()}.json', 'w') as f:
-        f.write(json.dumps(pub))
+        f.write(publication_json)
+
+
+def main_scrap() -> bool:
+    try:
+        pg = ProxyGenerator()
+        pg.Tor_Internal(tor_cmd="tor")
+        scholarly.use_proxy(pg)
+        os.mkdir('scholar_user')
+        os.mkdir('scholar_publication')
+
+        get_users()
+        print(get_pubs_names())
+        for pub_name in get_pubs_names():
+            scrap_publication(pub_name)
+        return True
+    except Exception as e:
+        print(e)
+        traceback.print_tb(e)
+    return False
 
 
 if __name__ == '__main__':
-    pg = ProxyGenerator()
-    pg.Tor_Internal(tor_cmd="tor")
-    scholarly.use_proxy(pg)
-    os.mkdir('scholar_user')
-    os.mkdir('scholar_publication')
-
-    get_users()
-    print(get_pubs_names())
-    for pub_name in get_pubs_names():
-        scrap_publication(pub_name)
+    try_count = 5
+    is_success = False
+    while not is_success and try_count > 0:
+        try_count = try_count - 1
+        main_scrap()
+        scholarly.use_proxy(None)
+        os.system('sudo killall -9 tor')
