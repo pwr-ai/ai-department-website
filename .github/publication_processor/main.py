@@ -116,6 +116,7 @@ def scrap_publication(publication_name: str):
         print(bib_title, publication_name == bib_title)
         with open(f'scholar_publication/{uuid.uuid4()}.json', 'w') as f:
             f.write(publication_json)
+        mark_pub_as_downloaded(publication_name)
     else:
         print('already scraped publication', publication_name)
 
