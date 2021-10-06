@@ -1,9 +1,16 @@
 import json
+import logging
 import os
 import uuid
 from pathlib import Path
 from typing import List, Optional, Dict
 from urllib.parse import urlparse
+
+logging.basicConfig()
+
+import scholarly
+
+scholarly.scholarly.set_logger(True)
 
 from scholarly import scholarly, ProxyGenerator
 
