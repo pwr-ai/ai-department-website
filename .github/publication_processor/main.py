@@ -127,6 +127,7 @@ def create_dir_soft(dir_path: str):
 
 def main_scrap() -> bool:
     try:
+        print("start new main")
         pg = ProxyGenerator()
         pg.Tor_Internal(tor_cmd="tor")
         scholarly.use_proxy(pg)
@@ -145,7 +146,7 @@ def main_scrap() -> bool:
 
 
 if __name__ == '__main__':
-    try_count = 5
+    try_count = 1000
     is_success = False
     while not is_success and try_count > 0:
         try_count = try_count - 1
