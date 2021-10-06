@@ -27,7 +27,11 @@ def get_all_pubs_scrapped() -> List[str]:
 
 
 def mark_pub_as_downloaded(publication_name: str) -> None:
-    pass
+    all_pubs = get_all_pubs_scrapped()
+    all_pubs.append(publication_name)
+    with open(_PUBS_LIST_PATH, 'w') as f:
+        f.write(json.dumps(all_pubs))
+
 
 def get_user_id_from_scholar_link(link: str) -> Optional[str]:
     query_dict = {
@@ -103,14 +107,17 @@ def get_pubs_names() -> List[str]:
 
 
 def scrap_publication(publication_name: str):
-    print('scrap publication', publication_name)
-    pub = scholarly.search_single_pub(publication_name, filled=True)
-    scholarly.pprint(pub)
-    publication_json = json.dumps(pub)
-    bib_title = json.loads(publication_json)['bib']['title']
-    print(bib_title, publication_name == bib_title)
-    with open(f'scholar_publication/{uuid.uuid4()}.json', 'w') as f:
-        f.write(publication_json)
+    if publication_name not in get_all_pubs_scrapped():
+        print('scrap publication', publication_name)
+        pub = scholarly.search_single_pub(publication_name, filled=True)
+        scholarly.pprint(pub)
+        publication_json = json.dumps(pub)
+        bib_title = json.loads(publication_json)['bib']['title']
+        print(bib_title, publication_name == bib_title)
+        with open(f'scholar_publication/{uuid.uuid4()}.json', 'w') as f:
+            f.write(publication_json)
+    else:
+        print('already scraped publication', publication_name)
 
 
 def create_dir_soft(dir_path: str):
