@@ -15,7 +15,7 @@ scholarly.scholarly.set_logger(True)
 
 from scholarly import scholarly, ProxyGenerator
 
-_PUBS_LIST_PATH = 'pubs.json'
+_PUBS_LIST_PATH = 'scholar/pubs.json'
 
 
 def get_all_pubs_scrapped() -> List[str]:
@@ -75,7 +75,7 @@ def find_all_scholar_ids(path_root: str) -> Dict[str, str]:
 
 
 def scrap_user(username: str, user_id: str):
-    user_filename = f'scholar_user/{username}.json'
+    user_filename = f'scholar/scholar_user/{username}.json'
     if os.path.isfile(user_filename):
         print(f'username {username} already scrapped')
         return
@@ -89,7 +89,7 @@ def scrap_user(username: str, user_id: str):
 
 def get_users():
     scholar_ids = find_all_scholar_ids('.')
-    with open('scholar_ids.json', 'w') as f:
+    with open('scholar/scholar_ids.json', 'w') as f:
         f.write(json.dumps(scholar_ids))
     print(scholar_ids)
     for user in scholar_ids:
@@ -98,8 +98,8 @@ def get_users():
 
 def get_pubs_names() -> List[str]:
     to_return = []
-    for it in os.listdir('scholar_user'):
-        path = f'scholar_user/{it}'
+    for it in os.listdir('scholar/scholar_user'):
+        path = f'scholar/scholar_user/{it}'
         with open(path, 'r') as f:
             for pub in json.loads(f.read())['publications']:
                 to_return.append(pub['bib']['title'])
@@ -114,7 +114,7 @@ def scrap_publication(publication_name: str):
         publication_json = json.dumps(pub)
         bib_title = json.loads(publication_json)['bib']['title']
         print(bib_title, publication_name == bib_title)
-        with open(f'scholar_publication/{uuid.uuid4()}.json', 'w') as f:
+        with open(f'scholar/scholar_publication/{uuid.uuid4()}.json', 'w') as f:
             f.write(publication_json)
         mark_pub_as_downloaded(publication_name)
     else:
@@ -132,8 +132,9 @@ def main_scrap() -> bool:
         pg = ProxyGenerator()
         pg.Tor_Internal(tor_cmd="tor")
         scholarly.use_proxy(pg)
-        create_dir_soft('scholar_user')
-        create_dir_soft('scholar_publication')
+        create_dir_soft('scholar')
+        create_dir_soft('scholar/scholar_user')
+        create_dir_soft('scholar/scholar_publication')
 
         get_users()
         print(get_pubs_names())
