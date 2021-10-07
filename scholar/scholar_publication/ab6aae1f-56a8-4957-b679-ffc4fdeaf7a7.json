@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Social capital in online social networks", "author": "Kazienko, Przemys{\\l}aw and Musia{\\l}, Katarzyna", "pub_year": "2006", "venue": "International Conference on Knowledge-Based and \u2026", "abstract": "The problem of social capital in context of the online social networks is presented in the paper. Not only the specific elements, which characterize the single person and influence the individual's social capital like static social capital, activity component, and social position", "organization": "Springer", "pages": "417--424", "booktitle": "International Conference on Knowledge-Based and Intelligent Information and Engineering Systems", "pub_type": "inproceedings", "bib_id": "kazienko2006social"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/11893004_54", "author_id": ["cxLgNccAAAAJ", "Dw5QS9wAAAAJ"], "num_citations": 49, "url_scholarbib": "/scholar?q=info:tqmb3sx23uIJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2Bcapital%2Bin%2Bonline%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=tqmb3sx23uIJ&ei=uzBeYeGDNIu4mAGqg5LoDg", "citedby_url": "/scholar?cites=16347634319681628598&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:tqmb3sx23uIJ:scholar.google.com/&scioq=Social+capital+in+online+social+networks&hl=en&as_sdt=0,5", "eprint_url": "http://156.17.10.1/~kazienko/pub/2006/KazienkoKES06.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Social capital in online social networks",
+    "author": "Kazienko, Przemys{\\l}aw and Musia{\\l}, Katarzyna",
+    "pub_year": "2006",
+    "venue": "International Conference on Knowledge-Based and \u2026",
+    "abstract": "The problem of social capital in context of the online social networks is presented in the paper. Not only the specific elements, which characterize the single person and influence the individual's social capital like static social capital, activity component, and social position",
+    "organization": "Springer",
+    "pages": "417--424",
+    "booktitle": "International Conference on Knowledge-Based and Intelligent Information and Engineering Systems",
+    "pub_type": "inproceedings",
+    "bib_id": "kazienko2006social"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/11893004_54",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "Dw5QS9wAAAAJ"
+  ],
+  "num_citations": 49,
+  "url_scholarbib": "/scholar?q=info:tqmb3sx23uIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2Bcapital%2Bin%2Bonline%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=tqmb3sx23uIJ&ei=uzBeYeGDNIu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=16347634319681628598&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:tqmb3sx23uIJ:scholar.google.com/&scioq=Social+capital+in+online+social+networks&hl=en&as_sdt=0,5",
+  "eprint_url": "http://156.17.10.1/~kazienko/pub/2006/KazienkoKES06.pdf"
+}

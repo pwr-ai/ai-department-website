@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "On utilising social networks to discover representatives of human communities", "author": "Kazienko, Przemys{\\l}aw and Musial, Katarzyna", "pub_year": "2007", "venue": "International Journal of Intelligent \u2026", "abstract": "Virtual human communities that exist on the internet reflect social relationships between people. There is a great need to find important individuals, a set of people who would represent larger communities. These people would be able to perform specific tasks or could become a target group for marketing or advertising purposes. The new research on representative discovery for human communities is presented in this paper. Its main goal is to improve the process of target group selection by adding the social elements derived from", "publisher": "Inderscience Publishers", "pages": "293--310", "number": "3-4", "volume": "1", "journal": "International Journal of Intelligent Information and Database Systems", "pub_type": "article", "bib_id": "kazienko2007utilising"}, "filled": true, "gsrank": 1, "pub_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJIIDS.2007.016682", "author_id": ["cxLgNccAAAAJ", "Dw5QS9wAAAAJ"], "num_citations": 26, "url_scholarbib": "/scholar?q=info:A_tyRPkx9oUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Butilising%2Bsocial%2Bnetworks%2Bto%2Bdiscover%2Brepresentatives%2Bof%2Bhuman%2Bcommunities%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=A_tyRPkx9oUJ&ei=ZjNeYfHyMIfBmQGX-6OoBg", "citedby_url": "/scholar?cites=9652957797980240643&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:A_tyRPkx9oUJ:scholar.google.com/&scioq=On+utilising+social+networks+to+discover+representatives+of+human+communities&hl=en&as_sdt=0,5", "eprint_url": "http://www.kkio.pwr.wroc.pl/~kazienko/pub/2007/KazMusIJIIDS07.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "On utilising social networks to discover representatives of human communities",
+    "author": "Kazienko, Przemys{\\l}aw and Musial, Katarzyna",
+    "pub_year": "2007",
+    "venue": "International Journal of Intelligent \u2026",
+    "abstract": "Virtual human communities that exist on the internet reflect social relationships between people. There is a great need to find important individuals, a set of people who would represent larger communities. These people would be able to perform specific tasks or could become a target group for marketing or advertising purposes. The new research on representative discovery for human communities is presented in this paper. Its main goal is to improve the process of target group selection by adding the social elements derived from",
+    "publisher": "Inderscience Publishers",
+    "pages": "293--310",
+    "number": "3-4",
+    "volume": "1",
+    "journal": "International Journal of Intelligent Information and Database Systems",
+    "pub_type": "article",
+    "bib_id": "kazienko2007utilising"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJIIDS.2007.016682",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "Dw5QS9wAAAAJ"
+  ],
+  "num_citations": 26,
+  "url_scholarbib": "/scholar?q=info:A_tyRPkx9oUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Butilising%2Bsocial%2Bnetworks%2Bto%2Bdiscover%2Brepresentatives%2Bof%2Bhuman%2Bcommunities%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=A_tyRPkx9oUJ&ei=ZjNeYfHyMIfBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=9652957797980240643&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:A_tyRPkx9oUJ:scholar.google.com/&scioq=On+utilising+social+networks+to+discover+representatives+of+human+communities&hl=en&as_sdt=0,5",
+  "eprint_url": "http://www.kkio.pwr.wroc.pl/~kazienko/pub/2007/KazMusIJIIDS07.pdf"
+}

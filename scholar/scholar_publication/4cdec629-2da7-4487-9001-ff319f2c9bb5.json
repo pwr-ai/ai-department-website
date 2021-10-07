@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Hybrid differential evolution and greedy algorithm (DEGR) for solving multi-skill resource-constrained project scheduling problem", "author": "Myszkowski, Pawe{\\l} B and Olech, {\\L}ukasz P and Laszczyk, Maciej and Skowro{\\'n}ski, Marek E", "pub_year": "2018", "venue": "Applied Soft \u2026", "abstract": "Paper presents a hybrid Differential Evolution and Greedy Algorithm (DEGR) applied to solve Multi-Skill Resource-Constrained Project Scheduling Problem. The specialized indirect representation and transformation of solution space from discrete (typical for this problem), to continuous (typical for DE-approaches) are proposed and examined. Furthermore, Taguchi Design of Experiments method has been used to adjust parameters for investigated method to reduce the procedure of experiments. Finally, various", "publisher": "Elsevier", "pages": "1--14", "volume": "62", "journal": "Applied Soft Computing", "pub_type": "article", "bib_id": "myszkowski2018hybrid"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S1568494617306191", "author_id": ["63xKDRcAAAAJ", "rDrvnsQAAAAJ", ""], "num_citations": 52, "url_scholarbib": "/scholar?q=info:856BPJP11YsJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHybrid%2BDifferential%2BEvolution%2Band%2BGreedy%2BAlgorithm%2B(DEGR)%2Bfor%2BSolving%2BMulti%25E2%2580%2593Skill%2BResource%25E2%2580%2593Constrained%2BProject%2BScheduling%2BProblem%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=856BPJP11YsJ&ei=plVeYb7PD8KSy9YPu-2n8AU", "citedby_url": "/scholar?cites=10076229754035478259&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:856BPJP11YsJ:scholar.google.com/&scioq=Hybrid+Differential+Evolution+and+Greedy+Algorithm+(DEGR)+for+Solving+Multi%E2%80%93Skill+Resource%E2%80%93Constrained+Project+Scheduling+Problem&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Hybrid differential evolution and greedy algorithm (DEGR) for solving multi-skill resource-constrained project scheduling problem",
+    "author": "Myszkowski, Pawe{\\l} B and Olech, {\\L}ukasz P and Laszczyk, Maciej and Skowro{\\'n}ski, Marek E",
+    "pub_year": "2018",
+    "venue": "Applied Soft \u2026",
+    "abstract": "Paper presents a hybrid Differential Evolution and Greedy Algorithm (DEGR) applied to solve Multi-Skill Resource-Constrained Project Scheduling Problem. The specialized indirect representation and transformation of solution space from discrete (typical for this problem), to continuous (typical for DE-approaches) are proposed and examined. Furthermore, Taguchi Design of Experiments method has been used to adjust parameters for investigated method to reduce the procedure of experiments. Finally, various",
+    "publisher": "Elsevier",
+    "pages": "1--14",
+    "volume": "62",
+    "journal": "Applied Soft Computing",
+    "pub_type": "article",
+    "bib_id": "myszkowski2018hybrid"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S1568494617306191",
+  "author_id": [
+    "63xKDRcAAAAJ",
+    "rDrvnsQAAAAJ",
+    ""
+  ],
+  "num_citations": 52,
+  "url_scholarbib": "/scholar?q=info:856BPJP11YsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHybrid%2BDifferential%2BEvolution%2Band%2BGreedy%2BAlgorithm%2B(DEGR)%2Bfor%2BSolving%2BMulti%25E2%2580%2593Skill%2BResource%25E2%2580%2593Constrained%2BProject%2BScheduling%2BProblem%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=856BPJP11YsJ&ei=plVeYb7PD8KSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=10076229754035478259&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:856BPJP11YsJ:scholar.google.com/&scioq=Hybrid+Differential+Evolution+and+Greedy+Algorithm+(DEGR)+for+Solving+Multi%E2%80%93Skill+Resource%E2%80%93Constrained+Project+Scheduling+Problem&hl=en&as_sdt=0,5"
+}

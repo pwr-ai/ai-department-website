@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Survey of quality measures for multi-objective optimization: Construction of complementary set of multi-objective quality measures", "author": "Laszczyk, Maciej and Myszkowski, Pawe{\\l} B", "pub_year": "2019", "venue": "Swarm and Evolutionary Computation", "abstract": "In recent years interest in multiobjective optimization has flourished. Many Quality Measures (QM) have been developed to allow comparison of results gained by many methods. Unfortunately significant amount of various QMs along with the lack of imposed taxonomy have caused vagueness in the naming conventions. Hence a cohesive taxonomy is proposed that allows for classification of both existing and future QMs. This paper additionally provides thorough description of recently used QMs while attempting to unify the", "publisher": "Elsevier", "pages": "109--133", "volume": "48", "journal": "Swarm and Evolutionary Computation", "pub_type": "article", "bib_id": "laszczyk2019survey"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S2210650218305340", "author_id": ["", "63xKDRcAAAAJ"], "num_citations": 30, "url_scholarbib": "/scholar?q=info:-XZf53lNkWMJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSurvey%2Bof%2Bquality%2Bmeasures%2Bfor%2Bmulti-objective%2Boptimization:%2BConstruction%2Bof%2Bcomplementary%2Bset%2Bof%2Bmulti-objective%2Bquality%2Bmeasures%26hl%3Den%26as_sdt%3D0,14&citilm=1&json=&update_op=library_add&info=-XZf53lNkWMJ&ei=tVVeYa38HYu4mAGqg5LoDg", "citedby_url": "/scholar?cites=7174600867346085625&as_sdt=400005&sciodt=0,14&hl=en", "url_related_articles": "/scholar?q=related:-XZf53lNkWMJ:scholar.google.com/&scioq=Survey+of+quality+measures+for+multi-objective+optimization:+Construction+of+complementary+set+of+multi-objective+quality+measures&hl=en&as_sdt=0,14"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Survey of quality measures for multi-objective optimization: Construction of complementary set of multi-objective quality measures",
+    "author": "Laszczyk, Maciej and Myszkowski, Pawe{\\l} B",
+    "pub_year": "2019",
+    "venue": "Swarm and Evolutionary Computation",
+    "abstract": "In recent years interest in multiobjective optimization has flourished. Many Quality Measures (QM) have been developed to allow comparison of results gained by many methods. Unfortunately significant amount of various QMs along with the lack of imposed taxonomy have caused vagueness in the naming conventions. Hence a cohesive taxonomy is proposed that allows for classification of both existing and future QMs. This paper additionally provides thorough description of recently used QMs while attempting to unify the",
+    "publisher": "Elsevier",
+    "pages": "109--133",
+    "volume": "48",
+    "journal": "Swarm and Evolutionary Computation",
+    "pub_type": "article",
+    "bib_id": "laszczyk2019survey"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S2210650218305340",
+  "author_id": [
+    "",
+    "63xKDRcAAAAJ"
+  ],
+  "num_citations": 30,
+  "url_scholarbib": "/scholar?q=info:-XZf53lNkWMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSurvey%2Bof%2Bquality%2Bmeasures%2Bfor%2Bmulti-objective%2Boptimization:%2BConstruction%2Bof%2Bcomplementary%2Bset%2Bof%2Bmulti-objective%2Bquality%2Bmeasures%26hl%3Den%26as_sdt%3D0,14&citilm=1&json=&update_op=library_add&info=-XZf53lNkWMJ&ei=tVVeYa38HYu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=7174600867346085625&as_sdt=400005&sciodt=0,14&hl=en",
+  "url_related_articles": "/scholar?q=related:-XZf53lNkWMJ:scholar.google.com/&scioq=Survey+of+quality+measures+for+multi-objective+optimization:+Construction+of+complementary+set+of+multi-objective+quality+measures&hl=en&as_sdt=0,14"
+}

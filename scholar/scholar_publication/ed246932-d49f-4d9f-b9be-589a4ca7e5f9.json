@@ -1,1 +1,24 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A hybrid genetic algorithm for timetable problem, Mendel\u201903 proceedings", "author": "Myszkowski, PB", "venue": "NA", "pub_year": "2003", "pages": "102--107", "booktitle": "9th International Conference on Soft Computing-MENDEL, Brno (Czech Republic)", "pub_type": "inproceedings", "bib_id": "myszkowski2003hybrid"}, "filled": true, "gsrank": 1, "author_id": ["63xKDRcAAAAJ"], "num_citations": 2, "url_scholarbib": "/scholar?q=info:PIdFpgCtw7AJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bhybrid%2Bgenetic%2Balgorithm%2Bfor%2Btimetable%2Bproblem,%2BMendel%25E2%2580%259903%2Bproceedings%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=PIdFpgCtw7AJ&ei=XmBeYfK7D86_mQHMm7boDg", "citedby_url": "/scholar?cites=12737214389435074364&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:PIdFpgCtw7AJ:scholar.google.com/&scioq=A+hybrid+genetic+algorithm+for+timetable+problem,+Mendel%E2%80%9903+proceedings&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A hybrid genetic algorithm for timetable problem, Mendel\u201903 proceedings",
+    "author": "Myszkowski, PB",
+    "venue": "NA",
+    "pub_year": "2003",
+    "pages": "102--107",
+    "booktitle": "9th International Conference on Soft Computing-MENDEL, Brno (Czech Republic)",
+    "pub_type": "inproceedings",
+    "bib_id": "myszkowski2003hybrid"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "63xKDRcAAAAJ"
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:PIdFpgCtw7AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bhybrid%2Bgenetic%2Balgorithm%2Bfor%2Btimetable%2Bproblem,%2BMendel%25E2%2580%259903%2Bproceedings%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=PIdFpgCtw7AJ&ei=XmBeYfK7D86_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=12737214389435074364&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:PIdFpgCtw7AJ:scholar.google.com/&scioq=A+hybrid+genetic+algorithm+for+timetable+problem,+Mendel%E2%80%9903+proceedings&hl=en&as_sdt=0,5"
+}

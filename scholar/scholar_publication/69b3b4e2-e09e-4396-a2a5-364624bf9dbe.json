@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Network-Aware Customer Value in Telecommunication Social Networks.", "author": "Ruta, Dymitr and Kazienko, Przemyslaw and Br{\\'o}dka, Piotr", "pub_year": "2009", "venue": "IC-AI", "abstract": "The exponential growth of interactions in the networked society becomes gradually a reality. Social networks thrive and expand rapidly across many different interaction platforms delivered by modern telecommunication and internet services. The role and the impact of individuals on network interactions is increasingly important although rather complex and difficult to analyse in the realistic dynamic network environment. The goal of this paper is to look into the key structural changes in social networks: addition and removal of nodes and", "pages": "261--267", "booktitle": "IC-AI", "pub_type": "inproceedings", "bib_id": "ruta2009network"}, "filled": true, "gsrank": 1, "pub_url": "https://www.ii.pwr.edu.pl/~brodka/art/2009_ICAI.pdf", "author_id": ["", "cxLgNccAAAAJ", "T7v65jEAAAAJ"], "num_citations": 7, "url_scholarbib": "/scholar?q=info:NkZOG2-o_OwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNetwork-Aware%2BCustomer%2BValue%2Bin%2BTelecommunication%2BSocial%2BNetworks.%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=NkZOG2-o_OwJ&ei=kj9eYbPCHaPZsQKvo78o", "citedby_url": "/scholar?cites=17076709082235029046&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:NkZOG2-o_OwJ:scholar.google.com/&scioq=Network-Aware+Customer+Value+in+Telecommunication+Social+Networks.&hl=en&as_sdt=0,5", "eprint_url": "https://www.ii.pwr.edu.pl/~brodka/art/2009_ICAI.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Network-Aware Customer Value in Telecommunication Social Networks.",
+    "author": "Ruta, Dymitr and Kazienko, Przemyslaw and Br{\\'o}dka, Piotr",
+    "pub_year": "2009",
+    "venue": "IC-AI",
+    "abstract": "The exponential growth of interactions in the networked society becomes gradually a reality. Social networks thrive and expand rapidly across many different interaction platforms delivered by modern telecommunication and internet services. The role and the impact of individuals on network interactions is increasingly important although rather complex and difficult to analyse in the realistic dynamic network environment. The goal of this paper is to look into the key structural changes in social networks: addition and removal of nodes and",
+    "pages": "261--267",
+    "booktitle": "IC-AI",
+    "pub_type": "inproceedings",
+    "bib_id": "ruta2009network"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.ii.pwr.edu.pl/~brodka/art/2009_ICAI.pdf",
+  "author_id": [
+    "",
+    "cxLgNccAAAAJ",
+    "T7v65jEAAAAJ"
+  ],
+  "num_citations": 7,
+  "url_scholarbib": "/scholar?q=info:NkZOG2-o_OwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNetwork-Aware%2BCustomer%2BValue%2Bin%2BTelecommunication%2BSocial%2BNetworks.%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=NkZOG2-o_OwJ&ei=kj9eYbPCHaPZsQKvo78o",
+  "citedby_url": "/scholar?cites=17076709082235029046&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:NkZOG2-o_OwJ:scholar.google.com/&scioq=Network-Aware+Customer+Value+in+Telecommunication+Social+Networks.&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.ii.pwr.edu.pl/~brodka/art/2009_ICAI.pdf"
+}

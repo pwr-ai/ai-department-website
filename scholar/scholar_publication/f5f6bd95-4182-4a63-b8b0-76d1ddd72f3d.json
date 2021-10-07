@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Polish WordNet on a shoestring", "author": "Derwojedowa, Magdalena and Piasecki, Maciej and Szpakowicz, Stanis{\\l}aw and Zawis{\\l}awska, Magdalena", "pub_year": "2007", "venue": "\u2026 Conference of the \u2026", "abstract": "A project to create a Polish WordNet is under way. Rather than localise the English WordNet, we are constructing the lexical network from scratch, in two phases. First, we have established the linguistic principles, among them a list of semantic relations with detailed", "pages": "U13", "volume": "11", "booktitle": "Proceedings of Biannual Conference of the Society for Computational Linguistics and Language Technology, T{\\\"u}bingen, April", "pub_type": "inproceedings", "bib_id": "derwojedowa2007polish"}, "filled": true, "gsrank": 1, "pub_url": "https://www.academia.edu/download/51244704/Polish_WordNet_on_a_Shoestring_W_G._Rehm20170108-18433-125wyy2.pdf", "author_id": ["5RgcfHcAAAAJ", "nU_W9XwAAAAJ", ""], "num_citations": 26, "url_scholarbib": "/scholar?q=info:Tdj0p-xdvOQJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPolish%2BWordNet%2Bon%2Ba%2BShoestring%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Tdj0p-xdvOQJ&ei=GzBeYYzxCaPZsQKvo78o", "citedby_url": "/scholar?cites=16482152007280678989&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:Tdj0p-xdvOQJ:scholar.google.com/&scioq=Polish+WordNet+on+a+Shoestring&hl=en&as_sdt=0,5", "eprint_url": "https://www.academia.edu/download/51244704/Polish_WordNet_on_a_Shoestring_W_G._Rehm20170108-18433-125wyy2.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Polish WordNet on a shoestring",
+    "author": "Derwojedowa, Magdalena and Piasecki, Maciej and Szpakowicz, Stanis{\\l}aw and Zawis{\\l}awska, Magdalena",
+    "pub_year": "2007",
+    "venue": "\u2026 Conference of the \u2026",
+    "abstract": "A project to create a Polish WordNet is under way. Rather than localise the English WordNet, we are constructing the lexical network from scratch, in two phases. First, we have established the linguistic principles, among them a list of semantic relations with detailed",
+    "pages": "U13",
+    "volume": "11",
+    "booktitle": "Proceedings of Biannual Conference of the Society for Computational Linguistics and Language Technology, T{\\\"u}bingen, April",
+    "pub_type": "inproceedings",
+    "bib_id": "derwojedowa2007polish"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.academia.edu/download/51244704/Polish_WordNet_on_a_Shoestring_W_G._Rehm20170108-18433-125wyy2.pdf",
+  "author_id": [
+    "5RgcfHcAAAAJ",
+    "nU_W9XwAAAAJ",
+    ""
+  ],
+  "num_citations": 26,
+  "url_scholarbib": "/scholar?q=info:Tdj0p-xdvOQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPolish%2BWordNet%2Bon%2Ba%2BShoestring%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Tdj0p-xdvOQJ&ei=GzBeYYzxCaPZsQKvo78o",
+  "citedby_url": "/scholar?cites=16482152007280678989&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:Tdj0p-xdvOQJ:scholar.google.com/&scioq=Polish+WordNet+on+a+Shoestring&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.academia.edu/download/51244704/Polish_WordNet_on_a_Shoestring_W_G._Rehm20170108-18433-125wyy2.pdf"
+}

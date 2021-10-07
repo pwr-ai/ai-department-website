@@ -1,1 +1,33 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Finding influential users in social media using association rule learning", "author": "Erlandsson, Fredrik and Br{\\'o}dka, Piotr and Borg, Anton and Johnson, Henric", "pub_year": "2016", "venue": "Entropy", "abstract": "Influential users play an important role in online social networks since users tend to have an impact on one other. Therefore, the proposed work analyzes users and their behavior in order to identify influential users and predict user participation. Normally, the success of a social media site is dependent on the activity level of the participating users. For both online social networking sites and individual users, it is of interest to find out if a topic will be interesting or not. In this article, we propose association learning to detect relationships", "publisher": "Multidisciplinary Digital Publishing Institute", "pages": "164", "number": "5", "volume": "18", "journal": "Entropy", "pub_type": "article", "bib_id": "erlandsson2016finding"}, "filled": true, "gsrank": 1, "pub_url": "https://www.mdpi.com/138078", "author_id": ["vJjq9LwAAAAJ", "T7v65jEAAAAJ", "iVoVPqMAAAAJ", ""], "num_citations": 87, "url_scholarbib": "/scholar?q=info:iVQg7nYps54J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFinding%2Binfluential%2Busers%2Bin%2Bsocial%2Bmedia%2Busing%2Bassociation%2Brule%2Blearning%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=iVQg7nYps54J&ei=yUpeYZv8EM6_mQHMm7boDg", "citedby_url": "/scholar?cites=11435529469601797257&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:iVQg7nYps54J:scholar.google.com/&scioq=Finding+influential+users+in+social+media+using+association+rule+learning&hl=en&as_sdt=0,5", "eprint_url": "https://www.mdpi.com/1099-4300/18/5/164/pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Finding influential users in social media using association rule learning",
+    "author": "Erlandsson, Fredrik and Br{\\'o}dka, Piotr and Borg, Anton and Johnson, Henric",
+    "pub_year": "2016",
+    "venue": "Entropy",
+    "abstract": "Influential users play an important role in online social networks since users tend to have an impact on one other. Therefore, the proposed work analyzes users and their behavior in order to identify influential users and predict user participation. Normally, the success of a social media site is dependent on the activity level of the participating users. For both online social networking sites and individual users, it is of interest to find out if a topic will be interesting or not. In this article, we propose association learning to detect relationships",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "pages": "164",
+    "number": "5",
+    "volume": "18",
+    "journal": "Entropy",
+    "pub_type": "article",
+    "bib_id": "erlandsson2016finding"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.mdpi.com/138078",
+  "author_id": [
+    "vJjq9LwAAAAJ",
+    "T7v65jEAAAAJ",
+    "iVoVPqMAAAAJ",
+    ""
+  ],
+  "num_citations": 87,
+  "url_scholarbib": "/scholar?q=info:iVQg7nYps54J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFinding%2Binfluential%2Busers%2Bin%2Bsocial%2Bmedia%2Busing%2Bassociation%2Brule%2Blearning%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=iVQg7nYps54J&ei=yUpeYZv8EM6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=11435529469601797257&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:iVQg7nYps54J:scholar.google.com/&scioq=Finding+influential+users+in+social+media+using+association+rule+learning&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.mdpi.com/1099-4300/18/5/164/pdf"
+}

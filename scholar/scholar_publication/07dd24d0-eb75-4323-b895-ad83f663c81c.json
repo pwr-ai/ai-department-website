@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Three attempts in PolEval 2017 Sentiment Analysis Task", "author": "Ptaszynski, Michal and Masui, Fumito and Janz, Arkadiusz and Kocon, J and Piasecki, Maciej and Monika, ZZ and Dyba{\\l}a, Pawe{\\l}", "pub_year": "2017", "venue": "NA", "abstract": "test bags compared with training bags (bottom up approach) \u2013 assign a label of the most similar bag \u2022 zapach_noun(root): { godny_adj(child) : positive, polecenie_noun(child): neutral }, label: positive \u2022 zapach_noun(root): { wart_adj(child) : positive, polecenie_noun(child): neutral }, label: ??? * godny_adj\u201d maps to \u201egodny.3\u201d and \u201ewart_adj\u201d to \u201ewart.1\u201d - same synset! 8th Language & Technology Conference 29 Page 30. Jaccard Index on Big Bag of Features \u2022 Results  gives 73.6% 8th Language & Technology Conference 30 Page 31. Conclusions \u2022 PolEval 2017 Sentiment", "publisher": "LTC", "pub_type": "misc", "bib_id": "ptaszynski2017three"}, "filled": true, "gsrank": 1, "pub_url": "http://arakilab.media.eng.hokudai.ac.jp/~ptaszynski/data/2017_LTC-EDO-ptaszynski-edit.pdf", "author_id": ["LX94fE4AAAAJ", "", "UNlMg18AAAAJ", "pmQHb5IAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:-IvTs0dHSbwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThree%2Battempts%2Bin%2BPolEval%2B2017%2BSentiment%2BAnalysis%2BTask%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=-IvTs0dHSbwJ&ei=wKFdYc_8L42UmQGz6rqYBQ", "citedby_url": "/scholar?cites=13567453725715565560&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:-IvTs0dHSbwJ:scholar.google.com/&scioq=Three+attempts+in+PolEval+2017+Sentiment+Analysis+Task&hl=en&as_sdt=0,5", "eprint_url": "http://arakilab.media.eng.hokudai.ac.jp/~ptaszynski/data/2017_LTC-EDO-ptaszynski-edit.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Three attempts in PolEval 2017 Sentiment Analysis Task",
+    "author": "Ptaszynski, Michal and Masui, Fumito and Janz, Arkadiusz and Kocon, J and Piasecki, Maciej and Monika, ZZ and Dyba{\\l}a, Pawe{\\l}",
+    "pub_year": "2017",
+    "venue": "NA",
+    "abstract": "test bags compared with training bags (bottom up approach) \u2013 assign a label of the most similar bag \u2022 zapach_noun(root): { godny_adj(child) : positive, polecenie_noun(child): neutral }, label: positive \u2022 zapach_noun(root): { wart_adj(child) : positive, polecenie_noun(child): neutral }, label: ??? * godny_adj\u201d maps to \u201egodny.3\u201d and \u201ewart_adj\u201d to \u201ewart.1\u201d - same synset! 8th Language & Technology Conference 29 Page 30. Jaccard Index on Big Bag of Features \u2022 Results  gives 73.6% 8th Language & Technology Conference 30 Page 31. Conclusions \u2022 PolEval 2017 Sentiment",
+    "publisher": "LTC",
+    "pub_type": "misc",
+    "bib_id": "ptaszynski2017three"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://arakilab.media.eng.hokudai.ac.jp/~ptaszynski/data/2017_LTC-EDO-ptaszynski-edit.pdf",
+  "author_id": [
+    "LX94fE4AAAAJ",
+    "",
+    "UNlMg18AAAAJ",
+    "pmQHb5IAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:-IvTs0dHSbwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThree%2Battempts%2Bin%2BPolEval%2B2017%2BSentiment%2BAnalysis%2BTask%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=-IvTs0dHSbwJ&ei=wKFdYc_8L42UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=13567453725715565560&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:-IvTs0dHSbwJ:scholar.google.com/&scioq=Three+attempts+in+PolEval+2017+Sentiment+Analysis+Task&hl=en&as_sdt=0,5",
+  "eprint_url": "http://arakilab.media.eng.hokudai.ac.jp/~ptaszynski/data/2017_LTC-EDO-ptaszynski-edit.pdf"
+}

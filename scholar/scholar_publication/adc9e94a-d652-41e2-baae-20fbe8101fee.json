@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Personal bias in prediction of emotions elicited by textual opinions", "author": "Mi{\\l}kowski, Piotr and Gruza, Marcin and Kanclerz, Kamil and Kazienko, Przemyslaw and Grimling, Damian and Koco{\\'n}, Jan", "pub_year": "2021", "venue": "Proceedings of the \u2026", "abstract": "Analysis of emotions elicited by opinions, comments, or articles commonly exploits annotated corpora, in which the labels assigned to documents average the views of all annotators, or represent a majority decision. The models trained on such data are effective at identifying the general views of the population. However, their usefulness for predicting the emotions evoked by the textual content in a particular individual is limited. In this paper, we present a study performed on a dataset containing 7,000 opinions, each annotated by", "pages": "248--259", "booktitle": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop", "pub_type": "inproceedings", "bib_id": "milkowski2021personal"}, "filled": true, "gsrank": 1, "pub_url": "https://aclanthology.org/2021.acl-srw.26/", "author_id": ["", "", "eLnKhqkAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:zcadLX7GrwgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPersonal%2Bbias%2Bin%2Bprediction%2Bof%2Bemotions%2Belicited%2Bby%2Btextual%2Bopinions%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=zcadLX7GrwgJ&ei=66FdYbD7GY2UmQGz6rqYBQ", "eprint_url": "https://aclanthology.org/2021.acl-srw.26/"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Personal bias in prediction of emotions elicited by textual opinions",
+    "author": "Mi{\\l}kowski, Piotr and Gruza, Marcin and Kanclerz, Kamil and Kazienko, Przemyslaw and Grimling, Damian and Koco{\\'n}, Jan",
+    "pub_year": "2021",
+    "venue": "Proceedings of the \u2026",
+    "abstract": "Analysis of emotions elicited by opinions, comments, or articles commonly exploits annotated corpora, in which the labels assigned to documents average the views of all annotators, or represent a majority decision. The models trained on such data are effective at identifying the general views of the population. However, their usefulness for predicting the emotions evoked by the textual content in a particular individual is limited. In this paper, we present a study performed on a dataset containing 7,000 opinions, each annotated by",
+    "pages": "248--259",
+    "booktitle": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop",
+    "pub_type": "inproceedings",
+    "bib_id": "milkowski2021personal"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://aclanthology.org/2021.acl-srw.26/",
+  "author_id": [
+    "",
+    "",
+    "eLnKhqkAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:zcadLX7GrwgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPersonal%2Bbias%2Bin%2Bprediction%2Bof%2Bemotions%2Belicited%2Bby%2Btextual%2Bopinions%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=zcadLX7GrwgJ&ei=66FdYbD7GY2UmQGz6rqYBQ",
+  "eprint_url": "https://aclanthology.org/2021.acl-srw.26/"
+}

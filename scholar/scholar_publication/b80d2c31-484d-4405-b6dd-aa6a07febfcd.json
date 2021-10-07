@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Tracking group evolution in social networks", "author": "Br{\\'o}dka, Piotr and Saganowski, Stanis{\\l}aw and Kazienko, Przemys{\\l}aw", "pub_year": "2011", "venue": "International Conference on Social \u2026", "abstract": "Easy access and vast amount of data, especially from long period of time, allows to divide social network into timeframes and create temporal social network. Such network enables to analyse its dynamics. One aspect of the dynamics is analysis of social communities evolution, ie, how particular group changes over time. To do so, the complete group evolution history is needed. That is why in this paper the new method for group evolution extraction called GED is presented.", "organization": "Springer", "pages": "316--319", "booktitle": "International Conference on Social Informatics", "pub_type": "inproceedings", "bib_id": "brodka2011tracking"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-24704-0_38", "author_id": ["T7v65jEAAAAJ", "DVE_klAAAAAJ", "cxLgNccAAAAJ"], "num_citations": 6, "url_scholarbib": "/scholar?q=info:cCJ5PtDt0s8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTracking%2Bgroup%2Bevolution%2Bin%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=cCJ5PtDt0s8J&ei=hkBeYcanNou4mAGqg5LoDg", "citedby_url": "/scholar?cites=14975293189617427056&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:cCJ5PtDt0s8J:scholar.google.com/&scioq=Tracking+group+evolution+in+social+networks&hl=en&as_sdt=0,39", "eprint_url": "https://arxiv.org/pdf/1210.5240"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Tracking group evolution in social networks",
+    "author": "Br{\\'o}dka, Piotr and Saganowski, Stanis{\\l}aw and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2011",
+    "venue": "International Conference on Social \u2026",
+    "abstract": "Easy access and vast amount of data, especially from long period of time, allows to divide social network into timeframes and create temporal social network. Such network enables to analyse its dynamics. One aspect of the dynamics is analysis of social communities evolution, ie, how particular group changes over time. To do so, the complete group evolution history is needed. That is why in this paper the new method for group evolution extraction called GED is presented.",
+    "organization": "Springer",
+    "pages": "316--319",
+    "booktitle": "International Conference on Social Informatics",
+    "pub_type": "inproceedings",
+    "bib_id": "brodka2011tracking"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-24704-0_38",
+  "author_id": [
+    "T7v65jEAAAAJ",
+    "DVE_klAAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 6,
+  "url_scholarbib": "/scholar?q=info:cCJ5PtDt0s8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTracking%2Bgroup%2Bevolution%2Bin%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=cCJ5PtDt0s8J&ei=hkBeYcanNou4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=14975293189617427056&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:cCJ5PtDt0s8J:scholar.google.com/&scioq=Tracking+group+evolution+in+social+networks&hl=en&as_sdt=0,39",
+  "eprint_url": "https://arxiv.org/pdf/1210.5240"
+}

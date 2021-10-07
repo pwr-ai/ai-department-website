@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Open Stylometric System WebSty: Towards Multilingual and Multipurpose Workbench", "author": "Piasecki, Maciej and Walkowiak, Tomasz and Eder, Maciej", "pub_year": "2018", "venue": "Selected papers from the CLARIN \u2026", "abstract": "WebSty is an open, web-based stylometric system designed for Social Sciences & Humanities (SS&H) users. It was designed according to the CLARIN philosophy: no need for installation, minimised requirements on the users' technical skills and knowledge, and focus on SS&H tasks. In the paper, we present its latest extension with several visualisation methods, techniques for the extraction of characteristic features, and support for multilinguality.", "organization": "Link{\\\"o}ping University Electronic Press", "pages": "145--158", "number": "147", "booktitle": "Selected papers from the CLARIN Annual Conference 2017, Budapest, 18--20 September 2017", "pub_type": "inproceedings", "bib_id": "piasecki2018open"}, "filled": true, "gsrank": 1, "pub_url": "https://ep.liu.se/ecp/147/012/ecp17147012.pdf", "author_id": ["nU_W9XwAAAAJ", "_SNoS0gAAAAJ", "Kn3f_uIAAAAJ"], "num_citations": 2, "url_scholarbib": "/scholar?q=info:TV8dtNRlO9sJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOpen%2BStylometric%2BSystem%2BWebSty:%2BTowards%2BMultilingual%2Band%2BMultipurpose%2BWorkbench%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=TV8dtNRlO9sJ&ei=OcBdYb_eKcKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=15797332082161442637&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:TV8dtNRlO9sJ:scholar.google.com/&scioq=Open+Stylometric+System+WebSty:+Towards+Multilingual+and+Multipurpose+Workbench&hl=en&as_sdt=0,5", "eprint_url": "https://ep.liu.se/ecp/147/012/ecp17147012.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Open Stylometric System WebSty: Towards Multilingual and Multipurpose Workbench",
+    "author": "Piasecki, Maciej and Walkowiak, Tomasz and Eder, Maciej",
+    "pub_year": "2018",
+    "venue": "Selected papers from the CLARIN \u2026",
+    "abstract": "WebSty is an open, web-based stylometric system designed for Social Sciences & Humanities (SS&H) users. It was designed according to the CLARIN philosophy: no need for installation, minimised requirements on the users' technical skills and knowledge, and focus on SS&H tasks. In the paper, we present its latest extension with several visualisation methods, techniques for the extraction of characteristic features, and support for multilinguality.",
+    "organization": "Link{\\\"o}ping University Electronic Press",
+    "pages": "145--158",
+    "number": "147",
+    "booktitle": "Selected papers from the CLARIN Annual Conference 2017, Budapest, 18--20 September 2017",
+    "pub_type": "inproceedings",
+    "bib_id": "piasecki2018open"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ep.liu.se/ecp/147/012/ecp17147012.pdf",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    "_SNoS0gAAAAJ",
+    "Kn3f_uIAAAAJ"
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:TV8dtNRlO9sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOpen%2BStylometric%2BSystem%2BWebSty:%2BTowards%2BMultilingual%2Band%2BMultipurpose%2BWorkbench%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=TV8dtNRlO9sJ&ei=OcBdYb_eKcKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=15797332082161442637&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:TV8dtNRlO9sJ:scholar.google.com/&scioq=Open+Stylometric+System+WebSty:+Towards+Multilingual+and+Multipurpose+Workbench&hl=en&as_sdt=0,5",
+  "eprint_url": "https://ep.liu.se/ecp/147/012/ecp17147012.pdf"
+}

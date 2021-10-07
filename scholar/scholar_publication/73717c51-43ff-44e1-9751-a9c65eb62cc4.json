@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Recognition of named entities for polish-comparison of deep learning and conditional random fields approaches", "author": "Marcinczuk, Micha{\\l} and Kocon, Jan and Gawor, Micha{\\l}", "venue": "NA", "pub_year": "2018", "pages": "77--92", "booktitle": "Proceedings of the PolEval 2018 Workshop", "pub_type": "inproceedings", "bib_id": "marcinczuk2018recognition"}, "filled": true, "gsrank": 1, "author_id": ["aAk1SIsAAAAJ", "pmQHb5IAAAAJ", ""], "num_citations": 10, "url_scholarbib": "/scholar?q=info:xZLd2Me6oYUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRecognition%2Bof%2Bnamed%2Bentities%2Bfor%2Bpolish-comparison%2Bof%2Bdeep%2Blearning%2Band%2Bconditional%2Brandom%2Bfields%2Bapproaches%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=xZLd2Me6oYUJ&ei=JZ5dYcL_L4fBmQGX-6OoBg", "citedby_url": "/scholar?cites=9629182845794489029&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:xZLd2Me6oYUJ:scholar.google.com/&scioq=Recognition+of+named+entities+for+polish-comparison+of+deep+learning+and+conditional+random+fields+approaches&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Recognition of named entities for polish-comparison of deep learning and conditional random fields approaches",
+    "author": "Marcinczuk, Micha{\\l} and Kocon, Jan and Gawor, Micha{\\l}",
+    "venue": "NA",
+    "pub_year": "2018",
+    "pages": "77--92",
+    "booktitle": "Proceedings of the PolEval 2018 Workshop",
+    "pub_type": "inproceedings",
+    "bib_id": "marcinczuk2018recognition"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "aAk1SIsAAAAJ",
+    "pmQHb5IAAAAJ",
+    ""
+  ],
+  "num_citations": 10,
+  "url_scholarbib": "/scholar?q=info:xZLd2Me6oYUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRecognition%2Bof%2Bnamed%2Bentities%2Bfor%2Bpolish-comparison%2Bof%2Bdeep%2Blearning%2Band%2Bconditional%2Brandom%2Bfields%2Bapproaches%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=xZLd2Me6oYUJ&ei=JZ5dYcL_L4fBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=9629182845794489029&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:xZLd2Me6oYUJ:scholar.google.com/&scioq=Recognition+of+named+entities+for+polish-comparison+of+deep+learning+and+conditional+random+fields+approaches&hl=en&as_sdt=0,5"
+}

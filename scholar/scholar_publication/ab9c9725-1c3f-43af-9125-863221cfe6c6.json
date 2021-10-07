@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Ruled-based, interlingual motivated mapping of plwordnet onto sumo ontology", "author": "K{\\k{e}}dzia, Pawe{\\l} and Piasecki, Maciej", "pub_year": "2014", "venue": "\u2026 of the Ninth International Conference on \u2026", "abstract": "In this paper we study a rule-based approach to mapping plWordNet onto SUMO Upper Ontology on the basis of the already existing mappings: plWordNet--the Princeton WordNet--SUMO. Information acquired from the inter-lingual relations between plWordNet and Princeton WordNet and the relations between Princeton WordNet and SUMO ontology are used in the proposed rules. Several mapping rules together with the matching examples are presented. The automated mapping results were evaluated in two steps,(i) we automatically", "pages": "4351--4358", "booktitle": "Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)", "pub_type": "inproceedings", "bib_id": "kkedzia2014ruled"}, "filled": true, "gsrank": 1, "pub_url": "https://aclanthology.org/L14-1678/", "author_id": ["", "nU_W9XwAAAAJ"], "num_citations": 14, "url_scholarbib": "/scholar?q=info:MjeFir3KeeIJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRuled-based,%2Binterlingual%2Bmotivated%2Bmapping%2Bof%2Bplwordnet%2Bonto%2Bsumo%2Bontology%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=MjeFir3KeeIJ&ei=JrFdYaSFHM-TmwHPvZGABQ", "citedby_url": "/scholar?cites=16319297640175318834&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:MjeFir3KeeIJ:scholar.google.com/&scioq=Ruled-based,+interlingual+motivated+mapping+of+plwordnet+onto+sumo+ontology&hl=en&as_sdt=0,5", "eprint_url": "https://aclanthology.org/L14-1678/"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Ruled-based, interlingual motivated mapping of plwordnet onto sumo ontology",
+    "author": "K{\\k{e}}dzia, Pawe{\\l} and Piasecki, Maciej",
+    "pub_year": "2014",
+    "venue": "\u2026 of the Ninth International Conference on \u2026",
+    "abstract": "In this paper we study a rule-based approach to mapping plWordNet onto SUMO Upper Ontology on the basis of the already existing mappings: plWordNet--the Princeton WordNet--SUMO. Information acquired from the inter-lingual relations between plWordNet and Princeton WordNet and the relations between Princeton WordNet and SUMO ontology are used in the proposed rules. Several mapping rules together with the matching examples are presented. The automated mapping results were evaluated in two steps,(i) we automatically",
+    "pages": "4351--4358",
+    "booktitle": "Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)",
+    "pub_type": "inproceedings",
+    "bib_id": "kkedzia2014ruled"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://aclanthology.org/L14-1678/",
+  "author_id": [
+    "",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 14,
+  "url_scholarbib": "/scholar?q=info:MjeFir3KeeIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRuled-based,%2Binterlingual%2Bmotivated%2Bmapping%2Bof%2Bplwordnet%2Bonto%2Bsumo%2Bontology%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=MjeFir3KeeIJ&ei=JrFdYaSFHM-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=16319297640175318834&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:MjeFir3KeeIJ:scholar.google.com/&scioq=Ruled-based,+interlingual+motivated+mapping+of+plwordnet+onto+sumo+ontology&hl=en&as_sdt=0,5",
+  "eprint_url": "https://aclanthology.org/L14-1678/"
+}

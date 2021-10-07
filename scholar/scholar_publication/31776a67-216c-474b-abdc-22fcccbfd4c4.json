@@ -1,1 +1,25 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "SNA/SMA Track Program Committee", "author": "Alani, Harith and Boldt, Martin and Br{\\'o}dka, Piotr and Carlsson, Bengt and Colomo-Palacios, Ricardo and Coscia, Michele and Dustdar, Schahram and Fay, Damien and Ferrari, Elena and Frias-Martinez, Enrique and others", "venue": "NA", "pub_year": "NA", "abstract": "Harith Alani, KMi, The Open University, United Kingdom Martin Boldt, Blekinge Institute of  Technology, Sweden Piotr Br\u00f3dka, Wroclaw University of Technology, Poland Bengt  Carlsson, Blekinge Institute of Technology, Sweden Ricardo Colomo-Palacios, Universidad Carlos", "pub_type": "article", "bib_id": "alanisna"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/6984881/", "author_id": ["Wi4cDJIAAAAJ", "", "", "wgbqavwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:h8wr9gyaL_oJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSNA/SMA%2BTrack%2BProgram%2BCommittee%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=h8wr9gyaL_oJ&ei=HZ1dYcf6G6PZsQKvo78o"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "SNA/SMA Track Program Committee",
+    "author": "Alani, Harith and Boldt, Martin and Br{\\'o}dka, Piotr and Carlsson, Bengt and Colomo-Palacios, Ricardo and Coscia, Michele and Dustdar, Schahram and Fay, Damien and Ferrari, Elena and Frias-Martinez, Enrique and others",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "Harith Alani, KMi, The Open University, United Kingdom Martin Boldt, Blekinge Institute of  Technology, Sweden Piotr Br\u00f3dka, Wroclaw University of Technology, Poland Bengt  Carlsson, Blekinge Institute of Technology, Sweden Ricardo Colomo-Palacios, Universidad Carlos",
+    "pub_type": "article",
+    "bib_id": "alanisna"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/6984881/",
+  "author_id": [
+    "Wi4cDJIAAAAJ",
+    "",
+    "",
+    "wgbqavwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:h8wr9gyaL_oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSNA/SMA%2BTrack%2BProgram%2BCommittee%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=h8wr9gyaL_oJ&ei=HZ1dYcf6G6PZsQKvo78o"
+}

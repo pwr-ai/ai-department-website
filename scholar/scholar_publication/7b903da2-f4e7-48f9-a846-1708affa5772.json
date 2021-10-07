@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Recognition of emotions, valence and arousal in large-scale multi-domain text reviews", "author": "Koco{\\'n}, J and Janz, Arkadiusz and Riegel, M and Wierzba, M and Marchewka, A and Czoska, A and Grimling, D and Konat, B and Juszczyk, K and Katarzyna, K and others", "venue": "NA", "pub_year": "2019", "booktitle": "9th Language \\& Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics", "pub_type": "inproceedings", "bib_id": "kocon2019recognition"}, "filled": true, "gsrank": 1, "author_id": ["pmQHb5IAAAAJ", "UNlMg18AAAAJ", "pfgNguIAAAAJ", "JXQUeyUAAAAJ", "0QxOrUcAAAAJ"], "num_citations": 13, "url_scholarbib": "/scholar?q=info:9ub0QSrCp5sJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRecognition%2Bof%2Bemotions,%2Bvalence%2Band%2Barousal%2Bin%2Blarge-scale%2Bmulti-domain%2Btext%2Breviews%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=9ub0QSrCp5sJ&ei=XJ1dYZCtIsKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=11216146883740493558&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:9ub0QSrCp5sJ:scholar.google.com/&scioq=Recognition+of+emotions,+valence+and+arousal+in+large-scale+multi-domain+text+reviews&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Recognition of emotions, valence and arousal in large-scale multi-domain text reviews",
+    "author": "Koco{\\'n}, J and Janz, Arkadiusz and Riegel, M and Wierzba, M and Marchewka, A and Czoska, A and Grimling, D and Konat, B and Juszczyk, K and Katarzyna, K and others",
+    "venue": "NA",
+    "pub_year": "2019",
+    "booktitle": "9th Language \\& Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics",
+    "pub_type": "inproceedings",
+    "bib_id": "kocon2019recognition"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "pmQHb5IAAAAJ",
+    "UNlMg18AAAAJ",
+    "pfgNguIAAAAJ",
+    "JXQUeyUAAAAJ",
+    "0QxOrUcAAAAJ"
+  ],
+  "num_citations": 13,
+  "url_scholarbib": "/scholar?q=info:9ub0QSrCp5sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRecognition%2Bof%2Bemotions,%2Bvalence%2Band%2Barousal%2Bin%2Blarge-scale%2Bmulti-domain%2Btext%2Breviews%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=9ub0QSrCp5sJ&ei=XJ1dYZCtIsKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=11216146883740493558&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:9ub0QSrCp5sJ:scholar.google.com/&scioq=Recognition+of+emotions,+valence+and+arousal+in+large-scale+multi-domain+text+reviews&hl=en&as_sdt=0,5"
+}

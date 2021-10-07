@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Testing word embeddings for Polish", "author": "Mykowiecka, Agnieszka and Marciniak, Ma{\\l}gorzata and Rychlik, Piotr", "pub_year": "2017", "venue": "Cognitive Studies", "abstract": "Distributional Semantics postulates the representation of word meaning in the form of numeric vectors which represent words which occur in context in large text data. This paper addresses the problem of constructing such models for the Polish language. The paper", "publisher": "Instytut Slawistyki Polskiej Akademii Nauk", "number": "17", "journal": "Cognitive Studies", "pub_type": "article", "bib_id": "mykowiecka2017testing"}, "filled": true, "gsrank": 1, "pub_url": "https://www.ceeol.com/search/article-detail?id=589872", "author_id": ["5kj-eF0AAAAJ", "GlwK910AAAAJ", ""], "num_citations": 15, "url_scholarbib": "/scholar?q=info:dzrFvyl20N8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWord%2BEmbeddings%2Bfor%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=dzrFvyl20N8J&ei=BsJdYa2QOc6_mQHMm7boDg", "citedby_url": "/scholar?cites=16127520187296856695&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:dzrFvyl20N8J:scholar.google.com/&scioq=Word+Embeddings+for+Polish&hl=en&as_sdt=0,5", "eprint_url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_11649_cs_1468/c/cs.1468-3064.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Testing word embeddings for Polish",
+    "author": "Mykowiecka, Agnieszka and Marciniak, Ma{\\l}gorzata and Rychlik, Piotr",
+    "pub_year": "2017",
+    "venue": "Cognitive Studies",
+    "abstract": "Distributional Semantics postulates the representation of word meaning in the form of numeric vectors which represent words which occur in context in large text data. This paper addresses the problem of constructing such models for the Polish language. The paper",
+    "publisher": "Instytut Slawistyki Polskiej Akademii Nauk",
+    "number": "17",
+    "journal": "Cognitive Studies",
+    "pub_type": "article",
+    "bib_id": "mykowiecka2017testing"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.ceeol.com/search/article-detail?id=589872",
+  "author_id": [
+    "5kj-eF0AAAAJ",
+    "GlwK910AAAAJ",
+    ""
+  ],
+  "num_citations": 15,
+  "url_scholarbib": "/scholar?q=info:dzrFvyl20N8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWord%2BEmbeddings%2Bfor%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=dzrFvyl20N8J&ei=BsJdYa2QOc6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=16127520187296856695&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:dzrFvyl20N8J:scholar.google.com/&scioq=Word+Embeddings+for+Polish&hl=en&as_sdt=0,5",
+  "eprint_url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_11649_cs_1468/c/cs.1468-3064.pdf"
+}

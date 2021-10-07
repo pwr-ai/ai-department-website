@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Analysis of direct citation, co-citation and bibliographic coupling in scientific topic identification", "author": "Kleminski, Rajmund and Kazienko, Przemysiaw and Kajdanowicz, Tomasz", "pub_year": "2020", "venue": "Journal of Information \u2026", "abstract": "In our study, we examine the impact of citation network structures on the ability to discern valuable research topics in Computer Science literature. We use the bibliographic information available in the DBLP database to extract candidate phrases from scientific paper abstracts. Following that, we construct citation networks based on direct citation, co-citation and bibliographic coupling relationships between the papers. The candidate research topics, in the form of keyphrases and n-grammes, are subsequently ranked and", "publisher": "SAGE Publications Sage UK: London, England", "pages": "0165551520962775", "journal": "Journal of Information Science", "pub_type": "article", "bib_id": "kleminski2020analysis"}, "filled": true, "gsrank": 1, "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/0165551520962775", "author_id": ["9A-CgPgAAAAJ", ""], "num_citations": 5, "url_scholarbib": "/scholar?q=info:D1NP2haBL74J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Bof%2Bdirect%2Bcitation,%2Bco-citation%2Band%2Bbibliographic%2Bcoupling%2Bin%2Bscientific%2Btopic%2Bidentification%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=D1NP2haBL74J&ei=HJVdYfqHGsKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=13704314126263603983&as_sdt=5,44&sciodt=0,44&hl=en", "url_related_articles": "/scholar?q=related:D1NP2haBL74J:scholar.google.com/&scioq=Analysis+of+direct+citation,+co-citation+and+bibliographic+coupling+in+scientific+topic+identification&hl=en&as_sdt=0,44"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Analysis of direct citation, co-citation and bibliographic coupling in scientific topic identification",
+    "author": "Kleminski, Rajmund and Kazienko, Przemysiaw and Kajdanowicz, Tomasz",
+    "pub_year": "2020",
+    "venue": "Journal of Information \u2026",
+    "abstract": "In our study, we examine the impact of citation network structures on the ability to discern valuable research topics in Computer Science literature. We use the bibliographic information available in the DBLP database to extract candidate phrases from scientific paper abstracts. Following that, we construct citation networks based on direct citation, co-citation and bibliographic coupling relationships between the papers. The candidate research topics, in the form of keyphrases and n-grammes, are subsequently ranked and",
+    "publisher": "SAGE Publications Sage UK: London, England",
+    "pages": "0165551520962775",
+    "journal": "Journal of Information Science",
+    "pub_type": "article",
+    "bib_id": "kleminski2020analysis"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/0165551520962775",
+  "author_id": [
+    "9A-CgPgAAAAJ",
+    ""
+  ],
+  "num_citations": 5,
+  "url_scholarbib": "/scholar?q=info:D1NP2haBL74J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Bof%2Bdirect%2Bcitation,%2Bco-citation%2Band%2Bbibliographic%2Bcoupling%2Bin%2Bscientific%2Btopic%2Bidentification%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=D1NP2haBL74J&ei=HJVdYfqHGsKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=13704314126263603983&as_sdt=5,44&sciodt=0,44&hl=en",
+  "url_related_articles": "/scholar?q=related:D1NP2haBL74J:scholar.google.com/&scioq=Analysis+of+direct+citation,+co-citation+and+bibliographic+coupling+in+scientific+topic+identification&hl=en&as_sdt=0,44"
+}

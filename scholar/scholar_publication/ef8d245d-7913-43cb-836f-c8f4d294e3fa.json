@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Dynamic verbs in the Wordnet of Polish", "author": "Dziob, Agnieszka and Piasecki, Maciej", "pub_year": "2018", "venue": "Cognitive Studies", "abstract": "The paper presents patterns of co-occurrences of wordnet relations involving verb lexical units in plWordNet\u2014a large wordnet of Polish. The discovered patterns reveal tendencies of selected synset and lexical relations to form regular circular structures of clear semantic meanings. They involve several types of relations, eg, presupposition, cause, processuality and antonymy, do not have a necessary character (there are exceptions), but can be used in wordnet diagnostics and guidelines for wordnet editors. The analysis is illustrated with", "publisher": "Instytut Slawistyki Polskiej Akademii Nauk", "number": "18", "journal": "Cognitive Studies", "pub_type": "article", "bib_id": "dziob2018dynamic"}, "filled": true, "gsrank": 1, "pub_url": "https://www.ceeol.com/search/article-detail?id=739819", "author_id": ["y9GCRMsAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:KuaKvyy9ZkIJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2Bverbs%2Bin%2Bthe%2BWordnet%2Bof%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=KuaKvyy9ZkIJ&ei=V8FdYaP3HInmmgGQla6wAw", "citedby_url": "/scholar?cites=4784719654017492522&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:KuaKvyy9ZkIJ:scholar.google.com/&scioq=Dynamic+verbs+in+the+Wordnet+of+Polish&hl=en&as_sdt=0,5", "eprint_url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_11649_cs_1718/c/cs.1718-4461.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Dynamic verbs in the Wordnet of Polish",
+    "author": "Dziob, Agnieszka and Piasecki, Maciej",
+    "pub_year": "2018",
+    "venue": "Cognitive Studies",
+    "abstract": "The paper presents patterns of co-occurrences of wordnet relations involving verb lexical units in plWordNet\u2014a large wordnet of Polish. The discovered patterns reveal tendencies of selected synset and lexical relations to form regular circular structures of clear semantic meanings. They involve several types of relations, eg, presupposition, cause, processuality and antonymy, do not have a necessary character (there are exceptions), but can be used in wordnet diagnostics and guidelines for wordnet editors. The analysis is illustrated with",
+    "publisher": "Instytut Slawistyki Polskiej Akademii Nauk",
+    "number": "18",
+    "journal": "Cognitive Studies",
+    "pub_type": "article",
+    "bib_id": "dziob2018dynamic"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.ceeol.com/search/article-detail?id=739819",
+  "author_id": [
+    "y9GCRMsAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:KuaKvyy9ZkIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2Bverbs%2Bin%2Bthe%2BWordnet%2Bof%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=KuaKvyy9ZkIJ&ei=V8FdYaP3HInmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=4784719654017492522&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:KuaKvyy9ZkIJ:scholar.google.com/&scioq=Dynamic+verbs+in+the+Wordnet+of+Polish&hl=en&as_sdt=0,5",
+  "eprint_url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_11649_cs_1718/c/cs.1718-4461.pdf"
+}

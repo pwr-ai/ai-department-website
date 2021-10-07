@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Overview of the FIRE 2020 EDNIL Track: Event Detection from News in Indian Languages.", "author": "Dave, Bhargav and Gangopadhyay, Surupendu and Majumder, Prasenjit and Bhattacharya, Pushpak and Sarkar, Sudeshna and Devi, Sobha Lalitha", "pub_year": "2020", "venue": "FIRE (Working \u2026", "abstract": "2 ComMA 3 0.3788343558 0.3914421553 0.385035074 XLM RoBERTa  We also plan to introduce a summarization of event task wherein a summary of events within a particular time period will be generated and a short description of the events will be generated", "pages": "806--816", "booktitle": "FIRE (Working Notes)", "pub_type": "inproceedings", "bib_id": "dave2020overview"}, "filled": true, "gsrank": 1, "pub_url": "https://www.researchgate.net/profile/Bhargav-Dave-4/publication/351048913_Overview_of_the_FIRE_2020_EDNIL_Track_Event_Detection_from_News_in_Indian_Languages/links/6081248f8ea909241e16e362/Overview-of-the-FIRE-2020-EDNIL-Track-Event-Detection-from-News-in-Indian-Languages.pdf", "author_id": ["KNeRjn4AAAAJ", "5iMg81oAAAAJ", "3xIpiKEAAAAJ"], "num_citations": 6, "url_scholarbib": "/scholar?q=info:WgbChcFuk_IJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DXLM-RoBERTa%2Bevents%2Brecognition%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=WgbChcFuk_IJ&ei=96FdYbG4CsKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=17479436356206855770&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:WgbChcFuk_IJ:scholar.google.com/&scioq=XLM-RoBERTa+events+recognition&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Bhargav-Dave-4/publication/351048913_Overview_of_the_FIRE_2020_EDNIL_Track_Event_Detection_from_News_in_Indian_Languages/links/6081248f8ea909241e16e362/Overview-of-the-FIRE-2020-EDNIL-Track-Event-Detection-from-News-in-Indian-Languages.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Overview of the FIRE 2020 EDNIL Track: Event Detection from News in Indian Languages.",
+    "author": "Dave, Bhargav and Gangopadhyay, Surupendu and Majumder, Prasenjit and Bhattacharya, Pushpak and Sarkar, Sudeshna and Devi, Sobha Lalitha",
+    "pub_year": "2020",
+    "venue": "FIRE (Working \u2026",
+    "abstract": "2 ComMA 3 0.3788343558 0.3914421553 0.385035074 XLM RoBERTa  We also plan to introduce a summarization of event task wherein a summary of events within a particular time period will be generated and a short description of the events will be generated",
+    "pages": "806--816",
+    "booktitle": "FIRE (Working Notes)",
+    "pub_type": "inproceedings",
+    "bib_id": "dave2020overview"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.researchgate.net/profile/Bhargav-Dave-4/publication/351048913_Overview_of_the_FIRE_2020_EDNIL_Track_Event_Detection_from_News_in_Indian_Languages/links/6081248f8ea909241e16e362/Overview-of-the-FIRE-2020-EDNIL-Track-Event-Detection-from-News-in-Indian-Languages.pdf",
+  "author_id": [
+    "KNeRjn4AAAAJ",
+    "5iMg81oAAAAJ",
+    "3xIpiKEAAAAJ"
+  ],
+  "num_citations": 6,
+  "url_scholarbib": "/scholar?q=info:WgbChcFuk_IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DXLM-RoBERTa%2Bevents%2Brecognition%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=WgbChcFuk_IJ&ei=96FdYbG4CsKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=17479436356206855770&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:WgbChcFuk_IJ:scholar.google.com/&scioq=XLM-RoBERTa+events+recognition&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Bhargav-Dave-4/publication/351048913_Overview_of_the_FIRE_2020_EDNIL_Track_Event_Detection_from_News_in_Indian_Languages/links/6081248f8ea909241e16e362/Overview-of-the-FIRE-2020-EDNIL-Track-Event-Detection-from-News-in-Indian-Languages.pdf"
+}

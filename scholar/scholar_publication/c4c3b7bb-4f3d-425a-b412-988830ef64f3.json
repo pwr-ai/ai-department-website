@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "plWordNet as a basis for large emotive lexicons of Polish", "author": "Janz, Arkadiusz and Kocon, Jan and Piasecki, Maciej and Zasko-Zielinska, Monika", "pub_year": "2017", "venue": "Proceedings of Human \u2026", "abstract": "We present a large emotive lexicon of Polish which has been constructed by manual expansion of the emotive annotation defined for plWordNet 3.0 emo (a very large wordnet of Polish). The annotation encompasses: sentiment polarity, basic emotions and fundamental human values. Annotation scheme and revised guidelines for the annotation process are discussed. We present also statistics for the contemporary state of the development. Finally, the idea of the second plWordNet-based emotive lexicon created in controlled experiments", "pages": "189--193", "journal": "Proceedings of Human Language Technologies as a Challenge for Computer Science and Linguistics Poznan: Fundacja Uniwersytetu im. Adama Mickiewicza w Poznaniu", "pub_type": "article", "bib_id": "janz2017plwordnet"}, "filled": true, "gsrank": 1, "pub_url": "http://ltc.amu.edu.pl/book2017/papers/SEM1-2.pdf", "author_id": ["UNlMg18AAAAJ", "pmQHb5IAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 15, "url_scholarbib": "/scholar?q=info:ZTkTovsF0VIJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DplWordNet%2Bas%2Ba%2Bbasis%2Bfor%2Blarge%2Bemotive%2Blexicons%2Bof%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=ZTkTovsF0VIJ&ei=WJ1dYdWDAqPZsQKvo78o", "citedby_url": "/scholar?cites=5967557559556716901&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:ZTkTovsF0VIJ:scholar.google.com/&scioq=plWordNet+as+a+basis+for+large+emotive+lexicons+of+Polish&hl=en&as_sdt=0,5", "eprint_url": "http://ltc.amu.edu.pl/book2017/papers/SEM1-2.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "plWordNet as a basis for large emotive lexicons of Polish",
+    "author": "Janz, Arkadiusz and Kocon, Jan and Piasecki, Maciej and Zasko-Zielinska, Monika",
+    "pub_year": "2017",
+    "venue": "Proceedings of Human \u2026",
+    "abstract": "We present a large emotive lexicon of Polish which has been constructed by manual expansion of the emotive annotation defined for plWordNet 3.0 emo (a very large wordnet of Polish). The annotation encompasses: sentiment polarity, basic emotions and fundamental human values. Annotation scheme and revised guidelines for the annotation process are discussed. We present also statistics for the contemporary state of the development. Finally, the idea of the second plWordNet-based emotive lexicon created in controlled experiments",
+    "pages": "189--193",
+    "journal": "Proceedings of Human Language Technologies as a Challenge for Computer Science and Linguistics Poznan: Fundacja Uniwersytetu im. Adama Mickiewicza w Poznaniu",
+    "pub_type": "article",
+    "bib_id": "janz2017plwordnet"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://ltc.amu.edu.pl/book2017/papers/SEM1-2.pdf",
+  "author_id": [
+    "UNlMg18AAAAJ",
+    "pmQHb5IAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 15,
+  "url_scholarbib": "/scholar?q=info:ZTkTovsF0VIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DplWordNet%2Bas%2Ba%2Bbasis%2Bfor%2Blarge%2Bemotive%2Blexicons%2Bof%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=ZTkTovsF0VIJ&ei=WJ1dYdWDAqPZsQKvo78o",
+  "citedby_url": "/scholar?cites=5967557559556716901&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:ZTkTovsF0VIJ:scholar.google.com/&scioq=plWordNet+as+a+basis+for+large+emotive+lexicons+of+Polish&hl=en&as_sdt=0,5",
+  "eprint_url": "http://ltc.amu.edu.pl/book2017/papers/SEM1-2.pdf"
+}

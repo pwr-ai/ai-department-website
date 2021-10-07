@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "WUT CST 2020", "author": "Janz, Arkadiusz and Piasecki, Maciej and W{\\k{a}}torski, Piotr and Oleksy, Marcin", "pub_year": "2020", "venue": "NA", "abstract": "CLARIN-PL Repository Home; View Item. Show/Hide Menu. What can you do? Browse: All of the Repository: Issue Date; Authors; Titles; Subjects; Publisher; Language; Type; Rights Label. My Account: Login via Your home institution; Register. Statistics: StatisticsBETA. General", "publisher": "Wroc{\\l}aw University of Technology", "pub_type": "article", "bib_id": "janz2020wut"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/handle/11321/781", "author_id": ["UNlMg18AAAAJ", "nU_W9XwAAAAJ", "PRp78TwAAAAJ", "1QVBEYYAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:Wf5DgJIVLp4J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWUT%2BCST%2B2020%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Wf5DgJIVLp4J&ei=u8FdYbmLH4nmmgGQla6wAw"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "WUT CST 2020",
+    "author": "Janz, Arkadiusz and Piasecki, Maciej and W{\\k{a}}torski, Piotr and Oleksy, Marcin",
+    "pub_year": "2020",
+    "venue": "NA",
+    "abstract": "CLARIN-PL Repository Home; View Item. Show/Hide Menu. What can you do? Browse: All of the Repository: Issue Date; Authors; Titles; Subjects; Publisher; Language; Type; Rights Label. My Account: Login via Your home institution; Register. Statistics: StatisticsBETA. General",
+    "publisher": "Wroc{\\l}aw University of Technology",
+    "pub_type": "article",
+    "bib_id": "janz2020wut"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/handle/11321/781",
+  "author_id": [
+    "UNlMg18AAAAJ",
+    "nU_W9XwAAAAJ",
+    "PRp78TwAAAAJ",
+    "1QVBEYYAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:Wf5DgJIVLp4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWUT%2BCST%2B2020%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Wf5DgJIVLp4J&ei=u8FdYbmLH4nmmgGQla6wAw"
+}

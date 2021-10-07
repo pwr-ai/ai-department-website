@@ -1,1 +1,33 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "AGH corpus of Polish speech", "author": "{\\.Z}elasko, Piotr and Zi{\\'o}{\\l}ko, Bartosz and Jadczyk, Tomasz and Skurzok, Dawid", "pub_year": "2016", "venue": "Language Resources and \u2026", "abstract": "most of the world's languages should be qualified as under-resourced, and Polish is one of  It makes corpus creation a very difficult task for researchers, who wish to provide such data  of resource types: social media such as Facebook or Twitter offer short, colloquial texts, while", "publisher": "Springer", "pages": "585--601", "number": "3", "volume": "50", "journal": "Language Resources and Evaluation", "pub_type": "article", "bib_id": "zelasko2016agh"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/article/10.1007/s10579-015-9302-y", "author_id": ["5YUtDtEAAAAJ", "SRrrrmMAAAAJ", "", "U9I9sxYAAAAJ"], "num_citations": 20, "url_scholarbib": "/scholar?q=info:TQTXe82lBwoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpus%2Bof%2Bthe%2Bcolloquial%2BPolish%2Blanguage%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=TQTXe82lBwoJ&ei=qlNeYYL6DMKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=722728567180821581&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:TQTXe82lBwoJ:scholar.google.com/&scioq=Corpus+of+the+colloquial+Polish+language&hl=en&as_sdt=0,5", "eprint_url": "https://link.springer.com/article/10.1007/s10579-015-9302-y"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "AGH corpus of Polish speech",
+    "author": "{\\.Z}elasko, Piotr and Zi{\\'o}{\\l}ko, Bartosz and Jadczyk, Tomasz and Skurzok, Dawid",
+    "pub_year": "2016",
+    "venue": "Language Resources and \u2026",
+    "abstract": "most of the world's languages should be qualified as under-resourced, and Polish is one of  It makes corpus creation a very difficult task for researchers, who wish to provide such data  of resource types: social media such as Facebook or Twitter offer short, colloquial texts, while",
+    "publisher": "Springer",
+    "pages": "585--601",
+    "number": "3",
+    "volume": "50",
+    "journal": "Language Resources and Evaluation",
+    "pub_type": "article",
+    "bib_id": "zelasko2016agh"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/article/10.1007/s10579-015-9302-y",
+  "author_id": [
+    "5YUtDtEAAAAJ",
+    "SRrrrmMAAAAJ",
+    "",
+    "U9I9sxYAAAAJ"
+  ],
+  "num_citations": 20,
+  "url_scholarbib": "/scholar?q=info:TQTXe82lBwoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpus%2Bof%2Bthe%2Bcolloquial%2BPolish%2Blanguage%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=TQTXe82lBwoJ&ei=qlNeYYL6DMKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=722728567180821581&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:TQTXe82lBwoJ:scholar.google.com/&scioq=Corpus+of+the+colloquial+Polish+language&hl=en&as_sdt=0,5",
+  "eprint_url": "https://link.springer.com/article/10.1007/s10579-015-9302-y"
+}

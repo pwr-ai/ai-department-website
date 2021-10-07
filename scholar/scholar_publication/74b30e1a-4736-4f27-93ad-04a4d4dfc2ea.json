@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Evaluating KGR10 Polish word embeddings in the recognition of temporal expressions using BiLSTM-CRF", "author": "Koco{\\'n}, Jan and Gawor, Micha{\\l}", "pub_year": "2019", "venue": "arXiv preprint arXiv:1904.04055", "abstract": "8. The internal encoding solution based on embeddings of n-grams composing each word makes it possible to obtain Fast- Text vector representations, also  There were also previous attempts to build KGR10 word vectors with other methods (including FastText), and the", "journal": "arXiv preprint arXiv:1904.04055", "pub_type": "article", "bib_id": "kocon2019evaluating"}, "filled": true, "gsrank": 1, "pub_url": "https://arxiv.org/abs/1904.04055", "author_id": ["pmQHb5IAAAAJ", ""], "num_citations": 13, "url_scholarbib": "/scholar?q=info:XuMzqr6eF0wJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKGR10%2BFastText%2Bpolish%2Bword%2Bembeddings%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=XuMzqr6eF0wJ&ei=s6BdYbrjAYnmmgGQla6wAw", "citedby_url": "/scholar?cites=5483025613083370334&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:XuMzqr6eF0wJ:scholar.google.com/&scioq=KGR10+FastText+polish+word+embeddings&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1904.04055"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Evaluating KGR10 Polish word embeddings in the recognition of temporal expressions using BiLSTM-CRF",
+    "author": "Koco{\\'n}, Jan and Gawor, Micha{\\l}",
+    "pub_year": "2019",
+    "venue": "arXiv preprint arXiv:1904.04055",
+    "abstract": "8. The internal encoding solution based on embeddings of n-grams composing each word makes it possible to obtain Fast- Text vector representations, also  There were also previous attempts to build KGR10 word vectors with other methods (including FastText), and the",
+    "journal": "arXiv preprint arXiv:1904.04055",
+    "pub_type": "article",
+    "bib_id": "kocon2019evaluating"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://arxiv.org/abs/1904.04055",
+  "author_id": [
+    "pmQHb5IAAAAJ",
+    ""
+  ],
+  "num_citations": 13,
+  "url_scholarbib": "/scholar?q=info:XuMzqr6eF0wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKGR10%2BFastText%2Bpolish%2Bword%2Bembeddings%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=XuMzqr6eF0wJ&ei=s6BdYbrjAYnmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=5483025613083370334&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:XuMzqr6eF0wJ:scholar.google.com/&scioq=KGR10+FastText+polish+word+embeddings&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1904.04055"
+}

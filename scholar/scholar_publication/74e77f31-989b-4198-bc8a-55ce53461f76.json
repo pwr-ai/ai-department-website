@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Corpus of medical texts and tools", "author": "GODLEWSKI, Grzegorz and PIASECKI, Maciej and PEJCZ, Jerzy", "pub_year": "2006", "venue": "Silesian University of \u2026", "abstract": "There is only one large corpus of Polish annotated with morpho-syntactic information, namely The IPI PAN Corpus (IPIC). This situation is a big obstacle in creation of tools for natural language processing dedicated to the domain of medical texts. However, the real life", "pages": "273--280", "journal": "Silesian University of Technology", "pub_type": "article", "bib_id": "godlewski2006corpus"}, "filled": true, "gsrank": 1, "pub_url": "http://itib.polsl.pl/mit/papers/281.pdf", "author_id": ["", "nU_W9XwAAAAJ", ""], "num_citations": 2, "url_scholarbib": "/scholar?q=info:7tWZcOiKLJAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpus%2Bof%2Bmedical%2Btexts%2Band%2Btools%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=7tWZcOiKLJAJ&ei=HsFdYc_nGs-TmwHPvZGABQ", "citedby_url": "/scholar?cites=10388831171363067374&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:7tWZcOiKLJAJ:scholar.google.com/&scioq=Corpus+of+medical+texts+and+tools&hl=en&as_sdt=0,5", "eprint_url": "http://itib.polsl.pl/mit/papers/281.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Corpus of medical texts and tools",
+    "author": "GODLEWSKI, Grzegorz and PIASECKI, Maciej and PEJCZ, Jerzy",
+    "pub_year": "2006",
+    "venue": "Silesian University of \u2026",
+    "abstract": "There is only one large corpus of Polish annotated with morpho-syntactic information, namely The IPI PAN Corpus (IPIC). This situation is a big obstacle in creation of tools for natural language processing dedicated to the domain of medical texts. However, the real life",
+    "pages": "273--280",
+    "journal": "Silesian University of Technology",
+    "pub_type": "article",
+    "bib_id": "godlewski2006corpus"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://itib.polsl.pl/mit/papers/281.pdf",
+  "author_id": [
+    "",
+    "nU_W9XwAAAAJ",
+    ""
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:7tWZcOiKLJAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpus%2Bof%2Bmedical%2Btexts%2Band%2Btools%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=7tWZcOiKLJAJ&ei=HsFdYc_nGs-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=10388831171363067374&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:7tWZcOiKLJAJ:scholar.google.com/&scioq=Corpus+of+medical+texts+and+tools&hl=en&as_sdt=0,5",
+  "eprint_url": "http://itib.polsl.pl/mit/papers/281.pdf"
+}

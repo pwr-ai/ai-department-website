@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Towards emotive annotation in plWordNet 4.0", "author": "Za{\\'s}ko-Zieli{\\'n}ska, Monika and Piasecki, Maciej", "pub_year": "2018", "venue": "Proceedings of the 9th Global Wordnet \u2026", "abstract": "The paper presents an approach to building a very large emotive lexicon for Polish based on plWordNet. An expanded annotation model is discussed, in which lexical units (word senses) are annotated with basic emotions, fundamental human values and sentiment", "pages": "153--162", "booktitle": "Proceedings of the 9th Global Wordnet Conference", "pub_type": "inproceedings", "bib_id": "zasko2018towards"}, "filled": true, "gsrank": 1, "pub_url": "https://www.aclweb.org/anthology/2018.gwc-1.18/", "author_id": ["E81pgs0AAAAJ", "nU_W9XwAAAAJ"], "num_citations": 4, "url_scholarbib": "/scholar?q=info:0sTMoksvCtcJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bemotive%2Bannotation%2Bin%2BplWordNet%2B4.0%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=0sTMoksvCtcJ&ei=sb1dYaDlGofBmQGX-6OoBg", "citedby_url": "/scholar?cites=15495249469821994194&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:0sTMoksvCtcJ:scholar.google.com/&scioq=Towards+emotive+annotation+in+plWordNet+4.0&hl=en&as_sdt=0,39", "eprint_url": "https://www.aclweb.org/anthology/2018.gwc-1.18.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Towards emotive annotation in plWordNet 4.0",
+    "author": "Za{\\'s}ko-Zieli{\\'n}ska, Monika and Piasecki, Maciej",
+    "pub_year": "2018",
+    "venue": "Proceedings of the 9th Global Wordnet \u2026",
+    "abstract": "The paper presents an approach to building a very large emotive lexicon for Polish based on plWordNet. An expanded annotation model is discussed, in which lexical units (word senses) are annotated with basic emotions, fundamental human values and sentiment",
+    "pages": "153--162",
+    "booktitle": "Proceedings of the 9th Global Wordnet Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "zasko2018towards"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.aclweb.org/anthology/2018.gwc-1.18/",
+  "author_id": [
+    "E81pgs0AAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 4,
+  "url_scholarbib": "/scholar?q=info:0sTMoksvCtcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bemotive%2Bannotation%2Bin%2BplWordNet%2B4.0%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=0sTMoksvCtcJ&ei=sb1dYaDlGofBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=15495249469821994194&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:0sTMoksvCtcJ:scholar.google.com/&scioq=Towards+emotive+annotation+in+plWordNet+4.0&hl=en&as_sdt=0,39",
+  "eprint_url": "https://www.aclweb.org/anthology/2018.gwc-1.18.pdf"
+}

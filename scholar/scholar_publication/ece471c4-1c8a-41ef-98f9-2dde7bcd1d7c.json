@@ -1,1 +1,25 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Workshop on Social Influence (SI 2016) SI 2016 Organizing Committee", "author": "Shakarian, Paulo and Michalski, Rados{\\l}aw and Jankowski, Jaros{\\l}aw and Mendes, Jos{\\'e} Fernando and Schweitzer, Frank and Liu, Huan and Lizardo, Omar and Rocha, Luis EC and Masuda, Naoki and Musia{\\l}, Katarzyna and others", "venue": "NA", "pub_year": "NA", "abstract": "Paulo Shakarian, Arizona State University, USA Rados\u0142aw Michalski, Wroclaw University of  Technology, Poland Jaros\u0142aw Jankowski, West Pomeranian University of Technology, Poland    Jos\u00e9 Fernando Mendes, University of Aveiro, Portugal Frank Schweitzer, ETH Zurich, Switzerland  Huan Liu, Arizona State University, United States Omar Lizardo, University of Notre Dame, United  States Luis EC Rocha, Karolinska Institutet, Sweden Naoki Masuda, University of Bristol, United  Kingdom Katarzyna Musia\u0142, Bournemouth University, United Kingdom SeWook Oh, University", "pub_type": "article", "bib_id": "shakarianworkshop"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/7752199/", "author_id": ["OUAMn6oAAAAJ", "", "", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:YsFvO8Ami1YJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWorkshop%2Bon%2BSocial%2BInfluence%2B(SI%2B2016)%2BSI%2B2016%2BOrganizing%2BCommittee%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=YsFvO8Ami1YJ&ei=EJ1dYYfrN42UmQGz6rqYBQ"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Workshop on Social Influence (SI 2016) SI 2016 Organizing Committee",
+    "author": "Shakarian, Paulo and Michalski, Rados{\\l}aw and Jankowski, Jaros{\\l}aw and Mendes, Jos{\\'e} Fernando and Schweitzer, Frank and Liu, Huan and Lizardo, Omar and Rocha, Luis EC and Masuda, Naoki and Musia{\\l}, Katarzyna and others",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "Paulo Shakarian, Arizona State University, USA Rados\u0142aw Michalski, Wroclaw University of  Technology, Poland Jaros\u0142aw Jankowski, West Pomeranian University of Technology, Poland    Jos\u00e9 Fernando Mendes, University of Aveiro, Portugal Frank Schweitzer, ETH Zurich, Switzerland  Huan Liu, Arizona State University, United States Omar Lizardo, University of Notre Dame, United  States Luis EC Rocha, Karolinska Institutet, Sweden Naoki Masuda, University of Bristol, United  Kingdom Katarzyna Musia\u0142, Bournemouth University, United Kingdom SeWook Oh, University",
+    "pub_type": "article",
+    "bib_id": "shakarianworkshop"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/7752199/",
+  "author_id": [
+    "OUAMn6oAAAAJ",
+    "",
+    "",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:YsFvO8Ami1YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWorkshop%2Bon%2BSocial%2BInfluence%2B(SI%2B2016)%2BSI%2B2016%2BOrganizing%2BCommittee%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=YsFvO8Ami1YJ&ei=EJ1dYYfrN42UmQGz6rqYBQ"
+}

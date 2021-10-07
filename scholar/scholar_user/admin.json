@@ -1,1 +1,114 @@
-{"container_type": "Author", "filled": ["basics", "publications", "counts", "coauthors", "indices"], "scholar_id": "sIwtMXoAAAAJ", "source": "AUTHOR_PROFILE_PAGE", "name": "George Cushen", "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sIwtMXoAAAAJ&citpid=1", "affiliation": "University of Southampton", "interests": ["Deep Learning"], "email_domain": "@soton.ac.uk", "citedby": 45, "publications": [{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Mobile visual clothing search", "pub_year": "2013"}, "filled": false, "author_pub_id": "sIwtMXoAAAAJ:u5HHmVD_uO8C", "num_citations": 18, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17457496875727850398", "cites_id": ["17457496875727850398"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Real-time semantic clothing segmentation", "pub_year": "2012"}, "filled": false, "author_pub_id": "sIwtMXoAAAAJ:d1gkVwhDpl0C", "num_citations": 15, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7226970298637084742", "cites_id": ["7226970298637084742"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Markerless real-time garment retexturing from monocular 3d reconstruction", "pub_year": "2011"}, "filled": false, "author_pub_id": "sIwtMXoAAAAJ:u-x6o8ySG0sC", "num_citations": 9, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6838601847864022587", "cites_id": ["6838601847864022587"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "A Person Re-Identification System For Mobile Devices", "pub_year": "2015"}, "filled": false, "author_pub_id": "sIwtMXoAAAAJ:9yKSN-GCB0IC", "num_citations": 2, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12521339151404067820", "cites_id": ["12521339151404067820"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Mobile image parsing for visual clothing search, augmented reality mirror, and person identification", "pub_year": "2016"}, "filled": false, "author_pub_id": "sIwtMXoAAAAJ:2osOgNQ5qMEC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4835602546821301826", "cites_id": ["4835602546821301826"]}], "cites_per_year": {"2012": 1, "2013": 7, "2014": 4, "2015": 8, "2016": 8, "2017": 5, "2018": 1, "2019": 7, "2020": 3}, "coauthors": [], "citedby5y": 24, "hindex": 3, "hindex5y": 3, "i10index": 2, "i10index5y": 0}
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "counts",
+    "coauthors",
+    "indices"
+  ],
+  "scholar_id": "sIwtMXoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "George Cushen",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sIwtMXoAAAAJ&citpid=1",
+  "affiliation": "University of Southampton",
+  "interests": [
+    "Deep Learning"
+  ],
+  "email_domain": "@soton.ac.uk",
+  "citedby": 45,
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mobile visual clothing search",
+        "pub_year": "2013"
+      },
+      "filled": false,
+      "author_pub_id": "sIwtMXoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17457496875727850398",
+      "cites_id": [
+        "17457496875727850398"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Real-time semantic clothing segmentation",
+        "pub_year": "2012"
+      },
+      "filled": false,
+      "author_pub_id": "sIwtMXoAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7226970298637084742",
+      "cites_id": [
+        "7226970298637084742"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Markerless real-time garment retexturing from monocular 3d reconstruction",
+        "pub_year": "2011"
+      },
+      "filled": false,
+      "author_pub_id": "sIwtMXoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6838601847864022587",
+      "cites_id": [
+        "6838601847864022587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Person Re-Identification System For Mobile Devices",
+        "pub_year": "2015"
+      },
+      "filled": false,
+      "author_pub_id": "sIwtMXoAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12521339151404067820",
+      "cites_id": [
+        "12521339151404067820"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mobile image parsing for visual clothing search, augmented reality mirror, and person identification",
+        "pub_year": "2016"
+      },
+      "filled": false,
+      "author_pub_id": "sIwtMXoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4835602546821301826",
+      "cites_id": [
+        "4835602546821301826"
+      ]
+    }
+  ],
+  "cites_per_year": {
+    "2012": 1,
+    "2013": 7,
+    "2014": 4,
+    "2015": 8,
+    "2016": 8,
+    "2017": 5,
+    "2018": 1,
+    "2019": 7,
+    "2020": 3
+  },
+  "coauthors": [],
+  "citedby5y": 24,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 2,
+  "i10index5y": 0
+}

@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Structured output element ordering in boosting-based classification", "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw", "pub_year": "2011", "venue": "International Conference on Hybrid Artificial \u2026", "abstract": "The paper describes the method for structured output classification that is able to perform classification task for unknown shape of output structure. In previous work authors provided that the classification of the element in the output structure can be performed using standard input of the instance (its profile) as well as all other preceding output elements (already classified) as learning attributes. Now they present how the order of the score function application to each element of output space is important and may determine the overall", "organization": "Springer", "pages": "221--228", "booktitle": "International Conference on Hybrid Artificial Intelligence Systems", "pub_type": "inproceedings", "bib_id": "kajdanowicz2011structured"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-21222-2_27", "author_id": ["GOoaHHEAAAAJ", "cxLgNccAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:KW2gR1Ro5VQJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStructured%2Boutput%2Belement%2Bordering%2Bin%2Bboosting-based%2Bclassification%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=KW2gR1Ro5VQJ&ei=zZVdYYu4KYnmmgGQla6wAw", "citedby_url": "/scholar?cites=6117410380040924457&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:KW2gR1Ro5VQJ:scholar.google.com/&scioq=Structured+output+element+ordering+in+boosting-based+classification&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Structured output element ordering in boosting-based classification",
+    "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw",
+    "pub_year": "2011",
+    "venue": "International Conference on Hybrid Artificial \u2026",
+    "abstract": "The paper describes the method for structured output classification that is able to perform classification task for unknown shape of output structure. In previous work authors provided that the classification of the element in the output structure can be performed using standard input of the instance (its profile) as well as all other preceding output elements (already classified) as learning attributes. Now they present how the order of the score function application to each element of output space is important and may determine the overall",
+    "organization": "Springer",
+    "pages": "221--228",
+    "booktitle": "International Conference on Hybrid Artificial Intelligence Systems",
+    "pub_type": "inproceedings",
+    "bib_id": "kajdanowicz2011structured"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-21222-2_27",
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:KW2gR1Ro5VQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStructured%2Boutput%2Belement%2Bordering%2Bin%2Bboosting-based%2Bclassification%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=KW2gR1Ro5VQJ&ei=zZVdYYu4KYnmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=6117410380040924457&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:KW2gR1Ro5VQJ:scholar.google.com/&scioq=Structured+output+element+ordering+in+boosting-based+classification&hl=en&as_sdt=0,5"
+}

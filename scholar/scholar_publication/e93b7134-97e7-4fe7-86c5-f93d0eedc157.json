@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Mining sequential patterns with negative conclusions", "author": "Kazienko, Przemys{\\l}aw", "pub_year": "2008", "venue": "International Conference on Data Warehousing and \u2026", "abstract": "The new type of patterns: sequential patterns with the negative conclusions is proposed in the paper. They denote that a certain set of items does not occur after a regular frequent sequence. Some experimental results and the SPAWN algorithm for mining sequential patterns with the negative conclusions are also presented.", "organization": "Springer", "pages": "423--432", "booktitle": "International Conference on Data Warehousing and Knowledge Discovery", "pub_type": "inproceedings", "bib_id": "kazienko2008mining"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-85836-2_40", "author_id": ["cxLgNccAAAAJ"], "num_citations": 13, "url_scholarbib": "/scholar?q=info:3bW0GQhgKNsJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMining%2Bsequential%2Bpatterns%2Bwith%2Bnegative%2Bconclusions%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=3bW0GQhgKNsJ&ei=OzVeYaLNM6PZsQKvo78o", "citedby_url": "/scholar?cites=15791977681281922525&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:3bW0GQhgKNsJ:scholar.google.com/&scioq=Mining+sequential+patterns+with+negative+conclusions&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Przemyslaw-Kazienko/publication/225747659_Mining_Sequential_Patterns_with_Negative_Conclusions/links/0c96051b77cc8bec14000000/Mining-Sequential-Patterns-with-Negative-Conclusions.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Mining sequential patterns with negative conclusions",
+    "author": "Kazienko, Przemys{\\l}aw",
+    "pub_year": "2008",
+    "venue": "International Conference on Data Warehousing and \u2026",
+    "abstract": "The new type of patterns: sequential patterns with the negative conclusions is proposed in the paper. They denote that a certain set of items does not occur after a regular frequent sequence. Some experimental results and the SPAWN algorithm for mining sequential patterns with the negative conclusions are also presented.",
+    "organization": "Springer",
+    "pages": "423--432",
+    "booktitle": "International Conference on Data Warehousing and Knowledge Discovery",
+    "pub_type": "inproceedings",
+    "bib_id": "kazienko2008mining"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-85836-2_40",
+  "author_id": [
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 13,
+  "url_scholarbib": "/scholar?q=info:3bW0GQhgKNsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMining%2Bsequential%2Bpatterns%2Bwith%2Bnegative%2Bconclusions%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=3bW0GQhgKNsJ&ei=OzVeYaLNM6PZsQKvo78o",
+  "citedby_url": "/scholar?cites=15791977681281922525&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:3bW0GQhgKNsJ:scholar.google.com/&scioq=Mining+sequential+patterns+with+negative+conclusions&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Przemyslaw-Kazienko/publication/225747659_Mining_Sequential_Patterns_with_Negative_Conclusions/links/0c96051b77cc8bec14000000/Mining-Sequential-Patterns-with-Negative-Conclusions.pdf"
+}

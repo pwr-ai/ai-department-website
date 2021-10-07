@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Scalable distributed evolutionary algorithm orchestration using Docker containers", "author": "Dziurzanski, Piotr and Zhao, Shuai and Przewozniczek, Michal and Komarnicki, Marcin and Indrusiak, Leandro Soares", "pub_year": "2020", "venue": "Journal of \u2026", "abstract": "In smart factories, integrated optimisation of manufacturing process planning and scheduling leads to better results than a traditional sequential approach but is computationally more expensive and thus difficult to be applied to real-world manufacturing scenarios. In this paper, a working approach for cloud-based distributed optimisation for process planning and scheduling is presented. Three managers dynamically governing the creation and deletion of subpopulations (islands) evolved by a multi-objective genetic algorithm are", "publisher": "Elsevier", "pages": "101069", "volume": "40", "journal": "Journal of Computational Science", "pub_type": "article", "bib_id": "dziurzanski2020scalable"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S1877750319303333", "author_id": ["0BoxJ6EAAAAJ", "AbH_p9kAAAAJ", "bmJw3Z0AAAAJ"], "num_citations": 5, "url_scholarbib": "/scholar?q=info:0RPtE431f-EJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DScalable%2Bdistributed%2Bevolutionary%2Balgorithm%2Borchestration%2Busing%2BDocker%2Bcontainers%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=0RPtE431f-EJ&ei=UEReYe-PGqPZsQKvo78o", "citedby_url": "/scholar?cites=16248975966849536977&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:0RPtE431f-EJ:scholar.google.com/&scioq=Scalable+distributed+evolutionary+algorithm+orchestration+using+Docker+containers&hl=en&as_sdt=0,5", "eprint_url": "https://eprints.whiterose.ac.uk/155045/1/JoCS_28th_Feb.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Scalable distributed evolutionary algorithm orchestration using Docker containers",
+    "author": "Dziurzanski, Piotr and Zhao, Shuai and Przewozniczek, Michal and Komarnicki, Marcin and Indrusiak, Leandro Soares",
+    "pub_year": "2020",
+    "venue": "Journal of \u2026",
+    "abstract": "In smart factories, integrated optimisation of manufacturing process planning and scheduling leads to better results than a traditional sequential approach but is computationally more expensive and thus difficult to be applied to real-world manufacturing scenarios. In this paper, a working approach for cloud-based distributed optimisation for process planning and scheduling is presented. Three managers dynamically governing the creation and deletion of subpopulations (islands) evolved by a multi-objective genetic algorithm are",
+    "publisher": "Elsevier",
+    "pages": "101069",
+    "volume": "40",
+    "journal": "Journal of Computational Science",
+    "pub_type": "article",
+    "bib_id": "dziurzanski2020scalable"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S1877750319303333",
+  "author_id": [
+    "0BoxJ6EAAAAJ",
+    "AbH_p9kAAAAJ",
+    "bmJw3Z0AAAAJ"
+  ],
+  "num_citations": 5,
+  "url_scholarbib": "/scholar?q=info:0RPtE431f-EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DScalable%2Bdistributed%2Bevolutionary%2Balgorithm%2Borchestration%2Busing%2BDocker%2Bcontainers%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=0RPtE431f-EJ&ei=UEReYe-PGqPZsQKvo78o",
+  "citedby_url": "/scholar?cites=16248975966849536977&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:0RPtE431f-EJ:scholar.google.com/&scioq=Scalable+distributed+evolutionary+algorithm+orchestration+using+Docker+containers&hl=en&as_sdt=0,5",
+  "eprint_url": "https://eprints.whiterose.ac.uk/155045/1/JoCS_28th_Feb.pdf"
+}

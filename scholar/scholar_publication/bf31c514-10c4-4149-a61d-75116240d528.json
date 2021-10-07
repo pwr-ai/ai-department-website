@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Taxonomy of data quality problems in multidimensional Data Warehouse models", "author": "de Almeida, Wesley Gongora and de Sousa, Rafael Tim{\\'o}teo and de Deus, Fl{\\'a}vio Elias and Nze, Georges Daniel Amvame and de Mendon{\\c{c}}a, F{\\'a}bio L{\\'u}cio Lopes", "pub_year": "2013", "venue": "2013 8th Iberian \u2026", "abstract": "The impact of poor data quality on the process of decision making, organizational trust and customer satisfaction is well known. In today's organizations, Data Warehousing (DW) have offered support to business management and become part of natural and logical evolution", "organization": "IEEE", "pages": "1--7", "booktitle": "2013 8th Iberian Conference on Information Systems and Technologies (CISTI)", "pub_type": "inproceedings", "bib_id": "de2013taxonomy"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/6615784/", "author_id": ["", "KPLXfk0AAAAJ"], "num_citations": 13, "url_scholarbib": "/scholar?q=info:i7xm6U6iLV0J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData%2BWarehouse%2BTaxonomy%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=i7xm6U6iLV0J&ei=7pxdYZTKIYfBmQGX-6OoBg", "citedby_url": "/scholar?cites=6714201079286250635&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:i7xm6U6iLV0J:scholar.google.com/&scioq=Data+Warehouse+Taxonomy&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Taxonomy of data quality problems in multidimensional Data Warehouse models",
+    "author": "de Almeida, Wesley Gongora and de Sousa, Rafael Tim{\\'o}teo and de Deus, Fl{\\'a}vio Elias and Nze, Georges Daniel Amvame and de Mendon{\\c{c}}a, F{\\'a}bio L{\\'u}cio Lopes",
+    "pub_year": "2013",
+    "venue": "2013 8th Iberian \u2026",
+    "abstract": "The impact of poor data quality on the process of decision making, organizational trust and customer satisfaction is well known. In today's organizations, Data Warehousing (DW) have offered support to business management and become part of natural and logical evolution",
+    "organization": "IEEE",
+    "pages": "1--7",
+    "booktitle": "2013 8th Iberian Conference on Information Systems and Technologies (CISTI)",
+    "pub_type": "inproceedings",
+    "bib_id": "de2013taxonomy"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/6615784/",
+  "author_id": [
+    "",
+    "KPLXfk0AAAAJ"
+  ],
+  "num_citations": 13,
+  "url_scholarbib": "/scholar?q=info:i7xm6U6iLV0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData%2BWarehouse%2BTaxonomy%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=i7xm6U6iLV0J&ei=7pxdYZTKIYfBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=6714201079286250635&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:i7xm6U6iLV0J:scholar.google.com/&scioq=Data+Warehouse+Taxonomy&hl=en&as_sdt=0,5"
+}

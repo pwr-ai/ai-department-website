@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Heuristic classifier chains for multi-label classification", "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw", "pub_year": "2013", "venue": "International Conference on Flexible Query \u2026", "abstract": "Multi-label classification, in opposite to conventional classification, assumes that each data instance may be associated with more than one labels simultaneously. Multi-label learning methods take advantage of dependencies between labels, but this implies greater learning computational complexity. The paper considers Classifier Chain multi-label classification method, which in original form is fast, but assumes the order of labels in the chain. This leads to propagation of inference errors down the chain. On the other hand recent Bayes", "organization": "Springer", "pages": "555--566", "booktitle": "International Conference on Flexible Query Answering Systems", "pub_type": "inproceedings", "bib_id": "kajdanowicz2013heuristic"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-40769-7_48", "author_id": ["GOoaHHEAAAAJ", "cxLgNccAAAAJ"], "num_citations": 6, "url_scholarbib": "/scholar?q=info:wcAncDHWdToJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHeuristic%2Bclassifier%2Bchains%2Bfor%2Bmulti-label%2Bclassification%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=wcAncDHWdToJ&ei=gkBeYaHOCc-TmwHPvZGABQ", "citedby_url": "/scholar?cites=4212508534298362049&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:wcAncDHWdToJ:scholar.google.com/&scioq=Heuristic+classifier+chains+for+multi-label+classification&hl=en&as_sdt=0,39"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Heuristic classifier chains for multi-label classification",
+    "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw",
+    "pub_year": "2013",
+    "venue": "International Conference on Flexible Query \u2026",
+    "abstract": "Multi-label classification, in opposite to conventional classification, assumes that each data instance may be associated with more than one labels simultaneously. Multi-label learning methods take advantage of dependencies between labels, but this implies greater learning computational complexity. The paper considers Classifier Chain multi-label classification method, which in original form is fast, but assumes the order of labels in the chain. This leads to propagation of inference errors down the chain. On the other hand recent Bayes",
+    "organization": "Springer",
+    "pages": "555--566",
+    "booktitle": "International Conference on Flexible Query Answering Systems",
+    "pub_type": "inproceedings",
+    "bib_id": "kajdanowicz2013heuristic"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-40769-7_48",
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 6,
+  "url_scholarbib": "/scholar?q=info:wcAncDHWdToJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHeuristic%2Bclassifier%2Bchains%2Bfor%2Bmulti-label%2Bclassification%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=wcAncDHWdToJ&ei=gkBeYaHOCc-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=4212508534298362049&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:wcAncDHWdToJ:scholar.google.com/&scioq=Heuristic+classifier+chains+for+multi-label+classification&hl=en&as_sdt=0,39"
+}

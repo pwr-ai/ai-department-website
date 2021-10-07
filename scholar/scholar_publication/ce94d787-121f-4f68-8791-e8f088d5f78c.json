@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Towards semi-automatic extraction of lexical semantics relations for Polish", "author": "Piasecki, Maciej", "pub_year": "2008", "venue": "\u2026 Journal of Intelligent Information and Database \u2026", "abstract": "A recently started project on building the Polish wordnet (called plWordNet) is the background to the presented work. The goals of the project and the linguistic structure of plWordNet are described. The assumptions of the planned semi-automatic method of extending the initial core wordnet to its full size are presented. A multi-criteria algorithm of extraction of lexical semantic relations is presented. Several problems with application of the known methods of relation extraction to Polish\u2013an inflectional and free word order language", "publisher": "Inderscience Publishers", "pages": "336--353", "number": "3", "volume": "2", "journal": "International Journal of Intelligent Information and Database Systems", "pub_type": "article", "bib_id": "piasecki2008towards"}, "filled": true, "gsrank": 1, "pub_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJIIDS.2008.020446", "author_id": ["nU_W9XwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:21xjSXVZKuYJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bsemi-automatic%2Bextraction%2Bof%2Blexical%2Bsemantics%2Brelations%2Bfor%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=21xjSXVZKuYJ&ei=py5eYdCpA86_mQHMm7boDg", "url_related_articles": "/scholar?q=related:21xjSXVZKuYJ:scholar.google.com/&scioq=Towards+semi-automatic+extraction+of+lexical+semantics+relations+for+Polish&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Towards semi-automatic extraction of lexical semantics relations for Polish",
+    "author": "Piasecki, Maciej",
+    "pub_year": "2008",
+    "venue": "\u2026 Journal of Intelligent Information and Database \u2026",
+    "abstract": "A recently started project on building the Polish wordnet (called plWordNet) is the background to the presented work. The goals of the project and the linguistic structure of plWordNet are described. The assumptions of the planned semi-automatic method of extending the initial core wordnet to its full size are presented. A multi-criteria algorithm of extraction of lexical semantic relations is presented. Several problems with application of the known methods of relation extraction to Polish\u2013an inflectional and free word order language",
+    "publisher": "Inderscience Publishers",
+    "pages": "336--353",
+    "number": "3",
+    "volume": "2",
+    "journal": "International Journal of Intelligent Information and Database Systems",
+    "pub_type": "article",
+    "bib_id": "piasecki2008towards"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJIIDS.2008.020446",
+  "author_id": [
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:21xjSXVZKuYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bsemi-automatic%2Bextraction%2Bof%2Blexical%2Bsemantics%2Brelations%2Bfor%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=21xjSXVZKuYJ&ei=py5eYdCpA86_mQHMm7boDg",
+  "url_related_articles": "/scholar?q=related:21xjSXVZKuYJ:scholar.google.com/&scioq=Towards+semi-automatic+extraction+of+lexical+semantics+relations+for+Polish&hl=en&as_sdt=0,5"
+}

@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Towards a truly bilingual wordnet-plWordNet 2.0.", "author": "Rudnicka, Ewa and Maziarz, Marek and Piasecki, Maciej", "venue": "NA", "pub_year": "NA", "abstract": "The paper focuses on the results of the first stage of mapping between two huge lexico-semantic networks: plWordNet and Princeton WordNet. The mapping not only led to the construction of a big bilingual lexico-semantic resource, but also allowed to trace a number of contrasts in the content and structure of the two networks. Though many of them obviously concern English and Polish lexis (eg lexical and cultural gaps, different structuring of information), other are contingent on different methodology applied in the creation of both", "pub_type": "article", "bib_id": "rudnickatowards"}, "filled": true, "gsrank": 1, "pub_url": "http://wa.amu.edu.pl/plm_old/2013/files/Abstracts/Rudnicka_and_Maziarz_and_Piasecki_PLM2013.pdf", "author_id": ["rCk4VXEAAAAJ", "hc3Zj7UAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:szN2lFVq3CsJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Ba%2Btruly%2Bbilingual%2Bwordnet-plWordNet%2B2.0.%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=szN2lFVq3CsJ&ei=JjBeYZ-YEYu4mAGqg5LoDg", "url_related_articles": "/scholar?q=related:szN2lFVq3CsJ:scholar.google.com/&scioq=Towards+a+truly+bilingual+wordnet-plWordNet+2.0.&hl=en&as_sdt=0,5", "eprint_url": "http://wa.amu.edu.pl/plm_old/2013/files/Abstracts/Rudnicka_and_Maziarz_and_Piasecki_PLM2013.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Towards a truly bilingual wordnet-plWordNet 2.0.",
+    "author": "Rudnicka, Ewa and Maziarz, Marek and Piasecki, Maciej",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "The paper focuses on the results of the first stage of mapping between two huge lexico-semantic networks: plWordNet and Princeton WordNet. The mapping not only led to the construction of a big bilingual lexico-semantic resource, but also allowed to trace a number of contrasts in the content and structure of the two networks. Though many of them obviously concern English and Polish lexis (eg lexical and cultural gaps, different structuring of information), other are contingent on different methodology applied in the creation of both",
+    "pub_type": "article",
+    "bib_id": "rudnickatowards"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://wa.amu.edu.pl/plm_old/2013/files/Abstracts/Rudnicka_and_Maziarz_and_Piasecki_PLM2013.pdf",
+  "author_id": [
+    "rCk4VXEAAAAJ",
+    "hc3Zj7UAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:szN2lFVq3CsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Ba%2Btruly%2Bbilingual%2Bwordnet-plWordNet%2B2.0.%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=szN2lFVq3CsJ&ei=JjBeYZ-YEYu4mAGqg5LoDg",
+  "url_related_articles": "/scholar?q=related:szN2lFVq3CsJ:scholar.google.com/&scioq=Towards+a+truly+bilingual+wordnet-plWordNet+2.0.&hl=en&as_sdt=0,5",
+  "eprint_url": "http://wa.amu.edu.pl/plm_old/2013/files/Abstracts/Rudnicka_and_Maziarz_and_Piasecki_PLM2013.pdf"
+}

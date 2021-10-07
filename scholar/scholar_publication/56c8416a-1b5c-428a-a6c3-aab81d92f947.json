@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Analysis and Applications of Complex Social Networks 2018", "author": "Musial, Katarzyna and Br{\\'o}dka, Piotr and De Meo, Pasquale", "pub_year": "2019", "venue": "NA", "abstract": "Acknowledgments is special issue is an outcome of the hard work of a number of people and could not have happened without the support of our collaborators. We would like to thank the editors-inchief of this journal for their kind support and help during the entire process of publication. is was possible thanks to the work of the researchers who provided their anonymous reviews. Finally, we are most grateful to the authors for their valuable contributions and for their willingness and efforts to improve their papers in accordance with", "publisher": "Hindawi", "pub_type": "misc", "bib_id": "musial2019analysis"}, "filled": true, "gsrank": 1, "pub_url": "https://www.hindawi.com/journals/complexity/2019/9082573/", "author_id": ["Dw5QS9wAAAAJ", "T7v65jEAAAAJ", "PX15CIgAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:PI0bCnwG18gJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Band%2BApplications%2Bof%2BComplex%2BSocial%2BNetworks%2B2018%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=PI0bCnwG18gJ&ei=YFNeYa7vI8-TmwHPvZGABQ", "citedby_url": "/scholar?cites=14472043057393667388&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:PI0bCnwG18gJ:scholar.google.com/&scioq=Analysis+and+Applications+of+Complex+Social+Networks+2018&hl=en&as_sdt=0,5", "eprint_url": "https://www.hindawi.com/journals/complexity/2019/9082573/"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Analysis and Applications of Complex Social Networks 2018",
+    "author": "Musial, Katarzyna and Br{\\'o}dka, Piotr and De Meo, Pasquale",
+    "pub_year": "2019",
+    "venue": "NA",
+    "abstract": "Acknowledgments is special issue is an outcome of the hard work of a number of people and could not have happened without the support of our collaborators. We would like to thank the editors-inchief of this journal for their kind support and help during the entire process of publication. is was possible thanks to the work of the researchers who provided their anonymous reviews. Finally, we are most grateful to the authors for their valuable contributions and for their willingness and efforts to improve their papers in accordance with",
+    "publisher": "Hindawi",
+    "pub_type": "misc",
+    "bib_id": "musial2019analysis"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.hindawi.com/journals/complexity/2019/9082573/",
+  "author_id": [
+    "Dw5QS9wAAAAJ",
+    "T7v65jEAAAAJ",
+    "PX15CIgAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:PI0bCnwG18gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Band%2BApplications%2Bof%2BComplex%2BSocial%2BNetworks%2B2018%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=PI0bCnwG18gJ&ei=YFNeYa7vI8-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=14472043057393667388&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:PI0bCnwG18gJ:scholar.google.com/&scioq=Analysis+and+Applications+of+Complex+Social+Networks+2018&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.hindawi.com/journals/complexity/2019/9082573/"
+}

@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Multi-layered social networks", "author": "Br{\\'o}dka, Piotr and Kazienko, Przemys{\\l}aw", "pub_year": "2012", "venue": "arXiv preprint arXiv:1212.2425", "abstract": "It is quite obvious that in the real world, more than one kind of relationship can exist between two actors and that those ties can be so intertwined that it is impossible to analyse them separately [Fienberg 85],[Minor 83],[Szell 10]. Social networks with more than one type of", "journal": "arXiv preprint arXiv:1212.2425", "pub_type": "article", "bib_id": "brodka2012multi"}, "filled": true, "gsrank": 1, "pub_url": "https://arxiv.org/abs/1212.2425", "author_id": ["T7v65jEAAAAJ", "cxLgNccAAAAJ"], "num_citations": 30, "url_scholarbib": "/scholar?q=info:sO08clEcuroJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-layered%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sO08clEcuroJ&ei=6DJeYfntEcKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=13455097972857302448&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:sO08clEcuroJ:scholar.google.com/&scioq=Multi-layered+social+networks&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1212.2425"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Multi-layered social networks",
+    "author": "Br{\\'o}dka, Piotr and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2012",
+    "venue": "arXiv preprint arXiv:1212.2425",
+    "abstract": "It is quite obvious that in the real world, more than one kind of relationship can exist between two actors and that those ties can be so intertwined that it is impossible to analyse them separately [Fienberg 85],[Minor 83],[Szell 10]. Social networks with more than one type of",
+    "journal": "arXiv preprint arXiv:1212.2425",
+    "pub_type": "article",
+    "bib_id": "brodka2012multi"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://arxiv.org/abs/1212.2425",
+  "author_id": [
+    "T7v65jEAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 30,
+  "url_scholarbib": "/scholar?q=info:sO08clEcuroJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-layered%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sO08clEcuroJ&ei=6DJeYfntEcKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=13455097972857302448&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:sO08clEcuroJ:scholar.google.com/&scioq=Multi-layered+social+networks&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1212.2425"
+}

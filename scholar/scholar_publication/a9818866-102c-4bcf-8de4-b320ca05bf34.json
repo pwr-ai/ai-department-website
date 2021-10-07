@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "KPWr Annotation Guidelines-Spatial Expressions (2.0)", "author": "Oleksy, Marcin and Marci{\\'n}czuk, Micha{\\l} and Berna{\\'s}, Tomasz and Wieczorek, Jan and Koco{\\'n}, Jan", "pub_year": "2019", "venue": "NA", "abstract": "Page 1. 1 Wytyczne KPWr wyra\u017cenia przestrzenne (2.0) Osoba odpowiedzialna (technologia) Micha\u0142 Marci\u0144czuk Osoba odpowiedzialna (lingwistyka) Marcin Oleksy Udzia\u0142 Tomasz Berna\u015b Jan Koco\u0144 Jan Wieczorek Page 2. 2 Wst\u0119p 3 Relacje przestrzenne \u2014 wprowadzenie 3 Warunki znakowania 5 Komponenty relacji przestrzennych 5 Zestawienie 5 Szczeg\u00f3\u0142owa definicja komponent\u00f3w 8 SPATIAL_OBJECT 8 DISTANCE 9 DIRECTION 9 REGION 11  SPATIAL_INDICATOR 12 MOTION_INDICATOR 12 PATH_INDICATOR 13 Problemy decyzyjne", "publisher": "Wroc{\\l}aw University of Science and Technology", "pub_type": "article", "bib_id": "oleksy2019kpwr"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/719/Wytyczne%20KPWr%20--%20wyra%C5%BCenia%20przestrzenne%20%282.0%29.pdf?sequence=1&isAllowed=y", "author_id": ["1QVBEYYAAAAJ", "aAk1SIsAAAAJ", "", "PED5C-YAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:qeFoPS7chLoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKPWr%2BAnnotation%2BGuidelines-Spatial%2BExpressions%2B(2.0)%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qeFoPS7chLoJ&ei=sKFdYd7iAaPZsQKvo78o", "citedby_url": "/scholar?cites=13440109279137292713&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:qeFoPS7chLoJ:scholar.google.com/&scioq=KPWr+Annotation+Guidelines-Spatial+Expressions+(2.0)&hl=en&as_sdt=0,5", "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/719/Wytyczne%20KPWr%20--%20wyra%C5%BCenia%20przestrzenne%20%282.0%29.pdf?sequence=1&isAllowed=y"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "KPWr Annotation Guidelines-Spatial Expressions (2.0)",
+    "author": "Oleksy, Marcin and Marci{\\'n}czuk, Micha{\\l} and Berna{\\'s}, Tomasz and Wieczorek, Jan and Koco{\\'n}, Jan",
+    "pub_year": "2019",
+    "venue": "NA",
+    "abstract": "Page 1. 1 Wytyczne KPWr wyra\u017cenia przestrzenne (2.0) Osoba odpowiedzialna (technologia) Micha\u0142 Marci\u0144czuk Osoba odpowiedzialna (lingwistyka) Marcin Oleksy Udzia\u0142 Tomasz Berna\u015b Jan Koco\u0144 Jan Wieczorek Page 2. 2 Wst\u0119p 3 Relacje przestrzenne \u2014 wprowadzenie 3 Warunki znakowania 5 Komponenty relacji przestrzennych 5 Zestawienie 5 Szczeg\u00f3\u0142owa definicja komponent\u00f3w 8 SPATIAL_OBJECT 8 DISTANCE 9 DIRECTION 9 REGION 11  SPATIAL_INDICATOR 12 MOTION_INDICATOR 12 PATH_INDICATOR 13 Problemy decyzyjne",
+    "publisher": "Wroc{\\l}aw University of Science and Technology",
+    "pub_type": "article",
+    "bib_id": "oleksy2019kpwr"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/719/Wytyczne%20KPWr%20--%20wyra%C5%BCenia%20przestrzenne%20%282.0%29.pdf?sequence=1&isAllowed=y",
+  "author_id": [
+    "1QVBEYYAAAAJ",
+    "aAk1SIsAAAAJ",
+    "",
+    "PED5C-YAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:qeFoPS7chLoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKPWr%2BAnnotation%2BGuidelines-Spatial%2BExpressions%2B(2.0)%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qeFoPS7chLoJ&ei=sKFdYd7iAaPZsQKvo78o",
+  "citedby_url": "/scholar?cites=13440109279137292713&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:qeFoPS7chLoJ:scholar.google.com/&scioq=KPWr+Annotation+Guidelines-Spatial+Expressions+(2.0)&hl=en&as_sdt=0,5",
+  "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/719/Wytyczne%20KPWr%20--%20wyra%C5%BCenia%20przestrzenne%20%282.0%29.pdf?sequence=1&isAllowed=y"
+}

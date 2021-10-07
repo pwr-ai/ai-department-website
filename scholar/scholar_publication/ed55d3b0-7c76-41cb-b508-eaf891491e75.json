@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Parallel, massive processing in SuperMatrix: A general tool for distributional semantic analysis of corpora", "author": "Broda, Bartosz and Piasecki, Maciej", "pub_year": "2013", "venue": "International Journal of Data Mining \u2026", "abstract": "This article presents an extended version of the SuperMatrix system\u2013a general tool supporting automatic acquisition of lexical semantic relations from corpora. Extensions focus mainly on parallel processing of massive amounts of data. The construction of the system is discussed. Three distributed parts of the system are presented, ie, distributed construction of co-incidence matrices from corpora, computation of similarity matrix and parallel solving of synonymy tests. An evaluation of a proposed approach to parallel processing is shown", "publisher": "Inderscience Publishers Ltd", "pages": "1--19", "number": "1", "volume": "5", "journal": "International Journal of Data Mining, Modelling and Management", "pub_type": "article", "bib_id": "broda2013parallel"}, "filled": true, "gsrank": 1, "pub_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJDMMM.2013.051924", "author_id": ["pulMdOUAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 21, "url_scholarbib": "/scholar?q=info:bzywr64AJeUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DParallel,%2Bmassive%2Bprocessing%2Bin%2BSuperMatrix:%2BA%2Bgeneral%2Btool%2Bfor%2Bdistributional%2Bsemantic%2Banalysis%2Bof%2Bcorpora%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bzywr64AJeUJ&ei=37BdYeSDE42UmQGz6rqYBQ", "citedby_url": "/scholar?cites=16511604359095663727&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:bzywr64AJeUJ:scholar.google.com/&scioq=Parallel,+massive+processing+in+SuperMatrix:+A+general+tool+for+distributional+semantic+analysis+of+corpora&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/220947927_Parallel_Massive_Processing_in_SuperMatrix_-_a_General_Tool_for_Distributional_Semantic_Analysis_of_Corpus/links/004635141e5741ba2f000000/Parallel-Massive-Processing-in-SuperMatrix-a-General-Tool-for-Distributional-Semantic-Analysis-of-Corpus.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Parallel, massive processing in SuperMatrix: A general tool for distributional semantic analysis of corpora",
+    "author": "Broda, Bartosz and Piasecki, Maciej",
+    "pub_year": "2013",
+    "venue": "International Journal of Data Mining \u2026",
+    "abstract": "This article presents an extended version of the SuperMatrix system\u2013a general tool supporting automatic acquisition of lexical semantic relations from corpora. Extensions focus mainly on parallel processing of massive amounts of data. The construction of the system is discussed. Three distributed parts of the system are presented, ie, distributed construction of co-incidence matrices from corpora, computation of similarity matrix and parallel solving of synonymy tests. An evaluation of a proposed approach to parallel processing is shown",
+    "publisher": "Inderscience Publishers Ltd",
+    "pages": "1--19",
+    "number": "1",
+    "volume": "5",
+    "journal": "International Journal of Data Mining, Modelling and Management",
+    "pub_type": "article",
+    "bib_id": "broda2013parallel"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJDMMM.2013.051924",
+  "author_id": [
+    "pulMdOUAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 21,
+  "url_scholarbib": "/scholar?q=info:bzywr64AJeUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DParallel,%2Bmassive%2Bprocessing%2Bin%2BSuperMatrix:%2BA%2Bgeneral%2Btool%2Bfor%2Bdistributional%2Bsemantic%2Banalysis%2Bof%2Bcorpora%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bzywr64AJeUJ&ei=37BdYeSDE42UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=16511604359095663727&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:bzywr64AJeUJ:scholar.google.com/&scioq=Parallel,+massive+processing+in+SuperMatrix:+A+general+tool+for+distributional+semantic+analysis+of+corpora&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/220947927_Parallel_Massive_Processing_in_SuperMatrix_-_a_General_Tool_for_Distributional_Semantic_Analysis_of_Corpus/links/004635141e5741ba2f000000/Parallel-Massive-Processing-in-SuperMatrix-a-General-Tool-for-Distributional-Semantic-Analysis-of-Corpus.pdf"
+}

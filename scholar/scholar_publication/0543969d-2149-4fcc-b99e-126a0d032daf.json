@@ -1,1 +1,23 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Corpus-SUCK", "author": "Koco{\\'n}, Jan", "pub_year": "2010", "venue": "NA", "abstract": "Description Proces przetwarzania umo\u017cliwia pobranie zawarto\u015bci serwis\u00f3w internetowych. Wej\u015bciem dla procesu jest lista adres\u00f3w URL, na wyj\u015bciu uzyskuje si\u0119 zbi\u00f3r plik\u00f3w zawieraj\u0105cych najbardziej istotn\u0105 zawarto\u015b\u0107 (tylko tekst, np. tre\u015b\u0107 artyku\u0142u, bez dodatkowych", "publisher": "Wroc{\\l}aw University of Technology", "pub_type": "article", "bib_id": "kocon2010corpus"}, "filled": true, "gsrank": 1, "pub_url": "http://clarin-pl.eu/dspace/handle/11321/9", "author_id": ["pmQHb5IAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:wsjdBBwvNIEJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpus-SUCK%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=wsjdBBwvNIEJ&ei=oKddYeGPGaPZsQKvo78o"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Corpus-SUCK",
+    "author": "Koco{\\'n}, Jan",
+    "pub_year": "2010",
+    "venue": "NA",
+    "abstract": "Description Proces przetwarzania umo\u017cliwia pobranie zawarto\u015bci serwis\u00f3w internetowych. Wej\u015bciem dla procesu jest lista adres\u00f3w URL, na wyj\u015bciu uzyskuje si\u0119 zbi\u00f3r plik\u00f3w zawieraj\u0105cych najbardziej istotn\u0105 zawarto\u015b\u0107 (tylko tekst, np. tre\u015b\u0107 artyku\u0142u, bez dodatkowych",
+    "publisher": "Wroc{\\l}aw University of Technology",
+    "pub_type": "article",
+    "bib_id": "kocon2010corpus"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://clarin-pl.eu/dspace/handle/11321/9",
+  "author_id": [
+    "pmQHb5IAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:wsjdBBwvNIEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpus-SUCK%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=wsjdBBwvNIEJ&ei=oKddYeGPGaPZsQKvo78o"
+}

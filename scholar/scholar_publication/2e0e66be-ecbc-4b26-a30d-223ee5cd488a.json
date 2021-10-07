@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Label-dependent node classification in the network", "author": "Kazienko, Przemyslaw and Kajdanowicz, Tomasz", "pub_year": "2012", "venue": "Neurocomputing", "abstract": "Relations between objects in various systems, such as hyperlinks connecting web pages, citations of scientific papers, conversations via email or social interactions in Web 2.0 portals are commonly modeled by networks. One of many interesting problems currently studied for such domains is node classification. Due to the nature of the networked data and the unavailability of collection of nodes' broad representation for training in majority of environments, only a very limited data may remain useful for classification. Therefore, there", "publisher": "Elsevier", "pages": "199--209", "number": "1", "volume": "75", "journal": "Neurocomputing", "pub_type": "article", "bib_id": "kazienko2012label"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S092523121100508X", "author_id": ["cxLgNccAAAAJ", "GOoaHHEAAAAJ"], "num_citations": 47, "url_scholarbib": "/scholar?q=info:zjEvNFhNg04J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLabel-dependent%2Bnode%2Bclassification%2Bin%2Bthe%2Bnetwork%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=zjEvNFhNg04J&ei=5ZNdYYbCNIfBmQGX-6OoBg", "citedby_url": "/scholar?cites=5657450598135443918&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:zjEvNFhNg04J:scholar.google.com/&scioq=Label-dependent+node+classification+in+the+network&hl=en&as_sdt=0,39", "eprint_url": "https://www.ii.pwr.edu.pl/~kazienko/pub/2012/Neurocomputing2012.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Label-dependent node classification in the network",
+    "author": "Kazienko, Przemyslaw and Kajdanowicz, Tomasz",
+    "pub_year": "2012",
+    "venue": "Neurocomputing",
+    "abstract": "Relations between objects in various systems, such as hyperlinks connecting web pages, citations of scientific papers, conversations via email or social interactions in Web 2.0 portals are commonly modeled by networks. One of many interesting problems currently studied for such domains is node classification. Due to the nature of the networked data and the unavailability of collection of nodes' broad representation for training in majority of environments, only a very limited data may remain useful for classification. Therefore, there",
+    "publisher": "Elsevier",
+    "pages": "199--209",
+    "number": "1",
+    "volume": "75",
+    "journal": "Neurocomputing",
+    "pub_type": "article",
+    "bib_id": "kazienko2012label"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S092523121100508X",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 47,
+  "url_scholarbib": "/scholar?q=info:zjEvNFhNg04J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLabel-dependent%2Bnode%2Bclassification%2Bin%2Bthe%2Bnetwork%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=zjEvNFhNg04J&ei=5ZNdYYbCNIfBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=5657450598135443918&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:zjEvNFhNg04J:scholar.google.com/&scioq=Label-dependent+node+classification+in+the+network&hl=en&as_sdt=0,39",
+  "eprint_url": "https://www.ii.pwr.edu.pl/~kazienko/pub/2012/Neurocomputing2012.pdf"
+}

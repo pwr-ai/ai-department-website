@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Discriminating Homonymy from Polysemy in Wordnets: English, Spanish and Polish Nouns", "author": "Janz, Arkadiusz and Maziarz, Marek", "pub_year": "2021", "venue": "Proceedings of the 11th Global Wordnet Conference", "abstract": "We propose a novel method of homonymy-polysemy discrimination for three Indo-European Languages (English, Spanish and Polish). Support vector machines and LASSO logistic regression were successfully used in this task, outperforming baselines. The feature set utilised lemma properties, gloss similarities, graph distances and polysemy patterns. The proposed ML models performed equally well for English and the other two languages (constituting testing data sets). The algorithms not only ruled out most cases of homonymy", "pages": "53--62", "booktitle": "Proceedings of the 11th Global Wordnet Conference", "pub_type": "inproceedings", "bib_id": "janz2021discriminating"}, "filled": true, "gsrank": 1, "pub_url": "https://www.aclweb.org/anthology/2021.gwc-1.7/", "author_id": ["UNlMg18AAAAJ", "hc3Zj7UAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:vUAOpO1aXzEJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDiscriminating%2BHomonymy%2Bfrom%2BPolysemy%2Bin%2BWordnets:%2BEnglish,%2BSpanish%2Band%2BPolish%2BNouns%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=vUAOpO1aXzEJ&ei=y0heYYHWJs6_mQHMm7boDg", "url_related_articles": "/scholar?q=related:vUAOpO1aXzEJ:scholar.google.com/&scioq=Discriminating+Homonymy+from+Polysemy+in+Wordnets:+English,+Spanish+and+Polish+Nouns&hl=en&as_sdt=0,33", "eprint_url": "https://www.aclweb.org/anthology/2021.gwc-1.7.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Discriminating Homonymy from Polysemy in Wordnets: English, Spanish and Polish Nouns",
+    "author": "Janz, Arkadiusz and Maziarz, Marek",
+    "pub_year": "2021",
+    "venue": "Proceedings of the 11th Global Wordnet Conference",
+    "abstract": "We propose a novel method of homonymy-polysemy discrimination for three Indo-European Languages (English, Spanish and Polish). Support vector machines and LASSO logistic regression were successfully used in this task, outperforming baselines. The feature set utilised lemma properties, gloss similarities, graph distances and polysemy patterns. The proposed ML models performed equally well for English and the other two languages (constituting testing data sets). The algorithms not only ruled out most cases of homonymy",
+    "pages": "53--62",
+    "booktitle": "Proceedings of the 11th Global Wordnet Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "janz2021discriminating"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.aclweb.org/anthology/2021.gwc-1.7/",
+  "author_id": [
+    "UNlMg18AAAAJ",
+    "hc3Zj7UAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:vUAOpO1aXzEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDiscriminating%2BHomonymy%2Bfrom%2BPolysemy%2Bin%2BWordnets:%2BEnglish,%2BSpanish%2Band%2BPolish%2BNouns%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=vUAOpO1aXzEJ&ei=y0heYYHWJs6_mQHMm7boDg",
+  "url_related_articles": "/scholar?q=related:vUAOpO1aXzEJ:scholar.google.com/&scioq=Discriminating+Homonymy+from+Polysemy+in+Wordnets:+English,+Spanish+and+Polish+Nouns&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.aclweb.org/anthology/2021.gwc-1.7.pdf"
+}

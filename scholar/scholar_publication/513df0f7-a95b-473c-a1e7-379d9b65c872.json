@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A small footprint i-vector extractor.", "author": "Kenny, Patrick", "pub_year": "2012", "venue": "Odyssey", "abstract": "In the case c= 1 and Nc= 1 this is the same as the PPCA posterior calculation (Bishop) Accumulate the matrix\u2211 c NcV\u2217 c Vc for each utterance The matrices V\u2217 c Vc are typically precomputed For a typical UBM configuration and 1000-dimensional i-vectors, the run-time", "pages": "1--6", "volume": "2012", "booktitle": "Odyssey", "pub_type": "inproceedings", "bib_id": "kenny2012small"}, "filled": true, "gsrank": 1, "pub_url": "https://www.crim.ca/perso/patrick.kenny/kenny_Odyssey2012_presentation.pdf", "author_id": [""], "num_citations": 120, "url_scholarbib": "/scholar?q=info:wGbJhICsRkQJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVector%2BExtractor%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=wGbJhICsRkQJ&ei=ncVdYZqtOsKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=4919809310932428480&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:wGbJhICsRkQJ:scholar.google.com/&scioq=Vector+Extractor&hl=en&as_sdt=0,5", "eprint_url": "https://www.crim.ca/perso/patrick.kenny/kenny_Odyssey2012_presentation.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A small footprint i-vector extractor.",
+    "author": "Kenny, Patrick",
+    "pub_year": "2012",
+    "venue": "Odyssey",
+    "abstract": "In the case c= 1 and Nc= 1 this is the same as the PPCA posterior calculation (Bishop) Accumulate the matrix\u2211 c NcV\u2217 c Vc for each utterance The matrices V\u2217 c Vc are typically precomputed For a typical UBM configuration and 1000-dimensional i-vectors, the run-time",
+    "pages": "1--6",
+    "volume": "2012",
+    "booktitle": "Odyssey",
+    "pub_type": "inproceedings",
+    "bib_id": "kenny2012small"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.crim.ca/perso/patrick.kenny/kenny_Odyssey2012_presentation.pdf",
+  "author_id": [
+    ""
+  ],
+  "num_citations": 120,
+  "url_scholarbib": "/scholar?q=info:wGbJhICsRkQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVector%2BExtractor%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=wGbJhICsRkQJ&ei=ncVdYZqtOsKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=4919809310932428480&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:wGbJhICsRkQJ:scholar.google.com/&scioq=Vector+Extractor&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.crim.ca/perso/patrick.kenny/kenny_Odyssey2012_presentation.pdf"
+}

@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "The system of register labels in plWordNet", "author": "Maziarz, Marek and Piasecki, Maciej and Szpakowicz, Stan", "pub_year": "2015", "venue": "Cognitive Studies| \u00c9tudes \u2026", "abstract": "Stylistic registers influence word usage. Both traditional dictionaries and wordnets assign lexical units to registers, and there is a wide range of solutions. A system of register labels can be flat or hierarchical, with few labels or many, homogeneous or decomposed into sets of elementary features. We review the register label systems in lexicography, and then discuss our model, designed for plWordNet, a large wordnet for Polish. There follows a detailed comparative analysis of several register systems in Polish lexical resources. We", "pages": "161--175", "number": "15", "journal": "Cognitive Studies| {\\'E}tudes cognitives", "pub_type": "article", "bib_id": "maziarz2015system"}, "filled": true, "gsrank": 1, "pub_url": "https://www.ceeol.com/search/article-detail?id=415931", "author_id": ["hc3Zj7UAAAAJ", "nU_W9XwAAAAJ", "mFbRWwMAAAAJ"], "num_citations": 4, "url_scholarbib": "/scholar?q=info:cUtItpJoPV4J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bsystem%2Bof%2Bregister%2Blabels%2Bin%2BplWordNet%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=cUtItpJoPV4J&ei=vb1dYamtAoLemgHVs5GYDg", "citedby_url": "/scholar?cites=6790698792477281137&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:cUtItpJoPV4J:scholar.google.com/&scioq=The+system+of+register+labels+in+plWordNet&hl=en&as_sdt=0,39", "eprint_url": "https://ispan.waw.pl/journals/index.php/cs-ec/article/viewFile/1171/1771"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "The system of register labels in plWordNet",
+    "author": "Maziarz, Marek and Piasecki, Maciej and Szpakowicz, Stan",
+    "pub_year": "2015",
+    "venue": "Cognitive Studies| \u00c9tudes \u2026",
+    "abstract": "Stylistic registers influence word usage. Both traditional dictionaries and wordnets assign lexical units to registers, and there is a wide range of solutions. A system of register labels can be flat or hierarchical, with few labels or many, homogeneous or decomposed into sets of elementary features. We review the register label systems in lexicography, and then discuss our model, designed for plWordNet, a large wordnet for Polish. There follows a detailed comparative analysis of several register systems in Polish lexical resources. We",
+    "pages": "161--175",
+    "number": "15",
+    "journal": "Cognitive Studies| {\\'E}tudes cognitives",
+    "pub_type": "article",
+    "bib_id": "maziarz2015system"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.ceeol.com/search/article-detail?id=415931",
+  "author_id": [
+    "hc3Zj7UAAAAJ",
+    "nU_W9XwAAAAJ",
+    "mFbRWwMAAAAJ"
+  ],
+  "num_citations": 4,
+  "url_scholarbib": "/scholar?q=info:cUtItpJoPV4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bsystem%2Bof%2Bregister%2Blabels%2Bin%2BplWordNet%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=cUtItpJoPV4J&ei=vb1dYamtAoLemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=6790698792477281137&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:cUtItpJoPV4J:scholar.google.com/&scioq=The+system+of+register+labels+in+plWordNet&hl=en&as_sdt=0,39",
+  "eprint_url": "https://ispan.waw.pl/journals/index.php/cs-ec/article/viewFile/1171/1771"
+}

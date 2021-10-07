@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A strategy of mapping Polish Wordnet onto Princeton Wordnet", "author": "Rudnicka, Ewa and Maziarz, Marek and Piasecki, Maciej and Szpakowicz, Stan", "pub_year": "2012", "venue": "Proceedings of COLING \u2026", "abstract": "We have managed to map about 28000 plWordNet synsets onto PWN synsets  Making Wordnet mappings robust  Mumbai, India, 31st Jan. - 4th February. Rudnicka, E., Maziarz, M., Piasecki, M., Szpakowicz, S. (2012) \u201cMapping plWordNet onto Princeton WordNet\u201d", "pages": "1039--1048", "booktitle": "Proceedings of COLING 2012: Posters", "pub_type": "inproceedings", "bib_id": "rudnicka2012strategy"}, "filled": true, "gsrank": 1, "pub_url": "https://www.aclweb.org/anthology/C12-2101.pdf", "author_id": ["rCk4VXEAAAAJ", "hc3Zj7UAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 48, "url_scholarbib": "/scholar?q=info:49RK6OiVPgEJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMapping%2BplWordNet%2Bonto%2BPrinceton%2BWordNet%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=49RK6OiVPgEJ&ei=x71dYa2ZJou4mAGqg5LoDg", "citedby_url": "/scholar?cites=89673870156158179&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:49RK6OiVPgEJ:scholar.google.com/&scioq=Mapping+plWordNet+onto+Princeton+WordNet&hl=en&as_sdt=0,39", "eprint_url": "https://www.aclweb.org/anthology/C12-2101.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A strategy of mapping Polish Wordnet onto Princeton Wordnet",
+    "author": "Rudnicka, Ewa and Maziarz, Marek and Piasecki, Maciej and Szpakowicz, Stan",
+    "pub_year": "2012",
+    "venue": "Proceedings of COLING \u2026",
+    "abstract": "We have managed to map about 28000 plWordNet synsets onto PWN synsets  Making Wordnet mappings robust  Mumbai, India, 31st Jan. - 4th February. Rudnicka, E., Maziarz, M., Piasecki, M., Szpakowicz, S. (2012) \u201cMapping plWordNet onto Princeton WordNet\u201d",
+    "pages": "1039--1048",
+    "booktitle": "Proceedings of COLING 2012: Posters",
+    "pub_type": "inproceedings",
+    "bib_id": "rudnicka2012strategy"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.aclweb.org/anthology/C12-2101.pdf",
+  "author_id": [
+    "rCk4VXEAAAAJ",
+    "hc3Zj7UAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 48,
+  "url_scholarbib": "/scholar?q=info:49RK6OiVPgEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMapping%2BplWordNet%2Bonto%2BPrinceton%2BWordNet%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=49RK6OiVPgEJ&ei=x71dYa2ZJou4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=89673870156158179&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:49RK6OiVPgEJ:scholar.google.com/&scioq=Mapping+plWordNet+onto+Princeton+WordNet&hl=en&as_sdt=0,39",
+  "eprint_url": "https://www.aclweb.org/anthology/C12-2101.pdf"
+}

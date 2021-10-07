@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "LNEMLC: Label network embeddings for multi-label classification", "author": "Szyma{\\'n}ski, Piotr and Kajdanowicz, Tomasz and Chawla, Nitesh", "pub_year": "2018", "venue": "arXiv preprint arXiv:1812.02956", "abstract": "Multi-label classification aims to classify instances with discrete non-exclusive labels. Most approaches on multi-label classification focus on effective adaptation or transformation of existing binary and multi-class learning approaches but fail in modelling the joint probability of labels or do not preserve generalization abilities for unseen label combinations. To address these issues we propose a new multi-label classification scheme, LNEMLC-Label Network Embedding for Multi-Label Classification, that embeds the label network and uses it", "journal": "arXiv preprint arXiv:1812.02956", "pub_type": "article", "bib_id": "szymanski2018lnemlc"}, "filled": true, "gsrank": 1, "pub_url": "https://arxiv.org/abs/1812.02956", "author_id": ["K8v7ROIAAAAJ", "GOoaHHEAAAAJ", "hDLBEhkAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:b9Z0dmEVB9UJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLNEMLC:%2BLabel%2Bnetwork%2Bembeddings%2Bfor%2Bmulti-label%2Bclassification%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=b9Z0dmEVB9UJ&ei=spVdYYmwPKPZsQKvo78o", "citedby_url": "/scholar?cites=15350261363259004527&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:b9Z0dmEVB9UJ:scholar.google.com/&scioq=LNEMLC:+Label+network+embeddings+for+multi-label+classification&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1812.02956"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "LNEMLC: Label network embeddings for multi-label classification",
+    "author": "Szyma{\\'n}ski, Piotr and Kajdanowicz, Tomasz and Chawla, Nitesh",
+    "pub_year": "2018",
+    "venue": "arXiv preprint arXiv:1812.02956",
+    "abstract": "Multi-label classification aims to classify instances with discrete non-exclusive labels. Most approaches on multi-label classification focus on effective adaptation or transformation of existing binary and multi-class learning approaches but fail in modelling the joint probability of labels or do not preserve generalization abilities for unseen label combinations. To address these issues we propose a new multi-label classification scheme, LNEMLC-Label Network Embedding for Multi-Label Classification, that embeds the label network and uses it",
+    "journal": "arXiv preprint arXiv:1812.02956",
+    "pub_type": "article",
+    "bib_id": "szymanski2018lnemlc"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://arxiv.org/abs/1812.02956",
+  "author_id": [
+    "K8v7ROIAAAAJ",
+    "GOoaHHEAAAAJ",
+    "hDLBEhkAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:b9Z0dmEVB9UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLNEMLC:%2BLabel%2Bnetwork%2Bembeddings%2Bfor%2Bmulti-label%2Bclassification%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=b9Z0dmEVB9UJ&ei=spVdYYmwPKPZsQKvo78o",
+  "citedby_url": "/scholar?cites=15350261363259004527&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:b9Z0dmEVB9UJ:scholar.google.com/&scioq=LNEMLC:+Label+network+embeddings+for+multi-label+classification&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1812.02956"
+}

@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Dru: Studying Blockchain as a Complex Network", "author": "Michalski, Radoslaw and Pieczka, Marcin", "pub_year": "2020", "venue": "2020 IEEE/ACM International \u2026", "abstract": "Apart from many project design decisions that have to be made when incorporating blockchain as a trusted transactions register, it is also essential to gain a deeper understanding of the ecosystem when it already entered operational state. By looking at the way how nodes perform transactions, how they cluster, or what is the dynamics of the network, many valuable insights can be derived about the condition of the whole system. This leads to improving functionality, performance, scalability, and security. We propose a", "organization": "IEEE", "pages": "929--932", "booktitle": "2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)", "pub_type": "inproceedings", "bib_id": "michalski2020dru"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/9381469/", "author_id": ["xMVnv3sAAAAJ", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:IkWvNjDopvwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDru:%2BStudying%2BBlockchain%2Bas%2Ba%2BComplex%2BNetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=IkWvNjDopvwJ&ei=WGNeYfTNIqPZsQKvo78o", "url_related_articles": "/scholar?q=related:IkWvNjDopvwJ:scholar.google.com/&scioq=Dru:+Studying+Blockchain+as+a+Complex+Network&hl=en&as_sdt=0,5", "eprint_url": "https://web.ntpu.edu.tw/~myday/doc/ASONAM2020/ASONAM2020_Proceedings/pdf/papers/144_093_929.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Dru: Studying Blockchain as a Complex Network",
+    "author": "Michalski, Radoslaw and Pieczka, Marcin",
+    "pub_year": "2020",
+    "venue": "2020 IEEE/ACM International \u2026",
+    "abstract": "Apart from many project design decisions that have to be made when incorporating blockchain as a trusted transactions register, it is also essential to gain a deeper understanding of the ecosystem when it already entered operational state. By looking at the way how nodes perform transactions, how they cluster, or what is the dynamics of the network, many valuable insights can be derived about the condition of the whole system. This leads to improving functionality, performance, scalability, and security. We propose a",
+    "organization": "IEEE",
+    "pages": "929--932",
+    "booktitle": "2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
+    "pub_type": "inproceedings",
+    "bib_id": "michalski2020dru"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/9381469/",
+  "author_id": [
+    "xMVnv3sAAAAJ",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:IkWvNjDopvwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDru:%2BStudying%2BBlockchain%2Bas%2Ba%2BComplex%2BNetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=IkWvNjDopvwJ&ei=WGNeYfTNIqPZsQKvo78o",
+  "url_related_articles": "/scholar?q=related:IkWvNjDopvwJ:scholar.google.com/&scioq=Dru:+Studying+Blockchain+as+a+Complex+Network&hl=en&as_sdt=0,5",
+  "eprint_url": "https://web.ntpu.edu.tw/~myday/doc/ASONAM2020/ASONAM2020_Proceedings/pdf/papers/144_093_929.pdf"
+}

@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Appel, Ana Paula 305 Augustyn, Dariusz Rafal 3", "author": "Aydin, Secil and Bazinski, Bartosz and Bedn{\\'a}r, Pavel and Bouju, Alain and Bre{\\ss}, Sebastian and Brzezicki, Micha{\\l} and Ceglarek, Dariusz and Chovanec, Peter and Correal, Dario and Cuzzocrea, Alfredo and others", "pub_year": "NA", "venue": "ABC", "abstract": "Author Index Appel, Ana Paula 305 Augustyn, Dariusz Rafal 3 Aydin, Secil 349 Bazinski, Bartosz  273 Bedn\u00e1r, Pavel 13 Bouju, Alain 187 Bre\u00df, Sebastian 27 Brzezicki, Micha\u0142 273 Ceglarek, Dariusz  49 Chovanec, Peter 13 Correal, Dario 403 Cuzzocrea, Alfredo 59 Deckert, Magdalena 69  Dembczynski, Krzysztof 79, 339 Djeddi, Warith Eddine 175 Dr\u00e1\u017edilov\u00e1, Pavla 285 Gajdo\u0161, Petr  13 Gancarczyk, Joanna 373 Gawe\u0142, Przemys\u0142aw 79, 339 Geist, Ingolf 27 Grzegorowski, Marek  89 Hammer, Barbara 141 Haniewicz, Konstanty 49 Hor\u00e1k, Zdenek 317 Janczak, Marcin 99", "publisher": "Springer", "pages": "451", "journal": "ABC", "pub_type": "article", "bib_id": "aydinappel"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-32518-2.pdf#page=443", "author_id": ["", "", "", "", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:xCD4eeE-UMwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAppel,%2BAna%2BPaula%2B305%2BAugustyn,%2BDariusz%2BRafal%2B3%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=xCD4eeE-UMwJ&ei=RENeYZO6FILemgHVs5GYDg"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Appel, Ana Paula 305 Augustyn, Dariusz Rafal 3",
+    "author": "Aydin, Secil and Bazinski, Bartosz and Bedn{\\'a}r, Pavel and Bouju, Alain and Bre{\\ss}, Sebastian and Brzezicki, Micha{\\l} and Ceglarek, Dariusz and Chovanec, Peter and Correal, Dario and Cuzzocrea, Alfredo and others",
+    "pub_year": "NA",
+    "venue": "ABC",
+    "abstract": "Author Index Appel, Ana Paula 305 Augustyn, Dariusz Rafal 3 Aydin, Secil 349 Bazinski, Bartosz  273 Bedn\u00e1r, Pavel 13 Bouju, Alain 187 Bre\u00df, Sebastian 27 Brzezicki, Micha\u0142 273 Ceglarek, Dariusz  49 Chovanec, Peter 13 Correal, Dario 403 Cuzzocrea, Alfredo 59 Deckert, Magdalena 69  Dembczynski, Krzysztof 79, 339 Djeddi, Warith Eddine 175 Dr\u00e1\u017edilov\u00e1, Pavla 285 Gajdo\u0161, Petr  13 Gancarczyk, Joanna 373 Gawe\u0142, Przemys\u0142aw 79, 339 Geist, Ingolf 27 Grzegorowski, Marek  89 Hammer, Barbara 141 Haniewicz, Konstanty 49 Hor\u00e1k, Zdenek 317 Janczak, Marcin 99",
+    "publisher": "Springer",
+    "pages": "451",
+    "journal": "ABC",
+    "pub_type": "article",
+    "bib_id": "aydinappel"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-32518-2.pdf#page=443",
+  "author_id": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:xCD4eeE-UMwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAppel,%2BAna%2BPaula%2B305%2BAugustyn,%2BDariusz%2BRafal%2B3%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=xCD4eeE-UMwJ&ei=RENeYZO6FILemgHVs5GYDg"
+}

@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "On measuring and improving the quality of linkage learning in modern evolutionary algorithms applied to solve partially additively separable problems", "author": "Przewozniczek, Michal W and Frej, Bartosz and Komarnicki, Marcin M", "pub_year": "2020", "venue": "Proceedings of the 2020 \u2026", "abstract": "Linkage learning is frequently employed in modern evolutionary algorithms. High linkage quality may be the key to an evolutionary method's effectiveness. Similarly, the faulty linkage may be the reason for its poor performance. Many state-of-the-art evolutionary methods use a Dependency Structure Matrix (DSM) to obtain linkage. In this paper, we propose a quality measure for DSM. Based on this measure, we analyze the behavior of modern evolutionary methods. We show the dependency between the linkage and the effectiveness of the", "pages": "742--750", "booktitle": "Proceedings of the 2020 Genetic and Evolutionary Computation Conference", "pub_type": "inproceedings", "bib_id": "przewozniczek2020measuring"}, "filled": true, "gsrank": 1, "pub_url": "https://dl.acm.org/doi/abs/10.1145/3377930.3390242", "author_id": ["bmJw3Z0AAAAJ", ""], "num_citations": 7, "url_scholarbib": "/scholar?q=info:QNa0MaFoZVkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bmeasuring%2Band%2Bimproving%2Bthe%2Bquality%2Bof%2Blinkage%2Blearning%2Bin%2Bmodern%2Bevolutionary%2Balgorithms%2Bapplied%2Bto%2Bsolve%2Bpartially%2Badditively%2Bseparable%2Bproblems%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=QNa0MaFoZVkJ&ei=O0ReYangEc6_mQHMm7boDg", "citedby_url": "/scholar?cites=6441669883556320832&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:QNa0MaFoZVkJ:scholar.google.com/&scioq=On+measuring+and+improving+the+quality+of+linkage+learning+in+modern+evolutionary+algorithms+applied+to+solve+partially+additively+separable+problems&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "On measuring and improving the quality of linkage learning in modern evolutionary algorithms applied to solve partially additively separable problems",
+    "author": "Przewozniczek, Michal W and Frej, Bartosz and Komarnicki, Marcin M",
+    "pub_year": "2020",
+    "venue": "Proceedings of the 2020 \u2026",
+    "abstract": "Linkage learning is frequently employed in modern evolutionary algorithms. High linkage quality may be the key to an evolutionary method's effectiveness. Similarly, the faulty linkage may be the reason for its poor performance. Many state-of-the-art evolutionary methods use a Dependency Structure Matrix (DSM) to obtain linkage. In this paper, we propose a quality measure for DSM. Based on this measure, we analyze the behavior of modern evolutionary methods. We show the dependency between the linkage and the effectiveness of the",
+    "pages": "742--750",
+    "booktitle": "Proceedings of the 2020 Genetic and Evolutionary Computation Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "przewozniczek2020measuring"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://dl.acm.org/doi/abs/10.1145/3377930.3390242",
+  "author_id": [
+    "bmJw3Z0AAAAJ",
+    ""
+  ],
+  "num_citations": 7,
+  "url_scholarbib": "/scholar?q=info:QNa0MaFoZVkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bmeasuring%2Band%2Bimproving%2Bthe%2Bquality%2Bof%2Blinkage%2Blearning%2Bin%2Bmodern%2Bevolutionary%2Balgorithms%2Bapplied%2Bto%2Bsolve%2Bpartially%2Badditively%2Bseparable%2Bproblems%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=QNa0MaFoZVkJ&ei=O0ReYangEc6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=6441669883556320832&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:QNa0MaFoZVkJ:scholar.google.com/&scioq=On+measuring+and+improving+the+quality+of+linkage+learning+in+modern+evolutionary+algorithms+applied+to+solve+partially+additively+separable+problems&hl=en&as_sdt=0,5"
+}

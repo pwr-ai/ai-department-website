@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Inforex--a web-based tool for text corpus management and semantic annotation", "author": "Marci{\\'n}czuk, Micha{\\l} and Koco{\\'n}, Jan and Broda, Bartosz", "pub_year": "2012", "venue": "Proceedings of the Eighth \u2026", "abstract": "The aim of this paper is to present a system for semantic text annotation called Inforex. Inforex is a web-based system designed for managing and annotating text corpora on the semantic level including annotation of Named Entities (NE), anaphora, Word Sense Disambiguation (WSD) and relations between named entities. The system also supports manual text clean-up and automatic text pre-processing including text segmentation, morphosyntactic analysis and word selection for word sense annotation. Inforex can be", "pages": "224--230", "booktitle": "Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12)", "pub_type": "inproceedings", "bib_id": "marcinczuk2012inforex"}, "filled": true, "gsrank": 1, "pub_url": "https://aclanthology.org/L12-1233/", "author_id": ["aAk1SIsAAAAJ", "pmQHb5IAAAAJ", "pulMdOUAAAAJ"], "num_citations": 19, "url_scholarbib": "/scholar?q=info:2nYrkESD4xUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInforex%25E2%2580%2593a%2Bweb-based%2Btool%2Bfor%2Btext%2Bcorpus%2Bmanagement%2Band%2Bsemantic%2Bannotation%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=2nYrkESD4xUJ&ei=U51dYbzrCc6_mQHMm7boDg", "citedby_url": "/scholar?cites=1577248625009587930&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:2nYrkESD4xUJ:scholar.google.com/&scioq=Inforex%E2%80%93a+web-based+tool+for+text+corpus+management+and+semantic+annotation&hl=en&as_sdt=0,5", "eprint_url": "https://aclanthology.org/L12-1233/"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Inforex--a web-based tool for text corpus management and semantic annotation",
+    "author": "Marci{\\'n}czuk, Micha{\\l} and Koco{\\'n}, Jan and Broda, Bartosz",
+    "pub_year": "2012",
+    "venue": "Proceedings of the Eighth \u2026",
+    "abstract": "The aim of this paper is to present a system for semantic text annotation called Inforex. Inforex is a web-based system designed for managing and annotating text corpora on the semantic level including annotation of Named Entities (NE), anaphora, Word Sense Disambiguation (WSD) and relations between named entities. The system also supports manual text clean-up and automatic text pre-processing including text segmentation, morphosyntactic analysis and word selection for word sense annotation. Inforex can be",
+    "pages": "224--230",
+    "booktitle": "Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12)",
+    "pub_type": "inproceedings",
+    "bib_id": "marcinczuk2012inforex"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://aclanthology.org/L12-1233/",
+  "author_id": [
+    "aAk1SIsAAAAJ",
+    "pmQHb5IAAAAJ",
+    "pulMdOUAAAAJ"
+  ],
+  "num_citations": 19,
+  "url_scholarbib": "/scholar?q=info:2nYrkESD4xUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInforex%25E2%2580%2593a%2Bweb-based%2Btool%2Bfor%2Btext%2Bcorpus%2Bmanagement%2Band%2Bsemantic%2Bannotation%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=2nYrkESD4xUJ&ei=U51dYbzrCc6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=1577248625009587930&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:2nYrkESD4xUJ:scholar.google.com/&scioq=Inforex%E2%80%93a+web-based+tool+for+text+corpus+management+and+semantic+annotation&hl=en&as_sdt=0,5",
+  "eprint_url": "https://aclanthology.org/L12-1233/"
+}

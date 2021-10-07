@@ -1,1 +1,25 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "4th International Symposium Advances in Artificial Intelligence and Applications", "author": "Brest, Janez and Duch, W{\\l}odzis{\\l}aw and Hudyma, El{\\.z}bieta and Jaromczyk, Jerzy W and Jedrzejowicz, Piotr and Jin, Yaochu and Jozefczyk, Jerzy and Kacprzyk, Janusz and Katarzyniak, Rados{\\l}aw and Kerre, Etienne and others", "venue": "NA", "pub_year": "NA", "abstract": "International Symposium on Advances in Artificial Intelligence and Application (AAIA) will be held within the framework of the 2009 International Multiconference on Computer Science and Information Systems (IMCSIT), and will be co-located with the XXV Fall Meeting of Polish Information Processing Society.", "pub_type": "article", "bib_id": "brest4th"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/5352740/", "author_id": ["G5ZFVPcAAAAJ", "NZ-ZjCwAAAAJ", "", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:2CyKvtl0MrAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D4th%2BInternational%2BSymposium%2BAdvances%2Bin%2BArtificial%2BIntelligence%2Band%2BApplications%26hl%3Den%26as_sdt%3D0,10&citilm=1&json=&update_op=library_add&info=2CyKvtl0MrAJ&ei=2q5dYbGsKIfBmQGX-6OoBg"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "4th International Symposium Advances in Artificial Intelligence and Applications",
+    "author": "Brest, Janez and Duch, W{\\l}odzis{\\l}aw and Hudyma, El{\\.z}bieta and Jaromczyk, Jerzy W and Jedrzejowicz, Piotr and Jin, Yaochu and Jozefczyk, Jerzy and Kacprzyk, Janusz and Katarzyniak, Rados{\\l}aw and Kerre, Etienne and others",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "International Symposium on Advances in Artificial Intelligence and Application (AAIA) will be held within the framework of the 2009 International Multiconference on Computer Science and Information Systems (IMCSIT), and will be co-located with the XXV Fall Meeting of Polish Information Processing Society.",
+    "pub_type": "article",
+    "bib_id": "brest4th"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/5352740/",
+  "author_id": [
+    "G5ZFVPcAAAAJ",
+    "NZ-ZjCwAAAAJ",
+    "",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:2CyKvtl0MrAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D4th%2BInternational%2BSymposium%2BAdvances%2Bin%2BArtificial%2BIntelligence%2Band%2BApplications%26hl%3Den%26as_sdt%3D0,10&citilm=1&json=&update_op=library_add&info=2CyKvtl0MrAJ&ei=2q5dYbGsKIfBmQGX-6OoBg"
+}

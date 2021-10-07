@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Rozpoznawanie granic s{\\l}owa w systemie automatycznego rozpoznawania izolowanych s{\\l}{\\'o}w", "author": "Piasecki, Maciej and Zysko, Sz", "pub_year": "1999", "venue": "Wydzia\u0142owy Zak\u0142ad Informatyki, Politechnika \u2026", "abstract": "STRESZCZENIE W artykule przedstawiono algorytm segmentacji sygna\u0142u mowy na odcinki odpowiadaj\u0105ce poszczeg\u00f3lnym s\u0142owom. Prezentowany algorytm zosta\u0142 zastosowany w systemie rozpoznawania izolowanych s\u0142\u00f3w. Dzia\u0142anie algorytmu opiera si\u0119 na analizie dynamiki widma energetycznego sygna\u0142u mowy. W pracy przedstawiono ponadto kr\u00f3tk\u0105 analiz\u0119 algorytmu \u201ez do\u0142u do g\u00f3ry\u201d, kt\u00f3ry sta\u0142 si\u0119 podstaw\u0105 wyj\u015bciow\u0105 do konstrukcji prezentowanego rozwi\u0105zania. Artyku\u0142 zawiera r\u00f3wnie\u017c wyniki bada\u0144 empirycznych nad", "journal": "Wydzia{\\l}owy Zak{\\l}ad Informatyki, Politechnika Wroc{\\l}awska", "pub_type": "article", "bib_id": "piasecki1999rozpoznawanie"}, "filled": true, "gsrank": 1, "pub_url": "http://www.ci.pwr.wroc.pl/~piasecki/publications/Piasecki-Zysko-KOSYR-99.pdf", "author_id": ["nU_W9XwAAAAJ", ""], "num_citations": 2, "url_scholarbib": "/scholar?q=info:cSaa_f48PZAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRozpoznawanie%2Bgranic%2Bs%25C5%2582owa%2Bw%2Bsystemie%2Bautomatycznego%2Brozpoznawania%2Bizolowanych%2Bs%25C5%2582%25C3%25B3w%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=cSaa_f48PZAJ&ei=O8FdYYfWDsKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=10393530580915070577&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:cSaa_f48PZAJ:scholar.google.com/&scioq=Rozpoznawanie+granic+s%C5%82owa+w+systemie+automatycznego+rozpoznawania+izolowanych+s%C5%82%C3%B3w&hl=en&as_sdt=0,5", "eprint_url": "http://www.ci.pwr.wroc.pl/~piasecki/publications/Piasecki-Zysko-KOSYR-99.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Rozpoznawanie granic s{\\l}owa w systemie automatycznego rozpoznawania izolowanych s{\\l}{\\'o}w",
+    "author": "Piasecki, Maciej and Zysko, Sz",
+    "pub_year": "1999",
+    "venue": "Wydzia\u0142owy Zak\u0142ad Informatyki, Politechnika \u2026",
+    "abstract": "STRESZCZENIE W artykule przedstawiono algorytm segmentacji sygna\u0142u mowy na odcinki odpowiadaj\u0105ce poszczeg\u00f3lnym s\u0142owom. Prezentowany algorytm zosta\u0142 zastosowany w systemie rozpoznawania izolowanych s\u0142\u00f3w. Dzia\u0142anie algorytmu opiera si\u0119 na analizie dynamiki widma energetycznego sygna\u0142u mowy. W pracy przedstawiono ponadto kr\u00f3tk\u0105 analiz\u0119 algorytmu \u201ez do\u0142u do g\u00f3ry\u201d, kt\u00f3ry sta\u0142 si\u0119 podstaw\u0105 wyj\u015bciow\u0105 do konstrukcji prezentowanego rozwi\u0105zania. Artyku\u0142 zawiera r\u00f3wnie\u017c wyniki bada\u0144 empirycznych nad",
+    "journal": "Wydzia{\\l}owy Zak{\\l}ad Informatyki, Politechnika Wroc{\\l}awska",
+    "pub_type": "article",
+    "bib_id": "piasecki1999rozpoznawanie"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.ci.pwr.wroc.pl/~piasecki/publications/Piasecki-Zysko-KOSYR-99.pdf",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    ""
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:cSaa_f48PZAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRozpoznawanie%2Bgranic%2Bs%25C5%2582owa%2Bw%2Bsystemie%2Bautomatycznego%2Brozpoznawania%2Bizolowanych%2Bs%25C5%2582%25C3%25B3w%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=cSaa_f48PZAJ&ei=O8FdYYfWDsKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=10393530580915070577&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:cSaa_f48PZAJ:scholar.google.com/&scioq=Rozpoznawanie+granic+s%C5%82owa+w+systemie+automatycznego+rozpoznawania+izolowanych+s%C5%82%C3%B3w&hl=en&as_sdt=0,5",
+  "eprint_url": "http://www.ci.pwr.wroc.pl/~piasecki/publications/Piasecki-Zysko-KOSYR-99.pdf"
+}

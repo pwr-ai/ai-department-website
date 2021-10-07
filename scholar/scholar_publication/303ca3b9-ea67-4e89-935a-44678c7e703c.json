@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Product recommendation in e-commerce using direct and indirect confidence for historical user sessions", "author": "Kazienko, Przemys{\\l}aw", "pub_year": "2004", "venue": "International Conference on Discovery Science", "abstract": "Product recommendation is an important part of current electronic commerce. Useful, direct and indirect relationships between pages, especially product home pages in an e-commerce site, can be extracted from web usage ie from historical user sessions. The proposed method introduces indirect association rules complementing typical, direct rules, which, in the web environment, usually only confirm existing hyperlinks. The direct confidence, the basic measure of direct association rules, reflects pages' co-occurrence in", "organization": "Springer", "pages": "255--269", "booktitle": "International Conference on Discovery Science", "pub_type": "inproceedings", "bib_id": "kazienko2004product"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-30214-8_20", "author_id": ["cxLgNccAAAAJ"], "num_citations": 15, "url_scholarbib": "/scholar?q=info:44gcFHJPVw8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProduct%2Brecommendation%2Bin%2Be-commerce%2Busing%2Bdirect%2Band%2Bindirect%2Bconfidence%2Bfor%2Bhistorical%2Buser%2Bsessions%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=44gcFHJPVw8J&ei=KzVeYa8hieaaAZCVrrAD", "citedby_url": "/scholar?cites=1105439584925026531&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:44gcFHJPVw8J:scholar.google.com/&scioq=Product+recommendation+in+e-commerce+using+direct+and+indirect+confidence+for+historical+user+sessions&hl=en&as_sdt=0,5", "eprint_url": "ftp://nozdr.ru/biblio/kolxoz/Cs/CsLn/D/Discovery%20Science,%207%20conf.,%20DS%202004(LNCS3245,%20Springer,%202004)(ISBN%203540233571)(442s).pdf#page=267"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Product recommendation in e-commerce using direct and indirect confidence for historical user sessions",
+    "author": "Kazienko, Przemys{\\l}aw",
+    "pub_year": "2004",
+    "venue": "International Conference on Discovery Science",
+    "abstract": "Product recommendation is an important part of current electronic commerce. Useful, direct and indirect relationships between pages, especially product home pages in an e-commerce site, can be extracted from web usage ie from historical user sessions. The proposed method introduces indirect association rules complementing typical, direct rules, which, in the web environment, usually only confirm existing hyperlinks. The direct confidence, the basic measure of direct association rules, reflects pages' co-occurrence in",
+    "organization": "Springer",
+    "pages": "255--269",
+    "booktitle": "International Conference on Discovery Science",
+    "pub_type": "inproceedings",
+    "bib_id": "kazienko2004product"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-30214-8_20",
+  "author_id": [
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 15,
+  "url_scholarbib": "/scholar?q=info:44gcFHJPVw8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProduct%2Brecommendation%2Bin%2Be-commerce%2Busing%2Bdirect%2Band%2Bindirect%2Bconfidence%2Bfor%2Bhistorical%2Buser%2Bsessions%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=44gcFHJPVw8J&ei=KzVeYa8hieaaAZCVrrAD",
+  "citedby_url": "/scholar?cites=1105439584925026531&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:44gcFHJPVw8J:scholar.google.com/&scioq=Product+recommendation+in+e-commerce+using+direct+and+indirect+confidence+for+historical+user+sessions&hl=en&as_sdt=0,5",
+  "eprint_url": "ftp://nozdr.ru/biblio/kolxoz/Cs/CsLn/D/Discovery%20Science,%207%20conf.,%20DS%202004(LNCS3245,%20Springer,%202004)(ISBN%203540233571)(442s).pdf#page=267"
+}

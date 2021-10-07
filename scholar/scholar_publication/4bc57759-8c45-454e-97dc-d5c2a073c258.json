@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Editorial on the special issue \u201cHybrid and ensemble techniques in soft computing: recent advances and emerging trends\u201d", "author": "Kazienko, Przemyslaw and Lughofer, Edwin and Trawinski, Bogdan", "pub_year": "2015", "venue": "NA", "abstract": "The application of hybrid and ensemble methodologies in the field of soft computing (SC) and machine learning (ML) has become more visible and attractive. The relevance of these methodologies is motivated by their power of being able to express knowledge contained in data sets in multiple ways, benefiting each of the other, ie, exploiting their diversity, thus increasing the performance of sole base models in terms of model accuracy and generalization capability by intelligent combination strategies, especially while dealing with", "publisher": "Springer", "pub_type": "misc", "bib_id": "kazienko2015editorial"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/article/10.1007/s00500-015-1916-x", "author_id": ["cxLgNccAAAAJ", "G6sMKIkAAAAJ", "f3gKG3kAAAAJ"], "num_citations": 7, "url_scholarbib": "/scholar?q=info:jQ8JkAv7k-QJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEditorial%2Bon%2Bthe%2Bspecial%2Bissue%2B%25E2%2580%259CHybrid%2Band%2Bensemble%2Btechniques%2Bin%2Bsoft%2Bcomputing:%2Brecent%2Badvances%2Band%2Bemerging%2Btrends%25E2%2580%259D%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=jQ8JkAv7k-QJ&ei=-z5eYf-CMM-TmwHPvZGABQ", "citedby_url": "/scholar?cites=16470784289303760781&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:jQ8JkAv7k-QJ:scholar.google.com/&scioq=Editorial+on+the+special+issue+%E2%80%9CHybrid+and+ensemble+techniques+in+soft+computing:+recent+advances+and+emerging+trends%E2%80%9D&hl=en&as_sdt=0,5", "eprint_url": "https://link.springer.com/article/10.1007/s00500-015-1916-x"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Editorial on the special issue \u201cHybrid and ensemble techniques in soft computing: recent advances and emerging trends\u201d",
+    "author": "Kazienko, Przemyslaw and Lughofer, Edwin and Trawinski, Bogdan",
+    "pub_year": "2015",
+    "venue": "NA",
+    "abstract": "The application of hybrid and ensemble methodologies in the field of soft computing (SC) and machine learning (ML) has become more visible and attractive. The relevance of these methodologies is motivated by their power of being able to express knowledge contained in data sets in multiple ways, benefiting each of the other, ie, exploiting their diversity, thus increasing the performance of sole base models in terms of model accuracy and generalization capability by intelligent combination strategies, especially while dealing with",
+    "publisher": "Springer",
+    "pub_type": "misc",
+    "bib_id": "kazienko2015editorial"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/article/10.1007/s00500-015-1916-x",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "G6sMKIkAAAAJ",
+    "f3gKG3kAAAAJ"
+  ],
+  "num_citations": 7,
+  "url_scholarbib": "/scholar?q=info:jQ8JkAv7k-QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEditorial%2Bon%2Bthe%2Bspecial%2Bissue%2B%25E2%2580%259CHybrid%2Band%2Bensemble%2Btechniques%2Bin%2Bsoft%2Bcomputing:%2Brecent%2Badvances%2Band%2Bemerging%2Btrends%25E2%2580%259D%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=jQ8JkAv7k-QJ&ei=-z5eYf-CMM-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=16470784289303760781&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:jQ8JkAv7k-QJ:scholar.google.com/&scioq=Editorial+on+the+special+issue+%E2%80%9CHybrid+and+ensemble+techniques+in+soft+computing:+recent+advances+and+emerging+trends%E2%80%9D&hl=en&as_sdt=0,5",
+  "eprint_url": "https://link.springer.com/article/10.1007/s00500-015-1916-x"
+}

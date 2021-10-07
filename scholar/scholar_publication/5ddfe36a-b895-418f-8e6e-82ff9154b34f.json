@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Hand-written and automatically extracted rules for Polish tagger", "author": "Piasecki, Maciej", "pub_year": "2006", "venue": "International Conference on Text, Speech and \u2026", "abstract": "Stochastic approaches to tagging of Polish brought results far from being satisfactory. However, successful combination of hand-written rules and a stochastic approach to Czech, as well, as some initial experiments in acquisition of tagging rules for Polish revealed potential capabilities of a rule based approach. The goals are: to define a language of tagging constraints, to construct a set of reduction rules for Polish and to apply Machine Learning to extraction of tagging rules. A language of functional tagging constraints called", "organization": "Springer", "pages": "205--212", "booktitle": "International Conference on Text, Speech and Dialogue", "pub_type": "inproceedings", "bib_id": "piasecki2006hand"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/11846406_26", "author_id": ["nU_W9XwAAAAJ"], "num_citations": 23, "url_scholarbib": "/scholar?q=info:5_1XTYIFrJ8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHand-written%2Band%2Bautomatically%2Bextracted%2Brules%2Bfor%2BPolish%2Btagger%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=5_1XTYIFrJ8J&ei=y7BdYcvOGsKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=11505577205226274279&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:5_1XTYIFrJ8J:scholar.google.com/&scioq=Hand-written+and+automatically+extracted+rules+for+Polish+tagger&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Hand-written and automatically extracted rules for Polish tagger",
+    "author": "Piasecki, Maciej",
+    "pub_year": "2006",
+    "venue": "International Conference on Text, Speech and \u2026",
+    "abstract": "Stochastic approaches to tagging of Polish brought results far from being satisfactory. However, successful combination of hand-written rules and a stochastic approach to Czech, as well, as some initial experiments in acquisition of tagging rules for Polish revealed potential capabilities of a rule based approach. The goals are: to define a language of tagging constraints, to construct a set of reduction rules for Polish and to apply Machine Learning to extraction of tagging rules. A language of functional tagging constraints called",
+    "organization": "Springer",
+    "pages": "205--212",
+    "booktitle": "International Conference on Text, Speech and Dialogue",
+    "pub_type": "inproceedings",
+    "bib_id": "piasecki2006hand"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/11846406_26",
+  "author_id": [
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 23,
+  "url_scholarbib": "/scholar?q=info:5_1XTYIFrJ8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHand-written%2Band%2Bautomatically%2Bextracted%2Brules%2Bfor%2BPolish%2Btagger%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=5_1XTYIFrJ8J&ei=y7BdYcvOGsKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=11505577205226274279&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:5_1XTYIFrJ8J:scholar.google.com/&scioq=Hand-written+and+automatically+extracted+rules+for+Polish+tagger&hl=en&as_sdt=0,5"
+}

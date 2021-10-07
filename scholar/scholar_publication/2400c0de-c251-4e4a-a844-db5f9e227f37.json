@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Predicting group evolution in the social network", "author": "Br{\\'o}dka, Piotr and Kazienko, Przemys{\\l}aw and Ko{\\l}oszczyk, Bartosz", "pub_year": "2012", "venue": "International Conference on Social \u2026", "abstract": "Groups\u2013social communities are important components of entire societies, analysed by means of the social network concept. Their immanent feature is continuous evolution over time. If we know how groups in the social network has evolved we can use this information and try to predict the next step in the given group evolution. In the paper, a new aproach for group evolution prediction is presented and examined. Experimental studies on four evolving social networks revealed that (i) the prediction based on the simple input features", "organization": "Springer", "pages": "54--67", "booktitle": "International Conference on Social Informatics", "pub_type": "inproceedings", "bib_id": "brodka2012predicting"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-35386-4_5", "author_id": ["T7v65jEAAAAJ", "cxLgNccAAAAJ", ""], "num_citations": 51, "url_scholarbib": "/scholar?q=info:8_08pmxASDwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPredicting%2Bgroup%2Bevolution%2Bin%2Bthe%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=8_08pmxASDwJ&ei=tjBeYdm8Js-TmwHPvZGABQ", "citedby_url": "/scholar?cites=4343792675988504051&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:8_08pmxASDwJ:scholar.google.com/&scioq=Predicting+group+evolution+in+the+social+network&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1210.5161"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Predicting group evolution in the social network",
+    "author": "Br{\\'o}dka, Piotr and Kazienko, Przemys{\\l}aw and Ko{\\l}oszczyk, Bartosz",
+    "pub_year": "2012",
+    "venue": "International Conference on Social \u2026",
+    "abstract": "Groups\u2013social communities are important components of entire societies, analysed by means of the social network concept. Their immanent feature is continuous evolution over time. If we know how groups in the social network has evolved we can use this information and try to predict the next step in the given group evolution. In the paper, a new aproach for group evolution prediction is presented and examined. Experimental studies on four evolving social networks revealed that (i) the prediction based on the simple input features",
+    "organization": "Springer",
+    "pages": "54--67",
+    "booktitle": "International Conference on Social Informatics",
+    "pub_type": "inproceedings",
+    "bib_id": "brodka2012predicting"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-35386-4_5",
+  "author_id": [
+    "T7v65jEAAAAJ",
+    "cxLgNccAAAAJ",
+    ""
+  ],
+  "num_citations": 51,
+  "url_scholarbib": "/scholar?q=info:8_08pmxASDwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPredicting%2Bgroup%2Bevolution%2Bin%2Bthe%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=8_08pmxASDwJ&ei=tjBeYdm8Js-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=4343792675988504051&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:8_08pmxASDwJ:scholar.google.com/&scioq=Predicting+group+evolution+in+the+social+network&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1210.5161"
+}

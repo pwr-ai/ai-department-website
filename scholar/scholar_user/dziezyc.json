@@ -1,1 +1,121 @@
-{"container_type": "Author", "filled": ["basics", "publications", "counts", "coauthors", "indices"], "scholar_id": "kcZvQwgAAAAJ", "source": "AUTHOR_PROFILE_PAGE", "name": "Maciej Dzie\u017cyc", "affiliation": "Wroclaw University of Science and Technology", "interests": [], "email_domain": "@pwr.edu.pl", "citedby": 25, "publications": [{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Emotion recognition using wearables: A systematic literature review-work-in-progress", "pub_year": "2020"}, "filled": false, "author_pub_id": "kcZvQwgAAAAJ:u-x6o8ySG0sC", "num_citations": 14, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13227589152635431239", "cites_id": ["13227589152635431239"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Review of consumer wearables in emotion, stress, meditation, sleep, and activity detection and analysis", "pub_year": "2020"}, "filled": false, "author_pub_id": "kcZvQwgAAAAJ:u5HHmVD_uO8C", "num_citations": 4, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2047257461264977738", "cites_id": ["2047257461264977738"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Consumer wearables and affective computing for wellbeing support", "pub_year": "2020"}, "filled": false, "author_pub_id": "kcZvQwgAAAAJ:9yKSN-GCB0IC", "num_citations": 3, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13279510087403011963", "cites_id": ["13279510087403011963"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Can we ditch feature engineering? end-to-end deep learning for affect recognition from physiological sensor data", "pub_year": "2020"}, "filled": false, "author_pub_id": "kcZvQwgAAAAJ:d1gkVwhDpl0C", "num_citations": 3, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14462171908189673385", "cites_id": ["14462171908189673385"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "How to catch them all? Enhanced data collection for emotion recognition in the field", "pub_year": "2021"}, "filled": false, "author_pub_id": "kcZvQwgAAAAJ:2osOgNQ5qMEC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1124694912863368533", "cites_id": ["1124694912863368533"]}], "cites_per_year": {"2020": 7, "2021": 16}, "coauthors": [{"container_type": "Author", "filled": [], "scholar_id": "cxLgNccAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Przemys\u0142aw Kazienko", "affiliation": "Politechnika Wroc\u0142awska"}, {"container_type": "Author", "filled": [], "scholar_id": "DVE_klAAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Stanis\u0142aw Saganowski", "affiliation": "Department of Computational Intelligence, Wroc\u0142aw University of Science and Technology"}], "citedby5y": 24, "hindex": 3, "hindex5y": 3, "i10index": 1, "i10index5y": 1}
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "counts",
+    "coauthors",
+    "indices"
+  ],
+  "scholar_id": "kcZvQwgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Maciej Dzie\u017cyc",
+  "affiliation": "Wroclaw University of Science and Technology",
+  "interests": [],
+  "email_domain": "@pwr.edu.pl",
+  "citedby": 25,
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Emotion recognition using wearables: A systematic literature review-work-in-progress",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "kcZvQwgAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13227589152635431239",
+      "cites_id": [
+        "13227589152635431239"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Review of consumer wearables in emotion, stress, meditation, sleep, and activity detection and analysis",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "kcZvQwgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2047257461264977738",
+      "cites_id": [
+        "2047257461264977738"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consumer wearables and affective computing for wellbeing support",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "kcZvQwgAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13279510087403011963",
+      "cites_id": [
+        "13279510087403011963"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Can we ditch feature engineering? end-to-end deep learning for affect recognition from physiological sensor data",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "kcZvQwgAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14462171908189673385",
+      "cites_id": [
+        "14462171908189673385"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "How to catch them all? Enhanced data collection for emotion recognition in the field",
+        "pub_year": "2021"
+      },
+      "filled": false,
+      "author_pub_id": "kcZvQwgAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1124694912863368533",
+      "cites_id": [
+        "1124694912863368533"
+      ]
+    }
+  ],
+  "cites_per_year": {
+    "2020": 7,
+    "2021": 16
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cxLgNccAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Przemys\u0142aw Kazienko",
+      "affiliation": "Politechnika Wroc\u0142awska"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DVE_klAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Stanis\u0142aw Saganowski",
+      "affiliation": "Department of Computational Intelligence, Wroc\u0142aw University of Science and Technology"
+    }
+  ],
+  "citedby5y": 24,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 1,
+  "i10index5y": 1
+}

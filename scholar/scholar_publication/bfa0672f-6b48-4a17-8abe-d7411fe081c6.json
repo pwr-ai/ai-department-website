@@ -1,1 +1,24 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "LSA based extraction of semantic similarity for Polish", "author": "Piasecki, M", "venue": "NA", "pub_year": "2006", "pages": "99--107", "journal": "Oficyna Wydawnicza Politechniki Wroc{\\l}awskiej", "pub_type": "article", "bib_id": "piasecki2006lsa"}, "filled": true, "gsrank": 1, "author_id": ["nU_W9XwAAAAJ"], "num_citations": 7, "url_scholarbib": "/scholar?q=info:YHqzUV_3a5EJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLSA%2Bbased%2Bextraction%2Bof%2Bsemantic%2Bsimilarity%2Bfor%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=YHqzUV_3a5EJ&ei=NbZdYfuJIYLemgHVs5GYDg", "citedby_url": "/scholar?cites=10478740946772261472&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:YHqzUV_3a5EJ:scholar.google.com/&scioq=LSA+based+extraction+of+semantic+similarity+for+Polish&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "LSA based extraction of semantic similarity for Polish",
+    "author": "Piasecki, M",
+    "venue": "NA",
+    "pub_year": "2006",
+    "pages": "99--107",
+    "journal": "Oficyna Wydawnicza Politechniki Wroc{\\l}awskiej",
+    "pub_type": "article",
+    "bib_id": "piasecki2006lsa"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 7,
+  "url_scholarbib": "/scholar?q=info:YHqzUV_3a5EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLSA%2Bbased%2Bextraction%2Bof%2Bsemantic%2Bsimilarity%2Bfor%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=YHqzUV_3a5EJ&ei=NbZdYfuJIYLemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=10478740946772261472&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:YHqzUV_3a5EJ:scholar.google.com/&scioq=LSA+based+extraction+of+semantic+similarity+for+Polish&hl=en&as_sdt=0,5"
+}

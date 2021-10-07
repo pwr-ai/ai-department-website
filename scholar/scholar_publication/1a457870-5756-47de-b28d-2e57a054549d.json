@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "KPWr annotation guidelines-events", "author": "Marci{\\'n}czuk, Micha{\\l} and Oleksy, Marcin and Koco{\\'n}, Jan and Wieczorek, Jan and Berna{\\'s}, Tomasz and Wolski, Micha{\\l}", "pub_year": "2016", "venue": "NA", "abstract": "\u2605 Rozumienie sytuacji elementarnych, konkretnych, kt\u00f3rych zaj\u015bcie (w przesz\u0142o\u015bci, tera\u017aniejszo\u015bci lub przysz\u0142o\u015bci) mo\u017cna jasno wskaza\u0107, wi\u0105\u017ce si\u0119 przede wszystkim z kategori\u0105 czasu. Nie nale\u017cy jednak uto\u017csamia\u0107 takich sytuacji ze zdarzeniami/zdaniami faktywnymi, wi\u0119c takimi, kt\u00f3re rzeczywi\u015bcie mia\u0142y lub maj\u0105 miejsce (podlegaj\u0105 falsyfikacji w momencie m\u00f3wienia). Chodzi tu raczej o rozr\u00f3\u017cnienie akcji, kt\u00f3rych przebieg wi\u0105\u017ce si\u0119 z konkretnym momentem (odcinkiem) czasu i akcji o znacznej czasowej rozci\u0105g\u0142o\u015bci, nie", "publisher": "Wroc{\\l}aw University of Technology", "pub_type": "article", "bib_id": "marcinczuk2016kpwr"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/283/WytyczneKPWr-sytuacje.pdf?sequence=1", "author_id": ["aAk1SIsAAAAJ", "1QVBEYYAAAAJ", "pmQHb5IAAAAJ", "PED5C-YAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:m9ckWtLctf4J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKPWr%2Bannotation%2Bguidelines-events%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=m9ckWtLctf4J&ei=zKFdYZ25FqPZsQKvo78o", "citedby_url": "/scholar?cites=18353818652431931291&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:m9ckWtLctf4J:scholar.google.com/&scioq=KPWr+annotation+guidelines-events&hl=en&as_sdt=0,5", "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/283/WytyczneKPWr-sytuacje.pdf?sequence=1"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "KPWr annotation guidelines-events",
+    "author": "Marci{\\'n}czuk, Micha{\\l} and Oleksy, Marcin and Koco{\\'n}, Jan and Wieczorek, Jan and Berna{\\'s}, Tomasz and Wolski, Micha{\\l}",
+    "pub_year": "2016",
+    "venue": "NA",
+    "abstract": "\u2605 Rozumienie sytuacji elementarnych, konkretnych, kt\u00f3rych zaj\u015bcie (w przesz\u0142o\u015bci, tera\u017aniejszo\u015bci lub przysz\u0142o\u015bci) mo\u017cna jasno wskaza\u0107, wi\u0105\u017ce si\u0119 przede wszystkim z kategori\u0105 czasu. Nie nale\u017cy jednak uto\u017csamia\u0107 takich sytuacji ze zdarzeniami/zdaniami faktywnymi, wi\u0119c takimi, kt\u00f3re rzeczywi\u015bcie mia\u0142y lub maj\u0105 miejsce (podlegaj\u0105 falsyfikacji w momencie m\u00f3wienia). Chodzi tu raczej o rozr\u00f3\u017cnienie akcji, kt\u00f3rych przebieg wi\u0105\u017ce si\u0119 z konkretnym momentem (odcinkiem) czasu i akcji o znacznej czasowej rozci\u0105g\u0142o\u015bci, nie",
+    "publisher": "Wroc{\\l}aw University of Technology",
+    "pub_type": "article",
+    "bib_id": "marcinczuk2016kpwr"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/283/WytyczneKPWr-sytuacje.pdf?sequence=1",
+  "author_id": [
+    "aAk1SIsAAAAJ",
+    "1QVBEYYAAAAJ",
+    "pmQHb5IAAAAJ",
+    "PED5C-YAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:m9ckWtLctf4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKPWr%2Bannotation%2Bguidelines-events%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=m9ckWtLctf4J&ei=zKFdYZ25FqPZsQKvo78o",
+  "citedby_url": "/scholar?cites=18353818652431931291&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:m9ckWtLctf4J:scholar.google.com/&scioq=KPWr+annotation+guidelines-events&hl=en&as_sdt=0,5",
+  "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/283/WytyczneKPWr-sytuacje.pdf?sequence=1"
+}

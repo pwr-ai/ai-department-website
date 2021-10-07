@@ -1,1 +1,743 @@
-{"container_type": "Author", "filled": ["basics", "publications", "counts", "coauthors", "indices"], "scholar_id": "T1U6rMcAAAAJ", "source": "AUTHOR_PROFILE_PAGE", "name": "Jerzy Sas", "affiliation": "Unknown affiliation", "interests": [], "email_domain": "@pwr.edu.pl", "citedby": 175, "publications": [{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Handwriting recognition accuracy improvement by author identification", "pub_year": "2006"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:0EnyYjriUFMC", "num_citations": 17, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14310099997256992959", "cites_id": ["14310099997256992959"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Three-stage method of text region extraction from diagram raster images", "pub_year": "2013"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:KlAtU1dfN6UC", "num_citations": 15, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16681107054570398777", "cites_id": ["16681107054570398777"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Rule-based medical decision-making with learning", "pub_year": "1993"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:4DMP91E08xMC", "num_citations": 13, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1109967929649860054", "cites_id": ["1109967929649860054"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Similarity-based training set acquisition for continuous handwriting recognition", "pub_year": "2012"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:Tyk-4Ss8FVUC", "num_citations": 11, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6468414165215826178", "cites_id": ["6468414165215826178"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Application of automatic speech recognition to medical reports spoken in Polish", "pub_year": "2008"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:ULOm3_A8WrAC", "num_citations": 10, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17125966033320402141", "cites_id": ["17125966033320402141"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Gender recognition using neural networks and ASR techniques", "pub_year": "2013"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:UebtZRa9Y70C", "num_citations": 9, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14088431535046891089", "cites_id": ["14088431535046891089"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Combining character classifiers using member classifiers assessment", "pub_year": "2005"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:_kc_bZDykSQC", "num_citations": 8, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17521850310341195172", "cites_id": ["17521850310341195172"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Rule-based classification procedures related to the unprecisely formulated expert rules", "pub_year": "1998"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:9yKSN-GCB0IC", "num_citations": 7, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2693649537548249091", "cites_id": ["2693649537548249091"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Application of syntactic properties to three-level recognition of Polish hand-written medical texts", "pub_year": "2006"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:Se3iqnhoufwC", "num_citations": 6, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13622851346958182437", "cites_id": ["13622851346958182437"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Hybrid pattern recognition algorithms with the statistical model applied to the computer-aided medical diagnosis", "pub_year": "2001"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:Zph67rFs4hoC", "num_citations": 6, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16762792574952738562", "cites_id": ["16762792574952738562"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Rule-Based Pattern Recognition with Learning", "pub_year": "1984"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:L8Ckcad2t8MC", "num_citations": 6, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16966762661943386542", "cites_id": ["16966762661943386542"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Pipelined language model construction for Polish speech recognition", "pub_year": "2013"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:u5HHmVD_uO8C", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=256633350425368332", "cites_id": ["256633350425368332"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Optimal acoustic model complexity selection in polish medical speech recognition", "pub_year": "2011"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:WF5omc3nYNoC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7639541679774277764", "cites_id": ["7639541679774277764"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Combining Character Level Classifier and Probabilistic Lexicons in Handwritten Word Recognition\u2013Comparative Analysis of Methods", "pub_year": "2005"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:W7OEmFMy1HYC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7293137831293359491", "cites_id": ["7293137831293359491"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Multilevel Recognition of Structured Handprinted Documents-Probabilistic Approach", "pub_year": "2005"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:5nxA0vEk-isC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14368158603522517332", "cites_id": ["14368158603522517332"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Handwritten laboratory test order form recognition module for distributed clinic", "pub_year": "2004"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:u-x6o8ySG0sC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1013183089823407490", "cites_id": ["1013183089823407490"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Rule-based medical diagnosis with learning: Application to the diagnosis of acute renal failure in children", "pub_year": "1992"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:qxL8FJ1GzNcC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18232143208298872989", "cites_id": ["18232143208298872989"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Application of bidirectional probabilistic character language model in handwritten words recognition", "pub_year": "2006"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:_FxGoFyzp5QC", "num_citations": 4, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12515233642493766527", "cites_id": ["12515233642493766527"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Application of Statistic Properties of Letters Succession in Polish Language to Handprint Recognition", "pub_year": "2005"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:eQOLeE2rZwMC", "num_citations": 4, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7511880119946373099", "cites_id": ["7511880119946373099"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Optimal spoken dialog control in hands-free medical information systems", "pub_year": "2009"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:d1gkVwhDpl0C", "num_citations": 3, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1413388331788858596", "cites_id": ["1413388331788858596"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Application of three-level handprinted documents recognition in medical information systems", "pub_year": "2005"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:8k81kl-MbHgC", "num_citations": 3, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14593356473126771529", "cites_id": ["14593356473126771529"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Handheld based hospital information system for fast data access at patient\u2019s bed", "pub_year": "2001"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:9ZlFYXVOiuMC", "num_citations": 3, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10845698756855583503", "cites_id": ["10845698756855583503"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Logical structure recognition of diagram images", "pub_year": "2015"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:aqlVkmm33-oC", "num_citations": 2, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18393008585623381159", "cites_id": ["18393008585623381159"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Distant Co-occurrence Language Model for ASR in LooseWord Order Languages", "pub_year": "2011"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:qjMakFHDy7sC", "num_citations": 2, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3092343167893378980", "cites_id": ["3092343167893378980"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Application of local bidirectional language model to error correction in Polish medical speech recognition", "pub_year": "2010"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:mVmsd5A6BfQC", "num_citations": 2, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6311848831906343930", "cites_id": ["6311848831906343930"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Partial Parsing Method Applied to Rules Acquisition for Medical Expert System", "pub_year": "2005"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:IjCSPb-OGe4C", "num_citations": 2, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5300654734741858084", "cites_id": ["5300654734741858084"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "User interaction simplification method for healthcare mobile applications", "pub_year": "2002"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:MXK_kJrjxJIC", "num_citations": 2, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15619051958168091827", "cites_id": ["15619051958168091827"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Rule-Based Medical Decision Making via Unification Procedure of Information", "pub_year": "1996"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:dhFuZR0502QC", "num_citations": 2, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13570917210426063589", "cites_id": ["13570917210426063589"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Caption-guided patent image segmentation", "pub_year": "2016"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:2osOgNQ5qMEC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3082736732080938289", "cites_id": ["3082736732080938289"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Comparison of feature reduction methods in the text recognition task", "pub_year": "2008"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:4TOpqqG69KYC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18013713502234062096", "cites_id": ["18013713502234062096"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Multistage semi-automatic text image segmentation for training set acquisition in handwriting recognition", "pub_year": "2008"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:ZeXyd9-uunAC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17818380739649300578", "cites_id": ["17818380739649300578"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Semi-automatic Handwritten Word Segmentation Based on Character Width Approximation Via Maximum Likelihood Method and Regression Model", "pub_year": "2007"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:kNdYIx-mwKoC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16120095526419840075", "cites_id": ["16120095526419840075"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Handwritten Word Recognition with Combined Classifier Based on Tri-grams", "pub_year": "2007"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:roLk4NBRz8UC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12914982271525273613", "cites_id": ["12914982271525273613"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Handwritten text recognition using incomplete probabilistic lexicon and character language model", "pub_year": "2006"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:QIV2ME_5wuYC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12426933681725940070", "cites_id": ["12426933681725940070"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Decision Support Server Architecture for Mobile Medical Applications", "pub_year": "2004"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:M3ejUd6NZC8C", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18056372920040441794", "cites_id": ["18056372920040441794"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Multiperspective recognition: A tool for the computer-aided medical decision problems", "pub_year": "1992"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:zYLM7Y9cAGgC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5886072373739361483", "cites_id": ["5886072373739361483"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Acoustic Data Building Toolset for Easy Experimentation with Neural Network-based Speech Recognition in Polish and English", "pub_year": "2018"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:Y0pCki6q_DkC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Acoustic Data Building Toolset", "pub_year": "2018"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:YOwf2qJgpHMC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Building compact language models for medical speech recognition in mobile devices with limited amount of memory", "pub_year": "2012"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:UeHWp8X0CEIC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Fast automatic speech recognition training with phoneme coverage balancing and late speaker prototype selection", "pub_year": "2009"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:hqOjcs7Dif8C", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Application of Rough Sets in Combined Handwritten Words Classifier", "pub_year": "2009"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:ufrVoPGSRksC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Problemy dost\u0119pu do danych z urz\u0105dze\u0144 typu palmtop z transmisj\u0105 danych GPRS/WLAN na przyk\u0142adzie medycznego systemu informacyjnego", "pub_year": "2003"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:7PzlFSSx8tAC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Statistical Model Applied to the Computer-Aided Medical Diagnosis", "pub_year": "2001"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:hC7cP41nSMkC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Rule-Based Medical Diagnosis with Learning: Application to the Diagnosis", "pub_year": "1992"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:-f6ydRqryjwC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Computer-assisted diagnosis of acute renal failure in children", "pub_year": "1990"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:Wp0gIr-vW9MC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "8th international symposium advances in artificial intelligence and applications"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:qUcmZB5y_30C", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Ruleibased Classification Procedures Related to the Unprecisely Formulated Expert Rules"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:IWHjjKOFINEC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "APPLICATION OF DOCUMENT TYPE IDENTIFICATION IN MEDICAL HANDWRITTEN TEXTS RECOGNITION"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:3fE2CSJIrl8C", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "4th International Symposium Advances in Artificial Intelligence and Applications"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:LkGwnXOMwfcC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Medical Databases and Information Systems"}, "filled": false, "author_pub_id": "T1U6rMcAAAAJ:YsMSGLbcyi4C", "num_citations": 0}], "cites_per_year": {"1994": 1, "1995": 3, "1996": 4, "1997": 1, "1998": 5, "1999": 3, "2000": 2, "2001": 2, "2002": 2, "2003": 8, "2004": 19, "2005": 12, "2006": 11, "2007": 7, "2008": 10, "2009": 5, "2010": 5, "2011": 10, "2012": 8, "2013": 12, "2014": 13, "2015": 6, "2016": 7, "2017": 7, "2018": 6, "2019": 4, "2020": 1}, "coauthors": [], "citedby5y": 31, "hindex": 7, "hindex5y": 3, "i10index": 5, "i10index5y": 0}
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "counts",
+    "coauthors",
+    "indices"
+  ],
+  "scholar_id": "T1U6rMcAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Jerzy Sas",
+  "affiliation": "Unknown affiliation",
+  "interests": [],
+  "email_domain": "@pwr.edu.pl",
+  "citedby": 175,
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Handwriting recognition accuracy improvement by author identification",
+        "pub_year": "2006"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:0EnyYjriUFMC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14310099997256992959",
+      "cites_id": [
+        "14310099997256992959"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Three-stage method of text region extraction from diagram raster images",
+        "pub_year": "2013"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16681107054570398777",
+      "cites_id": [
+        "16681107054570398777"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rule-based medical decision-making with learning",
+        "pub_year": "1993"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:4DMP91E08xMC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1109967929649860054",
+      "cites_id": [
+        "1109967929649860054"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Similarity-based training set acquisition for continuous handwriting recognition",
+        "pub_year": "2012"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6468414165215826178",
+      "cites_id": [
+        "6468414165215826178"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of automatic speech recognition to medical reports spoken in Polish",
+        "pub_year": "2008"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17125966033320402141",
+      "cites_id": [
+        "17125966033320402141"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gender recognition using neural networks and ASR techniques",
+        "pub_year": "2013"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:UebtZRa9Y70C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14088431535046891089",
+      "cites_id": [
+        "14088431535046891089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combining character classifiers using member classifiers assessment",
+        "pub_year": "2005"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:_kc_bZDykSQC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17521850310341195172",
+      "cites_id": [
+        "17521850310341195172"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rule-based classification procedures related to the unprecisely formulated expert rules",
+        "pub_year": "1998"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2693649537548249091",
+      "cites_id": [
+        "2693649537548249091"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of syntactic properties to three-level recognition of Polish hand-written medical texts",
+        "pub_year": "2006"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:Se3iqnhoufwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13622851346958182437",
+      "cites_id": [
+        "13622851346958182437"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hybrid pattern recognition algorithms with the statistical model applied to the computer-aided medical diagnosis",
+        "pub_year": "2001"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:Zph67rFs4hoC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16762792574952738562",
+      "cites_id": [
+        "16762792574952738562"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rule-Based Pattern Recognition with Learning",
+        "pub_year": "1984"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16966762661943386542",
+      "cites_id": [
+        "16966762661943386542"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pipelined language model construction for Polish speech recognition",
+        "pub_year": "2013"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=256633350425368332",
+      "cites_id": [
+        "256633350425368332"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimal acoustic model complexity selection in polish medical speech recognition",
+        "pub_year": "2011"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:WF5omc3nYNoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7639541679774277764",
+      "cites_id": [
+        "7639541679774277764"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combining Character Level Classifier and Probabilistic Lexicons in Handwritten Word Recognition\u2013Comparative Analysis of Methods",
+        "pub_year": "2005"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7293137831293359491",
+      "cites_id": [
+        "7293137831293359491"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multilevel Recognition of Structured Handprinted Documents-Probabilistic Approach",
+        "pub_year": "2005"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:5nxA0vEk-isC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14368158603522517332",
+      "cites_id": [
+        "14368158603522517332"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Handwritten laboratory test order form recognition module for distributed clinic",
+        "pub_year": "2004"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1013183089823407490",
+      "cites_id": [
+        "1013183089823407490"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rule-based medical diagnosis with learning: Application to the diagnosis of acute renal failure in children",
+        "pub_year": "1992"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18232143208298872989",
+      "cites_id": [
+        "18232143208298872989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of bidirectional probabilistic character language model in handwritten words recognition",
+        "pub_year": "2006"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12515233642493766527",
+      "cites_id": [
+        "12515233642493766527"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of Statistic Properties of Letters Succession in Polish Language to Handprint Recognition",
+        "pub_year": "2005"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7511880119946373099",
+      "cites_id": [
+        "7511880119946373099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimal spoken dialog control in hands-free medical information systems",
+        "pub_year": "2009"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1413388331788858596",
+      "cites_id": [
+        "1413388331788858596"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of three-level handprinted documents recognition in medical information systems",
+        "pub_year": "2005"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:8k81kl-MbHgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14593356473126771529",
+      "cites_id": [
+        "14593356473126771529"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Handheld based hospital information system for fast data access at patient\u2019s bed",
+        "pub_year": "2001"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10845698756855583503",
+      "cites_id": [
+        "10845698756855583503"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Logical structure recognition of diagram images",
+        "pub_year": "2015"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18393008585623381159",
+      "cites_id": [
+        "18393008585623381159"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distant Co-occurrence Language Model for ASR in LooseWord Order Languages",
+        "pub_year": "2011"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:qjMakFHDy7sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3092343167893378980",
+      "cites_id": [
+        "3092343167893378980"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of local bidirectional language model to error correction in Polish medical speech recognition",
+        "pub_year": "2010"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6311848831906343930",
+      "cites_id": [
+        "6311848831906343930"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Partial Parsing Method Applied to Rules Acquisition for Medical Expert System",
+        "pub_year": "2005"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5300654734741858084",
+      "cites_id": [
+        "5300654734741858084"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "User interaction simplification method for healthcare mobile applications",
+        "pub_year": "2002"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15619051958168091827",
+      "cites_id": [
+        "15619051958168091827"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rule-Based Medical Decision Making via Unification Procedure of Information",
+        "pub_year": "1996"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:dhFuZR0502QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13570917210426063589",
+      "cites_id": [
+        "13570917210426063589"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Caption-guided patent image segmentation",
+        "pub_year": "2016"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3082736732080938289",
+      "cites_id": [
+        "3082736732080938289"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of feature reduction methods in the text recognition task",
+        "pub_year": "2008"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18013713502234062096",
+      "cites_id": [
+        "18013713502234062096"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multistage semi-automatic text image segmentation for training set acquisition in handwriting recognition",
+        "pub_year": "2008"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17818380739649300578",
+      "cites_id": [
+        "17818380739649300578"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semi-automatic Handwritten Word Segmentation Based on Character Width Approximation Via Maximum Likelihood Method and Regression Model",
+        "pub_year": "2007"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16120095526419840075",
+      "cites_id": [
+        "16120095526419840075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Handwritten Word Recognition with Combined Classifier Based on Tri-grams",
+        "pub_year": "2007"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:roLk4NBRz8UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12914982271525273613",
+      "cites_id": [
+        "12914982271525273613"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Handwritten text recognition using incomplete probabilistic lexicon and character language model",
+        "pub_year": "2006"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12426933681725940070",
+      "cites_id": [
+        "12426933681725940070"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Decision Support Server Architecture for Mobile Medical Applications",
+        "pub_year": "2004"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18056372920040441794",
+      "cites_id": [
+        "18056372920040441794"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiperspective recognition: A tool for the computer-aided medical decision problems",
+        "pub_year": "1992"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5886072373739361483",
+      "cites_id": [
+        "5886072373739361483"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Acoustic Data Building Toolset for Easy Experimentation with Neural Network-based Speech Recognition in Polish and English",
+        "pub_year": "2018"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Acoustic Data Building Toolset",
+        "pub_year": "2018"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Building compact language models for medical speech recognition in mobile devices with limited amount of memory",
+        "pub_year": "2012"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fast automatic speech recognition training with phoneme coverage balancing and late speaker prototype selection",
+        "pub_year": "2009"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of Rough Sets in Combined Handwritten Words Classifier",
+        "pub_year": "2009"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Problemy dost\u0119pu do danych z urz\u0105dze\u0144 typu palmtop z transmisj\u0105 danych GPRS/WLAN na przyk\u0142adzie medycznego systemu informacyjnego",
+        "pub_year": "2003"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Statistical Model Applied to the Computer-Aided Medical Diagnosis",
+        "pub_year": "2001"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rule-Based Medical Diagnosis with Learning: Application to the Diagnosis",
+        "pub_year": "1992"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Computer-assisted diagnosis of acute renal failure in children",
+        "pub_year": "1990"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "8th international symposium advances in artificial intelligence and applications"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ruleibased Classification Procedures Related to the Unprecisely Formulated Expert Rules"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "APPLICATION OF DOCUMENT TYPE IDENTIFICATION IN MEDICAL HANDWRITTEN TEXTS RECOGNITION"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "4th International Symposium Advances in Artificial Intelligence and Applications"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Medical Databases and Information Systems"
+      },
+      "filled": false,
+      "author_pub_id": "T1U6rMcAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    }
+  ],
+  "cites_per_year": {
+    "1994": 1,
+    "1995": 3,
+    "1996": 4,
+    "1997": 1,
+    "1998": 5,
+    "1999": 3,
+    "2000": 2,
+    "2001": 2,
+    "2002": 2,
+    "2003": 8,
+    "2004": 19,
+    "2005": 12,
+    "2006": 11,
+    "2007": 7,
+    "2008": 10,
+    "2009": 5,
+    "2010": 5,
+    "2011": 10,
+    "2012": 8,
+    "2013": 12,
+    "2014": 13,
+    "2015": 6,
+    "2016": 7,
+    "2017": 7,
+    "2018": 6,
+    "2019": 4,
+    "2020": 1
+  },
+  "coauthors": [],
+  "citedby5y": 31,
+  "hindex": 7,
+  "hindex5y": 3,
+  "i10index": 5,
+  "i10index5y": 0
+}

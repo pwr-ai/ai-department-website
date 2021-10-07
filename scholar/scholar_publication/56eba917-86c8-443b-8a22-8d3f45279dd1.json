@@ -1,1 +1,32 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Has Blog Reader--Focused Research Evolved?", "author": "Elega, Adeola Abdulateef and {\\\"O}zad, Bahire Efe and Oloyede, Felix and Omisore, Olabola Taye and Abu Arqoub, Omar", "pub_year": "2020", "venue": "SAGE \u2026", "abstract": "For many years, researchers interested in the blogosphere have collectively acknowledged the lack of scholarly attention into the role of blog readers in the blogging activity. While many pioneering studies as well as new studies have highlighted the rising potential of this", "publisher": "SAGE Publications Sage CA: Los Angeles, CA", "pages": "2158244020968786", "number": "4", "volume": "10", "journal": "SAGE Open", "pub_type": "article", "bib_id": "elega2020has"}, "filled": true, "gsrank": 1, "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/2158244020968786", "author_id": ["GWGZKkAAAAAJ", "", "", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:mlY-BL0O1UoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBlogReader%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=mlY-BL0O1UoJ&ei=XqNdYbHqPM6_mQHMm7boDg", "url_related_articles": "/scholar?q=related:mlY-BL0O1UoJ:scholar.google.com/&scioq=BlogReader&hl=en&as_sdt=0,5", "eprint_url": "https://journals.sagepub.com/doi/pdf/10.1177/2158244020968786"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Has Blog Reader--Focused Research Evolved?",
+    "author": "Elega, Adeola Abdulateef and {\\\"O}zad, Bahire Efe and Oloyede, Felix and Omisore, Olabola Taye and Abu Arqoub, Omar",
+    "pub_year": "2020",
+    "venue": "SAGE \u2026",
+    "abstract": "For many years, researchers interested in the blogosphere have collectively acknowledged the lack of scholarly attention into the role of blog readers in the blogging activity. While many pioneering studies as well as new studies have highlighted the rising potential of this",
+    "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+    "pages": "2158244020968786",
+    "number": "4",
+    "volume": "10",
+    "journal": "SAGE Open",
+    "pub_type": "article",
+    "bib_id": "elega2020has"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/2158244020968786",
+  "author_id": [
+    "GWGZKkAAAAAJ",
+    "",
+    "",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:mlY-BL0O1UoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBlogReader%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=mlY-BL0O1UoJ&ei=XqNdYbHqPM6_mQHMm7boDg",
+  "url_related_articles": "/scholar?q=related:mlY-BL0O1UoJ:scholar.google.com/&scioq=BlogReader&hl=en&as_sdt=0,5",
+  "eprint_url": "https://journals.sagepub.com/doi/pdf/10.1177/2158244020968786"
+}

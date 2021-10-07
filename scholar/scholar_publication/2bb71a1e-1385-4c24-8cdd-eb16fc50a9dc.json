@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Systemy wykrywania intruz{\\'o}w", "author": "Dorosz, Piotr and Kazienko, P", "pub_year": "2002", "venue": "VI Krajowa Konferencja Zastosowan \u2026", "abstract": "Piotr Dorosz, Przemys\u0142aw Kazienko: Systemy wykrywania intruz\u00f3w. ENIGMA, 17 maja 2002 52 Klasyfikacja zachowania u\u017cytkownika w systemach IDS Zachowanie Piotr Dorosz, Przemys\u0142aw Kazienko: Systemy wykrywania intruz\u00f3w. ENIGMA, 17 maja 2002 53 Klasyfikacja system\u00f3w", "pages": "47--78", "journal": "VI Krajowa Konferencja Zastosowan Kryptografii ENIGMA", "pub_type": "article", "bib_id": "dorosz2002systemy"}, "filled": true, "gsrank": 1, "pub_url": "http://www.kkio.pwr.wroc.pl/~kazienko/pub/Enigma2002/IDSprezentacja.pdf", "author_id": ["", "cxLgNccAAAAJ"], "num_citations": 5, "url_scholarbib": "/scholar?q=info:6LA3kp4wLcwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSystemy%2Bwykrywania%2Bintruz%25C3%25B3w%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=6LA3kp4wLcwJ&ei=ukBeYb27Nou4mAGqg5LoDg", "citedby_url": "/scholar?cites=14712469015305367784&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:6LA3kp4wLcwJ:scholar.google.com/&scioq=Systemy+wykrywania+intruz%C3%B3w&hl=en&as_sdt=0,39", "eprint_url": "http://www.kkio.pwr.wroc.pl/~kazienko/pub/Enigma2002/IDSprezentacja.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Systemy wykrywania intruz{\\'o}w",
+    "author": "Dorosz, Piotr and Kazienko, P",
+    "pub_year": "2002",
+    "venue": "VI Krajowa Konferencja Zastosowan \u2026",
+    "abstract": "Piotr Dorosz, Przemys\u0142aw Kazienko: Systemy wykrywania intruz\u00f3w. ENIGMA, 17 maja 2002 52 Klasyfikacja zachowania u\u017cytkownika w systemach IDS Zachowanie Piotr Dorosz, Przemys\u0142aw Kazienko: Systemy wykrywania intruz\u00f3w. ENIGMA, 17 maja 2002 53 Klasyfikacja system\u00f3w",
+    "pages": "47--78",
+    "journal": "VI Krajowa Konferencja Zastosowan Kryptografii ENIGMA",
+    "pub_type": "article",
+    "bib_id": "dorosz2002systemy"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.kkio.pwr.wroc.pl/~kazienko/pub/Enigma2002/IDSprezentacja.pdf",
+  "author_id": [
+    "",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 5,
+  "url_scholarbib": "/scholar?q=info:6LA3kp4wLcwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSystemy%2Bwykrywania%2Bintruz%25C3%25B3w%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=6LA3kp4wLcwJ&ei=ukBeYb27Nou4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=14712469015305367784&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:6LA3kp4wLcwJ:scholar.google.com/&scioq=Systemy+wykrywania+intruz%C3%B3w&hl=en&as_sdt=0,39",
+  "eprint_url": "http://www.kkio.pwr.wroc.pl/~kazienko/pub/Enigma2002/IDSprezentacja.pdf"
+}

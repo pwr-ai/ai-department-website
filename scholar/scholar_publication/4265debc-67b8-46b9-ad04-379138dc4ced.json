@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Heterogeneous named entity similarity function", "author": "Koco{\\'n}, Jan and Piasecki, Maciej", "pub_year": "2012", "venue": "International Conference on Text, Speech and \u2026", "abstract": "Many text processing tasks require to recognize and classify Named Entities. Currently available morphological analysers for Polish cannot handle unknown words (not included in analyser's lexicon). Polish is a language with rich inflection, so comparing two words (even having the same lemma) is a non-trivial task. The aim of the similarity function is to match unknown word form with its word form in named-entity dictionary. In this article a complex similarity function is presented. It is based on a decision function implemented as a Logistic", "organization": "Springer", "pages": "223--231", "booktitle": "International Conference on Text, Speech and Dialogue", "pub_type": "inproceedings", "bib_id": "kocon2012heterogeneous"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-32790-2_27", "author_id": ["pmQHb5IAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 4, "url_scholarbib": "/scholar?q=info:-CLOX8g8DlYJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHeterogeneous%2Bnamed%2Bentity%2Bsimilarity%2Bfunction%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=-CLOX8g8DlYJ&ei=1p9dYa7CA4LemgHVs5GYDg", "citedby_url": "/scholar?cites=6200960568234222328&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:-CLOX8g8DlYJ:scholar.google.com/&scioq=Heterogeneous+named+entity+similarity+function&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Jan-Kocon-2/publication/290585860_Heterogeneous_Named_Entity_Similarity_Function/links/5ae05c870f7e9b285946a12a/Heterogeneous-Named-Entity-Similarity-Function.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Heterogeneous named entity similarity function",
+    "author": "Koco{\\'n}, Jan and Piasecki, Maciej",
+    "pub_year": "2012",
+    "venue": "International Conference on Text, Speech and \u2026",
+    "abstract": "Many text processing tasks require to recognize and classify Named Entities. Currently available morphological analysers for Polish cannot handle unknown words (not included in analyser's lexicon). Polish is a language with rich inflection, so comparing two words (even having the same lemma) is a non-trivial task. The aim of the similarity function is to match unknown word form with its word form in named-entity dictionary. In this article a complex similarity function is presented. It is based on a decision function implemented as a Logistic",
+    "organization": "Springer",
+    "pages": "223--231",
+    "booktitle": "International Conference on Text, Speech and Dialogue",
+    "pub_type": "inproceedings",
+    "bib_id": "kocon2012heterogeneous"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-32790-2_27",
+  "author_id": [
+    "pmQHb5IAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 4,
+  "url_scholarbib": "/scholar?q=info:-CLOX8g8DlYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHeterogeneous%2Bnamed%2Bentity%2Bsimilarity%2Bfunction%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=-CLOX8g8DlYJ&ei=1p9dYa7CA4LemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=6200960568234222328&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:-CLOX8g8DlYJ:scholar.google.com/&scioq=Heterogeneous+named+entity+similarity+function&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Jan-Kocon-2/publication/290585860_Heterogeneous_Named_Entity_Similarity_Function/links/5ae05c870f7e9b285946a12a/Heterogeneous-Named-Entity-Similarity-Function.pdf"
+}

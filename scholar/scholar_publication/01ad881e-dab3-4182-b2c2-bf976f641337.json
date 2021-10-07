@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Study on named entity recognition for Polish based on hidden Markov models", "author": "Marci{\\'n}czuk, Micha{\\l} and Piasecki, Maciej", "pub_year": "2010", "venue": "International Conference on Text, Speech and \u2026", "abstract": "Accuracy of a Named Entity Recognition algorithm based on the Hidden Markov Model is investigated. The algorithm was limited to recognition and classification of Named Entities representing persons. The algorithm was tested on two small Polish domain corpora of stock exchange and police reports. Comparison with the base lines algorithms based on the case of the first letter and a gazetteer is presented. The algorithm expressed 62% precision and 93% recall for the domain of the training data. Introduction of the simple hand", "organization": "Springer", "pages": "142--149", "booktitle": "International Conference on Text, Speech and Dialogue", "pub_type": "inproceedings", "bib_id": "marcinczuk2010study"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-15760-8_19", "author_id": ["aAk1SIsAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 10, "url_scholarbib": "/scholar?q=info:ET3HoIrsQN8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStudy%2Bon%2Bnamed%2Bentity%2Brecognition%2Bfor%2BPolish%2Bbased%2Bon%2Bhidden%2BMarkov%2Bmodels%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=ET3HoIrsQN8J&ei=07JdYbXRLYu4mAGqg5LoDg", "citedby_url": "/scholar?cites=16087117949114465553&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:ET3HoIrsQN8J:scholar.google.com/&scioq=Study+on+named+entity+recognition+for+Polish+based+on+hidden+Markov+models&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Study on named entity recognition for Polish based on hidden Markov models",
+    "author": "Marci{\\'n}czuk, Micha{\\l} and Piasecki, Maciej",
+    "pub_year": "2010",
+    "venue": "International Conference on Text, Speech and \u2026",
+    "abstract": "Accuracy of a Named Entity Recognition algorithm based on the Hidden Markov Model is investigated. The algorithm was limited to recognition and classification of Named Entities representing persons. The algorithm was tested on two small Polish domain corpora of stock exchange and police reports. Comparison with the base lines algorithms based on the case of the first letter and a gazetteer is presented. The algorithm expressed 62% precision and 93% recall for the domain of the training data. Introduction of the simple hand",
+    "organization": "Springer",
+    "pages": "142--149",
+    "booktitle": "International Conference on Text, Speech and Dialogue",
+    "pub_type": "inproceedings",
+    "bib_id": "marcinczuk2010study"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-15760-8_19",
+  "author_id": [
+    "aAk1SIsAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 10,
+  "url_scholarbib": "/scholar?q=info:ET3HoIrsQN8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStudy%2Bon%2Bnamed%2Bentity%2Brecognition%2Bfor%2BPolish%2Bbased%2Bon%2Bhidden%2BMarkov%2Bmodels%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=ET3HoIrsQN8J&ei=07JdYbXRLYu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=16087117949114465553&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:ET3HoIrsQN8J:scholar.google.com/&scioq=Study+on+named+entity+recognition+for+Polish+based+on+hidden+Markov+models&hl=en&as_sdt=0,5"
+}

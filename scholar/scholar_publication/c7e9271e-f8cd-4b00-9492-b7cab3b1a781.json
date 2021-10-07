@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Hyperlink recommendation based on positive and negative association rules", "author": "Kazienko, Przemys{\\l}aw and Pilarczyk, Marcin", "pub_year": "2008", "venue": "New Generation Computing", "abstract": "The new HRS method for hyperlink recommendation based on positive and confined negative association rules is presented in the paper. Discovered with the new PANAMA algorithm rules are merged and used in the form of recommendation functions, both to assess the existing hyperlinks and to suggest new ones. Positively and negatively verified and new hyperlinks are presented to the content manager and can considerably facilitate the maintenance of the web site structure and its adjustment to user behaviour. The", "publisher": "Springer", "pages": "227--244", "number": "3", "volume": "26", "journal": "New Generation Computing", "pub_type": "article", "bib_id": "kazienko2008hyperlink"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/article/10.1007/s00354-008-0042-z", "author_id": ["cxLgNccAAAAJ", ""], "num_citations": 12, "url_scholarbib": "/scholar?q=info:LSpyadMNxUoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHyperlink%2Brecommendation%2Bbased%2Bon%2Bpositive%2Band%2Bnegative%2Bassociation%2Brules%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=LSpyadMNxUoJ&ei=TTVeYZCsN8-TmwHPvZGABQ", "citedby_url": "/scholar?cites=5387727730877016621&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:LSpyadMNxUoJ:scholar.google.com/&scioq=Hyperlink+recommendation+based+on+positive+and+negative+association+rules&hl=en&as_sdt=0,5", "eprint_url": "http://www.zsi.pwr.wroc.pl/~kazienko/pub/2008/NGC_PK_MP.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Hyperlink recommendation based on positive and negative association rules",
+    "author": "Kazienko, Przemys{\\l}aw and Pilarczyk, Marcin",
+    "pub_year": "2008",
+    "venue": "New Generation Computing",
+    "abstract": "The new HRS method for hyperlink recommendation based on positive and confined negative association rules is presented in the paper. Discovered with the new PANAMA algorithm rules are merged and used in the form of recommendation functions, both to assess the existing hyperlinks and to suggest new ones. Positively and negatively verified and new hyperlinks are presented to the content manager and can considerably facilitate the maintenance of the web site structure and its adjustment to user behaviour. The",
+    "publisher": "Springer",
+    "pages": "227--244",
+    "number": "3",
+    "volume": "26",
+    "journal": "New Generation Computing",
+    "pub_type": "article",
+    "bib_id": "kazienko2008hyperlink"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/article/10.1007/s00354-008-0042-z",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    ""
+  ],
+  "num_citations": 12,
+  "url_scholarbib": "/scholar?q=info:LSpyadMNxUoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHyperlink%2Brecommendation%2Bbased%2Bon%2Bpositive%2Band%2Bnegative%2Bassociation%2Brules%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=LSpyadMNxUoJ&ei=TTVeYZCsN8-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=5387727730877016621&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:LSpyadMNxUoJ:scholar.google.com/&scioq=Hyperlink+recommendation+based+on+positive+and+negative+association+rules&hl=en&as_sdt=0,5",
+  "eprint_url": "http://www.zsi.pwr.wroc.pl/~kazienko/pub/2008/NGC_PK_MP.pdf"
+}

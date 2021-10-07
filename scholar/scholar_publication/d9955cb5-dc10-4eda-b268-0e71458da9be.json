@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Wroclaw Corpus of Consumer Reviews Sentiment (WCCRS)", "author": "Koco{\\'n}, Jan and Za{\\'s}ko-Zieli{\\'n}ska, Monika and Mi{\\l}kowski, Piotr and Janz, Arkadiusz and Piasecki, Maciej", "pub_year": "2019", "venue": "NA", "abstract": "Description Wroclaw Corpus of Consumer Reviews is a corpus of Polish reviews annotated with sentiment at the level of the whole text (* text*) and at the level of sentences (* sentence*) for the following domains: hotels, medicine, products and university (reviews*). Sentences are annotated with sentiment only for hotels and medicine. Each* sentence* file contains a single sentence with a sentiment __label__z_X and each* text* file contains a single review with a sentiment __label__meta_X. Regardless a resource type, X can be", "publisher": "Wroclaw University of Science and Technology", "pub_type": "article", "bib_id": "kocon2019wroclaw"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/handle/11321/700", "author_id": ["pmQHb5IAAAAJ", "E81pgs0AAAAJ", "", "UNlMg18AAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:eHinvyjqjfkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWroclaw%2BCorpus%2Bof%2BConsumer%2BReviews%2BSentiment%2B(WCCRS)%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=eHinvyjqjfkJ&ei=DaJdYaLgMYu4mAGqg5LoDg"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Wroclaw Corpus of Consumer Reviews Sentiment (WCCRS)",
+    "author": "Koco{\\'n}, Jan and Za{\\'s}ko-Zieli{\\'n}ska, Monika and Mi{\\l}kowski, Piotr and Janz, Arkadiusz and Piasecki, Maciej",
+    "pub_year": "2019",
+    "venue": "NA",
+    "abstract": "Description Wroclaw Corpus of Consumer Reviews is a corpus of Polish reviews annotated with sentiment at the level of the whole text (* text*) and at the level of sentences (* sentence*) for the following domains: hotels, medicine, products and university (reviews*). Sentences are annotated with sentiment only for hotels and medicine. Each* sentence* file contains a single sentence with a sentiment __label__z_X and each* text* file contains a single review with a sentiment __label__meta_X. Regardless a resource type, X can be",
+    "publisher": "Wroclaw University of Science and Technology",
+    "pub_type": "article",
+    "bib_id": "kocon2019wroclaw"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/handle/11321/700",
+  "author_id": [
+    "pmQHb5IAAAAJ",
+    "E81pgs0AAAAJ",
+    "",
+    "UNlMg18AAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:eHinvyjqjfkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWroclaw%2BCorpus%2Bof%2BConsumer%2BReviews%2BSentiment%2B(WCCRS)%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=eHinvyjqjfkJ&ei=DaJdYaLgMYu4mAGqg5LoDg"
+}

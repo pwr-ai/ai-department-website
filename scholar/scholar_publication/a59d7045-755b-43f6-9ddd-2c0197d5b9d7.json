@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Priority rank model for social network generation", "author": "Morzy, Miko{\\l}aj and Kazienko, Przemys{\\l}aw and Kajdanowicz, Tomasz", "pub_year": "2016", "venue": "2016 IEEE/ACM \u2026", "abstract": "Currently available artificial network generation models are characterized by consistency and low variance due to the rigidity of models' underlying assumptions. Networks generated from these models are usually too regular and do not contain noise and imbalance inherent in networks induced by human behavior. An important consequence is that much research on social network analysis presented in recent years used idealistic artificial networks that did not conform to reality. In order to alleviate this problem we introduce a new network", "organization": "IEEE", "pages": "315--318", "booktitle": "2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)", "pub_type": "inproceedings", "bib_id": "morzy2016priority"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/7752251/", "author_id": ["UwvCguQAAAAJ", "cxLgNccAAAAJ"], "num_citations": 2, "url_scholarbib": "/scholar?q=info:OGPdLRm3XPQJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPriority%2Brank%2Bmodel%2Bfor%2Bsocial%2Bnetwork%2Bgeneration%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=OGPdLRm3XPQJ&ei=7ZVdYaCsCo2UmQGz6rqYBQ", "citedby_url": "/scholar?cites=17608149961883345720&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:OGPdLRm3XPQJ:scholar.google.com/&scioq=Priority+rank+model+for+social+network+generation&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Priority rank model for social network generation",
+    "author": "Morzy, Miko{\\l}aj and Kazienko, Przemys{\\l}aw and Kajdanowicz, Tomasz",
+    "pub_year": "2016",
+    "venue": "2016 IEEE/ACM \u2026",
+    "abstract": "Currently available artificial network generation models are characterized by consistency and low variance due to the rigidity of models' underlying assumptions. Networks generated from these models are usually too regular and do not contain noise and imbalance inherent in networks induced by human behavior. An important consequence is that much research on social network analysis presented in recent years used idealistic artificial networks that did not conform to reality. In order to alleviate this problem we introduce a new network",
+    "organization": "IEEE",
+    "pages": "315--318",
+    "booktitle": "2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
+    "pub_type": "inproceedings",
+    "bib_id": "morzy2016priority"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/7752251/",
+  "author_id": [
+    "UwvCguQAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:OGPdLRm3XPQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPriority%2Brank%2Bmodel%2Bfor%2Bsocial%2Bnetwork%2Bgeneration%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=OGPdLRm3XPQJ&ei=7ZVdYaCsCo2UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=17608149961883345720&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:OGPdLRm3XPQJ:scholar.google.com/&scioq=Priority+rank+model+for+social+network+generation&hl=en&as_sdt=0,5"
+}

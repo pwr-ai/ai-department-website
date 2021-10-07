@@ -1,1 +1,33 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Probing limits of information spread with sequential seeding", "author": "Jankowski, Jaros{\\l}aw and Szymanski, Boleslaw K and Kazienko, Przemys{\\l}aw and Michalski, Rados{\\l}aw and Br{\\'o}dka, Piotr", "pub_year": "2018", "venue": "Scientific reports", "abstract": "We consider here information spread which propagates with certain probability from nodes just activated to their not yet activated neighbors. Diffusion cascades can be triggered by activation of even a small set of nodes. Such activation is commonly performed in a single stage. A novel approach based on sequential seeding is analyzed here resulting in three fundamental contributions. First, we propose a coordinated execution of randomized choices to enable precise comparison of different algorithms in general. We apply it here when the", "publisher": "Nature Publishing Group", "pages": "1--9", "number": "1", "volume": "8", "journal": "Scientific reports", "pub_type": "article", "bib_id": "jankowski2018probing"}, "filled": true, "gsrank": 1, "pub_url": "https://www.nature.com/articles/s41598-018-32081-2/briefing/signup/", "author_id": ["xZJ38c4AAAAJ", "2OJOZTUAAAAJ", "cxLgNccAAAAJ", "xMVnv3sAAAAJ"], "num_citations": 20, "url_scholarbib": "/scholar?q=info:6lFGBh0VpScJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProbing%2Blimits%2Bof%2Binformation%2Bspread%2Bwith%2Bsequential%2Bseeding%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=6lFGBh0VpScJ&ei=1jReYYWzMsKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=2856712753039954410&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:6lFGBh0VpScJ:scholar.google.com/&scioq=Probing+limits+of+information+spread+with+sequential+seeding&hl=en&as_sdt=0,5", "eprint_url": "https://www.nature.com/articles/s41598-018-32081-2/briefing/signup/"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Probing limits of information spread with sequential seeding",
+    "author": "Jankowski, Jaros{\\l}aw and Szymanski, Boleslaw K and Kazienko, Przemys{\\l}aw and Michalski, Rados{\\l}aw and Br{\\'o}dka, Piotr",
+    "pub_year": "2018",
+    "venue": "Scientific reports",
+    "abstract": "We consider here information spread which propagates with certain probability from nodes just activated to their not yet activated neighbors. Diffusion cascades can be triggered by activation of even a small set of nodes. Such activation is commonly performed in a single stage. A novel approach based on sequential seeding is analyzed here resulting in three fundamental contributions. First, we propose a coordinated execution of randomized choices to enable precise comparison of different algorithms in general. We apply it here when the",
+    "publisher": "Nature Publishing Group",
+    "pages": "1--9",
+    "number": "1",
+    "volume": "8",
+    "journal": "Scientific reports",
+    "pub_type": "article",
+    "bib_id": "jankowski2018probing"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/s41598-018-32081-2/briefing/signup/",
+  "author_id": [
+    "xZJ38c4AAAAJ",
+    "2OJOZTUAAAAJ",
+    "cxLgNccAAAAJ",
+    "xMVnv3sAAAAJ"
+  ],
+  "num_citations": 20,
+  "url_scholarbib": "/scholar?q=info:6lFGBh0VpScJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProbing%2Blimits%2Bof%2Binformation%2Bspread%2Bwith%2Bsequential%2Bseeding%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=6lFGBh0VpScJ&ei=1jReYYWzMsKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=2856712753039954410&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:6lFGBh0VpScJ:scholar.google.com/&scioq=Probing+limits+of+information+spread+with+sequential+seeding&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.nature.com/articles/s41598-018-32081-2/briefing/signup/"
+}

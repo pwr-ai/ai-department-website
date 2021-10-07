@@ -1,1 +1,25 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Word embeddings for Polish (KGR10, Fasttext binary) kgr10\\_fasttext\\_bin\\_v1", "author": "Koco{\\'n}, Jan and Marci{\\'n}czuk, Micha{\\l}", "pub_year": "2018", "venue": "NA", "abstract": "celu\u2552* ile*\u00f7* one\u00c6\u03c4* $ \u00ff\u0393* poza\u00ee\u2580* prawieL\u2590* ca\u253c \u00e9y\u00ff\u250c* jakby\u00aa\u2518* Za\u2564\u256b* lepiejf\u2558* swoim\u256b\u255a* pocz\u2500 \u00e0tku\u255c\u2556* uwag\u2500 \u00d6\u00e0\u00a1* pewno&\u00a3* Pozdrawiam) \u00dc* opisem\u03c6\u00ee* drugiej* \u00e8* brI\u00e0* firmy~ \u00e4* rzeczy\u00fcu* czego\u03c3t*\u253c\u00a2 wiataIs* takiego\u2502 o* P\u03a3m* pa\u253c \u00e4stwadl* cz\u2500 \u00d6\u253c\u00a2\u2500 \u00e7\u255f k* naszejbf* oczywi\u253c\u00a2 cie\u2562 a* mniej\u2550]* 23^ E* prawo\u2563 D* porz\u2500 \u00e0dkuzC* powiedzie\u2500 \u00e7\u03c0@* meczu\u00ba>* proc>*~ \u03989* gdy\u253c\u255d q** samo*)* raczej*'* coraz\u00d6** dwieu** informacjiT", "publisher": "Wroc{\\l}aw University of Science and Technology", "pub_type": "article", "bib_id": "kocon2018word"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/600/kgr10_orths.vec.bin?sequence=1&isAllowed=y", "author_id": ["pmQHb5IAAAAJ", "aAk1SIsAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:sbhkT9j9X4kJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWord%2Bembeddings%2Bfor%2BPolish%2B(KGR10,%2BFasttext%2Bbinary)%2Bkgr10_fasttext_bin_v1%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sbhkT9j9X4kJ&ei=JaJdYfzGFM6_mQHMm7boDg", "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/600/kgr10_orths.vec.bin?sequence=1&isAllowed=y"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Word embeddings for Polish (KGR10, Fasttext binary) kgr10\\_fasttext\\_bin\\_v1",
+    "author": "Koco{\\'n}, Jan and Marci{\\'n}czuk, Micha{\\l}",
+    "pub_year": "2018",
+    "venue": "NA",
+    "abstract": "celu\u2552* ile*\u00f7* one\u00c6\u03c4* $ \u00ff\u0393* poza\u00ee\u2580* prawieL\u2590* ca\u253c \u00e9y\u00ff\u250c* jakby\u00aa\u2518* Za\u2564\u256b* lepiejf\u2558* swoim\u256b\u255a* pocz\u2500 \u00e0tku\u255c\u2556* uwag\u2500 \u00d6\u00e0\u00a1* pewno&\u00a3* Pozdrawiam) \u00dc* opisem\u03c6\u00ee* drugiej* \u00e8* brI\u00e0* firmy~ \u00e4* rzeczy\u00fcu* czego\u03c3t*\u253c\u00a2 wiataIs* takiego\u2502 o* P\u03a3m* pa\u253c \u00e4stwadl* cz\u2500 \u00d6\u253c\u00a2\u2500 \u00e7\u255f k* naszejbf* oczywi\u253c\u00a2 cie\u2562 a* mniej\u2550]* 23^ E* prawo\u2563 D* porz\u2500 \u00e0dkuzC* powiedzie\u2500 \u00e7\u03c0@* meczu\u00ba>* proc>*~ \u03989* gdy\u253c\u255d q** samo*)* raczej*'* coraz\u00d6** dwieu** informacjiT",
+    "publisher": "Wroc{\\l}aw University of Science and Technology",
+    "pub_type": "article",
+    "bib_id": "kocon2018word"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/600/kgr10_orths.vec.bin?sequence=1&isAllowed=y",
+  "author_id": [
+    "pmQHb5IAAAAJ",
+    "aAk1SIsAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:sbhkT9j9X4kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWord%2Bembeddings%2Bfor%2BPolish%2B(KGR10,%2BFasttext%2Bbinary)%2Bkgr10_fasttext_bin_v1%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sbhkT9j9X4kJ&ei=JaJdYfzGFM6_mQHMm7boDg",
+  "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/600/kgr10_orths.vec.bin?sequence=1&isAllowed=y"
+}

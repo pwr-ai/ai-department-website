@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Fast and accurate-improving lexicon-based sentiment classification with an Ensemble Methods", "author": "Augustyniak, {\\L}ukasz and Szyma{\\'n}ski, Piotr and Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw", "pub_year": "2016", "venue": "Asian Conference on \u2026", "abstract": "A lexicon-based ensemble approach to sentiment analysis that outperforms lexicon-based method is presented in this article. This method consists of two steps. First we employ our own method (called frequentiment) for automatic generation of sentiment lexicons and some of publicly available lexicons. Secondly, an ensemble classification is used to improve the overall accuracy of predictions. Our approach outperforms publicly available sentiment lexicons and automatically generated domain lexicons. We conduct comprehensive analysis", "organization": "Springer", "pages": "108--116", "booktitle": "Asian Conference on Intelligent Information and Database Systems", "pub_type": "inproceedings", "bib_id": "augustyniak2016fast"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-662-49390-8_10", "author_id": ["o3apDSYAAAAJ", "K8v7ROIAAAAJ", "GOoaHHEAAAAJ"], "num_citations": 2, "url_scholarbib": "/scholar?q=info:5Dfq3flCNzkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFast%2Band%2Baccurate-improving%2Blexicon-based%2Bsentiment%2Bclassification%2Bwith%2Ban%2BEnsemble%2BMethods%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=5Dfq3flCNzkJ&ei=QEFeYb0IwpLL1g-77afwBQ", "citedby_url": "/scholar?cites=4122837624818382820&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:5Dfq3flCNzkJ:scholar.google.com/&scioq=Fast+and+accurate-improving+lexicon-based+sentiment+classification+with+an+Ensemble+Methods&hl=en&as_sdt=0,39", "eprint_url": "https://www.researchgate.net/profile/Lukasz-Augustyniak/publication/288671102_Fast_and_accurate_-_improving_lexicon-based_sentiment_classification_with_an_ensemble_methods/links/58bf21cc4585151c70304c93/Fast-and-accurate-improving-lexicon-based-sentiment-classification-with-an-ensemble-methods.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Fast and accurate-improving lexicon-based sentiment classification with an Ensemble Methods",
+    "author": "Augustyniak, {\\L}ukasz and Szyma{\\'n}ski, Piotr and Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2016",
+    "venue": "Asian Conference on \u2026",
+    "abstract": "A lexicon-based ensemble approach to sentiment analysis that outperforms lexicon-based method is presented in this article. This method consists of two steps. First we employ our own method (called frequentiment) for automatic generation of sentiment lexicons and some of publicly available lexicons. Secondly, an ensemble classification is used to improve the overall accuracy of predictions. Our approach outperforms publicly available sentiment lexicons and automatically generated domain lexicons. We conduct comprehensive analysis",
+    "organization": "Springer",
+    "pages": "108--116",
+    "booktitle": "Asian Conference on Intelligent Information and Database Systems",
+    "pub_type": "inproceedings",
+    "bib_id": "augustyniak2016fast"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-662-49390-8_10",
+  "author_id": [
+    "o3apDSYAAAAJ",
+    "K8v7ROIAAAAJ",
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:5Dfq3flCNzkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFast%2Band%2Baccurate-improving%2Blexicon-based%2Bsentiment%2Bclassification%2Bwith%2Ban%2BEnsemble%2BMethods%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=5Dfq3flCNzkJ&ei=QEFeYb0IwpLL1g-77afwBQ",
+  "citedby_url": "/scholar?cites=4122837624818382820&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:5Dfq3flCNzkJ:scholar.google.com/&scioq=Fast+and+accurate-improving+lexicon-based+sentiment+classification+with+an+Ensemble+Methods&hl=en&as_sdt=0,39",
+  "eprint_url": "https://www.researchgate.net/profile/Lukasz-Augustyniak/publication/288671102_Fast_and_accurate_-_improving_lexicon-based_sentiment_classification_with_an_ensemble_methods/links/58bf21cc4585151c70304c93/Fast-and-accurate-improving-lexicon-based-sentiment-classification-with-an-ensemble-methods.pdf"
+}

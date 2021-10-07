@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Identification of group changes in blogosphere", "author": "Gliwa, Bogdan and Saganowski, Stanislaw and Zygmunt, Anna and Br{\\'o}dka, Piotr and Kazienko, Przemyslaw and Kozak, Jaroslaw", "pub_year": "2012", "venue": "2012 IEEE/ACM \u2026", "abstract": "The paper addresses a problem of change identification in social group evolution. A new SGCI method for discovering of stable groups was proposed and compared with existing GED method. The experimental studies on a Polish blogosphere service revealed that both methods are able to identify similar evolution events even though both use different concepts. Some differences were demonstrated as well.", "organization": "IEEE", "pages": "1201--1206", "booktitle": "2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining", "pub_type": "inproceedings", "bib_id": "gliwa2012identification"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/6425593/", "author_id": ["VvXDjFsAAAAJ", "DVE_klAAAAAJ", "gs-Q0xUAAAAJ"], "num_citations": 34, "url_scholarbib": "/scholar?q=info:vsSiDJxkUH0J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIdentification%2Bof%2BGroup%2BChanges%2Bin%2BBlogosphere%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=vsSiDJxkUH0J&ei=3FNeYbeZMYfBmQGX-6OoBg", "citedby_url": "/scholar?cites=9029827874267514046&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:vsSiDJxkUH0J:scholar.google.com/&scioq=Identification+of+Group+Changes+in+Blogosphere&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1210.5171"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Identification of group changes in blogosphere",
+    "author": "Gliwa, Bogdan and Saganowski, Stanislaw and Zygmunt, Anna and Br{\\'o}dka, Piotr and Kazienko, Przemyslaw and Kozak, Jaroslaw",
+    "pub_year": "2012",
+    "venue": "2012 IEEE/ACM \u2026",
+    "abstract": "The paper addresses a problem of change identification in social group evolution. A new SGCI method for discovering of stable groups was proposed and compared with existing GED method. The experimental studies on a Polish blogosphere service revealed that both methods are able to identify similar evolution events even though both use different concepts. Some differences were demonstrated as well.",
+    "organization": "IEEE",
+    "pages": "1201--1206",
+    "booktitle": "2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining",
+    "pub_type": "inproceedings",
+    "bib_id": "gliwa2012identification"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/6425593/",
+  "author_id": [
+    "VvXDjFsAAAAJ",
+    "DVE_klAAAAAJ",
+    "gs-Q0xUAAAAJ"
+  ],
+  "num_citations": 34,
+  "url_scholarbib": "/scholar?q=info:vsSiDJxkUH0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIdentification%2Bof%2BGroup%2BChanges%2Bin%2BBlogosphere%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=vsSiDJxkUH0J&ei=3FNeYbeZMYfBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=9029827874267514046&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:vsSiDJxkUH0J:scholar.google.com/&scioq=Identification+of+Group+Changes+in+Blogosphere&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1210.5171"
+}

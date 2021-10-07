@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "COVID-19 peak estimation and effect of nationwide lockdown in India", "author": "Belfin, RV and Brodka, Piotr and Radhakrishnan, BL and Rejula, V", "pub_year": "2020", "venue": "MedRxiv", "abstract": "There was a fury of the pandemic because of novel coronavirus (2019-nCoV/SARS-CoV-2) that happened in Wuhan, Hubei province, in China in December 2019. Since then, many model predictions on the COVID-19 pandemic in Wuhan and other parts of China have been reported. The first incident of coronavirus disease 2019 (COVID-19) in India was reported on 30 January 2020, which was a student from Wuhan. The number of reported cases has started to increase day by day after 30 February 2020. The purpose of this investigation is to", "publisher": "Cold Spring Harbor Laboratory Press", "journal": "MedRxiv", "pub_type": "article", "bib_id": "belfin2020covid"}, "filled": true, "gsrank": 1, "pub_url": "https://www.medrxiv.org/content/10.1101/2020.05.09.20095919v1.abstract", "author_id": ["wvemSYIAAAAJ", "T7v65jEAAAAJ", "ephYB-8AAAAJ", ""], "num_citations": 8, "url_scholarbib": "/scholar?q=info:okmZSs41ddAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCOVID-19%2Bpeak%2Bestimation%2Band%2Beffect%2Bof%2Bnationwide%2Blockdown%2Bin%2BIndia%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=okmZSs41ddAJ&ei=HU9eYcrsKs6_mQHMm7boDg", "citedby_url": "/scholar?cites=15020971292295252386&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:okmZSs41ddAJ:scholar.google.com/&scioq=COVID-19+peak+estimation+and+effect+of+nationwide+lockdown+in+India&hl=en&as_sdt=0,5", "eprint_url": "https://www.medrxiv.org/content/medrxiv/early/2020/05/13/2020.05.09.20095919.full.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "COVID-19 peak estimation and effect of nationwide lockdown in India",
+    "author": "Belfin, RV and Brodka, Piotr and Radhakrishnan, BL and Rejula, V",
+    "pub_year": "2020",
+    "venue": "MedRxiv",
+    "abstract": "There was a fury of the pandemic because of novel coronavirus (2019-nCoV/SARS-CoV-2) that happened in Wuhan, Hubei province, in China in December 2019. Since then, many model predictions on the COVID-19 pandemic in Wuhan and other parts of China have been reported. The first incident of coronavirus disease 2019 (COVID-19) in India was reported on 30 January 2020, which was a student from Wuhan. The number of reported cases has started to increase day by day after 30 February 2020. The purpose of this investigation is to",
+    "publisher": "Cold Spring Harbor Laboratory Press",
+    "journal": "MedRxiv",
+    "pub_type": "article",
+    "bib_id": "belfin2020covid"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.medrxiv.org/content/10.1101/2020.05.09.20095919v1.abstract",
+  "author_id": [
+    "wvemSYIAAAAJ",
+    "T7v65jEAAAAJ",
+    "ephYB-8AAAAJ",
+    ""
+  ],
+  "num_citations": 8,
+  "url_scholarbib": "/scholar?q=info:okmZSs41ddAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCOVID-19%2Bpeak%2Bestimation%2Band%2Beffect%2Bof%2Bnationwide%2Blockdown%2Bin%2BIndia%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=okmZSs41ddAJ&ei=HU9eYcrsKs6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=15020971292295252386&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:okmZSs41ddAJ:scholar.google.com/&scioq=COVID-19+peak+estimation+and+effect+of+nationwide+lockdown+in+India&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.medrxiv.org/content/medrxiv/early/2020/05/13/2020.05.09.20095919.full.pdf"
+}

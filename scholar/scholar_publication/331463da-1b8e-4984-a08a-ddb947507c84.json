@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Multidimensional social network in the social recommender system", "author": "Kazienko, Przemys{\\l}aw and Musial, Katarzyna and Kajdanowicz, Tomasz", "pub_year": "2011", "venue": "IEEE Transactions on \u2026", "abstract": "All online sharing systems gather data that reflects users' collective behavior and their shared activities. This data can be used to extract different kinds of relationships which can be grouped into layers and which are basic components of the multidimensional social network (MSN) proposed in the paper. The layers are created on the basis of two types of relations between humans, ie, direct and object-based ones which, respectively, correspond to either social or semantic links between individuals. For better understanding of the", "publisher": "IEEE", "pages": "746--759", "number": "4", "volume": "41", "journal": "IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans", "pub_type": "article", "bib_id": "kazienko2011multidimensional"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/5766051/", "author_id": ["cxLgNccAAAAJ", "Dw5QS9wAAAAJ"], "num_citations": 206, "url_scholarbib": "/scholar?q=info:R_RqdES5AkEJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMultidimensional%2Bsocial%2Bnetwork%2Bin%2Bthe%2Bsocial%2Brecommender%2Bsystem%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=R_RqdES5AkEJ&ei=NZNdYcfQA86_mQHMm7boDg", "citedby_url": "/scholar?cites=4684510266080818247&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:R_RqdES5AkEJ:scholar.google.com/&scioq=Multidimensional+social+network+in+the+social+recommender+system&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1303.0093"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Multidimensional social network in the social recommender system",
+    "author": "Kazienko, Przemys{\\l}aw and Musial, Katarzyna and Kajdanowicz, Tomasz",
+    "pub_year": "2011",
+    "venue": "IEEE Transactions on \u2026",
+    "abstract": "All online sharing systems gather data that reflects users' collective behavior and their shared activities. This data can be used to extract different kinds of relationships which can be grouped into layers and which are basic components of the multidimensional social network (MSN) proposed in the paper. The layers are created on the basis of two types of relations between humans, ie, direct and object-based ones which, respectively, correspond to either social or semantic links between individuals. For better understanding of the",
+    "publisher": "IEEE",
+    "pages": "746--759",
+    "number": "4",
+    "volume": "41",
+    "journal": "IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans",
+    "pub_type": "article",
+    "bib_id": "kazienko2011multidimensional"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/5766051/",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "Dw5QS9wAAAAJ"
+  ],
+  "num_citations": 206,
+  "url_scholarbib": "/scholar?q=info:R_RqdES5AkEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMultidimensional%2Bsocial%2Bnetwork%2Bin%2Bthe%2Bsocial%2Brecommender%2Bsystem%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=R_RqdES5AkEJ&ei=NZNdYcfQA86_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=4684510266080818247&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:R_RqdES5AkEJ:scholar.google.com/&scioq=Multidimensional+social+network+in+the+social+recommender+system&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1303.0093"
+}

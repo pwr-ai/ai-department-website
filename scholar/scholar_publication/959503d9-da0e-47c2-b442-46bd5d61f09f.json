@@ -1,1 +1,25 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Advances in Social Networks Analysis and Mining (ASONAM 2014)", "author": "Moradi, Farnaz and Olovsson, Tomas and Tsigas, Philippas", "venue": "NA", "pub_year": "NA", "abstract": "Committee ..... xxvii SNAA 2014 Organizing Committee ..... xxviii Message from FOSINT-SI 2014 Chairs ..... xxx", "pub_type": "article", "bib_id": "moradiadvances"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/6921531/", "author_id": ["", "nXe2OiAAAAAJ", "rcvCfQEAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:olNbsQDOSpUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSNAA%2B2014%2Borganizing%2Bcommittee%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=olNbsQDOSpUJ&ei=Pp1dYY7MF86_mQHMm7boDg", "eprint_url": "https://ieeexplore.ieee.org/iel7/6911097/6921526/06921531.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Advances in Social Networks Analysis and Mining (ASONAM 2014)",
+    "author": "Moradi, Farnaz and Olovsson, Tomas and Tsigas, Philippas",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "Committee ..... xxvii SNAA 2014 Organizing Committee ..... xxviii Message from FOSINT-SI 2014 Chairs ..... xxx",
+    "pub_type": "article",
+    "bib_id": "moradiadvances"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/6921531/",
+  "author_id": [
+    "",
+    "nXe2OiAAAAAJ",
+    "rcvCfQEAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:olNbsQDOSpUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSNAA%2B2014%2Borganizing%2Bcommittee%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=olNbsQDOSpUJ&ei=Pp1dYY7MF86_mQHMm7boDg",
+  "eprint_url": "https://ieeexplore.ieee.org/iel7/6911097/6921526/06921531.pdf"
+}

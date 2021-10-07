@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Evaluation of organization structure based on email interactions", "author": "Palus, Sebastian and Brodka, Piotr and Kazienko, Przemyslaw", "pub_year": "2011", "venue": "International Journal of Knowledge \u2026", "abstract": "In every company, employees are in communication via phone, email, text messages, chats on a forum, co-author documents, events, and so forth. They collaborate with each other creating and maintaining mutual relationships in one complex social network. In this paper, the authors use this social network to evaluate company structure and based on this evaluation recommend some changes that have to be made within a company to improve its structure. The evaluation process and an example of its usage are presented in the paper.", "publisher": "IGI Global", "pages": "1--13", "number": "1", "volume": "2", "journal": "International Journal of Knowledge Society Research (IJKSR)", "pub_type": "article", "bib_id": "palus2011evaluation"}, "filled": true, "gsrank": 1, "pub_url": "https://www.igi-global.com/article/evaluation-organization-structure-based-email/52761", "author_id": ["", "T7v65jEAAAAJ", "cxLgNccAAAAJ"], "num_citations": 19, "url_scholarbib": "/scholar?q=info:FHEievC5-UMJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEvaluation%2Bof%2Borganization%2Bstructure%2Bbased%2Bon%2Bemail%2Binteractions%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=FHEievC5-UMJ&ei=-jReYZbDG86_mQHMm7boDg", "citedby_url": "/scholar?cites=4898150512234492180&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:FHEievC5-UMJ:scholar.google.com/&scioq=Evaluation+of+organization+structure+based+on+email+interactions&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Evaluation of organization structure based on email interactions",
+    "author": "Palus, Sebastian and Brodka, Piotr and Kazienko, Przemyslaw",
+    "pub_year": "2011",
+    "venue": "International Journal of Knowledge \u2026",
+    "abstract": "In every company, employees are in communication via phone, email, text messages, chats on a forum, co-author documents, events, and so forth. They collaborate with each other creating and maintaining mutual relationships in one complex social network. In this paper, the authors use this social network to evaluate company structure and based on this evaluation recommend some changes that have to be made within a company to improve its structure. The evaluation process and an example of its usage are presented in the paper.",
+    "publisher": "IGI Global",
+    "pages": "1--13",
+    "number": "1",
+    "volume": "2",
+    "journal": "International Journal of Knowledge Society Research (IJKSR)",
+    "pub_type": "article",
+    "bib_id": "palus2011evaluation"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.igi-global.com/article/evaluation-organization-structure-based-email/52761",
+  "author_id": [
+    "",
+    "T7v65jEAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 19,
+  "url_scholarbib": "/scholar?q=info:FHEievC5-UMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEvaluation%2Bof%2Borganization%2Bstructure%2Bbased%2Bon%2Bemail%2Binteractions%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=FHEievC5-UMJ&ei=-jReYZbDG86_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=4898150512234492180&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:FHEievC5-UMJ:scholar.google.com/&scioq=Evaluation+of+organization+structure+based+on+email+interactions&hl=en&as_sdt=0,5"
+}

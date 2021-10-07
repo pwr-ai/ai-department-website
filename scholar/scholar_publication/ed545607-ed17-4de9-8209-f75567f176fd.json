@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Word Sense Disambiguation Based on Constrained Random Walks in Linked Semantic Networks", "author": "Janz, Arkadiusz and Piasecki, Maciej", "pub_year": "2019", "venue": "Proceedings of the International Conference on \u2026", "abstract": "Word Sense Disambiguation remains a challenging NLP task. Due to the lack of annotated training data, especially for rare senses, the supervised approaches are usually designed for specific subdomains limited to a narrow subset of identified senses. Recent advances in this area have shown that knowledge-based approaches are more scalable and obtain more promising results in all-words WSD scenarios. In this work we present a faster WSD algorithm based on the Monte Carlo approximation of sense probabilities given", "pages": "516--525", "booktitle": "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2019)", "pub_type": "inproceedings", "bib_id": "janz2019word"}, "filled": true, "gsrank": 1, "pub_url": "https://www.aclweb.org/anthology/R19-1061/", "author_id": ["UNlMg18AAAAJ", "nU_W9XwAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:-C8S8rxgsbkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWord%2BSense%2BDisambiguation%2BBased%2Bon%2BConstrained%2BRandom%2BWalks%2Bin%2BLinked%2BSemantic%2BNetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=-C8S8rxgsbkJ&ei=H75dYZXXLIu4mAGqg5LoDg", "citedby_url": "/scholar?cites=13380582332525850616&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:-C8S8rxgsbkJ:scholar.google.com/&scioq=Word+Sense+Disambiguation+Based+on+Constrained+Random+Walks+in+Linked+Semantic+Networks&hl=en&as_sdt=0,5", "eprint_url": "https://www.aclweb.org/anthology/R19-1061.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Word Sense Disambiguation Based on Constrained Random Walks in Linked Semantic Networks",
+    "author": "Janz, Arkadiusz and Piasecki, Maciej",
+    "pub_year": "2019",
+    "venue": "Proceedings of the International Conference on \u2026",
+    "abstract": "Word Sense Disambiguation remains a challenging NLP task. Due to the lack of annotated training data, especially for rare senses, the supervised approaches are usually designed for specific subdomains limited to a narrow subset of identified senses. Recent advances in this area have shown that knowledge-based approaches are more scalable and obtain more promising results in all-words WSD scenarios. In this work we present a faster WSD algorithm based on the Monte Carlo approximation of sense probabilities given",
+    "pages": "516--525",
+    "booktitle": "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2019)",
+    "pub_type": "inproceedings",
+    "bib_id": "janz2019word"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.aclweb.org/anthology/R19-1061/",
+  "author_id": [
+    "UNlMg18AAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:-C8S8rxgsbkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWord%2BSense%2BDisambiguation%2BBased%2Bon%2BConstrained%2BRandom%2BWalks%2Bin%2BLinked%2BSemantic%2BNetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=-C8S8rxgsbkJ&ei=H75dYZXXLIu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=13380582332525850616&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:-C8S8rxgsbkJ:scholar.google.com/&scioq=Word+Sense+Disambiguation+Based+on+Constrained+Random+Walks+in+Linked+Semantic+Networks&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.aclweb.org/anthology/R19-1061.pdf"
+}

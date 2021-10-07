@@ -1,1 +1,32 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Introduction to the special issue: On wordnets and relations", "author": "Piasecki, Maciej and Szpakowicz, Stan and Fellbaum, Christiane and Pedersen, Bolette Sandford", "pub_year": "2013", "venue": "Language Resources \u2026", "abstract": "Since its inception a quarter century ago, Princeton WordNet [PWN](Miller 1995; Fellbaum 1998) has had a profound influence on research and applications in lexical semantics, computational linguistics and natural language processing. The numerous uses of this lexical resource have motivated the building of wordnets 1 in several dozen languages, including even a ''dead''language, Latin. This special issue looks at certain aspects of wordnet construction and organisation. There are diverse methods of wordnet construction", "publisher": "Springer", "pages": "757--767", "number": "3", "volume": "47", "journal": "Language Resources and Evaluation", "pub_type": "article", "bib_id": "piasecki2013introduction"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/article/10.1007/s10579-013-9247-y", "author_id": ["nU_W9XwAAAAJ", "mFbRWwMAAAAJ", ""], "num_citations": 6, "url_scholarbib": "/scholar?q=info:AjJWviutFZYJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntroduction%2Bto%2Bthe%2Bspecial%2Bissue:%2BOn%2Bwordnets%2Band%2Brelations%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=AjJWviutFZYJ&ei=qLhdYfyXA42UmQGz6rqYBQ", "citedby_url": "/scholar?cites=10814740483588633090&as_sdt=5,33&sciodt=0,33&hl=en", "url_related_articles": "/scholar?q=related:AjJWviutFZYJ:scholar.google.com/&scioq=Introduction+to+the+special+issue:+On+wordnets+and+relations&hl=en&as_sdt=0,33", "eprint_url": "https://link.springer.com/article/10.1007/s10579-013-9247-y"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Introduction to the special issue: On wordnets and relations",
+    "author": "Piasecki, Maciej and Szpakowicz, Stan and Fellbaum, Christiane and Pedersen, Bolette Sandford",
+    "pub_year": "2013",
+    "venue": "Language Resources \u2026",
+    "abstract": "Since its inception a quarter century ago, Princeton WordNet [PWN](Miller 1995; Fellbaum 1998) has had a profound influence on research and applications in lexical semantics, computational linguistics and natural language processing. The numerous uses of this lexical resource have motivated the building of wordnets 1 in several dozen languages, including even a ''dead''language, Latin. This special issue looks at certain aspects of wordnet construction and organisation. There are diverse methods of wordnet construction",
+    "publisher": "Springer",
+    "pages": "757--767",
+    "number": "3",
+    "volume": "47",
+    "journal": "Language Resources and Evaluation",
+    "pub_type": "article",
+    "bib_id": "piasecki2013introduction"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/article/10.1007/s10579-013-9247-y",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    "mFbRWwMAAAAJ",
+    ""
+  ],
+  "num_citations": 6,
+  "url_scholarbib": "/scholar?q=info:AjJWviutFZYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntroduction%2Bto%2Bthe%2Bspecial%2Bissue:%2BOn%2Bwordnets%2Band%2Brelations%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=AjJWviutFZYJ&ei=qLhdYfyXA42UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=10814740483588633090&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:AjJWviutFZYJ:scholar.google.com/&scioq=Introduction+to+the+special+issue:+On+wordnets+and+relations&hl=en&as_sdt=0,33",
+  "eprint_url": "https://link.springer.com/article/10.1007/s10579-013-9247-y"
+}

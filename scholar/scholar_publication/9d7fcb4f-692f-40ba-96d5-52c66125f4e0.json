@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Neural Language Models vs Wordnet-based Semantically Enriched Representation in CST Relation Recognition", "author": "Janz, Arkadiusz and Piasecki, Maciej and W{\\k{a}}torski, Piotr", "pub_year": "2021", "venue": "Proceedings of the 11th Global Wordnet \u2026", "abstract": "Neural language models, including transformer-based models, that are pre-trained on very large corpora became a common way to represent text in various tasks, including recognition of textual semantic relations, eg Cross-document Structure Theory. Pre-trained models are usually fine tuned to downstream tasks and the obtained vectors are used as an input for deep neural classifiers. No linguistic knowledge obtained from resources and tools is utilised. In this paper we compare such universal approaches with a combination of rich", "pages": "223--233", "booktitle": "Proceedings of the 11th Global Wordnet Conference", "pub_type": "inproceedings", "bib_id": "janz2021neural"}, "filled": true, "gsrank": 1, "pub_url": "https://www.aclweb.org/anthology/2021.gwc-1.26/", "author_id": ["UNlMg18AAAAJ", "nU_W9XwAAAAJ", "PRp78TwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:f4yu2Eu6R7MJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNeural%2BLanguage%2BModels%2Bvs%2BWordnet-based%2BSemantically%2BEnriched%2BRepresentation%2Bin%2BCST%2BRelation%2BRecognition%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=f4yu2Eu6R7MJ&ei=sMFdYZynB6PZsQKvo78o", "url_related_articles": "/scholar?q=related:f4yu2Eu6R7MJ:scholar.google.com/&scioq=Neural+Language+Models+vs+Wordnet-based+Semantically+Enriched+Representation+in+CST+Relation+Recognition&hl=en&as_sdt=0,5", "eprint_url": "https://www.aclweb.org/anthology/2021.gwc-1.26.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Neural Language Models vs Wordnet-based Semantically Enriched Representation in CST Relation Recognition",
+    "author": "Janz, Arkadiusz and Piasecki, Maciej and W{\\k{a}}torski, Piotr",
+    "pub_year": "2021",
+    "venue": "Proceedings of the 11th Global Wordnet \u2026",
+    "abstract": "Neural language models, including transformer-based models, that are pre-trained on very large corpora became a common way to represent text in various tasks, including recognition of textual semantic relations, eg Cross-document Structure Theory. Pre-trained models are usually fine tuned to downstream tasks and the obtained vectors are used as an input for deep neural classifiers. No linguistic knowledge obtained from resources and tools is utilised. In this paper we compare such universal approaches with a combination of rich",
+    "pages": "223--233",
+    "booktitle": "Proceedings of the 11th Global Wordnet Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "janz2021neural"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.aclweb.org/anthology/2021.gwc-1.26/",
+  "author_id": [
+    "UNlMg18AAAAJ",
+    "nU_W9XwAAAAJ",
+    "PRp78TwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:f4yu2Eu6R7MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNeural%2BLanguage%2BModels%2Bvs%2BWordnet-based%2BSemantically%2BEnriched%2BRepresentation%2Bin%2BCST%2BRelation%2BRecognition%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=f4yu2Eu6R7MJ&ei=sMFdYZynB6PZsQKvo78o",
+  "url_related_articles": "/scholar?q=related:f4yu2Eu6R7MJ:scholar.google.com/&scioq=Neural+Language+Models+vs+Wordnet-based+Semantically+Enriched+Representation+in+CST+Relation+Recognition&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.aclweb.org/anthology/2021.gwc-1.26.pdf"
+}

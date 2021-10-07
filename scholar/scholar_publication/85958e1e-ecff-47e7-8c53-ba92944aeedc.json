@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Environment supporting construction of the Polish Wordnet", "author": "Piasecki, Maciej and Koczan, Pawe{\\l}", "pub_year": "2007", "venue": "Proceedings of the 3rd Language and \u2026", "abstract": "In the paper a software system facilitating the development of the Polish Wordent is presented. The application has client-server architecture, posses a Graphical User Interface, and makes linguists free from using an artificial language of the lexical source files. According to the assumed linguistic procedure, the user interface is divided into two main parts: the perspective of lexical units and the perspective of synsets. Substitution tests defined for semantic relations are filled automatically with the appropriate morphological", "pages": "519--523", "booktitle": "Proceedings of the 3rd Language and Technology Conference", "pub_type": "inproceedings", "bib_id": "piasecki2007environment"}, "filled": true, "gsrank": 1, "pub_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/228348515_Environment_Supporting_Construction_of_the_Polish_Wordnet/links/00b7d5228295a3f462000000/Environment-Supporting-Construction-of-the-Polish-Wordnet.pdf", "author_id": ["nU_W9XwAAAAJ", ""], "num_citations": 5, "url_scholarbib": "/scholar?q=info:dLwKlcQm6PsJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnvironment%2Bsupporting%2Bconstruction%2Bof%2Bthe%2BPolish%2BWordnet%26hl%3Den%26as_sdt%3D0,47&citilm=1&json=&update_op=library_add&info=dLwKlcQm6PsJ&ei=vbxdYaLNPILemgHVs5GYDg", "citedby_url": "/scholar?cites=18151800923872738420&as_sdt=5,47&sciodt=0,47&hl=en", "url_related_articles": "/scholar?q=related:dLwKlcQm6PsJ:scholar.google.com/&scioq=Environment+supporting+construction+of+the+Polish+Wordnet&hl=en&as_sdt=0,47", "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/228348515_Environment_Supporting_Construction_of_the_Polish_Wordnet/links/00b7d5228295a3f462000000/Environment-Supporting-Construction-of-the-Polish-Wordnet.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Environment supporting construction of the Polish Wordnet",
+    "author": "Piasecki, Maciej and Koczan, Pawe{\\l}",
+    "pub_year": "2007",
+    "venue": "Proceedings of the 3rd Language and \u2026",
+    "abstract": "In the paper a software system facilitating the development of the Polish Wordent is presented. The application has client-server architecture, posses a Graphical User Interface, and makes linguists free from using an artificial language of the lexical source files. According to the assumed linguistic procedure, the user interface is divided into two main parts: the perspective of lexical units and the perspective of synsets. Substitution tests defined for semantic relations are filled automatically with the appropriate morphological",
+    "pages": "519--523",
+    "booktitle": "Proceedings of the 3rd Language and Technology Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "piasecki2007environment"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/228348515_Environment_Supporting_Construction_of_the_Polish_Wordnet/links/00b7d5228295a3f462000000/Environment-Supporting-Construction-of-the-Polish-Wordnet.pdf",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    ""
+  ],
+  "num_citations": 5,
+  "url_scholarbib": "/scholar?q=info:dLwKlcQm6PsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnvironment%2Bsupporting%2Bconstruction%2Bof%2Bthe%2BPolish%2BWordnet%26hl%3Den%26as_sdt%3D0,47&citilm=1&json=&update_op=library_add&info=dLwKlcQm6PsJ&ei=vbxdYaLNPILemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=18151800923872738420&as_sdt=5,47&sciodt=0,47&hl=en",
+  "url_related_articles": "/scholar?q=related:dLwKlcQm6PsJ:scholar.google.com/&scioq=Environment+supporting+construction+of+the+Polish+Wordnet&hl=en&as_sdt=0,47",
+  "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/228348515_Environment_Supporting_Construction_of_the_Polish_Wordnet/links/00b7d5228295a3f462000000/Environment-Supporting-Construction-of-the-Polish-Wordnet.pdf"
+}

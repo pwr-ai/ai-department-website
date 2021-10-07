@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Similarity Measure for Polish Short Texts Based on Wordnet-Enhanced Bag-of-words Representation", "author": "Piasecki, Maciej and Gut, Anna", "pub_year": "2015", "venue": "Language and Technology Conference", "abstract": "We present a method for computing semantic similarity of Polish texts with main focus given to short texts. We have taken into account the limited set of language tools for Polish, and especially that syntactic and semantic parsers do not express accuracy and robustness high enough and to become a stable basis for similarity computation. A very large wordnet of Polish, namely plWordNet is used to construct meaning representations for words in such a way that different words of the similar meaning receive similar representations. The use of a", "organization": "Springer", "pages": "169--182", "booktitle": "Language and Technology Conference", "pub_type": "inproceedings", "bib_id": "piasecki2015similarity"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-93782-3_13", "author_id": ["nU_W9XwAAAAJ", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:p_vXwk7VV3wJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSimilarity%2BMeasure%2Bfor%2BPolish%2BShort%2BTexts%2BBased%2Bon%2BWordnet-Enhanced%2BBag-of-words%2BRepresentation%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=p_vXwk7VV3wJ&ei=b8RdYcb1Bs6_mQHMm7boDg", "url_related_articles": "/scholar?q=related:p_vXwk7VV3wJ:scholar.google.com/&scioq=Similarity+Measure+for+Polish+Short+Texts+Based+on+Wordnet-Enhanced+Bag-of-words+Representation&hl=en&as_sdt=0,39"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Similarity Measure for Polish Short Texts Based on Wordnet-Enhanced Bag-of-words Representation",
+    "author": "Piasecki, Maciej and Gut, Anna",
+    "pub_year": "2015",
+    "venue": "Language and Technology Conference",
+    "abstract": "We present a method for computing semantic similarity of Polish texts with main focus given to short texts. We have taken into account the limited set of language tools for Polish, and especially that syntactic and semantic parsers do not express accuracy and robustness high enough and to become a stable basis for similarity computation. A very large wordnet of Polish, namely plWordNet is used to construct meaning representations for words in such a way that different words of the similar meaning receive similar representations. The use of a",
+    "organization": "Springer",
+    "pages": "169--182",
+    "booktitle": "Language and Technology Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "piasecki2015similarity"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-93782-3_13",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:p_vXwk7VV3wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSimilarity%2BMeasure%2Bfor%2BPolish%2BShort%2BTexts%2BBased%2Bon%2BWordnet-Enhanced%2BBag-of-words%2BRepresentation%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=p_vXwk7VV3wJ&ei=b8RdYcb1Bs6_mQHMm7boDg",
+  "url_related_articles": "/scholar?q=related:p_vXwk7VV3wJ:scholar.google.com/&scioq=Similarity+Measure+for+Polish+Short+Texts+Based+on+Wordnet-Enhanced+Bag-of-words+Representation&hl=en&as_sdt=0,39"
+}

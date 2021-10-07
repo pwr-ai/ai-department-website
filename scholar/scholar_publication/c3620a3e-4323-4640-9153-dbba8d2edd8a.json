@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Dynamic Representation of Nominal Anaphora without Syntactic Indexing", "author": "Piasecki, Maciej", "pub_year": "2003", "venue": "Proc. of the 5th International Workshop on \u2026", "abstract": "The main goal of the work presented here is the construction of fully compositional representation of nominal anaphora in discourse. The proposed representation does not depend on the remote ascription (done outside the formal representation) of syntactic indexes, identifying anaphoric links. A formal language, based on dynamic semantics paradigm and being a variant of many-sorted type logic, is introduced. An indeterministic reference operator using structural and descriptive information, and creating links between", "pages": "321", "booktitle": "Proc. of the 5th International Workshop on Computational Semantics", "pub_type": "inproceedings", "bib_id": "piasecki2003dynamic"}, "filled": true, "gsrank": 1, "pub_url": "http://www.ii.pwr.wroc.pl/~piasecki/publications/piasecki-iwcs-5.pdf", "author_id": ["nU_W9XwAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:1heyLsvs8osJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2BRepresentation%2Bof%2BNominal%2BAnaphora%2Bwithout%2BSyntactic%2BIndexing%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=1heyLsvs8osJ&ei=LcBdYfSQE4LemgHVs5GYDg", "citedby_url": "/scholar?cites=10084382873041901526&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:1heyLsvs8osJ:scholar.google.com/&scioq=Dynamic+Representation+of+Nominal+Anaphora+without+Syntactic+Indexing&hl=en&as_sdt=0,5", "eprint_url": "http://www.ii.pwr.wroc.pl/~piasecki/publications/piasecki-iwcs-5.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Dynamic Representation of Nominal Anaphora without Syntactic Indexing",
+    "author": "Piasecki, Maciej",
+    "pub_year": "2003",
+    "venue": "Proc. of the 5th International Workshop on \u2026",
+    "abstract": "The main goal of the work presented here is the construction of fully compositional representation of nominal anaphora in discourse. The proposed representation does not depend on the remote ascription (done outside the formal representation) of syntactic indexes, identifying anaphoric links. A formal language, based on dynamic semantics paradigm and being a variant of many-sorted type logic, is introduced. An indeterministic reference operator using structural and descriptive information, and creating links between",
+    "pages": "321",
+    "booktitle": "Proc. of the 5th International Workshop on Computational Semantics",
+    "pub_type": "inproceedings",
+    "bib_id": "piasecki2003dynamic"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.ii.pwr.wroc.pl/~piasecki/publications/piasecki-iwcs-5.pdf",
+  "author_id": [
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:1heyLsvs8osJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2BRepresentation%2Bof%2BNominal%2BAnaphora%2Bwithout%2BSyntactic%2BIndexing%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=1heyLsvs8osJ&ei=LcBdYfSQE4LemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=10084382873041901526&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:1heyLsvs8osJ:scholar.google.com/&scioq=Dynamic+Representation+of+Nominal+Anaphora+without+Syntactic+Indexing&hl=en&as_sdt=0,5",
+  "eprint_url": "http://www.ii.pwr.wroc.pl/~piasecki/publications/piasecki-iwcs-5.pdf"
+}

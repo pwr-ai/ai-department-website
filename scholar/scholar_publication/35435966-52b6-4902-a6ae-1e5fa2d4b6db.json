@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Social network analysis with applications", "author": "McCulloh, Ian and Armstrong, Helen and Johnson, Anthony", "pub_year": "2013", "venue": "NA", "abstract": "A comprehensive introduction to social network analysis that hones in on basic centrality measures, social links, subgroup analysis, data sources, and more Written by military, industry, and business professionals, this book introduces readers to social network", "publisher": "John Wiley \\& Sons", "pub_type": "book", "bib_id": "mcculloh2013social"}, "filled": true, "gsrank": 1, "pub_url": "https://books.google.com/books?hl=en&lr=&id=lDhuJLGRMPEC&oi=fnd&pg=PA1875&dq=Social+Network+Analysis+in+Applications&ots=QY_0aYwugG&sig=BpJa3mrIIHNTF6DGPWV9Nfct22I", "author_id": ["pb9Jo00AAAAJ", "", "npbq00sAAAAJ"], "num_citations": 175, "url_scholarbib": "/scholar?q=info:3XejD4HmqIcJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2BNetwork%2BAnalysis%2Bin%2BApplications%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=3XejD4HmqIcJ&ei=gFNeYZiRCqPZsQKvo78o", "citedby_url": "/scholar?cites=9775316433195202525&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:3XejD4HmqIcJ:scholar.google.com/&scioq=Social+Network+Analysis+in+Applications&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Social network analysis with applications",
+    "author": "McCulloh, Ian and Armstrong, Helen and Johnson, Anthony",
+    "pub_year": "2013",
+    "venue": "NA",
+    "abstract": "A comprehensive introduction to social network analysis that hones in on basic centrality measures, social links, subgroup analysis, data sources, and more Written by military, industry, and business professionals, this book introduces readers to social network",
+    "publisher": "John Wiley \\& Sons",
+    "pub_type": "book",
+    "bib_id": "mcculloh2013social"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://books.google.com/books?hl=en&lr=&id=lDhuJLGRMPEC&oi=fnd&pg=PA1875&dq=Social+Network+Analysis+in+Applications&ots=QY_0aYwugG&sig=BpJa3mrIIHNTF6DGPWV9Nfct22I",
+  "author_id": [
+    "pb9Jo00AAAAJ",
+    "",
+    "npbq00sAAAAJ"
+  ],
+  "num_citations": 175,
+  "url_scholarbib": "/scholar?q=info:3XejD4HmqIcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2BNetwork%2BAnalysis%2Bin%2BApplications%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=3XejD4HmqIcJ&ei=gFNeYZiRCqPZsQKvo78o",
+  "citedby_url": "/scholar?cites=9775316433195202525&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:3XejD4HmqIcJ:scholar.google.com/&scioq=Social+Network+Analysis+in+Applications&hl=en&as_sdt=0,5"
+}

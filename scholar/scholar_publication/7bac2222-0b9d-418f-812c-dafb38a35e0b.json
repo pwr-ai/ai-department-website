@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Profile of the social network in photo sharing systems", "author": "Kazienko, Przemyslaw and Musial, Katarzyna and Kajdanowicz, Tomasz", "pub_year": "2008", "venue": "NA", "abstract": "People, who interact, cooperate or share common activities within the photo sharing system can be seen as a multirelational social network. The results of their activities, ie tags, comments, references to favourites and others that semantically connect users through multimedia objects, ie pictures are the crucial component of the semantic web concept. Every online sharing system provides data that can be used for extraction of different kinds of relations grouped in layers in the multirelational social network. Layers and their profiles", "pub_type": "article", "bib_id": "kazienko2008profile"}, "filled": true, "gsrank": 1, "pub_url": "https://aisel.aisnet.org/amcis2008/173/", "author_id": ["cxLgNccAAAAJ", "Dw5QS9wAAAAJ", "GOoaHHEAAAAJ"], "num_citations": 14, "url_scholarbib": "/scholar?q=info:NP1pnOpeqLoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProfile%2Bof%2Bthe%2Bsocial%2Bnetwork%2Bin%2Bphoto%2Bsharing%2Bsystems%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=NP1pnOpeqLoJ&ei=S5RdYYvVEIfBmQGX-6OoBg", "citedby_url": "/scholar?cites=13450104648881536308&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:NP1pnOpeqLoJ:scholar.google.com/&scioq=Profile+of+the+social+network+in+photo+sharing+systems&hl=en&as_sdt=0,39", "eprint_url": "https://core.ac.uk/download/pdf/301341986.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Profile of the social network in photo sharing systems",
+    "author": "Kazienko, Przemyslaw and Musial, Katarzyna and Kajdanowicz, Tomasz",
+    "pub_year": "2008",
+    "venue": "NA",
+    "abstract": "People, who interact, cooperate or share common activities within the photo sharing system can be seen as a multirelational social network. The results of their activities, ie tags, comments, references to favourites and others that semantically connect users through multimedia objects, ie pictures are the crucial component of the semantic web concept. Every online sharing system provides data that can be used for extraction of different kinds of relations grouped in layers in the multirelational social network. Layers and their profiles",
+    "pub_type": "article",
+    "bib_id": "kazienko2008profile"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://aisel.aisnet.org/amcis2008/173/",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "Dw5QS9wAAAAJ",
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 14,
+  "url_scholarbib": "/scholar?q=info:NP1pnOpeqLoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProfile%2Bof%2Bthe%2Bsocial%2Bnetwork%2Bin%2Bphoto%2Bsharing%2Bsystems%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=NP1pnOpeqLoJ&ei=S5RdYYvVEIfBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=13450104648881536308&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:NP1pnOpeqLoJ:scholar.google.com/&scioq=Profile+of+the+social+network+in+photo+sharing+systems&hl=en&as_sdt=0,39",
+  "eprint_url": "https://core.ac.uk/download/pdf/301341986.pdf"
+}

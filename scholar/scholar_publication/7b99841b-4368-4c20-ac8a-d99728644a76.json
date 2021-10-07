@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Structure annotation in the Polish corpus of suicide notes", "author": "Marci{\\'n}czuk, Micha{\\l} and Za{\\'s}ko-Zieli{\\'n}ska, Monika and Piasecki, Maciej", "pub_year": "2011", "venue": "\u2026 Conference on Text \u2026", "abstract": "Polish Corpus of Suicide Notes (henceforth PCSN) is constructed to meet the needs of forensic linguistics. Suicide notes are messages created in borderline situation, shortly before death. Hence the annotation schema requires a complex description of a document structure, the textual content, as well as its linguistic properties. TEI was selected as the basis for the document encoding schema. TEI adaptation and extension with respect to such aspects of encoding as: a letter structure, various layers of changes and omissions, error", "organization": "Springer", "pages": "419--426", "booktitle": "International Conference on Text, Speech and Dialogue", "pub_type": "inproceedings", "bib_id": "marcinczuk2011structure"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-23538-2_53", "author_id": ["aAk1SIsAAAAJ", "E81pgs0AAAAJ"], "num_citations": 12, "url_scholarbib": "/scholar?q=info:nVPnFtf66W8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStructure%2Bannotation%2Bin%2Bthe%2BPolish%2Bcorpus%2Bof%2Bsuicide%2Bnotes%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=nVPnFtf66W8J&ei=XbFdYdvIIKPZsQKvo78o", "citedby_url": "/scholar?cites=8064252409492755357&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:nVPnFtf66W8J:scholar.google.com/&scioq=Structure+annotation+in+the+Polish+corpus+of+suicide+notes&hl=en&as_sdt=0,5", "eprint_url": "http://digilib.mercubuana.ac.id/manager/t!@file_artikel_abstrak/Isi_Artikel_691954471481.pdf#page=433"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Structure annotation in the Polish corpus of suicide notes",
+    "author": "Marci{\\'n}czuk, Micha{\\l} and Za{\\'s}ko-Zieli{\\'n}ska, Monika and Piasecki, Maciej",
+    "pub_year": "2011",
+    "venue": "\u2026 Conference on Text \u2026",
+    "abstract": "Polish Corpus of Suicide Notes (henceforth PCSN) is constructed to meet the needs of forensic linguistics. Suicide notes are messages created in borderline situation, shortly before death. Hence the annotation schema requires a complex description of a document structure, the textual content, as well as its linguistic properties. TEI was selected as the basis for the document encoding schema. TEI adaptation and extension with respect to such aspects of encoding as: a letter structure, various layers of changes and omissions, error",
+    "organization": "Springer",
+    "pages": "419--426",
+    "booktitle": "International Conference on Text, Speech and Dialogue",
+    "pub_type": "inproceedings",
+    "bib_id": "marcinczuk2011structure"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-23538-2_53",
+  "author_id": [
+    "aAk1SIsAAAAJ",
+    "E81pgs0AAAAJ"
+  ],
+  "num_citations": 12,
+  "url_scholarbib": "/scholar?q=info:nVPnFtf66W8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStructure%2Bannotation%2Bin%2Bthe%2BPolish%2Bcorpus%2Bof%2Bsuicide%2Bnotes%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=nVPnFtf66W8J&ei=XbFdYdvIIKPZsQKvo78o",
+  "citedby_url": "/scholar?cites=8064252409492755357&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:nVPnFtf66W8J:scholar.google.com/&scioq=Structure+annotation+in+the+Polish+corpus+of+suicide+notes&hl=en&as_sdt=0,5",
+  "eprint_url": "http://digilib.mercubuana.ac.id/manager/t!@file_artikel_abstrak/Isi_Artikel_691954471481.pdf#page=433"
+}

@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Grupowanie stron WWW na podstawie odsy{\\l}aczy hipertekstowych", "author": "KAZIENKO, Przemys{\\l}aw", "pub_year": "1998", "venue": "NA", "abstract": "Grupowanie dokument\u00f3w ma szerokie zastosowanie szczeg\u00f3lnie przy automatycznym tworzeniu katalog\u00f3w oraz porz\u0105dkowaniu zbioru dokument\u00f3w, kt\u00f3re prezentuje si\u0119 u\u017cytkownikowi. Dokumenty hipertekstowe s\u0105 specyficznym rodzajem dokument\u00f3w. Ich cecha wyr\u00f3\u017cniaj\u0105ca to odsy\u0142acze \u0142\u0105cz\u0105ce je mi\u0119dzy sob\u0105. W wypadku du\u017cych system\u00f3w hipertekstowych, takich jak strony systemu WWW, poruszanie si\u0119 w g\u0105szczu dokument\u00f3w i odsy\u0142aczy stanowi powa\u017cny problem. Powsta\u0142o specjalne poj\u0119cie okre\u015blaj\u0105ce tak\u0105 sytuacj\u0119", "publisher": "W: MiSSI. Multimedialne i sieciowe systemy informacyjne. Materia{\\l}y~\u2026", "pub_type": "misc", "bib_id": "kazienko1998grupowanie"}, "filled": true, "gsrank": 1, "pub_url": "http://www.scr.pwr.wroc.pl/~kazienko/pub/MISSI98/MissiReferat.ps", "author_id": ["cxLgNccAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:WxW_dluMLm8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGrupowanie%2Bstron%2BWWW%2Bna%2Bpodstawie%2Bodsy%25C5%2582aczy%2Bhipertekstowych%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=WxW_dluMLm8J&ei=KkFeYb6aI86_mQHMm7boDg", "citedby_url": "/scholar?cites=8011495111600837979&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:WxW_dluMLm8J:scholar.google.com/&scioq=Grupowanie+stron+WWW+na+podstawie+odsy%C5%82aczy+hipertekstowych&hl=en&as_sdt=0,39", "eprint_url": "http://www.scr.pwr.wroc.pl/~kazienko/pub/MISSI98/MissiReferat.ps"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Grupowanie stron WWW na podstawie odsy{\\l}aczy hipertekstowych",
+    "author": "KAZIENKO, Przemys{\\l}aw",
+    "pub_year": "1998",
+    "venue": "NA",
+    "abstract": "Grupowanie dokument\u00f3w ma szerokie zastosowanie szczeg\u00f3lnie przy automatycznym tworzeniu katalog\u00f3w oraz porz\u0105dkowaniu zbioru dokument\u00f3w, kt\u00f3re prezentuje si\u0119 u\u017cytkownikowi. Dokumenty hipertekstowe s\u0105 specyficznym rodzajem dokument\u00f3w. Ich cecha wyr\u00f3\u017cniaj\u0105ca to odsy\u0142acze \u0142\u0105cz\u0105ce je mi\u0119dzy sob\u0105. W wypadku du\u017cych system\u00f3w hipertekstowych, takich jak strony systemu WWW, poruszanie si\u0119 w g\u0105szczu dokument\u00f3w i odsy\u0142aczy stanowi powa\u017cny problem. Powsta\u0142o specjalne poj\u0119cie okre\u015blaj\u0105ce tak\u0105 sytuacj\u0119",
+    "publisher": "W: MiSSI. Multimedialne i sieciowe systemy informacyjne. Materia{\\l}y~\u2026",
+    "pub_type": "misc",
+    "bib_id": "kazienko1998grupowanie"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.scr.pwr.wroc.pl/~kazienko/pub/MISSI98/MissiReferat.ps",
+  "author_id": [
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:WxW_dluMLm8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGrupowanie%2Bstron%2BWWW%2Bna%2Bpodstawie%2Bodsy%25C5%2582aczy%2Bhipertekstowych%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=WxW_dluMLm8J&ei=KkFeYb6aI86_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=8011495111600837979&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:WxW_dluMLm8J:scholar.google.com/&scioq=Grupowanie+stron+WWW+na+podstawie+odsy%C5%82aczy+hipertekstowych&hl=en&as_sdt=0,39",
+  "eprint_url": "http://www.scr.pwr.wroc.pl/~kazienko/pub/MISSI98/MissiReferat.ps"
+}

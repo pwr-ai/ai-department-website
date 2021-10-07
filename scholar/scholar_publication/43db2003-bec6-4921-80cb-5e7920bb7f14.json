@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Markerless real-time garment retexturing from monocular 3d reconstruction", "author": "Cushen, George A and Nixon, Mark S", "pub_year": "2011", "venue": "2011 IEEE International Conference \u2026", "abstract": "We present a fusion of augmented reality (AR) and virtual try on (VTO) that incorporates sparse 3D point recovery by exploiting distance constraints based on 2D point correspondences between a deformed texture in monocular video and a reference texture which is derived from the start of the sequence by face detection aided segmentation. A hierarchical and multi-resolution surface reconstruction approach is proposed, employing thin-plate splines, cloth modeling, and patch tessellation. Our method attempts to accurately", "organization": "IEEE", "pages": "88--93", "booktitle": "2011 IEEE International Conference on Signal and Image Processing Applications (ICSIPA)", "pub_type": "inproceedings", "bib_id": "cushen2011markerless"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/6144142/", "author_id": ["sIwtMXoAAAAJ", "hlHOU9IAAAAJ"], "num_citations": 9, "url_scholarbib": "/scholar?q=info:O9ZD7iWY514J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMarkerless%2Breal-time%2Bgarment%2Bretexturing%2Bfrom%2Bmonocular%2B3d%2Breconstruction%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=O9ZD7iWY514J&ei=xlNeYcbfPM6_mQHMm7boDg", "citedby_url": "/scholar?cites=6838601847864022587&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:O9ZD7iWY514J:scholar.google.com/&scioq=Markerless+real-time+garment+retexturing+from+monocular+3d+reconstruction&hl=en&as_sdt=0,5", "eprint_url": "https://eprints.soton.ac.uk/273103/1/ICSIPA2011-Cushen-IEEEcertified.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Markerless real-time garment retexturing from monocular 3d reconstruction",
+    "author": "Cushen, George A and Nixon, Mark S",
+    "pub_year": "2011",
+    "venue": "2011 IEEE International Conference \u2026",
+    "abstract": "We present a fusion of augmented reality (AR) and virtual try on (VTO) that incorporates sparse 3D point recovery by exploiting distance constraints based on 2D point correspondences between a deformed texture in monocular video and a reference texture which is derived from the start of the sequence by face detection aided segmentation. A hierarchical and multi-resolution surface reconstruction approach is proposed, employing thin-plate splines, cloth modeling, and patch tessellation. Our method attempts to accurately",
+    "organization": "IEEE",
+    "pages": "88--93",
+    "booktitle": "2011 IEEE International Conference on Signal and Image Processing Applications (ICSIPA)",
+    "pub_type": "inproceedings",
+    "bib_id": "cushen2011markerless"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/6144142/",
+  "author_id": [
+    "sIwtMXoAAAAJ",
+    "hlHOU9IAAAAJ"
+  ],
+  "num_citations": 9,
+  "url_scholarbib": "/scholar?q=info:O9ZD7iWY514J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMarkerless%2Breal-time%2Bgarment%2Bretexturing%2Bfrom%2Bmonocular%2B3d%2Breconstruction%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=O9ZD7iWY514J&ei=xlNeYcbfPM6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=6838601847864022587&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:O9ZD7iWY514J:scholar.google.com/&scioq=Markerless+real-time+garment+retexturing+from+monocular+3d+reconstruction&hl=en&as_sdt=0,5",
+  "eprint_url": "https://eprints.soton.ac.uk/273103/1/ICSIPA2011-Cushen-IEEEcertified.pdf"
+}

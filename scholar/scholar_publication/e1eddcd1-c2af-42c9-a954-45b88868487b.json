@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Seeds buffering for information spreading processes", "author": "Jankowski, Jaros{\\l}aw and Br{\\'o}dka, Piotr and Michalski, Rados{\\l}aw and Kazienko, Przemys{\\l}aw", "pub_year": "2017", "venue": "\u2026 Conference on Social \u2026", "abstract": "Seeding strategies for influence maximization in social networks have been studied for more than a decade. They have mainly relied on the activation of all resources (seeds) simultaneously in the beginning; yet, it has been shown that sequential seeding strategies are commonly better. This research focuses on studying sequential seeding with buffering, which is an extension to basic sequential seeding concept. The proposed method avoids choosing nodes that will be activated through the natural diffusion process, which is leading", "organization": "Springer", "pages": "628--641", "booktitle": "International Conference on Social Informatics", "pub_type": "inproceedings", "bib_id": "jankowski2017seeds"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-67217-5_37", "author_id": ["xZJ38c4AAAAJ", "T7v65jEAAAAJ", "xMVnv3sAAAAJ"], "num_citations": 10, "url_scholarbib": "/scholar?q=info:bzePLzQAaWwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSeeds%2Bbuffering%2Bfor%2Binformation%2Bspreading%2Bprocesses%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bzePLzQAaWwJ&ei=bjdeYdDYAYnmmgGQla6wAw", "citedby_url": "/scholar?cites=7811775252787050351&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:bzePLzQAaWwJ:scholar.google.com/&scioq=Seeds+buffering+for+information+spreading+processes&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1709.04863"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Seeds buffering for information spreading processes",
+    "author": "Jankowski, Jaros{\\l}aw and Br{\\'o}dka, Piotr and Michalski, Rados{\\l}aw and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2017",
+    "venue": "\u2026 Conference on Social \u2026",
+    "abstract": "Seeding strategies for influence maximization in social networks have been studied for more than a decade. They have mainly relied on the activation of all resources (seeds) simultaneously in the beginning; yet, it has been shown that sequential seeding strategies are commonly better. This research focuses on studying sequential seeding with buffering, which is an extension to basic sequential seeding concept. The proposed method avoids choosing nodes that will be activated through the natural diffusion process, which is leading",
+    "organization": "Springer",
+    "pages": "628--641",
+    "booktitle": "International Conference on Social Informatics",
+    "pub_type": "inproceedings",
+    "bib_id": "jankowski2017seeds"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-67217-5_37",
+  "author_id": [
+    "xZJ38c4AAAAJ",
+    "T7v65jEAAAAJ",
+    "xMVnv3sAAAAJ"
+  ],
+  "num_citations": 10,
+  "url_scholarbib": "/scholar?q=info:bzePLzQAaWwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSeeds%2Bbuffering%2Bfor%2Binformation%2Bspreading%2Bprocesses%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bzePLzQAaWwJ&ei=bjdeYdDYAYnmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=7811775252787050351&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:bzePLzQAaWwJ:scholar.google.com/&scioq=Seeds+buffering+for+information+spreading+processes&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1709.04863"
+}

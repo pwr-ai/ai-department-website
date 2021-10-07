@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Combining polish morphosyntactic taggers", "author": "{\\'S}niatowski, Tomasz and Piasecki, Maciej", "pub_year": "2011", "venue": "International Joint Conferences on Security and \u2026", "abstract": "This paper describes work on the construction of a morpho-syntactic tagger for Polish as an ensemble of the best performing Polish taggers: TaKIPI and Pantera. The tagger set was extended with RFTagger trained on the Polish corpus. Several methods of ensemble", "organization": "Springer", "pages": "359--369", "booktitle": "International Joint Conferences on Security and Intelligent Information Systems", "pub_type": "inproceedings", "bib_id": "sniatowski2011combining"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-25261-7_28", "author_id": ["", "nU_W9XwAAAAJ"], "num_citations": 7, "url_scholarbib": "/scholar?q=info:sTXseUcznZUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCombining%2Bpolish%2Bmorphosyntactic%2Btaggers%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sTXseUcznZUJ&ei=KLZdYZT4Ds6_mQHMm7boDg", "citedby_url": "/scholar?cites=10780829465076053425&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:sTXseUcznZUJ:scholar.google.com/&scioq=Combining+polish+morphosyntactic+taggers&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Combining polish morphosyntactic taggers",
+    "author": "{\\'S}niatowski, Tomasz and Piasecki, Maciej",
+    "pub_year": "2011",
+    "venue": "International Joint Conferences on Security and \u2026",
+    "abstract": "This paper describes work on the construction of a morpho-syntactic tagger for Polish as an ensemble of the best performing Polish taggers: TaKIPI and Pantera. The tagger set was extended with RFTagger trained on the Polish corpus. Several methods of ensemble",
+    "organization": "Springer",
+    "pages": "359--369",
+    "booktitle": "International Joint Conferences on Security and Intelligent Information Systems",
+    "pub_type": "inproceedings",
+    "bib_id": "sniatowski2011combining"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-25261-7_28",
+  "author_id": [
+    "",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 7,
+  "url_scholarbib": "/scholar?q=info:sTXseUcznZUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCombining%2Bpolish%2Bmorphosyntactic%2Btaggers%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sTXseUcznZUJ&ei=KLZdYZT4Ds6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=10780829465076053425&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:sTXseUcznZUJ:scholar.google.com/&scioq=Combining+polish+morphosyntactic+taggers&hl=en&as_sdt=0,5"
+}

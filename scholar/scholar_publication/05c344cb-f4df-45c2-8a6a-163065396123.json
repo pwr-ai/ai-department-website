@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A Weakly supervised word sense disambiguation for Polish using rich lexical resources", "author": "Janz, Arkadiusz and Piasecki, Maciej", "pub_year": "2019", "venue": "Poznan Studies in Contemporary Linguistics", "abstract": "Automatic word sense disambiguation (WSD) has proven to be an important technique in many natural language processing tasks. For many years the problem of sense disambiguation has been approached with a wide range of methods, however, it is still a challenging problem, especially in the unsupervised setting. One of the well-known and successful approaches to WSD are knowledge-based methods leveraging lexical knowledge resources such as wordnets. As the knowledge-based approaches mostly do not", "publisher": "De Gruyter", "pages": "339--365", "number": "2", "volume": "55", "journal": "Poznan Studies in Contemporary Linguistics", "pub_type": "article", "bib_id": "janz2019weakly"}, "filled": true, "gsrank": 1, "pub_url": "https://www.degruyter.com/document/doi/10.1515/psicl-2019-0013/html", "author_id": ["UNlMg18AAAAJ", "nU_W9XwAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:tMLDNpCis2cJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BWeakly%2Bsupervised%2Bword%2Bsense%2Bdisambiguation%2Bfor%2BPolish%2Busing%2Brich%2Blexical%2Bresources%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=tMLDNpCis2cJ&ei=S8FdYfXSKaPZsQKvo78o", "citedby_url": "/scholar?cites=7472494947015574196&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:tMLDNpCis2cJ:scholar.google.com/&scioq=A+Weakly+supervised+word+sense+disambiguation+for+Polish+using+rich+lexical+resources&hl=en&as_sdt=0,5", "eprint_url": "/scholar?output=instlink&q=info:tMLDNpCis2cJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=3638907627126348907&oi=lle"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A Weakly supervised word sense disambiguation for Polish using rich lexical resources",
+    "author": "Janz, Arkadiusz and Piasecki, Maciej",
+    "pub_year": "2019",
+    "venue": "Poznan Studies in Contemporary Linguistics",
+    "abstract": "Automatic word sense disambiguation (WSD) has proven to be an important technique in many natural language processing tasks. For many years the problem of sense disambiguation has been approached with a wide range of methods, however, it is still a challenging problem, especially in the unsupervised setting. One of the well-known and successful approaches to WSD are knowledge-based methods leveraging lexical knowledge resources such as wordnets. As the knowledge-based approaches mostly do not",
+    "publisher": "De Gruyter",
+    "pages": "339--365",
+    "number": "2",
+    "volume": "55",
+    "journal": "Poznan Studies in Contemporary Linguistics",
+    "pub_type": "article",
+    "bib_id": "janz2019weakly"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.degruyter.com/document/doi/10.1515/psicl-2019-0013/html",
+  "author_id": [
+    "UNlMg18AAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:tMLDNpCis2cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BWeakly%2Bsupervised%2Bword%2Bsense%2Bdisambiguation%2Bfor%2BPolish%2Busing%2Brich%2Blexical%2Bresources%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=tMLDNpCis2cJ&ei=S8FdYfXSKaPZsQKvo78o",
+  "citedby_url": "/scholar?cites=7472494947015574196&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:tMLDNpCis2cJ:scholar.google.com/&scioq=A+Weakly+supervised+word+sense+disambiguation+for+Polish+using+rich+lexical+resources&hl=en&as_sdt=0,5",
+  "eprint_url": "/scholar?output=instlink&q=info:tMLDNpCis2cJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=3638907627126348907&oi=lle"
+}

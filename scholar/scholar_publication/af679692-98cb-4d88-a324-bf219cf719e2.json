@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "WindOwls-Adaptive system for the integration of recommendation methods in e-commerce", "author": "Kazienko, Przemys{\\l}aw and Ko{\\l}odziejski, Pawe{\\l}", "pub_year": "2005", "venue": "International Atlantic Web Intelligence \u2026", "abstract": "WindOwls, the new hybrid system of personalized product recommendation in e-commerce, by integrating various methods, is presented in the paper. Each e-commerce user has assigned their own weights corresponding to particular methods. Due to the permanent and personalized adaptation of these weights, WindOwls can adjust the influence of individual methods. Testing implementation and evaluation of recommendation efficiency are also described.", "organization": "Springer", "pages": "218--224", "booktitle": "International Atlantic Web Intelligence Conference", "pub_type": "inproceedings", "bib_id": "kazienko2005windowls"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/11495772_34", "author_id": ["cxLgNccAAAAJ", ""], "num_citations": 20, "url_scholarbib": "/scholar?q=info:hdBrsMCktJAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWindOwls-Adaptive%2Bsystem%2Bfor%2Bthe%2Bintegration%2Bof%2Brecommendation%2Bmethods%2Bin%2Be-commerce%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=hdBrsMCktJAJ&ei=6TReYZHrCIu4mAGqg5LoDg", "citedby_url": "/scholar?cites=10427140184770072709&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:hdBrsMCktJAJ:scholar.google.com/&scioq=WindOwls-Adaptive+system+for+the+integration+of+recommendation+methods+in+e-commerce&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "WindOwls-Adaptive system for the integration of recommendation methods in e-commerce",
+    "author": "Kazienko, Przemys{\\l}aw and Ko{\\l}odziejski, Pawe{\\l}",
+    "pub_year": "2005",
+    "venue": "International Atlantic Web Intelligence \u2026",
+    "abstract": "WindOwls, the new hybrid system of personalized product recommendation in e-commerce, by integrating various methods, is presented in the paper. Each e-commerce user has assigned their own weights corresponding to particular methods. Due to the permanent and personalized adaptation of these weights, WindOwls can adjust the influence of individual methods. Testing implementation and evaluation of recommendation efficiency are also described.",
+    "organization": "Springer",
+    "pages": "218--224",
+    "booktitle": "International Atlantic Web Intelligence Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "kazienko2005windowls"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/11495772_34",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    ""
+  ],
+  "num_citations": 20,
+  "url_scholarbib": "/scholar?q=info:hdBrsMCktJAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWindOwls-Adaptive%2Bsystem%2Bfor%2Bthe%2Bintegration%2Bof%2Brecommendation%2Bmethods%2Bin%2Be-commerce%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=hdBrsMCktJAJ&ei=6TReYZHrCIu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=10427140184770072709&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:hdBrsMCktJAJ:scholar.google.com/&scioq=WindOwls-Adaptive+system+for+the+integration+of+recommendation+methods+in+e-commerce&hl=en&as_sdt=0,5"
+}

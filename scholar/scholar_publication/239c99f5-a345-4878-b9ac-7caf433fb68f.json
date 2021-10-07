@@ -1,1 +1,23 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Literary Criticism of Cartography and Indexing of Spatial Data and Semantic Relations", "author": "Piasecki, Maciej", "venue": "NA", "pub_year": "2014", "pages": "94", "journal": "Practical Applications of Language Corpora", "pub_type": "article", "bib_id": "piasecki2014literary"}, "filled": true, "gsrank": 1, "author_id": ["nU_W9XwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:K1BO6l2M7XwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiterary%2BCriticism%2Bof%2BCartography%2Band%2BIndexing%2Bof%2BSpatial%2BData%2Band%2BSemantic%2BRelations%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=K1BO6l2M7XwJ&ei=lsRdYf_yAoLemgHVs5GYDg", "url_related_articles": "/scholar?q=related:K1BO6l2M7XwJ:scholar.google.com/&scioq=Literary+Criticism+of+Cartography+and+Indexing+of+Spatial+Data+and+Semantic+Relations&hl=en&as_sdt=0,39"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Literary Criticism of Cartography and Indexing of Spatial Data and Semantic Relations",
+    "author": "Piasecki, Maciej",
+    "venue": "NA",
+    "pub_year": "2014",
+    "pages": "94",
+    "journal": "Practical Applications of Language Corpora",
+    "pub_type": "article",
+    "bib_id": "piasecki2014literary"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:K1BO6l2M7XwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiterary%2BCriticism%2Bof%2BCartography%2Band%2BIndexing%2Bof%2BSpatial%2BData%2Band%2BSemantic%2BRelations%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=K1BO6l2M7XwJ&ei=lsRdYf_yAoLemgHVs5GYDg",
+  "url_related_articles": "/scholar?q=related:K1BO6l2M7XwJ:scholar.google.com/&scioq=Literary+Criticism+of+Cartography+and+Indexing+of+Spatial+Data+and+Semantic+Relations&hl=en&as_sdt=0,39"
+}

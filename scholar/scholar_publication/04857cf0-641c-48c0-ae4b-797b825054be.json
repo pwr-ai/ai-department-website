@@ -1,1 +1,23 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Discovering Multidimensional Social Communities in Web 2.0", "author": "Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw and Musia{\\l}, Katarzyna", "venue": "NA", "pub_year": "NA", "pub_type": "article", "bib_id": "kajdanowiczdiscovering"}, "filled": true, "gsrank": 1, "author_id": ["GOoaHHEAAAAJ", "cxLgNccAAAAJ", "Dw5QS9wAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:cgvGbcMLZxkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDiscovering%2BMultidimensional%2BSocial%2BCommunities%2Bin%2BWeb%2B2.0%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=cgvGbcMLZxkJ&ei=SJ1dYcn4H4nmmgGQla6wAw", "url_related_articles": "/scholar?q=related:cgvGbcMLZxkJ:scholar.google.com/&scioq=Discovering+Multidimensional+Social+Communities+in+Web+2.0&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Discovering Multidimensional Social Communities in Web 2.0",
+    "author": "Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw and Musia{\\l}, Katarzyna",
+    "venue": "NA",
+    "pub_year": "NA",
+    "pub_type": "article",
+    "bib_id": "kajdanowiczdiscovering"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "cxLgNccAAAAJ",
+    "Dw5QS9wAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:cgvGbcMLZxkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDiscovering%2BMultidimensional%2BSocial%2BCommunities%2Bin%2BWeb%2B2.0%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=cgvGbcMLZxkJ&ei=SJ1dYcn4H4nmmgGQla6wAw",
+  "url_related_articles": "/scholar?q=related:cgvGbcMLZxkJ:scholar.google.com/&scioq=Discovering+Multidimensional+Social+Communities+in+Web+2.0&hl=en&as_sdt=0,5"
+}

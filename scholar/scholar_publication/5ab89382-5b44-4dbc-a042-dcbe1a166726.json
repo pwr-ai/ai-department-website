@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Towards Complex Object Oriented Analysis and Design", "author": "Ku{\\'z}niarz, Ludwik and Piasecki, Maciej", "pub_year": "1999", "venue": "Human-Computer Interaction, Bullinger HJ and \u2026", "abstract": "The Object Oriented Analysis and Design Methodologies (OOADMs) have been developed for many years and with the emergence of Unified Modelling Language (UML) they are now becoming a matured standard for computer systems development. Advanced tools supporting integrated analysis, designing and development of computer systems are appearing in parallel. Most of them allow easy integration with Graphical User Interface (GUI) and impose object oriented (OO) construction of User Interface (UI). However, in", "publisher": "Citeseer", "journal": "Human-Computer Interaction, Bullinger HJ and Ziegler J. editors, Lawrence Erlbaum Associates Pub., London", "pub_type": "article", "bib_id": "kuzniarz1999towards"}, "filled": true, "gsrank": 1, "pub_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.9081&rep=rep1&type=pdf", "author_id": ["5wPKOYAAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:bKrkv6tL7ksJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2BComplex%2BObject%2BOriented%2BAnalysis%2Band%2BDesign%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bKrkv6tL7ksJ&ei=k8FdYebENYu4mAGqg5LoDg", "citedby_url": "/scholar?cites=5471393798332656236&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:bKrkv6tL7ksJ:scholar.google.com/&scioq=Towards+Complex+Object+Oriented+Analysis+and+Design&hl=en&as_sdt=0,5", "eprint_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.9081&rep=rep1&type=pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Towards Complex Object Oriented Analysis and Design",
+    "author": "Ku{\\'z}niarz, Ludwik and Piasecki, Maciej",
+    "pub_year": "1999",
+    "venue": "Human-Computer Interaction, Bullinger HJ and \u2026",
+    "abstract": "The Object Oriented Analysis and Design Methodologies (OOADMs) have been developed for many years and with the emergence of Unified Modelling Language (UML) they are now becoming a matured standard for computer systems development. Advanced tools supporting integrated analysis, designing and development of computer systems are appearing in parallel. Most of them allow easy integration with Graphical User Interface (GUI) and impose object oriented (OO) construction of User Interface (UI). However, in",
+    "publisher": "Citeseer",
+    "journal": "Human-Computer Interaction, Bullinger HJ and Ziegler J. editors, Lawrence Erlbaum Associates Pub., London",
+    "pub_type": "article",
+    "bib_id": "kuzniarz1999towards"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.9081&rep=rep1&type=pdf",
+  "author_id": [
+    "5wPKOYAAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:bKrkv6tL7ksJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2BComplex%2BObject%2BOriented%2BAnalysis%2Band%2BDesign%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bKrkv6tL7ksJ&ei=k8FdYebENYu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=5471393798332656236&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:bKrkv6tL7ksJ:scholar.google.com/&scioq=Towards+Complex+Object+Oriented+Analysis+and+Design&hl=en&as_sdt=0,5",
+  "eprint_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.9081&rep=rep1&type=pdf"
+}

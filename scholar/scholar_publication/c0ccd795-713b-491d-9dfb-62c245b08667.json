@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Knowledge workers\u2019 collaborative learning behavior modeling in an organizational social network", "author": "R{\\'o}{\\.z}ewski, Przemys{\\l}aw and Jankowski, Jaros{\\l}aw and Brodka, Piotr and Michalski, Rados{\\l}aw", "pub_year": "2015", "venue": "Computers in Human \u2026", "abstract": "Computations related to learning processes within an organizational social network area require some network model preparation and specific algorithms in order to implement human behaviors in simulated environments. The proposals in this research model of collaborative learning in an organizational social network are based on knowledge resource distribution through the establishment of a knowledge flow. The nodes, which represent knowledge workers, contain information about workers' social and cognitive abilities", "publisher": "Elsevier", "pages": "1248--1260", "volume": "51", "journal": "Computers in Human Behavior", "pub_type": "article", "bib_id": "rozewski2015knowledge"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S0747563214007298", "author_id": ["wGrDRVoAAAAJ", "xZJ38c4AAAAJ", "T7v65jEAAAAJ"], "num_citations": 39, "url_scholarbib": "/scholar?q=info:AMQzzySk7DgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKnowledge%2Bworkers%25E2%2580%2599%2Bcollaborative%2Blearning%2Bbehavior%2Bmodeling%2Bin%2Ban%2Borganizational%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=AMQzzySk7DgJ&ei=q0xeYbm7K4fBmQGX-6OoBg", "citedby_url": "/scholar?cites=4101833838629733376&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:AMQzzySk7DgJ:scholar.google.com/&scioq=Knowledge+workers%E2%80%99+collaborative+learning+behavior+modeling+in+an+organizational+social+network&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1505.03055"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Knowledge workers\u2019 collaborative learning behavior modeling in an organizational social network",
+    "author": "R{\\'o}{\\.z}ewski, Przemys{\\l}aw and Jankowski, Jaros{\\l}aw and Brodka, Piotr and Michalski, Rados{\\l}aw",
+    "pub_year": "2015",
+    "venue": "Computers in Human \u2026",
+    "abstract": "Computations related to learning processes within an organizational social network area require some network model preparation and specific algorithms in order to implement human behaviors in simulated environments. The proposals in this research model of collaborative learning in an organizational social network are based on knowledge resource distribution through the establishment of a knowledge flow. The nodes, which represent knowledge workers, contain information about workers' social and cognitive abilities",
+    "publisher": "Elsevier",
+    "pages": "1248--1260",
+    "volume": "51",
+    "journal": "Computers in Human Behavior",
+    "pub_type": "article",
+    "bib_id": "rozewski2015knowledge"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S0747563214007298",
+  "author_id": [
+    "wGrDRVoAAAAJ",
+    "xZJ38c4AAAAJ",
+    "T7v65jEAAAAJ"
+  ],
+  "num_citations": 39,
+  "url_scholarbib": "/scholar?q=info:AMQzzySk7DgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKnowledge%2Bworkers%25E2%2580%2599%2Bcollaborative%2Blearning%2Bbehavior%2Bmodeling%2Bin%2Ban%2Borganizational%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=AMQzzySk7DgJ&ei=q0xeYbm7K4fBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=4101833838629733376&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:AMQzzySk7DgJ:scholar.google.com/&scioq=Knowledge+workers%E2%80%99+collaborative+learning+behavior+modeling+in+an+organizational+social+network&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1505.03055"
+}

@@ -1,1 +1,24 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "The Multidimensional Approach to Quantification and Reference in the Noun Phrase", "author": "Piasecki, Maciej", "venue": "NA", "pub_year": "NA", "abstract": "Quantification and reference have been a topic of research since a long time approached from many points of view: linguistic, logical, computational (ie Artificial Intelligence), etc. Thus the proposed solutions are often: specific phenomena oriented, too partial, too formal (or informal), to become a base for natural language processing applications. The main goal of this paper is to outline a 'unifying theory'combining: quantification, reference and presupposition into one formal model. Obviously, the model is in large extent an eclectic", "pub_type": "article", "bib_id": "piaseckimultidimensional"}, "filled": true, "gsrank": 1, "pub_url": "http://www.scrkkio.pwr.wroc.pl/~piasecki/publications/piasecki-linguistic-colloquim-98.pdf", "author_id": ["nU_W9XwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:6PFPhnu2aMAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2BMultidimensional%2BApproach%2Bto%2BQuantification%2Band%2BReference%2Bin%2Bthe%2BNoun%2BPhrase%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=6PFPhnu2aMAJ&ei=PDBeYciYH42UmQGz6rqYBQ", "url_related_articles": "/scholar?q=related:6PFPhnu2aMAJ:scholar.google.com/&scioq=The+Multidimensional+Approach+to+Quantification+and+Reference+in+the+Noun+Phrase&hl=en&as_sdt=0,5", "eprint_url": "http://www.scrkkio.pwr.wroc.pl/~piasecki/publications/piasecki-linguistic-colloquim-98.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "The Multidimensional Approach to Quantification and Reference in the Noun Phrase",
+    "author": "Piasecki, Maciej",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "Quantification and reference have been a topic of research since a long time approached from many points of view: linguistic, logical, computational (ie Artificial Intelligence), etc. Thus the proposed solutions are often: specific phenomena oriented, too partial, too formal (or informal), to become a base for natural language processing applications. The main goal of this paper is to outline a 'unifying theory'combining: quantification, reference and presupposition into one formal model. Obviously, the model is in large extent an eclectic",
+    "pub_type": "article",
+    "bib_id": "piaseckimultidimensional"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.scrkkio.pwr.wroc.pl/~piasecki/publications/piasecki-linguistic-colloquim-98.pdf",
+  "author_id": [
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:6PFPhnu2aMAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2BMultidimensional%2BApproach%2Bto%2BQuantification%2Band%2BReference%2Bin%2Bthe%2BNoun%2BPhrase%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=6PFPhnu2aMAJ&ei=PDBeYciYH42UmQGz6rqYBQ",
+  "url_related_articles": "/scholar?q=related:6PFPhnu2aMAJ:scholar.google.com/&scioq=The+Multidimensional+Approach+to+Quantification+and+Reference+in+the+Noun+Phrase&hl=en&as_sdt=0,5",
+  "eprint_url": "http://www.scrkkio.pwr.wroc.pl/~piasecki/publications/piasecki-linguistic-colloquim-98.pdf"
+}

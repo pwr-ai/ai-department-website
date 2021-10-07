@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Handwritten text recognition using incomplete probabilistic lexicon and character language model", "author": "Sas, J", "pub_year": "2006", "venue": "Systems Science", "abstract": "In the paper, a novel concept of two-level handwritten word recognizer is presented, which uses language models on word and character levels. Word level unigram language model (called here probabilistic lexicon) contains words most frequently appearing in the domain of texts being recognized with their prior probabilities. The probabilistic lexicon does not have to be complete but the recognizer is expected to recognize also words that do not belong to the lexicon. The proposed recognizer is a combination of two simpler word soft classifiers", "pages": "45--61", "number": "2", "volume": "32", "journal": "Systems Science", "pub_type": "article", "bib_id": "sas2006handwritten"}, "filled": true, "gsrank": 1, "pub_url": "https://www.infona.pl/resource/bwmeta1.element.baztech-article-BAT5-0023-0013", "author_id": ["T1U6rMcAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:ZqGcwldWdawJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHandwritten%2Btext%2Brecognition%2Busing%2Bincomplete%2Bprobabilistic%2Blexicon%2Band%2Bcharacter%2Blanguage%2Bmodel%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=ZqGcwldWdawJ&ei=bK1dYaToCKPZsQKvo78o", "citedby_url": "/scholar?cites=12426933681725940070&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:ZqGcwldWdawJ:scholar.google.com/&scioq=Handwritten+text+recognition+using+incomplete+probabilistic+lexicon+and+character+language+model&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Handwritten text recognition using incomplete probabilistic lexicon and character language model",
+    "author": "Sas, J",
+    "pub_year": "2006",
+    "venue": "Systems Science",
+    "abstract": "In the paper, a novel concept of two-level handwritten word recognizer is presented, which uses language models on word and character levels. Word level unigram language model (called here probabilistic lexicon) contains words most frequently appearing in the domain of texts being recognized with their prior probabilities. The probabilistic lexicon does not have to be complete but the recognizer is expected to recognize also words that do not belong to the lexicon. The proposed recognizer is a combination of two simpler word soft classifiers",
+    "pages": "45--61",
+    "number": "2",
+    "volume": "32",
+    "journal": "Systems Science",
+    "pub_type": "article",
+    "bib_id": "sas2006handwritten"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.infona.pl/resource/bwmeta1.element.baztech-article-BAT5-0023-0013",
+  "author_id": [
+    "T1U6rMcAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:ZqGcwldWdawJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHandwritten%2Btext%2Brecognition%2Busing%2Bincomplete%2Bprobabilistic%2Blexicon%2Band%2Bcharacter%2Blanguage%2Bmodel%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=ZqGcwldWdawJ&ei=bK1dYaToCKPZsQKvo78o",
+  "citedby_url": "/scholar?cites=12426933681725940070&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:ZqGcwldWdawJ:scholar.google.com/&scioq=Handwritten+text+recognition+using+incomplete+probabilistic+lexicon+and+character+language+model&hl=en&as_sdt=0,5"
+}

@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Graph Barlow Twins: A self-supervised representation learning framework for graphs", "author": "Bielak, Piotr and Kajdanowicz, Tomasz and Chawla, Nitesh V", "pub_year": "2021", "venue": "arXiv preprint arXiv:2106.02466", "abstract": "The self-supervised learning (SSL) paradigm is an essential exploration area, which tries to eliminate the need for expensive data labeling. Despite the great success of SSL methods in computer vision and natural language processing, most of them employ contrastive learning objectives that require negative samples, which are hard to define. This becomes even more challenging in the case of graphs and is a bottleneck for achieving robust representations. To overcome such limitations, we propose a framework for self-supervised graph", "journal": "arXiv preprint arXiv:2106.02466", "pub_type": "article", "bib_id": "bielak2021graph"}, "filled": true, "gsrank": 1, "pub_url": "https://arxiv.org/abs/2106.02466", "author_id": ["Z0lkjn0AAAAJ", "GOoaHHEAAAAJ", "hDLBEhkAAAAJ"], "num_citations": 2, "url_scholarbib": "/scholar?q=info:dCKpDV0ilOMJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGraph%2BBarlow%2BTwins:%2BA%2Bself-supervised%2Brepresentation%2Blearning%2Bframework%2Bfor%2Bgraphs%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=dCKpDV0ilOMJ&ei=2JVdYYeXBYu4mAGqg5LoDg", "citedby_url": "/scholar?cites=16398769926219309684&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:dCKpDV0ilOMJ:scholar.google.com/&scioq=Graph+Barlow+Twins:+A+self-supervised+representation+learning+framework+for+graphs&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/2106.02466"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Graph Barlow Twins: A self-supervised representation learning framework for graphs",
+    "author": "Bielak, Piotr and Kajdanowicz, Tomasz and Chawla, Nitesh V",
+    "pub_year": "2021",
+    "venue": "arXiv preprint arXiv:2106.02466",
+    "abstract": "The self-supervised learning (SSL) paradigm is an essential exploration area, which tries to eliminate the need for expensive data labeling. Despite the great success of SSL methods in computer vision and natural language processing, most of them employ contrastive learning objectives that require negative samples, which are hard to define. This becomes even more challenging in the case of graphs and is a bottleneck for achieving robust representations. To overcome such limitations, we propose a framework for self-supervised graph",
+    "journal": "arXiv preprint arXiv:2106.02466",
+    "pub_type": "article",
+    "bib_id": "bielak2021graph"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://arxiv.org/abs/2106.02466",
+  "author_id": [
+    "Z0lkjn0AAAAJ",
+    "GOoaHHEAAAAJ",
+    "hDLBEhkAAAAJ"
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:dCKpDV0ilOMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGraph%2BBarlow%2BTwins:%2BA%2Bself-supervised%2Brepresentation%2Blearning%2Bframework%2Bfor%2Bgraphs%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=dCKpDV0ilOMJ&ei=2JVdYYeXBYu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=16398769926219309684&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:dCKpDV0ilOMJ:scholar.google.com/&scioq=Graph+Barlow+Twins:+A+self-supervised+representation+learning+framework+for+graphs&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/2106.02466"
+}

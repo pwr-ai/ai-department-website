@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Introducing social networks", "author": "Degenne, Alain and Fors{\\'e}, Michel", "pub_year": "1999", "venue": "NA", "abstract": "This first-rate introduction to the study of social networks combines a hands-on manual with an up-to-date review of the latest research and techniques. The authors provide a thorough grounding in the application of the methods of social network analysis. They offer an", "publisher": "Sage", "pub_type": "book", "bib_id": "degenne1999introducing"}, "filled": true, "gsrank": 1, "pub_url": "https://books.google.com/books?hl=en&lr=&id=0HI5toITKBgC&oi=fnd&pg=PP1&dq=Social+Networks&ots=m7j7OG3iph&sig=W6ca8exE1cRXS9-JWK-ROWsbPy0", "author_id": ["", ""], "num_citations": 1588, "url_scholarbib": "/scholar?q=info:DWYtt43e7xQJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2BNetworks%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=DWYtt43e7xQJ&ei=0kBeYZ_FOI2UmQGz6rqYBQ", "citedby_url": "/scholar?cites=1508669100437366285&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:DWYtt43e7xQJ:scholar.google.com/&scioq=Social+Networks&hl=en&as_sdt=0,39"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Introducing social networks",
+    "author": "Degenne, Alain and Fors{\\'e}, Michel",
+    "pub_year": "1999",
+    "venue": "NA",
+    "abstract": "This first-rate introduction to the study of social networks combines a hands-on manual with an up-to-date review of the latest research and techniques. The authors provide a thorough grounding in the application of the methods of social network analysis. They offer an",
+    "publisher": "Sage",
+    "pub_type": "book",
+    "bib_id": "degenne1999introducing"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://books.google.com/books?hl=en&lr=&id=0HI5toITKBgC&oi=fnd&pg=PP1&dq=Social+Networks&ots=m7j7OG3iph&sig=W6ca8exE1cRXS9-JWK-ROWsbPy0",
+  "author_id": [
+    "",
+    ""
+  ],
+  "num_citations": 1588,
+  "url_scholarbib": "/scholar?q=info:DWYtt43e7xQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2BNetworks%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=DWYtt43e7xQJ&ei=0kBeYZ_FOI2UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=1508669100437366285&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:DWYtt43e7xQJ:scholar.google.com/&scioq=Social+Networks&hl=en&as_sdt=0,39"
+}

@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Chaining polysemous senses for evocation recognition", "author": "Janz, Arkadiusz and Maziarz, Marek", "pub_year": "2020", "venue": "International Conference on Computational Collective \u2026", "abstract": "In this paper we present a new individual measure for the task of evocation strength prediction. The proposed solution is based on Dijkstra's distances calculated on the WordNet graph expanded with polysemy relations. The polysemy network was constructed using chaining procedure executed on individual word senses of polysemous lemmas. We show that the shape of polysemy associations between WordNet senses has a positive impact on evocation strength prediction and the measure itself could be successfully reused", "organization": "Springer", "pages": "792--804", "booktitle": "International Conference on Computational Collective Intelligence", "pub_type": "inproceedings", "bib_id": "janz2020chaining"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-63007-2_62", "author_id": ["UNlMg18AAAAJ", "hc3Zj7UAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:ZAatK43WKE8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChaining%2Bpolysemous%2Bsenses%2Bfor%2Bevocation%2Brecognition%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=ZAatK43WKE8J&ei=ukheYd-tBInmmgGQla6wAw", "citedby_url": "/scholar?cites=5704044829876225636&as_sdt=5,33&sciodt=0,33&hl=en", "url_related_articles": "/scholar?q=related:ZAatK43WKE8J:scholar.google.com/&scioq=Chaining+polysemous+senses+for+evocation+recognition&hl=en&as_sdt=0,33"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Chaining polysemous senses for evocation recognition",
+    "author": "Janz, Arkadiusz and Maziarz, Marek",
+    "pub_year": "2020",
+    "venue": "International Conference on Computational Collective \u2026",
+    "abstract": "In this paper we present a new individual measure for the task of evocation strength prediction. The proposed solution is based on Dijkstra's distances calculated on the WordNet graph expanded with polysemy relations. The polysemy network was constructed using chaining procedure executed on individual word senses of polysemous lemmas. We show that the shape of polysemy associations between WordNet senses has a positive impact on evocation strength prediction and the measure itself could be successfully reused",
+    "organization": "Springer",
+    "pages": "792--804",
+    "booktitle": "International Conference on Computational Collective Intelligence",
+    "pub_type": "inproceedings",
+    "bib_id": "janz2020chaining"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-63007-2_62",
+  "author_id": [
+    "UNlMg18AAAAJ",
+    "hc3Zj7UAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:ZAatK43WKE8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChaining%2Bpolysemous%2Bsenses%2Bfor%2Bevocation%2Brecognition%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=ZAatK43WKE8J&ei=ukheYd-tBInmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=5704044829876225636&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:ZAatK43WKE8J:scholar.google.com/&scioq=Chaining+polysemous+senses+for+evocation+recognition&hl=en&as_sdt=0,33"
+}

@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Learning assistant-personalizing learning paths in e-Learning environments", "author": "Kwasnicka, Halina and Szul, Dorota and Markowska-Kaczmar, Urszula and Myszkowski, Pawel B", "pub_year": "2008", "venue": "2008 7th Computer \u2026", "abstract": "The paper presents an agent called Learning Assistant, which is responsible for defining individual learning paths for pupils in e-learning environment. The Assistant is able to infer using metadata described pupils and didactic materials; this inference is a basis for building the individual learning path for each pupil. To build a learning path for a new pupil the agent uses information collected during introductory tests. A SOM neural network is used for grouping similar pupils. WebTeacher is e-learning environment in which Learning Assistant", "organization": "IEEE", "pages": "308--314", "booktitle": "2008 7th Computer Information Systems and Industrial Management Applications", "pub_type": "inproceedings", "bib_id": "kwasnicka2008learning"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/4557882/", "author_id": ["PGRjojAAAAAJ", ""], "num_citations": 22, "url_scholarbib": "/scholar?q=info:uL4u7zJfXAwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2BAssistant-Personalizing%2BLearning%2BPaths%2Bin%2Be-Learning%2BEnvironments%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=uL4u7zJfXAwJ&ei=5lZeYY3YJ8-TmwHPvZGABQ", "citedby_url": "/scholar?cites=890691498678337208&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:uL4u7zJfXAwJ:scholar.google.com/&scioq=Learning+Assistant-Personalizing+Learning+Paths+in+e-Learning+Environments&hl=en&as_sdt=0,5", "eprint_url": "https://www.academia.edu/download/50124909/Learning_Assistant_-_Personalizing_Learn20161105-14966-yegzav.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Learning assistant-personalizing learning paths in e-Learning environments",
+    "author": "Kwasnicka, Halina and Szul, Dorota and Markowska-Kaczmar, Urszula and Myszkowski, Pawel B",
+    "pub_year": "2008",
+    "venue": "2008 7th Computer \u2026",
+    "abstract": "The paper presents an agent called Learning Assistant, which is responsible for defining individual learning paths for pupils in e-learning environment. The Assistant is able to infer using metadata described pupils and didactic materials; this inference is a basis for building the individual learning path for each pupil. To build a learning path for a new pupil the agent uses information collected during introductory tests. A SOM neural network is used for grouping similar pupils. WebTeacher is e-learning environment in which Learning Assistant",
+    "organization": "IEEE",
+    "pages": "308--314",
+    "booktitle": "2008 7th Computer Information Systems and Industrial Management Applications",
+    "pub_type": "inproceedings",
+    "bib_id": "kwasnicka2008learning"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/4557882/",
+  "author_id": [
+    "PGRjojAAAAAJ",
+    ""
+  ],
+  "num_citations": 22,
+  "url_scholarbib": "/scholar?q=info:uL4u7zJfXAwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2BAssistant-Personalizing%2BLearning%2BPaths%2Bin%2Be-Learning%2BEnvironments%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=uL4u7zJfXAwJ&ei=5lZeYY3YJ8-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=890691498678337208&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:uL4u7zJfXAwJ:scholar.google.com/&scioq=Learning+Assistant-Personalizing+Learning+Paths+in+e-Learning+Environments&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.academia.edu/download/50124909/Learning_Assistant_-_Personalizing_Learn20161105-14966-yegzav.pdf"
+}

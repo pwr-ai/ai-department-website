@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Multirelational social networks in multimedia sharing systems", "author": "Musia{\\l}, K and Kazienko, P and Kajdanowicz, T", "pub_year": "2008", "venue": "Knowledge \u2026", "publisher": "Warsaw, Poland: Academic Publ. House EXIT", "pages": "275--292", "journal": "Knowledge Processing and Reasoning for Information Society", "pub_type": "article", "bib_id": "musial2008multirelational"}, "filled": true, "gsrank": 1, "author_id": ["Dw5QS9wAAAAJ", "cxLgNccAAAAJ"], "num_citations": 10, "url_scholarbib": "/scholar?q=info:6KOWMd9JwKMJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMultirelational%2Bsocial%2Bnetworks%2Bin%2Bmultimedia%2Bsharing%2Bsystems%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=6KOWMd9JwKMJ&ei=v5RdYbq7MIu4mAGqg5LoDg", "citedby_url": "/scholar?cites=11799512246669190120&as_sdt=5,44&sciodt=0,44&hl=en", "url_related_articles": "/scholar?q=related:6KOWMd9JwKMJ:scholar.google.com/&scioq=Multirelational+social+networks+in+multimedia+sharing+systems&hl=en&as_sdt=0,44"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Multirelational social networks in multimedia sharing systems",
+    "author": "Musia{\\l}, K and Kazienko, P and Kajdanowicz, T",
+    "pub_year": "2008",
+    "venue": "Knowledge \u2026",
+    "publisher": "Warsaw, Poland: Academic Publ. House EXIT",
+    "pages": "275--292",
+    "journal": "Knowledge Processing and Reasoning for Information Society",
+    "pub_type": "article",
+    "bib_id": "musial2008multirelational"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "Dw5QS9wAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 10,
+  "url_scholarbib": "/scholar?q=info:6KOWMd9JwKMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMultirelational%2Bsocial%2Bnetworks%2Bin%2Bmultimedia%2Bsharing%2Bsystems%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=6KOWMd9JwKMJ&ei=v5RdYbq7MIu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=11799512246669190120&as_sdt=5,44&sciodt=0,44&hl=en",
+  "url_related_articles": "/scholar?q=related:6KOWMd9JwKMJ:scholar.google.com/&scioq=Multirelational+social+networks+in+multimedia+sharing+systems&hl=en&as_sdt=0,44"
+}

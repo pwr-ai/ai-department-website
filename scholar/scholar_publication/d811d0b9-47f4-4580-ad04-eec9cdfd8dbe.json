@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "plwordnet 3.0--a comprehensive lexical-semantic resource", "author": "Maziarz, Marek and Piasecki, Maciej and Rudnicka, Ewa and Szpakowicz, Stan and K{\\k{e}}dzia, Pawe{\\l}", "pub_year": "2016", "venue": "\u2026 of COLING 2016, the \u2026", "abstract": "We have released plWordNet 3.0, a very large wordnet for Polish. In addition to what is expected in wordnets\u2013richly interrelated synsets\u2013it contains sentiment and emotion annotations, a large set of multi-word expressions, and a mapping onto WordNet 3.1. Part of the release is enWordNet 1.0, a substantially enlarged copy of WordNet 3.1, with material added to allow for a more complete mapping. The paper discusses the design principles of plWordNet, its content, its statistical portrait, a comparison with similar resources, and a", "pages": "2259--2268", "booktitle": "Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers", "pub_type": "inproceedings", "bib_id": "maziarz2016plwordnet"}, "filled": true, "gsrank": 1, "pub_url": "https://www.aclweb.org/anthology/C16-1213.pdf", "author_id": ["hc3Zj7UAAAAJ", "nU_W9XwAAAAJ", "rCk4VXEAAAAJ"], "num_citations": 66, "url_scholarbib": "/scholar?q=info:Dhifgf8y-ToJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dplwordnet%2B3.0%25E2%2580%2593a%2Bcomprehensive%2Blexical-semantic%2Bresource%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Dhifgf8y-ToJ&ei=W7BdYanVLofBmQGX-6OoBg", "citedby_url": "/scholar?cites=4249483796373510158&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:Dhifgf8y-ToJ:scholar.google.com/&scioq=plwordnet+3.0%E2%80%93a+comprehensive+lexical-semantic+resource&hl=en&as_sdt=0,5", "eprint_url": "https://www.aclweb.org/anthology/C16-1213.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "plwordnet 3.0--a comprehensive lexical-semantic resource",
+    "author": "Maziarz, Marek and Piasecki, Maciej and Rudnicka, Ewa and Szpakowicz, Stan and K{\\k{e}}dzia, Pawe{\\l}",
+    "pub_year": "2016",
+    "venue": "\u2026 of COLING 2016, the \u2026",
+    "abstract": "We have released plWordNet 3.0, a very large wordnet for Polish. In addition to what is expected in wordnets\u2013richly interrelated synsets\u2013it contains sentiment and emotion annotations, a large set of multi-word expressions, and a mapping onto WordNet 3.1. Part of the release is enWordNet 1.0, a substantially enlarged copy of WordNet 3.1, with material added to allow for a more complete mapping. The paper discusses the design principles of plWordNet, its content, its statistical portrait, a comparison with similar resources, and a",
+    "pages": "2259--2268",
+    "booktitle": "Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers",
+    "pub_type": "inproceedings",
+    "bib_id": "maziarz2016plwordnet"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.aclweb.org/anthology/C16-1213.pdf",
+  "author_id": [
+    "hc3Zj7UAAAAJ",
+    "nU_W9XwAAAAJ",
+    "rCk4VXEAAAAJ"
+  ],
+  "num_citations": 66,
+  "url_scholarbib": "/scholar?q=info:Dhifgf8y-ToJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dplwordnet%2B3.0%25E2%2580%2593a%2Bcomprehensive%2Blexical-semantic%2Bresource%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Dhifgf8y-ToJ&ei=W7BdYanVLofBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=4249483796373510158&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:Dhifgf8y-ToJ:scholar.google.com/&scioq=plwordnet+3.0%E2%80%93a+comprehensive+lexical-semantic+resource&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.aclweb.org/anthology/C16-1213.pdf"
+}

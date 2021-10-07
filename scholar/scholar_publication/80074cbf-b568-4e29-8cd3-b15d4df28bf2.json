@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Niedarwinowska ewolucja w rozwi{\\k{a}}zywaniu problemu harmonogramowania", "author": "Myszkowski, Pawe{\\l} B", "pub_year": "2003", "venue": "Prace Naukowe Akademii Ekonomicznej we \u2026", "abstract": "Problem harmonogramowania by\u0142 intensywnie badany i wiadomo, \u017ce jest NP-trudny, kombinatorycznie optymalizacyjny i wymaga spe\u0142nienia wielu ogranicze\u0144. Do grupy problem\u00f3w harmonogramowania zaliczane s\u0105 problemy podzia\u0142u pracy na wiele urz\u0105dze\u0144 (job-shop scheduling), uk\u0142adanie plan\u00f3w zaj\u0119\u0107 w szkole (timetable problem), ustalanie kolejno\u015bci egzamin\u00f3w na uczelni wy\u017cszej (examination timetabling), uk\u0142adanie planu zaj\u0119\u0107 na uczelni wy\u017cszej (university course timetabling problem, UCTP) oraz wiele innych. Dla", "pages": "322--331", "number": "975 Pozyskiwanie wiedzy i zarz{\\k{a}}dzanie wiedz{\\k{a}}", "journal": "Prace Naukowe Akademii Ekonomicznej we Wroc{\\l}awiu", "pub_type": "article", "bib_id": "myszkowski2003niedarwinowska"}, "filled": true, "gsrank": 1, "pub_url": "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.ekon-element-000171428815", "author_id": ["63xKDRcAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:OIOwTc7TCA4J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNiedarwinowska%2Bewolucja%2Bw%2Brozwi%25C4%2585zywaniu%2Bproblemu%2Bharmonogramowania%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=OIOwTc7TCA4J&ei=_2JeYZrREc6_mQHMm7boDg", "url_related_articles": "/scholar?q=related:OIOwTc7TCA4J:scholar.google.com/&scioq=Niedarwinowska+ewolucja+w+rozwi%C4%85zywaniu+problemu+harmonogramowania&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Niedarwinowska ewolucja w rozwi{\\k{a}}zywaniu problemu harmonogramowania",
+    "author": "Myszkowski, Pawe{\\l} B",
+    "pub_year": "2003",
+    "venue": "Prace Naukowe Akademii Ekonomicznej we \u2026",
+    "abstract": "Problem harmonogramowania by\u0142 intensywnie badany i wiadomo, \u017ce jest NP-trudny, kombinatorycznie optymalizacyjny i wymaga spe\u0142nienia wielu ogranicze\u0144. Do grupy problem\u00f3w harmonogramowania zaliczane s\u0105 problemy podzia\u0142u pracy na wiele urz\u0105dze\u0144 (job-shop scheduling), uk\u0142adanie plan\u00f3w zaj\u0119\u0107 w szkole (timetable problem), ustalanie kolejno\u015bci egzamin\u00f3w na uczelni wy\u017cszej (examination timetabling), uk\u0142adanie planu zaj\u0119\u0107 na uczelni wy\u017cszej (university course timetabling problem, UCTP) oraz wiele innych. Dla",
+    "pages": "322--331",
+    "number": "975 Pozyskiwanie wiedzy i zarz{\\k{a}}dzanie wiedz{\\k{a}}",
+    "journal": "Prace Naukowe Akademii Ekonomicznej we Wroc{\\l}awiu",
+    "pub_type": "article",
+    "bib_id": "myszkowski2003niedarwinowska"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.ekon-element-000171428815",
+  "author_id": [
+    "63xKDRcAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:OIOwTc7TCA4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNiedarwinowska%2Bewolucja%2Bw%2Brozwi%25C4%2585zywaniu%2Bproblemu%2Bharmonogramowania%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=OIOwTc7TCA4J&ei=_2JeYZrREc6_mQHMm7boDg",
+  "url_related_articles": "/scholar?q=related:OIOwTc7TCA4J:scholar.google.com/&scioq=Niedarwinowska+ewolucja+w+rozwi%C4%85zywaniu+problemu+harmonogramowania&hl=en&as_sdt=0,5"
+}

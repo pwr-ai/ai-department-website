@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Application of Rough Sets in Combined Handwritten Words Classifier", "author": "Sas, Jerzy and Zolnierek, Andrzej", "pub_year": "2009", "venue": "Computer Recognition Systems 3", "abstract": "In the paper the multilevel probabilistic approach to hand printed form recognition is described. The form recognition is decomposed into two levels: character recognition and word recognition. On the letter level the rough sets approach is presented. After this level of classification, for every position in the word, we obtain either the certain or the subset of possible or the subset of impossible decision about recognized letter. After on the word level the probabilistic lexicons are available. The decision on the word level is performed using", "publisher": "Springer", "pages": "509--518", "booktitle": "Computer Recognition Systems 3", "pub_type": "incollection", "bib_id": "sas2009application"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-93905-4_60", "author_id": ["T1U6rMcAAAAJ", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:sC03sQeY5nQJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DApplication%2Bof%2BRough%2BSets%2Bin%2BCombined%2BHandwritten%2BWords%2BClassifier%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sC03sQeY5nQJ&ei=lq1dYarjB4fBmQGX-6OoBg", "url_related_articles": "/scholar?q=related:sC03sQeY5nQJ:scholar.google.com/&scioq=Application+of+Rough+Sets+in+Combined+Handwritten+Words+Classifier&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Application of Rough Sets in Combined Handwritten Words Classifier",
+    "author": "Sas, Jerzy and Zolnierek, Andrzej",
+    "pub_year": "2009",
+    "venue": "Computer Recognition Systems 3",
+    "abstract": "In the paper the multilevel probabilistic approach to hand printed form recognition is described. The form recognition is decomposed into two levels: character recognition and word recognition. On the letter level the rough sets approach is presented. After this level of classification, for every position in the word, we obtain either the certain or the subset of possible or the subset of impossible decision about recognized letter. After on the word level the probabilistic lexicons are available. The decision on the word level is performed using",
+    "publisher": "Springer",
+    "pages": "509--518",
+    "booktitle": "Computer Recognition Systems 3",
+    "pub_type": "incollection",
+    "bib_id": "sas2009application"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-93905-4_60",
+  "author_id": [
+    "T1U6rMcAAAAJ",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:sC03sQeY5nQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DApplication%2Bof%2BRough%2BSets%2Bin%2BCombined%2BHandwritten%2BWords%2BClassifier%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sC03sQeY5nQJ&ei=lq1dYarjB4fBmQGX-6OoBg",
+  "url_related_articles": "/scholar?q=related:sC03sQeY5nQJ:scholar.google.com/&scioq=Application+of+Rough+Sets+in+Combined+Handwritten+Words+Classifier&hl=en&as_sdt=0,5"
+}

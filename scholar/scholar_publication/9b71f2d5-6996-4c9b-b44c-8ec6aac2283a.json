@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "WoSeDon", "author": "K{\\k{e}}dzia, Pawe{\\l} and Piasecki, Maciej and Orli{\\'n}ska, Marlena", "pub_year": "2016", "venue": "NA", "abstract": "\u00ee@ \u03a3\u221e u*\u2568/\u2229*{. \u00e5'|\u255e\u2584 \u00dc\u2557\u2559 \u03a9u {\u2320\u2568\u2524\u2320 l\u2264\u256a \u00bd* \u00f1\u00b7\u2229* c\u255d C8\u00e7\u2580\u2265 $ u\u00ff\u2591\u2248 n\u00bf> \u00aa\u00c4K\u00c4\u00a2* \u00fb* \u00c4\u20a7\u255e \u00eb\u03a9\u2261(/:^* T\u00f9\u00e7 {~ \u0192*\u256a\u2514*\u255c=}-\u255b* P\u2510; \u207f\u00ef\u2569\u2559\u25a0:%(\u00c9\u00e1M\u2554. \u0398\u00d6\u00b1\u00e4* sy\u0393!*/\u255c M\u00bdOi\u2320 f\u00ee\u2264 \u00aa> \u00f2\u00e1\u2264 n\u2510*\u2514 D\u2524\u258c F\u00c7\u2584* \u00aauC\u00b1Rl\u03c0\u2559 X\u2510 \u00d1\u00fc\u00fcpeRB_\u2560\u2551* H\u00b1\u00d6I\u00ac\u00a1]\u2518*\u2559\u2264\u2265 Y\u2590 \u00ef\u03a9\u2584", "publisher": "Wroc{\\l}aw University of Technology", "pub_type": "article", "bib_id": "kkedzia2016wosedon"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/290/wosedon.7z?sequence=2", "author_id": ["", "nU_W9XwAAAAJ", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:Ydf56p9OnDoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWoSeDon%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Ydf56p9OnDoJ&ei=fcJdYaz0Es6_mQHMm7boDg", "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/290/wosedon.7z?sequence=2"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "WoSeDon",
+    "author": "K{\\k{e}}dzia, Pawe{\\l} and Piasecki, Maciej and Orli{\\'n}ska, Marlena",
+    "pub_year": "2016",
+    "venue": "NA",
+    "abstract": "\u00ee@ \u03a3\u221e u*\u2568/\u2229*{. \u00e5'|\u255e\u2584 \u00dc\u2557\u2559 \u03a9u {\u2320\u2568\u2524\u2320 l\u2264\u256a \u00bd* \u00f1\u00b7\u2229* c\u255d C8\u00e7\u2580\u2265 $ u\u00ff\u2591\u2248 n\u00bf> \u00aa\u00c4K\u00c4\u00a2* \u00fb* \u00c4\u20a7\u255e \u00eb\u03a9\u2261(/:^* T\u00f9\u00e7 {~ \u0192*\u256a\u2514*\u255c=}-\u255b* P\u2510; \u207f\u00ef\u2569\u2559\u25a0:%(\u00c9\u00e1M\u2554. \u0398\u00d6\u00b1\u00e4* sy\u0393!*/\u255c M\u00bdOi\u2320 f\u00ee\u2264 \u00aa> \u00f2\u00e1\u2264 n\u2510*\u2514 D\u2524\u258c F\u00c7\u2584* \u00aauC\u00b1Rl\u03c0\u2559 X\u2510 \u00d1\u00fc\u00fcpeRB_\u2560\u2551* H\u00b1\u00d6I\u00ac\u00a1]\u2518*\u2559\u2264\u2265 Y\u2590 \u00ef\u03a9\u2584",
+    "publisher": "Wroc{\\l}aw University of Technology",
+    "pub_type": "article",
+    "bib_id": "kkedzia2016wosedon"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/290/wosedon.7z?sequence=2",
+  "author_id": [
+    "",
+    "nU_W9XwAAAAJ",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:Ydf56p9OnDoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWoSeDon%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Ydf56p9OnDoJ&ei=fcJdYaz0Es6_mQHMm7boDg",
+  "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/290/wosedon.7z?sequence=2"
+}

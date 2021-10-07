@@ -1,1 +1,32 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Mapreduce approach to relational influence propagation in complex networks", "author": "Kajdanowicz, Tomasz and Indyk, Wojciech and Kazienko, Przemyslaw", "pub_year": "2014", "venue": "Pattern Analysis and Applications", "abstract": "The relational label propagation problem for large data sets using MapReduce programming model was considered in the paper. The method we propose estimates class probability in relational domain in the networks. The method was examined on large real telecommunication data set. The results indicated that it could be used successfully to classify networks' nodes and, thanks to that, new offerings or tariffs might be proposed to customers who belong to other providers. Moreover, basic properties of relational label", "publisher": "Springer", "pages": "739--746", "number": "4", "volume": "17", "journal": "Pattern Analysis and Applications", "pub_type": "article", "bib_id": "kajdanowicz2014mapreduce"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/article/10.1007/s10044-012-0294-6", "author_id": ["GOoaHHEAAAAJ", "HvA-UicAAAAJ", "cxLgNccAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:dIGjSQ0JrAYJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMapReduce%2Bapproach%2Bto%2Brelational%2Binfluence%2Bpropagation%2Bin%2Bcomplex%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=dIGjSQ0JrAYJ&ei=yJVdYYTeAYfBmQGX-6OoBg", "citedby_url": "/scholar?cites=480769212896477556&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:dIGjSQ0JrAYJ:scholar.google.com/&scioq=MapReduce+approach+to+relational+influence+propagation+in+complex+networks&hl=en&as_sdt=0,5", "eprint_url": "https://link.springer.com/article/10.1007/s10044-012-0294-6"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Mapreduce approach to relational influence propagation in complex networks",
+    "author": "Kajdanowicz, Tomasz and Indyk, Wojciech and Kazienko, Przemyslaw",
+    "pub_year": "2014",
+    "venue": "Pattern Analysis and Applications",
+    "abstract": "The relational label propagation problem for large data sets using MapReduce programming model was considered in the paper. The method we propose estimates class probability in relational domain in the networks. The method was examined on large real telecommunication data set. The results indicated that it could be used successfully to classify networks' nodes and, thanks to that, new offerings or tariffs might be proposed to customers who belong to other providers. Moreover, basic properties of relational label",
+    "publisher": "Springer",
+    "pages": "739--746",
+    "number": "4",
+    "volume": "17",
+    "journal": "Pattern Analysis and Applications",
+    "pub_type": "article",
+    "bib_id": "kajdanowicz2014mapreduce"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/article/10.1007/s10044-012-0294-6",
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "HvA-UicAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:dIGjSQ0JrAYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMapReduce%2Bapproach%2Bto%2Brelational%2Binfluence%2Bpropagation%2Bin%2Bcomplex%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=dIGjSQ0JrAYJ&ei=yJVdYYTeAYfBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=480769212896477556&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:dIGjSQ0JrAYJ:scholar.google.com/&scioq=MapReduce+approach+to+relational+influence+propagation+in+complex+networks&hl=en&as_sdt=0,5",
+  "eprint_url": "https://link.springer.com/article/10.1007/s10044-012-0294-6"
+}

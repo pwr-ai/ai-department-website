@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Extraction of the multi-word lexical units in the perspective of the wordnet expansion", "author": "Piasecki, Maciej and Wendelberger, Micha{\\l} and Maziarz, Marek", "pub_year": "2015", "venue": "Proceedings of the \u2026", "abstract": "The paper focuses on selecting an optimal set of the Multiword Expressions Extraction methods used as a tool during wordnet expansion. Wordnet multiword lexical units are a broad class and it is difficult to find a single extraction method fulfilling the task. Many extraction association measures were tested on very large corpora and a very large wordnet, namely plWordNet. Several new measures are proposed and compared with selected methods in the literature. Two ways of combining measures into ensembles were", "pages": "512--520", "booktitle": "Proceedings of the International Conference Recent Advances in Natural Language Processing", "pub_type": "inproceedings", "bib_id": "piasecki2015extraction"}, "filled": true, "gsrank": 1, "pub_url": "https://www.aclweb.org/anthology/R15-1067.pdf", "author_id": ["nU_W9XwAAAAJ", "", "hc3Zj7UAAAAJ"], "num_citations": 10, "url_scholarbib": "/scholar?q=info:7Rerlf5ttFkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExtraction%2Bof%2Bthe%2Bmulti-word%2Blexical%2Bunits%2Bin%2Bthe%2Bperspective%2Bof%2Bthe%2Bwordnet%2Bexpansion%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=7Rerlf5ttFkJ&ei=g7JdYf3bEIfBmQGX-6OoBg", "citedby_url": "/scholar?cites=6463912305383643117&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:7Rerlf5ttFkJ:scholar.google.com/&scioq=Extraction+of+the+multi-word+lexical+units+in+the+perspective+of+the+wordnet+expansion&hl=en&as_sdt=0,5", "eprint_url": "https://www.aclweb.org/anthology/R15-1067.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Extraction of the multi-word lexical units in the perspective of the wordnet expansion",
+    "author": "Piasecki, Maciej and Wendelberger, Micha{\\l} and Maziarz, Marek",
+    "pub_year": "2015",
+    "venue": "Proceedings of the \u2026",
+    "abstract": "The paper focuses on selecting an optimal set of the Multiword Expressions Extraction methods used as a tool during wordnet expansion. Wordnet multiword lexical units are a broad class and it is difficult to find a single extraction method fulfilling the task. Many extraction association measures were tested on very large corpora and a very large wordnet, namely plWordNet. Several new measures are proposed and compared with selected methods in the literature. Two ways of combining measures into ensembles were",
+    "pages": "512--520",
+    "booktitle": "Proceedings of the International Conference Recent Advances in Natural Language Processing",
+    "pub_type": "inproceedings",
+    "bib_id": "piasecki2015extraction"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.aclweb.org/anthology/R15-1067.pdf",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    "",
+    "hc3Zj7UAAAAJ"
+  ],
+  "num_citations": 10,
+  "url_scholarbib": "/scholar?q=info:7Rerlf5ttFkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExtraction%2Bof%2Bthe%2Bmulti-word%2Blexical%2Bunits%2Bin%2Bthe%2Bperspective%2Bof%2Bthe%2Bwordnet%2Bexpansion%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=7Rerlf5ttFkJ&ei=g7JdYf3bEIfBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=6463912305383643117&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:7Rerlf5ttFkJ:scholar.google.com/&scioq=Extraction+of+the+multi-word+lexical+units+in+the+perspective+of+the+wordnet+expansion&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.aclweb.org/anthology/R15-1067.pdf"
+}

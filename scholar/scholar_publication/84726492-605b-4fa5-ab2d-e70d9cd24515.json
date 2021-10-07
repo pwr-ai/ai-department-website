@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Analysis and applications of complex social networks", "author": "Musial, Katarzyna and Br{\\'o}dka, Piotr and De Meo, Pasquale", "pub_year": "2017", "venue": "NA", "abstract": "Social networks are everywhere and research aiming at analysing and understanding these structures is growing year by year as its outcomes enable us to understand different social phenomena including social structures evolution, communities, spread over networks, and dynamics of changes in networks. This huge interest in the analysis of large-scale social networks resulted in a lot of new approaches, methods, and techniques but with every advancement in this area, we uncover new challenges and new levels of complexity in the", "publisher": "Hindawi", "pub_type": "misc", "bib_id": "musial2017analysis"}, "filled": true, "gsrank": 1, "pub_url": "https://www.hindawi.com/journals/complexity/2017/3014163/", "author_id": ["Dw5QS9wAAAAJ", "T7v65jEAAAAJ", "PX15CIgAAAAJ"], "num_citations": 5, "url_scholarbib": "/scholar?q=info:40C1EnFsJSsJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Band%2Bapplications%2Bof%2Bcomplex%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=40C1EnFsJSsJ&ei=0VBeYbzpOKPZsQKvo78o", "citedby_url": "/scholar?cites=3109010350670168291&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:40C1EnFsJSsJ:scholar.google.com/&scioq=Analysis+and+applications+of+complex+social+networks&hl=en&as_sdt=0,5", "eprint_url": "https://downloads.hindawi.com/journals/complexity/2017/3014163.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Analysis and applications of complex social networks",
+    "author": "Musial, Katarzyna and Br{\\'o}dka, Piotr and De Meo, Pasquale",
+    "pub_year": "2017",
+    "venue": "NA",
+    "abstract": "Social networks are everywhere and research aiming at analysing and understanding these structures is growing year by year as its outcomes enable us to understand different social phenomena including social structures evolution, communities, spread over networks, and dynamics of changes in networks. This huge interest in the analysis of large-scale social networks resulted in a lot of new approaches, methods, and techniques but with every advancement in this area, we uncover new challenges and new levels of complexity in the",
+    "publisher": "Hindawi",
+    "pub_type": "misc",
+    "bib_id": "musial2017analysis"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.hindawi.com/journals/complexity/2017/3014163/",
+  "author_id": [
+    "Dw5QS9wAAAAJ",
+    "T7v65jEAAAAJ",
+    "PX15CIgAAAAJ"
+  ],
+  "num_citations": 5,
+  "url_scholarbib": "/scholar?q=info:40C1EnFsJSsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Band%2Bapplications%2Bof%2Bcomplex%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=40C1EnFsJSsJ&ei=0VBeYbzpOKPZsQKvo78o",
+  "citedby_url": "/scholar?cites=3109010350670168291&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:40C1EnFsJSsJ:scholar.google.com/&scioq=Analysis+and+applications+of+complex+social+networks&hl=en&as_sdt=0,5",
+  "eprint_url": "https://downloads.hindawi.com/journals/complexity/2017/3014163.pdf"
+}

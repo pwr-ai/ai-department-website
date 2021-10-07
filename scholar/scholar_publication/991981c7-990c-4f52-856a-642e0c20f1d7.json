@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Wybrane problemy wyszukiwania informacji w sieci Internet", "author": "Katarzyniak, R and Kazienko, P and Sobecki, J", "pub_year": "1997", "venue": "W: IV Krajowe Forum Informacji \u2026", "abstract": "Otwarto\u015b\u0107 sieci Internet doprowadzi\u0142a w ostatnim czasie do du\u017cego zr\u00f3\u017cnicowania tematyki i struktury udost\u0119pnianej za jej po\u015brednictwem informacji. Obecnie jej najpopularniejszym\u017ar\u00f3d\u0142em jest system WWW. Wa\u017cn\u0105 rol\u0119 odgrywaj\u0105 tak\u017ce inne us\u0142ugi sieci Internet np. Usenet czy bazy adresowe (np. X. 500 i WhoWhere). Taka r\u00f3\u017cnorodno\u015b\u0107 formy i tre\u015bci wymaga zastosowania odpowiednich mechanizm\u00f3w i strategii wyszukiwawczych, kt\u00f3re musz\u0105 by\u0107 dostosowane do tematyki oraz struktury", "pages": "2--5", "booktitle": "W: IV Krajowe Forum Informacji Naukowej i Technicznej. Zakopane", "pub_type": "inproceedings", "bib_id": "katarzyniak1997wybrane"}, "filled": true, "gsrank": 1, "pub_url": "http://156.17.10.1/~kazienko/pub/Zakopane97/Zakopane97.ps", "author_id": ["RK0CjUsAAAAJ", "cxLgNccAAAAJ", "kbifYOwAAAAJ"], "num_citations": 4, "url_scholarbib": "/scholar?q=info:RVoiykZBEmcJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWybrane%2Bproblemy%2Bwyszukiwania%2Binformacji%2Bw%2Bsieci%2BInternet%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=RVoiykZBEmcJ&ei=6kBeYYvDNc-TmwHPvZGABQ", "citedby_url": "/scholar?cites=7427070507782134341&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:RVoiykZBEmcJ:scholar.google.com/&scioq=Wybrane+problemy+wyszukiwania+informacji+w+sieci+Internet&hl=en&as_sdt=0,39", "eprint_url": "http://156.17.10.1/~kazienko/pub/Zakopane97/Zakopane97.ps"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Wybrane problemy wyszukiwania informacji w sieci Internet",
+    "author": "Katarzyniak, R and Kazienko, P and Sobecki, J",
+    "pub_year": "1997",
+    "venue": "W: IV Krajowe Forum Informacji \u2026",
+    "abstract": "Otwarto\u015b\u0107 sieci Internet doprowadzi\u0142a w ostatnim czasie do du\u017cego zr\u00f3\u017cnicowania tematyki i struktury udost\u0119pnianej za jej po\u015brednictwem informacji. Obecnie jej najpopularniejszym\u017ar\u00f3d\u0142em jest system WWW. Wa\u017cn\u0105 rol\u0119 odgrywaj\u0105 tak\u017ce inne us\u0142ugi sieci Internet np. Usenet czy bazy adresowe (np. X. 500 i WhoWhere). Taka r\u00f3\u017cnorodno\u015b\u0107 formy i tre\u015bci wymaga zastosowania odpowiednich mechanizm\u00f3w i strategii wyszukiwawczych, kt\u00f3re musz\u0105 by\u0107 dostosowane do tematyki oraz struktury",
+    "pages": "2--5",
+    "booktitle": "W: IV Krajowe Forum Informacji Naukowej i Technicznej. Zakopane",
+    "pub_type": "inproceedings",
+    "bib_id": "katarzyniak1997wybrane"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://156.17.10.1/~kazienko/pub/Zakopane97/Zakopane97.ps",
+  "author_id": [
+    "RK0CjUsAAAAJ",
+    "cxLgNccAAAAJ",
+    "kbifYOwAAAAJ"
+  ],
+  "num_citations": 4,
+  "url_scholarbib": "/scholar?q=info:RVoiykZBEmcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWybrane%2Bproblemy%2Bwyszukiwania%2Binformacji%2Bw%2Bsieci%2BInternet%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=RVoiykZBEmcJ&ei=6kBeYYvDNc-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=7427070507782134341&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:RVoiykZBEmcJ:scholar.google.com/&scioq=Wybrane+problemy+wyszukiwania+informacji+w+sieci+Internet&hl=en&as_sdt=0,39",
+  "eprint_url": "http://156.17.10.1/~kazienko/pub/Zakopane97/Zakopane97.ps"
+}

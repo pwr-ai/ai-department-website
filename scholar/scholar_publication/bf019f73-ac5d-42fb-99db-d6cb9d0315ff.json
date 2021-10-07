@@ -1,1 +1,23 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "CorpoGrabber: The Toolchain to Automatic Acquiring and Extraction of the Website Content", "author": "Kocon, Jan", "venue": "NA", "pub_year": "2014", "pages": "52", "journal": "Practical Applications of Language Corpora", "pub_type": "article", "bib_id": "kocon2014corpograbber"}, "filled": true, "gsrank": 1, "author_id": ["pmQHb5IAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:revzJCIJy0QJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpoGrabber:%2BThe%2BToolchain%2Bto%2BAutomatic%2BAcquiring%2Band%2BExtraction%2Bof%2Bthe%2BWebsite%2BContent%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=revzJCIJy0QJ&ei=i6ddYab2L8KSy9YPu-2n8AU", "url_related_articles": "/scholar?q=related:revzJCIJy0QJ:scholar.google.com/&scioq=CorpoGrabber:+The+Toolchain+to+Automatic+Acquiring+and+Extraction+of+the+Website+Content&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "CorpoGrabber: The Toolchain to Automatic Acquiring and Extraction of the Website Content",
+    "author": "Kocon, Jan",
+    "venue": "NA",
+    "pub_year": "2014",
+    "pages": "52",
+    "journal": "Practical Applications of Language Corpora",
+    "pub_type": "article",
+    "bib_id": "kocon2014corpograbber"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "pmQHb5IAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:revzJCIJy0QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpoGrabber:%2BThe%2BToolchain%2Bto%2BAutomatic%2BAcquiring%2Band%2BExtraction%2Bof%2Bthe%2BWebsite%2BContent%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=revzJCIJy0QJ&ei=i6ddYab2L8KSy9YPu-2n8AU",
+  "url_related_articles": "/scholar?q=related:revzJCIJy0QJ:scholar.google.com/&scioq=CorpoGrabber:+The+Toolchain+to+Automatic+Acquiring+and+Extraction+of+the+Website+Content&hl=en&as_sdt=0,5"
+}

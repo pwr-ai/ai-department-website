@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "The evolutionary cost of Baldwin effect in the routing and spectrum allocation problem in elastic optical networks", "author": "Przewozniczek, Michal Witold and Walkowiak, Krzysztof and Aibin, Michal", "pub_year": "2017", "venue": "Applied Soft Computing", "abstract": "Evolutionary Algorithms (EAs) are frequently used to solve various practical problems. It is common to adjust an EA to the solved problem by adding a different kind of problem-dependent mechanisms. One of the possible improvements is an evolutionary method hybridization with local search algorithms. Such hybridization may lead to phenomena called the Baldwin effect. It was shown that the occurrence of Baldwin effect helps to preserve population diversity and therefore may be beneficial for the method", "publisher": "Elsevier", "pages": "843--862", "volume": "52", "journal": "Applied Soft Computing", "pub_type": "article", "bib_id": "przewozniczek2017evolutionary"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S1568494616304999", "author_id": ["bmJw3Z0AAAAJ", "cnLc7u4AAAAJ", "lAJCBiQAAAAJ"], "num_citations": 14, "url_scholarbib": "/scholar?q=info:MtmEuFWi-K4J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bevolutionary%2Bcost%2Bof%2BBaldwin%2Beffect%2Bin%2Bthe%2Brouting%2Band%2Bspectrum%2Ballocation%2Bproblem%2Bin%2Belastic%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=MtmEuFWi-K4J&ei=_kNeYafoN4nmmgGQla6wAw", "citedby_url": "/scholar?cites=12608005645875337522&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:MtmEuFWi-K4J:scholar.google.com/&scioq=The+evolutionary+cost+of+Baldwin+effect+in+the+routing+and+spectrum+allocation+problem+in+elastic+optical+networks&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "The evolutionary cost of Baldwin effect in the routing and spectrum allocation problem in elastic optical networks",
+    "author": "Przewozniczek, Michal Witold and Walkowiak, Krzysztof and Aibin, Michal",
+    "pub_year": "2017",
+    "venue": "Applied Soft Computing",
+    "abstract": "Evolutionary Algorithms (EAs) are frequently used to solve various practical problems. It is common to adjust an EA to the solved problem by adding a different kind of problem-dependent mechanisms. One of the possible improvements is an evolutionary method hybridization with local search algorithms. Such hybridization may lead to phenomena called the Baldwin effect. It was shown that the occurrence of Baldwin effect helps to preserve population diversity and therefore may be beneficial for the method",
+    "publisher": "Elsevier",
+    "pages": "843--862",
+    "volume": "52",
+    "journal": "Applied Soft Computing",
+    "pub_type": "article",
+    "bib_id": "przewozniczek2017evolutionary"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S1568494616304999",
+  "author_id": [
+    "bmJw3Z0AAAAJ",
+    "cnLc7u4AAAAJ",
+    "lAJCBiQAAAAJ"
+  ],
+  "num_citations": 14,
+  "url_scholarbib": "/scholar?q=info:MtmEuFWi-K4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bevolutionary%2Bcost%2Bof%2BBaldwin%2Beffect%2Bin%2Bthe%2Brouting%2Band%2Bspectrum%2Ballocation%2Bproblem%2Bin%2Belastic%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=MtmEuFWi-K4J&ei=_kNeYafoN4nmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=12608005645875337522&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:MtmEuFWi-K4J:scholar.google.com/&scioq=The+evolutionary+cost+of+Baldwin+effect+in+the+routing+and+spectrum+allocation+problem+in+elastic+optical+networks&hl=en&as_sdt=0,5"
+}

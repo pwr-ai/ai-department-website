@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Linguistic analysis of weblog genres", "author": "Oleksy, Marcin and Koco{\\'n}, J and Maryl, M and Piasecki, M", "pub_year": "2014", "venue": "Practical Applications of \u2026", "abstract": "Weblog, often called an \u201celectronic journal\u201d, is a simple website containing posts displayed in the reversed chronological order, which can usually be commented by other users (cf. McNeil 2003). It is not a simple recreation of a journal in the digital environment but rather a complex remediation of traditional genres (eg journal, diary, letter) under the influence of electronic discourse, which entails such phenomena as secondary orality and interaction with the user (cf. Davis and Brewer 1997). Although blogging is a relatively new", "booktitle": "Practical Applications of Linguistic Corpora Conference", "pub_type": "inproceedings", "bib_id": "oleksy2014linguistic"}, "filled": true, "gsrank": 1, "pub_url": "https://www.academia.edu/download/47617094/Oleksy_Maryl_Piasecki_2014_Linguistic_Analysis_of_Weblog_Genres.pdf", "author_id": ["1QVBEYYAAAAJ", "pmQHb5IAAAAJ", "P08oGW4AAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:D00xNE3izkAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLinguistic%2Banalysis%2Bof%2Bweblog%2Bgenres%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=D00xNE3izkAJ&ei=0aFdYZqELcKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=4669918684845788431&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:D00xNE3izkAJ:scholar.google.com/&scioq=Linguistic+analysis+of+weblog+genres&hl=en&as_sdt=0,5", "eprint_url": "https://www.academia.edu/download/47617094/Oleksy_Maryl_Piasecki_2014_Linguistic_Analysis_of_Weblog_Genres.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Linguistic analysis of weblog genres",
+    "author": "Oleksy, Marcin and Koco{\\'n}, J and Maryl, M and Piasecki, M",
+    "pub_year": "2014",
+    "venue": "Practical Applications of \u2026",
+    "abstract": "Weblog, often called an \u201celectronic journal\u201d, is a simple website containing posts displayed in the reversed chronological order, which can usually be commented by other users (cf. McNeil 2003). It is not a simple recreation of a journal in the digital environment but rather a complex remediation of traditional genres (eg journal, diary, letter) under the influence of electronic discourse, which entails such phenomena as secondary orality and interaction with the user (cf. Davis and Brewer 1997). Although blogging is a relatively new",
+    "booktitle": "Practical Applications of Linguistic Corpora Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "oleksy2014linguistic"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.academia.edu/download/47617094/Oleksy_Maryl_Piasecki_2014_Linguistic_Analysis_of_Weblog_Genres.pdf",
+  "author_id": [
+    "1QVBEYYAAAAJ",
+    "pmQHb5IAAAAJ",
+    "P08oGW4AAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:D00xNE3izkAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLinguistic%2Banalysis%2Bof%2Bweblog%2Bgenres%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=D00xNE3izkAJ&ei=0aFdYZqELcKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=4669918684845788431&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:D00xNE3izkAJ:scholar.google.com/&scioq=Linguistic+analysis+of+weblog+genres&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.academia.edu/download/47617094/Oleksy_Maryl_Piasecki_2014_Linguistic_Analysis_of_Weblog_Genres.pdf"
+}

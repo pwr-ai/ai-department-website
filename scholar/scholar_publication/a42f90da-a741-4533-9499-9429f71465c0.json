@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Hybrid and ensemble methods in machine learning J. UCS special issue", "author": "Kazienko, Przemys{\\l}aw and Lughofer, Edwin and Trawi{\\'n}ski, Bogdan", "pub_year": "2013", "venue": "J Univers Comput Sci", "abstract": "Hybrid and ensemble methods in machine learning have attracted a great attention of the scientific community over the last years [Zhou, 12]. Multiple, ensemble learning models have been theoretically and empirically shown to provide significantly better performance than", "pages": "457--461", "number": "4", "volume": "19", "journal": "J Univers Comput Sci", "pub_type": "article", "bib_id": "kazienko2013hybrid"}, "filled": true, "gsrank": 1, "pub_url": "http://www.jucs.org/jucs_19_4/hybrid_and_ensemble_methods/jucs_19_04_0457_0461_editorial.pdf", "author_id": ["cxLgNccAAAAJ", "G6sMKIkAAAAJ", "f3gKG3kAAAAJ"], "num_citations": 35, "url_scholarbib": "/scholar?q=info:Laz1MMB790QJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DP.%2BKazienko,%2BE.%2BLughofer,%2BB.%2BTrawi%25C5%2584ski%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Laz1MMB790QJ&ei=KJ1dYezfNIu4mAGqg5LoDg", "citedby_url": "/scholar?cites=4969576779211975725&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:Laz1MMB790QJ:scholar.google.com/&scioq=P.+Kazienko,+E.+Lughofer,+B.+Trawi%C5%84ski&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Bogdan-Trawinski/publication/220618734_Special_Issue_on_Hybrid_and_Ensemble_Methods_in_Machine_Learning/links/5d513068299bf1995b7813c2/Special-Issue-on-Hybrid-and-Ensemble-Methods-in-Machine-Learning.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Hybrid and ensemble methods in machine learning J. UCS special issue",
+    "author": "Kazienko, Przemys{\\l}aw and Lughofer, Edwin and Trawi{\\'n}ski, Bogdan",
+    "pub_year": "2013",
+    "venue": "J Univers Comput Sci",
+    "abstract": "Hybrid and ensemble methods in machine learning have attracted a great attention of the scientific community over the last years [Zhou, 12]. Multiple, ensemble learning models have been theoretically and empirically shown to provide significantly better performance than",
+    "pages": "457--461",
+    "number": "4",
+    "volume": "19",
+    "journal": "J Univers Comput Sci",
+    "pub_type": "article",
+    "bib_id": "kazienko2013hybrid"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.jucs.org/jucs_19_4/hybrid_and_ensemble_methods/jucs_19_04_0457_0461_editorial.pdf",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "G6sMKIkAAAAJ",
+    "f3gKG3kAAAAJ"
+  ],
+  "num_citations": 35,
+  "url_scholarbib": "/scholar?q=info:Laz1MMB790QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DP.%2BKazienko,%2BE.%2BLughofer,%2BB.%2BTrawi%25C5%2584ski%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Laz1MMB790QJ&ei=KJ1dYezfNIu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=4969576779211975725&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:Laz1MMB790QJ:scholar.google.com/&scioq=P.+Kazienko,+E.+Lughofer,+B.+Trawi%C5%84ski&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Bogdan-Trawinski/publication/220618734_Special_Issue_on_Hybrid_and_Ensemble_Methods_in_Machine_Learning/links/5d513068299bf1995b7813c2/Special-Issue-on-Hybrid-and-Ensemble-Methods-in-Machine-Learning.pdf"
+}

@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Active Multi-Population Pattern Searching Algorithm for flow optimization in computer networks--The novel coevolution schema combined with linkage learning", "author": "Przewozniczek, Michal", "pub_year": "2016", "venue": "Information Sciences", "abstract": "The main objective of this paper is to propose an effective evolutionary method for solving the problem of working paths optimization in survivable MPLS network. The paper focuses on existing network, in which only network flow can be optimized to provide network survivability using the local repair strategy. The problem is NP-complete, the solution space of the test cases is large and many genes are required to code the potential solution. Recently, the MuPPetS method (Multi-Population Pattern Searching Algorithm for Flow", "publisher": "Elsevier", "pages": "15--36", "volume": "355", "journal": "Information Sciences", "pub_type": "article", "bib_id": "przewozniczek2016active"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S002002551630130X", "author_id": ["bmJw3Z0AAAAJ"], "num_citations": 22, "url_scholarbib": "/scholar?q=info:hissM7TeLkgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DActive%2BMulti-Population%2BPattern%2BSearching%2BAlgorithm%2Bfor%2Bflow%2Boptimization%2Bin%2Bcomputer%2Bnetworks%25E2%2580%2593The%2Bnovel%2Bcoevolution%2Bschema%2Bcombined%2Bwith%2Blinkage%2Blearning%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=hissM7TeLkgJ&ei=8kNeYcr2Gou4mAGqg5LoDg", "citedby_url": "/scholar?cites=5201339485193513862&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:hissM7TeLkgJ:scholar.google.com/&scioq=Active+Multi-Population+Pattern+Searching+Algorithm+for+flow+optimization+in+computer+networks%E2%80%93The+novel+coevolution+schema+combined+with+linkage+learning&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Active Multi-Population Pattern Searching Algorithm for flow optimization in computer networks--The novel coevolution schema combined with linkage learning",
+    "author": "Przewozniczek, Michal",
+    "pub_year": "2016",
+    "venue": "Information Sciences",
+    "abstract": "The main objective of this paper is to propose an effective evolutionary method for solving the problem of working paths optimization in survivable MPLS network. The paper focuses on existing network, in which only network flow can be optimized to provide network survivability using the local repair strategy. The problem is NP-complete, the solution space of the test cases is large and many genes are required to code the potential solution. Recently, the MuPPetS method (Multi-Population Pattern Searching Algorithm for Flow",
+    "publisher": "Elsevier",
+    "pages": "15--36",
+    "volume": "355",
+    "journal": "Information Sciences",
+    "pub_type": "article",
+    "bib_id": "przewozniczek2016active"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S002002551630130X",
+  "author_id": [
+    "bmJw3Z0AAAAJ"
+  ],
+  "num_citations": 22,
+  "url_scholarbib": "/scholar?q=info:hissM7TeLkgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DActive%2BMulti-Population%2BPattern%2BSearching%2BAlgorithm%2Bfor%2Bflow%2Boptimization%2Bin%2Bcomputer%2Bnetworks%25E2%2580%2593The%2Bnovel%2Bcoevolution%2Bschema%2Bcombined%2Bwith%2Blinkage%2Blearning%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=hissM7TeLkgJ&ei=8kNeYcr2Gou4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=5201339485193513862&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:hissM7TeLkgJ:scholar.google.com/&scioq=Active+Multi-Population+Pattern+Searching+Algorithm+for+flow+optimization+in+computer+networks%E2%80%93The+novel+coevolution+schema+combined+with+linkage+learning&hl=en&as_sdt=0,5"
+}

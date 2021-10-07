@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Expansion of telecommunication social networks", "author": "Kazienko, Przemys{\\l}aw", "pub_year": "2007", "venue": "\u2026 Conference on Cooperative Design, Visualization and \u2026", "abstract": "A social network, in which nodes represent humans and weighted ties reflect relationships between them, can be formed in an automatic way based on the data about customers of a telecommunication company as well as their communication activities. The expansion of a telecommunication social network can be supported with one of three main approaches that have been considered in this paper: existing group conjunction, internal expansion of groups, and transfer of external relationships.", "organization": "Springer", "pages": "404--412", "booktitle": "International Conference on Cooperative Design, Visualization and Engineering", "pub_type": "inproceedings", "bib_id": "kazienko2007expansion"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-74780-2_54", "author_id": ["cxLgNccAAAAJ"], "num_citations": 15, "url_scholarbib": "/scholar?q=info:0IPkSQI3TQkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExpansion%2Bof%2Btelecommunication%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=0IPkSQI3TQkJ&ei=HjVeYcm5HIu4mAGqg5LoDg", "citedby_url": "/scholar?cites=670252402517246928&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:0IPkSQI3TQkJ:scholar.google.com/&scioq=Expansion+of+telecommunication+social+networks&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Expansion of telecommunication social networks",
+    "author": "Kazienko, Przemys{\\l}aw",
+    "pub_year": "2007",
+    "venue": "\u2026 Conference on Cooperative Design, Visualization and \u2026",
+    "abstract": "A social network, in which nodes represent humans and weighted ties reflect relationships between them, can be formed in an automatic way based on the data about customers of a telecommunication company as well as their communication activities. The expansion of a telecommunication social network can be supported with one of three main approaches that have been considered in this paper: existing group conjunction, internal expansion of groups, and transfer of external relationships.",
+    "organization": "Springer",
+    "pages": "404--412",
+    "booktitle": "International Conference on Cooperative Design, Visualization and Engineering",
+    "pub_type": "inproceedings",
+    "bib_id": "kazienko2007expansion"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-74780-2_54",
+  "author_id": [
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 15,
+  "url_scholarbib": "/scholar?q=info:0IPkSQI3TQkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExpansion%2Bof%2Btelecommunication%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=0IPkSQI3TQkJ&ei=HjVeYcm5HIu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=670252402517246928&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:0IPkSQI3TQkJ:scholar.google.com/&scioq=Expansion+of+telecommunication+social+networks&hl=en&as_sdt=0,5"
+}

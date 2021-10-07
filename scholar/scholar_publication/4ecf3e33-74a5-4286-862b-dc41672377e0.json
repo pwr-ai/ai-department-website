@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Chunking of Polish: guidelines, discussion and experiments with Machine Learning", "author": "Maziarz, Marek and Radziszewski, Adam and Wieczorek, Jan", "pub_year": "2011", "venue": "Proceedings of the 5th \u2026", "abstract": "Osenova, Petya. (2002). Bulgarian nominal chunks and mapping strategies for deeper syntactic analyses  Przepi\u00f3rkowski, Adam. (2007). A preliminary formalism- for simultaneous rule-based tagging and partial parsing  (2010). A pre- liminary noun phrase chunker for Polish", "booktitle": "Proceedings of the 5th Language \\& Technology Conference LTC", "pub_type": "inproceedings", "bib_id": "maziarz2011chunking"}, "filled": true, "gsrank": 1, "pub_url": "https://www.researchgate.net/profile/Marek-Maziarz/publication/266173024_Chunking_of_Polish_guidelines_discussion_and_experiments_with_Machine_Learning/links/54b649cf0cf2318f0f9a2e25/Chunking-of-Polish-guidelines-discussion-and-experiments-with-Machine-Learning.pdf", "author_id": ["hc3Zj7UAAAAJ", ""], "num_citations": 8, "url_scholarbib": "/scholar?q=info:DPYbeisNbm8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bpreliminary%2Bnoun%2Bphrase%2Bchunker%2Bfor%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=DPYbeisNbm8J&ei=QbFdYfjAMofBmQGX-6OoBg", "citedby_url": "/scholar?cites=8029369666031580684&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:DPYbeisNbm8J:scholar.google.com/&scioq=A+preliminary+noun+phrase+chunker+for+Polish&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Marek-Maziarz/publication/266173024_Chunking_of_Polish_guidelines_discussion_and_experiments_with_Machine_Learning/links/54b649cf0cf2318f0f9a2e25/Chunking-of-Polish-guidelines-discussion-and-experiments-with-Machine-Learning.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Chunking of Polish: guidelines, discussion and experiments with Machine Learning",
+    "author": "Maziarz, Marek and Radziszewski, Adam and Wieczorek, Jan",
+    "pub_year": "2011",
+    "venue": "Proceedings of the 5th \u2026",
+    "abstract": "Osenova, Petya. (2002). Bulgarian nominal chunks and mapping strategies for deeper syntactic analyses  Przepi\u00f3rkowski, Adam. (2007). A preliminary formalism- for simultaneous rule-based tagging and partial parsing  (2010). A pre- liminary noun phrase chunker for Polish",
+    "booktitle": "Proceedings of the 5th Language \\& Technology Conference LTC",
+    "pub_type": "inproceedings",
+    "bib_id": "maziarz2011chunking"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.researchgate.net/profile/Marek-Maziarz/publication/266173024_Chunking_of_Polish_guidelines_discussion_and_experiments_with_Machine_Learning/links/54b649cf0cf2318f0f9a2e25/Chunking-of-Polish-guidelines-discussion-and-experiments-with-Machine-Learning.pdf",
+  "author_id": [
+    "hc3Zj7UAAAAJ",
+    ""
+  ],
+  "num_citations": 8,
+  "url_scholarbib": "/scholar?q=info:DPYbeisNbm8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bpreliminary%2Bnoun%2Bphrase%2Bchunker%2Bfor%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=DPYbeisNbm8J&ei=QbFdYfjAMofBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=8029369666031580684&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:DPYbeisNbm8J:scholar.google.com/&scioq=A+preliminary+noun+phrase+chunker+for+Polish&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Marek-Maziarz/publication/266173024_Chunking_of_Polish_guidelines_discussion_and_experiments_with_Machine_Learning/links/54b649cf0cf2318f0f9a2e25/Chunking-of-Polish-guidelines-discussion-and-experiments-with-Machine-Learning.pdf"
+}

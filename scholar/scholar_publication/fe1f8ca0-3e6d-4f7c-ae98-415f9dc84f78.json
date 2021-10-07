@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Active learning and inference method for within network classification", "author": "Kajdanowicz, Tomasz and Michalski, Radoslaw and Musial, Katarzyna and Kazienko, Przemyslaw", "pub_year": "2013", "venue": "Proceedings of the 2013 \u2026", "abstract": "In relational learning tasks such as within network classification the main problem arises from the inference of nodes' labels based on the the ground true labels of remaining nodes. The problem becomes even harder if the nodes from initial network do not have any labels assigned and they have to be acquired. However, labels of which nodes should be obtained in order to provide fair classification results? Active learning and inference is a practical framework to study this problem. The method for active learning and inference in within", "pages": "1299--1306", "booktitle": "Proceedings of the 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining", "pub_type": "inproceedings", "bib_id": "kajdanowicz2013active"}, "filled": true, "gsrank": 1, "pub_url": "https://dl.acm.org/doi/abs/10.1145/2492517.2500259", "author_id": ["GOoaHHEAAAAJ", "xMVnv3sAAAAJ", "Dw5QS9wAAAAJ"], "num_citations": 2, "url_scholarbib": "/scholar?q=info:qY3iSTmqgWsJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DActive%2Blearning%2Band%2Binference%2Bmethod%2Bfor%2Bwithin%2Bnetwork%2Bclassification%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qY3iSTmqgWsJ&ei=_JVdYZW1B4nmmgGQla6wAw", "citedby_url": "/scholar?cites=7746659997083405737&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:qY3iSTmqgWsJ:scholar.google.com/&scioq=Active+learning+and+inference+method+for+within+network+classification&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Radoslaw-Michalski-2/publication/260120554_Active_learning_and_inference_method_for_within_network_classification/links/546f47300cf216f8cfa9d120/Active-learning-and-inference-method-for-within-network-classification.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Active learning and inference method for within network classification",
+    "author": "Kajdanowicz, Tomasz and Michalski, Radoslaw and Musial, Katarzyna and Kazienko, Przemyslaw",
+    "pub_year": "2013",
+    "venue": "Proceedings of the 2013 \u2026",
+    "abstract": "In relational learning tasks such as within network classification the main problem arises from the inference of nodes' labels based on the the ground true labels of remaining nodes. The problem becomes even harder if the nodes from initial network do not have any labels assigned and they have to be acquired. However, labels of which nodes should be obtained in order to provide fair classification results? Active learning and inference is a practical framework to study this problem. The method for active learning and inference in within",
+    "pages": "1299--1306",
+    "booktitle": "Proceedings of the 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining",
+    "pub_type": "inproceedings",
+    "bib_id": "kajdanowicz2013active"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://dl.acm.org/doi/abs/10.1145/2492517.2500259",
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "xMVnv3sAAAAJ",
+    "Dw5QS9wAAAAJ"
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:qY3iSTmqgWsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DActive%2Blearning%2Band%2Binference%2Bmethod%2Bfor%2Bwithin%2Bnetwork%2Bclassification%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qY3iSTmqgWsJ&ei=_JVdYZW1B4nmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=7746659997083405737&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:qY3iSTmqgWsJ:scholar.google.com/&scioq=Active+learning+and+inference+method+for+within+network+classification&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Radoslaw-Michalski-2/publication/260120554_Active_learning_and_inference_method_for_within_network_classification/links/546f47300cf216f8cfa9d120/Active-learning-and-inference-method-for-within-network-classification.pdf"
+}

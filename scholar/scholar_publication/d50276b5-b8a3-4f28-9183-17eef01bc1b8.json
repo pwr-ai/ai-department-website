@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Towards mapping thesauri onto plWordNet", "author": "Maziarz, Marek and Piasecki, Maciej", "pub_year": "2018", "venue": "Proceedings of the 9th Global Wordnet \u2026", "abstract": "plWordNet, the wordnet of Polish, has become a very comprehensive description of the Polish lexical system. This paper presents a plan of its semi-automated integration with thesauri, terminological databases and ontologies, as a further necessary step in its", "pages": "44--52", "booktitle": "Proceedings of the 9th Global Wordnet Conference", "pub_type": "inproceedings", "bib_id": "maziarz2018towards"}, "filled": true, "gsrank": 1, "pub_url": "https://www.aclweb.org/anthology/2018.gwc-1.6/", "author_id": ["hc3Zj7UAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 6, "url_scholarbib": "/scholar?q=info:3C_hmx6rHV8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bmapping%2Bthesauri%2Bonto%2BplWordNet%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=3C_hmx6rHV8J&ei=UrZdYZL0H4u4mAGqg5LoDg", "citedby_url": "/scholar?cites=6853822355880357852&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:3C_hmx6rHV8J:scholar.google.com/&scioq=Towards+mapping+thesauri+onto+plWordNet&hl=en&as_sdt=0,5", "eprint_url": "https://www.aclweb.org/anthology/2018.gwc-1.6.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Towards mapping thesauri onto plWordNet",
+    "author": "Maziarz, Marek and Piasecki, Maciej",
+    "pub_year": "2018",
+    "venue": "Proceedings of the 9th Global Wordnet \u2026",
+    "abstract": "plWordNet, the wordnet of Polish, has become a very comprehensive description of the Polish lexical system. This paper presents a plan of its semi-automated integration with thesauri, terminological databases and ontologies, as a further necessary step in its",
+    "pages": "44--52",
+    "booktitle": "Proceedings of the 9th Global Wordnet Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "maziarz2018towards"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.aclweb.org/anthology/2018.gwc-1.6/",
+  "author_id": [
+    "hc3Zj7UAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 6,
+  "url_scholarbib": "/scholar?q=info:3C_hmx6rHV8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bmapping%2Bthesauri%2Bonto%2BplWordNet%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=3C_hmx6rHV8J&ei=UrZdYZL0H4u4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=6853822355880357852&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:3C_hmx6rHV8J:scholar.google.com/&scioq=Towards+mapping+thesauri+onto+plWordNet&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.aclweb.org/anthology/2018.gwc-1.6.pdf"
+}

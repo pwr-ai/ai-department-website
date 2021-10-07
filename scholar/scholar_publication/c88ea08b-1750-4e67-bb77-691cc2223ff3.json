@@ -1,1 +1,32 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Learning in unlabeled networks--An active learning and inference approach", "author": "Kajdanowicz, Tomasz and Michalski, Rados{\\l}aw and Musial, Katarzyna and Kazienko, Przemys{\\l}aw", "pub_year": "2016", "venue": "AI \u2026", "abstract": "The task of determining labels of all network nodes based on the knowledge about network structure and labels of some training subset of nodes is called the within-network classification. It may happen that none of the labels of the nodes is known and additionally there is no information about number of classes (types of labels) to which nodes can be assigned. In such a case a subset of nodes has to be selected for initial label acquisition. The question that arises is:\u201clabels of which nodes should be collected and used for learning", "publisher": "IOS Press", "pages": "123--148", "number": "1", "volume": "29", "journal": "AI Communications", "pub_type": "article", "bib_id": "kajdanowicz2016learning"}, "filled": true, "gsrank": 1, "pub_url": "https://content.iospress.com/articles/ai-communications/aic686", "author_id": ["GOoaHHEAAAAJ", "xMVnv3sAAAAJ", "Dw5QS9wAAAAJ"], "num_citations": 4, "url_scholarbib": "/scholar?q=info:DwwSWkJYA8AJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2Bin%2Bunlabeled%2Bnetworks%25E2%2580%2593An%2Bactive%2Blearning%2Band%2Binference%2Bapproach%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=DwwSWkJYA8AJ&ei=g5VdYYi1BM6_mQHMm7boDg", "citedby_url": "/scholar?cites=13835999522214513679&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:DwwSWkJYA8AJ:scholar.google.com/&scioq=Learning+in+unlabeled+networks%E2%80%93An+active+learning+and+inference+approach&hl=en&as_sdt=0,5", "eprint_url": "https://content.iospress.com/articles/ai-communications/aic686"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Learning in unlabeled networks--An active learning and inference approach",
+    "author": "Kajdanowicz, Tomasz and Michalski, Rados{\\l}aw and Musial, Katarzyna and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2016",
+    "venue": "AI \u2026",
+    "abstract": "The task of determining labels of all network nodes based on the knowledge about network structure and labels of some training subset of nodes is called the within-network classification. It may happen that none of the labels of the nodes is known and additionally there is no information about number of classes (types of labels) to which nodes can be assigned. In such a case a subset of nodes has to be selected for initial label acquisition. The question that arises is:\u201clabels of which nodes should be collected and used for learning",
+    "publisher": "IOS Press",
+    "pages": "123--148",
+    "number": "1",
+    "volume": "29",
+    "journal": "AI Communications",
+    "pub_type": "article",
+    "bib_id": "kajdanowicz2016learning"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://content.iospress.com/articles/ai-communications/aic686",
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "xMVnv3sAAAAJ",
+    "Dw5QS9wAAAAJ"
+  ],
+  "num_citations": 4,
+  "url_scholarbib": "/scholar?q=info:DwwSWkJYA8AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2Bin%2Bunlabeled%2Bnetworks%25E2%2580%2593An%2Bactive%2Blearning%2Band%2Binference%2Bapproach%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=DwwSWkJYA8AJ&ei=g5VdYYi1BM6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=13835999522214513679&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:DwwSWkJYA8AJ:scholar.google.com/&scioq=Learning+in+unlabeled+networks%E2%80%93An+active+learning+and+inference+approach&hl=en&as_sdt=0,5",
+  "eprint_url": "https://content.iospress.com/articles/ai-communications/aic686"
+}

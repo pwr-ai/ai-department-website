@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Aspect detection using word and char embeddings with (Bi) LSTM and CRF", "author": "Augustyniak, {\\L}ukasz and Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw", "pub_year": "2019", "venue": "2019 IEEE Second \u2026", "abstract": "We proposed a new accurate aspect extraction method that makes use of both word and character-based embeddings. We have conducted experiments of various models of aspect extraction using LSTM and BiLSTM including CRF enhancement on five different pre-trained word embeddings extended with character embeddings. The results revealed that BiLSTM outperforms regular LSTM, but also word embedding coverage in train and test sets profoundly impacted aspect detection performance. Moreover, the additional CRF layer", "organization": "IEEE", "pages": "43--50", "booktitle": "2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)", "pub_type": "inproceedings", "bib_id": "augustyniak2019aspect"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/8791735/", "author_id": ["o3apDSYAAAAJ", "GOoaHHEAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:KNP13tOKhXUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAspect%2BDetection%2Busing%2BWord%2Band%2BChar%2BEmbeddings%2Bwith%2B(Bi)%2BLSTM%2Band%2BCRF%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=KNP13tOKhXUJ&ei=rZVdYYrBEs6_mQHMm7boDg", "citedby_url": "/scholar?cites=8468327316923470632&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:KNP13tOKhXUJ:scholar.google.com/&scioq=Aspect+Detection+using+Word+and+Char+Embeddings+with+(Bi)+LSTM+and+CRF&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1909.01276"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Aspect detection using word and char embeddings with (Bi) LSTM and CRF",
+    "author": "Augustyniak, {\\L}ukasz and Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2019",
+    "venue": "2019 IEEE Second \u2026",
+    "abstract": "We proposed a new accurate aspect extraction method that makes use of both word and character-based embeddings. We have conducted experiments of various models of aspect extraction using LSTM and BiLSTM including CRF enhancement on five different pre-trained word embeddings extended with character embeddings. The results revealed that BiLSTM outperforms regular LSTM, but also word embedding coverage in train and test sets profoundly impacted aspect detection performance. Moreover, the additional CRF layer",
+    "organization": "IEEE",
+    "pages": "43--50",
+    "booktitle": "2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)",
+    "pub_type": "inproceedings",
+    "bib_id": "augustyniak2019aspect"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/8791735/",
+  "author_id": [
+    "o3apDSYAAAAJ",
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:KNP13tOKhXUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAspect%2BDetection%2Busing%2BWord%2Band%2BChar%2BEmbeddings%2Bwith%2B(Bi)%2BLSTM%2Band%2BCRF%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=KNP13tOKhXUJ&ei=rZVdYYrBEs6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=8468327316923470632&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:KNP13tOKhXUJ:scholar.google.com/&scioq=Aspect+Detection+using+Word+and+Char+Embeddings+with+(Bi)+LSTM+and+CRF&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1909.01276"
+}

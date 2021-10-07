@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "IDARM\u2014Mining of indirect association rules", "author": "Kazienko, Przemys{\\l}aw", "pub_year": "2005", "venue": "Intelligent Information Processing and Web Mining", "abstract": "Typical association rules, called in the paper \u201cdirect\u201d, reflect relationships existing between items that relatively often co-occur in common transactions. In the web domain items correspond to pages and transactions to user sessions. The main idea of new approach is to discover indirect associations existing between pages that rarely occur together but there are other,\u201cthird\u201d pages, called transitive, with which they appear relatively frequently. Two types of indirect associations rules are described in the paper: partial indirect associations", "publisher": "Springer", "pages": "77--86", "booktitle": "Intelligent Information Processing and Web Mining", "pub_type": "incollection", "bib_id": "kazienko2005idarm"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/3-540-32392-9_9", "author_id": ["cxLgNccAAAAJ"], "num_citations": 11, "url_scholarbib": "/scholar?q=info:L2QYflE_KwgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIDARM%25E2%2580%2594Mining%2Bof%2Bindirect%2Bassociation%2Brules%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=L2QYflE_KwgJ&ei=wjZeYaugK6PZsQKvo78o", "citedby_url": "/scholar?cites=588633795542410287&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:L2QYflE_KwgJ:scholar.google.com/&scioq=IDARM%E2%80%94Mining+of+indirect+association+rules&hl=en&as_sdt=0,39", "eprint_url": "http://ndl.ethernet.edu.et/bitstream/123456789/48854/1/Mieczys%C5%82aw%20A.%20K%C5%82opotek_2005.pdf#page=91"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "IDARM\u2014Mining of indirect association rules",
+    "author": "Kazienko, Przemys{\\l}aw",
+    "pub_year": "2005",
+    "venue": "Intelligent Information Processing and Web Mining",
+    "abstract": "Typical association rules, called in the paper \u201cdirect\u201d, reflect relationships existing between items that relatively often co-occur in common transactions. In the web domain items correspond to pages and transactions to user sessions. The main idea of new approach is to discover indirect associations existing between pages that rarely occur together but there are other,\u201cthird\u201d pages, called transitive, with which they appear relatively frequently. Two types of indirect associations rules are described in the paper: partial indirect associations",
+    "publisher": "Springer",
+    "pages": "77--86",
+    "booktitle": "Intelligent Information Processing and Web Mining",
+    "pub_type": "incollection",
+    "bib_id": "kazienko2005idarm"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/3-540-32392-9_9",
+  "author_id": [
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 11,
+  "url_scholarbib": "/scholar?q=info:L2QYflE_KwgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIDARM%25E2%2580%2594Mining%2Bof%2Bindirect%2Bassociation%2Brules%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=L2QYflE_KwgJ&ei=wjZeYaugK6PZsQKvo78o",
+  "citedby_url": "/scholar?cites=588633795542410287&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:L2QYflE_KwgJ:scholar.google.com/&scioq=IDARM%E2%80%94Mining+of+indirect+association+rules&hl=en&as_sdt=0,39",
+  "eprint_url": "http://ndl.ethernet.edu.et/bitstream/123456789/48854/1/Mieczys%C5%82aw%20A.%20K%C5%82opotek_2005.pdf#page=91"
+}

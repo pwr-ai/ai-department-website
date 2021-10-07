@@ -1,1 +1,33 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "iMOPSE: A library for bicriteria optimization in multi-skill resource-constrained project scheduling problem", "author": "Myszkowski, Pawe{\\l} B and Laszczyk, Maciej and Nikulin, Ivan and Skowro{\\'n}ski, Marek", "pub_year": "2019", "venue": "Soft Computing", "abstract": "This paper presents a software library as a research and educational tool for Multi-Skill Resource-Constrained Scheduling Problem. The following useful tools have been implemented in Java: instance Generator, solution validator, solution visualizer and example solvers: Greedy algorithm and Genetic Algorithm. All tools are supported by iMOPSE dataset which consists of 36 instances and additional'small'6 instances for educational purpose. In the paper, three test studies are described:(1) educational use of 6'small'instances,(2)", "publisher": "Springer", "pages": "3397--3410", "number": "10", "volume": "23", "journal": "Soft Computing", "pub_type": "article", "bib_id": "myszkowski2019imopse"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/article/10.1007/s00500-017-2997-5", "author_id": ["63xKDRcAAAAJ", "", "", ""], "num_citations": 16, "url_scholarbib": "/scholar?q=info:PNq7uArIs0wJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DiMOPSE:%2BA%2Blibrary%2Bfor%2Bbicriteria%2Boptimization%2Bin%2Bmulti-skill%2Bresource-constrained%2Bproject%2Bscheduling%2Bproblem%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=PNq7uArIs0wJ&ei=R1deYensDM-TmwHPvZGABQ", "citedby_url": "/scholar?cites=5526981116088277564&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:PNq7uArIs0wJ:scholar.google.com/&scioq=iMOPSE:+A+library+for+bicriteria+optimization+in+multi-skill+resource-constrained+project+scheduling+problem&hl=en&as_sdt=0,5", "eprint_url": "https://link.springer.com/article/10.1007/s00500-017-2997-5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "iMOPSE: A library for bicriteria optimization in multi-skill resource-constrained project scheduling problem",
+    "author": "Myszkowski, Pawe{\\l} B and Laszczyk, Maciej and Nikulin, Ivan and Skowro{\\'n}ski, Marek",
+    "pub_year": "2019",
+    "venue": "Soft Computing",
+    "abstract": "This paper presents a software library as a research and educational tool for Multi-Skill Resource-Constrained Scheduling Problem. The following useful tools have been implemented in Java: instance Generator, solution validator, solution visualizer and example solvers: Greedy algorithm and Genetic Algorithm. All tools are supported by iMOPSE dataset which consists of 36 instances and additional'small'6 instances for educational purpose. In the paper, three test studies are described:(1) educational use of 6'small'instances,(2)",
+    "publisher": "Springer",
+    "pages": "3397--3410",
+    "number": "10",
+    "volume": "23",
+    "journal": "Soft Computing",
+    "pub_type": "article",
+    "bib_id": "myszkowski2019imopse"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/article/10.1007/s00500-017-2997-5",
+  "author_id": [
+    "63xKDRcAAAAJ",
+    "",
+    "",
+    ""
+  ],
+  "num_citations": 16,
+  "url_scholarbib": "/scholar?q=info:PNq7uArIs0wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DiMOPSE:%2BA%2Blibrary%2Bfor%2Bbicriteria%2Boptimization%2Bin%2Bmulti-skill%2Bresource-constrained%2Bproject%2Bscheduling%2Bproblem%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=PNq7uArIs0wJ&ei=R1deYensDM-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=5526981116088277564&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:PNq7uArIs0wJ:scholar.google.com/&scioq=iMOPSE:+A+library+for+bicriteria+optimization+in+multi-skill+resource-constrained+project+scheduling+problem&hl=en&as_sdt=0,5",
+  "eprint_url": "https://link.springer.com/article/10.1007/s00500-017-2997-5"
+}

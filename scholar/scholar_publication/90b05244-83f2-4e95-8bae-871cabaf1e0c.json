@@ -1,1 +1,24 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Katarzyna Musia{\\l} katarzyna. musial@ student. pwr. wroc. pl Wroc{\\l}aw University of Technology, Poland November 2005 Prepared for European Network of Excellence: Nature-inspired Smart Information Systems", "author": "Kazienko, Przemys{\\l}aw", "pub_year": "2005", "venue": "NA", "abstract": "The person who built the modern social network theory was the Stanley Milgram [Was94]. He conducted the experiment in which he asked many people from Nebraska to forward a letter to his colleague in Boston. It should be done only by giving this letter to a person that these people knew on a first\u2013name basis. After that he analyzed the results of the experiment and concluded that people in USA create the social network and they are connected to this network with \u201csix degrees of separation\u201d. It means that a message in such", "pub_type": "article", "bib_id": "kazienko2005katarzyna"}, "filled": true, "gsrank": 1, "pub_url": "http://www.scrkkio.pwr.wroc.pl/~kazienko/pub/2005/social%20networks.pdf", "author_id": ["cxLgNccAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:SdkfcbZxeGwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKatarzyna%2BMusia%25C5%2582%2Bkatarzyna.%2Bmusial%2540%2Bstudent.%2Bpwr.%2Bwroc.%2Bpl%2BWroc%25C5%2582aw%2BUniversity%2Bof%2BTechnology,%2BPoland%2BNovember%2B2005%2BPrepared%2Bfor%2BEuropean%2BNetwork%2Bof%2BExcellence:%2BNature-inspired%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=SdkfcbZxeGwJ&ei=S0JeYcDEOonmmgGQla6wAw", "url_related_articles": "/scholar?q=related:SdkfcbZxeGwJ:scholar.google.com/&scioq=Katarzyna+Musia%C5%82+katarzyna.+musial%40+student.+pwr.+wroc.+pl+Wroc%C5%82aw+University+of+Technology,+Poland+November+2005+Prepared+for+European+Network+of+Excellence:+Nature-inspired+%E2%80%A6&hl=en&as_sdt=0,5", "eprint_url": "http://www.scrkkio.pwr.wroc.pl/~kazienko/pub/2005/social%20networks.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Katarzyna Musia{\\l} katarzyna. musial@ student. pwr. wroc. pl Wroc{\\l}aw University of Technology, Poland November 2005 Prepared for European Network of Excellence: Nature-inspired Smart Information Systems",
+    "author": "Kazienko, Przemys{\\l}aw",
+    "pub_year": "2005",
+    "venue": "NA",
+    "abstract": "The person who built the modern social network theory was the Stanley Milgram [Was94]. He conducted the experiment in which he asked many people from Nebraska to forward a letter to his colleague in Boston. It should be done only by giving this letter to a person that these people knew on a first\u2013name basis. After that he analyzed the results of the experiment and concluded that people in USA create the social network and they are connected to this network with \u201csix degrees of separation\u201d. It means that a message in such",
+    "pub_type": "article",
+    "bib_id": "kazienko2005katarzyna"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.scrkkio.pwr.wroc.pl/~kazienko/pub/2005/social%20networks.pdf",
+  "author_id": [
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:SdkfcbZxeGwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKatarzyna%2BMusia%25C5%2582%2Bkatarzyna.%2Bmusial%2540%2Bstudent.%2Bpwr.%2Bwroc.%2Bpl%2BWroc%25C5%2582aw%2BUniversity%2Bof%2BTechnology,%2BPoland%2BNovember%2B2005%2BPrepared%2Bfor%2BEuropean%2BNetwork%2Bof%2BExcellence:%2BNature-inspired%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=SdkfcbZxeGwJ&ei=S0JeYcDEOonmmgGQla6wAw",
+  "url_related_articles": "/scholar?q=related:SdkfcbZxeGwJ:scholar.google.com/&scioq=Katarzyna+Musia%C5%82+katarzyna.+musial%40+student.+pwr.+wroc.+pl+Wroc%C5%82aw+University+of+Technology,+Poland+November+2005+Prepared+for+European+Network+of+Excellence:+Nature-inspired+%E2%80%A6&hl=en&as_sdt=0,5",
+  "eprint_url": "http://www.scrkkio.pwr.wroc.pl/~kazienko/pub/2005/social%20networks.pdf"
+}

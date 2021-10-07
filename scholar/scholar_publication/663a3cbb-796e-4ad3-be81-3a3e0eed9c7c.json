@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "WYB{\\'O}R NAJBARDZIEJ U{\\.Z}YTECZNYCH BIOLOGICZNYCH SYSTEM{\\'O}W WCZESNEGO OSTRZEGANIA, Z WYKORZYSTANIEM METOD AHP I REMBRANDT", "author": "Chmist, Joanna and H{\\\"a}mmerling, Mateusz and Szoszkiewicz, Krzysztof", "pub_year": "2018", "venue": "Acta Scientiarum \u2026", "abstract": "STRESZCZENIE W artykule analizowano mo\u017cliwo\u015b\u0107 wykorzystania w wodzie wodoci\u0105gowej biologicznego systemu wczesnego ostrzegania, bazuj\u0105c na wielokryterialnej metodzie podejmowania decyzji. Sprawdzono grup\u0119 pi\u0119ciu organizm\u00f3w (bezkr\u0119gowc\u00f3w, ryb, glon\u00f3w", "publisher": "Publishing House of the University of Agriculture in Krakow", "pages": "95--102", "number": "1", "volume": "17", "journal": "Acta Scientiarum Polonorum. Formatio Circumiectus", "pub_type": "article", "bib_id": "chmist2018wybor"}, "filled": true, "gsrank": 1, "pub_url": "http://acta.urk.edu.pl/WYBOR-NAJBARDZIEJ-UZYTECZNYCH-BIOLOGICZNYCH-SYSTEMOW-WCZESNEGO-OSTRZEGANIA-Z-WYKORZYSTANIEM,102573,0,1.html", "author_id": ["OjBNDeEAAAAJ", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:31qALDAoJeEJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBiologiczne%2Bsystemy%2Bwczesnego%2Bostrzegania%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=31qALDAoJeEJ&ei=RS5eYYe8JsKSy9YPu-2n8AU"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "WYB{\\'O}R NAJBARDZIEJ U{\\.Z}YTECZNYCH BIOLOGICZNYCH SYSTEM{\\'O}W WCZESNEGO OSTRZEGANIA, Z WYKORZYSTANIEM METOD AHP I REMBRANDT",
+    "author": "Chmist, Joanna and H{\\\"a}mmerling, Mateusz and Szoszkiewicz, Krzysztof",
+    "pub_year": "2018",
+    "venue": "Acta Scientiarum \u2026",
+    "abstract": "STRESZCZENIE W artykule analizowano mo\u017cliwo\u015b\u0107 wykorzystania w wodzie wodoci\u0105gowej biologicznego systemu wczesnego ostrzegania, bazuj\u0105c na wielokryterialnej metodzie podejmowania decyzji. Sprawdzono grup\u0119 pi\u0119ciu organizm\u00f3w (bezkr\u0119gowc\u00f3w, ryb, glon\u00f3w",
+    "publisher": "Publishing House of the University of Agriculture in Krakow",
+    "pages": "95--102",
+    "number": "1",
+    "volume": "17",
+    "journal": "Acta Scientiarum Polonorum. Formatio Circumiectus",
+    "pub_type": "article",
+    "bib_id": "chmist2018wybor"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://acta.urk.edu.pl/WYBOR-NAJBARDZIEJ-UZYTECZNYCH-BIOLOGICZNYCH-SYSTEMOW-WCZESNEGO-OSTRZEGANIA-Z-WYKORZYSTANIEM,102573,0,1.html",
+  "author_id": [
+    "OjBNDeEAAAAJ",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:31qALDAoJeEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBiologiczne%2Bsystemy%2Bwczesnego%2Bostrzegania%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=31qALDAoJeEJ&ei=RS5eYYe8JsKSy9YPu-2n8AU"
+}

@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Wykorzystanie analizy sieci spo{\\l}ecznych (SNA) do budowy organizacji opartej na wiedzy", "author": "St{\\k{e}}pka, Pawe{\\l} and Subda, Konrad", "pub_year": "2009", "venue": "E-mentor", "abstract": "Jak wykaza\u0142a analiza, poza sieci\u0105 znalaz\u0142y si\u0119 osoby odpowiedzialne za sprzeda\u017c, podczas  Jednocze\u015bnie struktura badanej sieci wskazuje, i\u017c wiedza sprzedawc\u00f3w na temat produktu  wymaga podj\u0119cia dzia\u0142a\u0144 ukierunkowanych na integracj\u0119 os\u00f3b tworz\u0105cych sie\u0107 wiedzy, tak", "pages": "2009", "number": "28", "volume": "1", "journal": "E-mentor", "pub_type": "article", "bib_id": "stkepka2009wykorzystanie"}, "filled": true, "gsrank": 1, "pub_url": "http://www.e-mentor.edu.pl/artykul/index/numer/28/id/618", "author_id": ["", ""], "num_citations": 38, "url_scholarbib": "/scholar?q=info:Ib_Y3_9RdzgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSieci%2BSpo%25C5%2582eczne%2Bi%2BAnaliza%2BSieci%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=Ib_Y3_9RdzgJ&ei=8EBeYarvE4u4mAGqg5LoDg", "citedby_url": "/scholar?cites=4068810947766566689&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:Ib_Y3_9RdzgJ:scholar.google.com/&scioq=Sieci+Spo%C5%82eczne+i+Analiza+Sieci&hl=en&as_sdt=0,39", "eprint_url": "http://www.e-mentor.edu.pl/artykul/index/numer/28/id/618"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Wykorzystanie analizy sieci spo{\\l}ecznych (SNA) do budowy organizacji opartej na wiedzy",
+    "author": "St{\\k{e}}pka, Pawe{\\l} and Subda, Konrad",
+    "pub_year": "2009",
+    "venue": "E-mentor",
+    "abstract": "Jak wykaza\u0142a analiza, poza sieci\u0105 znalaz\u0142y si\u0119 osoby odpowiedzialne za sprzeda\u017c, podczas  Jednocze\u015bnie struktura badanej sieci wskazuje, i\u017c wiedza sprzedawc\u00f3w na temat produktu  wymaga podj\u0119cia dzia\u0142a\u0144 ukierunkowanych na integracj\u0119 os\u00f3b tworz\u0105cych sie\u0107 wiedzy, tak",
+    "pages": "2009",
+    "number": "28",
+    "volume": "1",
+    "journal": "E-mentor",
+    "pub_type": "article",
+    "bib_id": "stkepka2009wykorzystanie"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.e-mentor.edu.pl/artykul/index/numer/28/id/618",
+  "author_id": [
+    "",
+    ""
+  ],
+  "num_citations": 38,
+  "url_scholarbib": "/scholar?q=info:Ib_Y3_9RdzgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSieci%2BSpo%25C5%2582eczne%2Bi%2BAnaliza%2BSieci%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=Ib_Y3_9RdzgJ&ei=8EBeYarvE4u4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=4068810947766566689&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:Ib_Y3_9RdzgJ:scholar.google.com/&scioq=Sieci+Spo%C5%82eczne+i+Analiza+Sieci&hl=en&as_sdt=0,39",
+  "eprint_url": "http://www.e-mentor.edu.pl/artykul/index/numer/28/id/618"
+}

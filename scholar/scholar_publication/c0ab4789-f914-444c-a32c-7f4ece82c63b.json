@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Regional clustering of Indian hospitals for better health", "author": "Belfin, RV and Kanaga, E Grace Mary and Br{\\'o}dka, Piotr", "pub_year": "2018", "venue": "\u2026 Conference on Circuits \u2026", "abstract": "Public health, well being, education and a clean environment are the essential aspects a citizen of the country needs from their government. In which, the Public health of the people of the nation is an essential factor for a country to grow higher. This work focused on the Indian medical environment and gave the insight to improve public health with the concept of connected hospitals. Network science is an area of research widens its spectrum in social science, computer science, biology, mathematics, and other areas. The concepts from the", "organization": "IEEE", "pages": "1--5", "booktitle": "2018 International Conference on Circuits and Systems in Digital Enterprise Technology (ICCSDET)", "pub_type": "inproceedings", "bib_id": "belfin2018regional"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/8821072/", "author_id": ["wvemSYIAAAAJ", "0oPkla8AAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:91MoBN8eBPcJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRegional%2Bclustering%2Bof%2BIndian%2Bhospitals%2Bfor%2Bbetter%2Bhealth%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=91MoBN8eBPcJ&ei=eVNeYYPSC4LemgHVs5GYDg", "url_related_articles": "/scholar?q=related:91MoBN8eBPcJ:scholar.google.com/&scioq=Regional+clustering+of+Indian+hospitals+for+better+health&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Regional clustering of Indian hospitals for better health",
+    "author": "Belfin, RV and Kanaga, E Grace Mary and Br{\\'o}dka, Piotr",
+    "pub_year": "2018",
+    "venue": "\u2026 Conference on Circuits \u2026",
+    "abstract": "Public health, well being, education and a clean environment are the essential aspects a citizen of the country needs from their government. In which, the Public health of the people of the nation is an essential factor for a country to grow higher. This work focused on the Indian medical environment and gave the insight to improve public health with the concept of connected hospitals. Network science is an area of research widens its spectrum in social science, computer science, biology, mathematics, and other areas. The concepts from the",
+    "organization": "IEEE",
+    "pages": "1--5",
+    "booktitle": "2018 International Conference on Circuits and Systems in Digital Enterprise Technology (ICCSDET)",
+    "pub_type": "inproceedings",
+    "bib_id": "belfin2018regional"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/8821072/",
+  "author_id": [
+    "wvemSYIAAAAJ",
+    "0oPkla8AAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:91MoBN8eBPcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRegional%2Bclustering%2Bof%2BIndian%2Bhospitals%2Bfor%2Bbetter%2Bhealth%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=91MoBN8eBPcJ&ei=eVNeYYPSC4LemgHVs5GYDg",
+  "url_related_articles": "/scholar?q=related:91MoBN8eBPcJ:scholar.google.com/&scioq=Regional+clustering+of+Indian+hospitals+for+better+health&hl=en&as_sdt=0,5"
+}

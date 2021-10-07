@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Personalized ontology-based recommender systems for multimedia objects", "author": "Juszczyszyn, Krzysztof and Kazienko, Przemys{\\l}aw and Musia{\\l}, Katarzyna", "pub_year": "2010", "venue": "Agent and Multi-agent Technology \u2026", "abstract": "A framework for recommendation of multimedia objects based on processing of individual ontologies is proposed in the chapter. The recommendation process takes into account similarities calculated both between objects' and users' ontologies, which reflect the social and semantic features existing in the system. The ontologies, which are close to the current context, provide a list of suggestions presented to the user. Each user in the system possesses its own Personal Agent that performs all necessary online tasks. Personal Agents", "publisher": "Springer", "pages": "275--292", "booktitle": "Agent and Multi-agent Technology for Internet and Enterprise Systems", "pub_type": "incollection", "bib_id": "juszczyszyn2010personalized"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-13526-2_13", "author_id": ["5VX5_gUAAAAJ", "cxLgNccAAAAJ", "Dw5QS9wAAAAJ"], "num_citations": 22, "url_scholarbib": "/scholar?q=info:321MVgAQAwEJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPersonalized%2Bontology-based%2Brecommender%2Bsystems%2Bfor%2Bmultimedia%2Bobjects%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=321MVgAQAwEJ&ei=0DReYYipOaPZsQKvo78o", "citedby_url": "/scholar?cites=72919612601953759&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:321MVgAQAwEJ:scholar.google.com/&scioq=Personalized+ontology-based+recommender+systems+for+multimedia+objects&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Personalized ontology-based recommender systems for multimedia objects",
+    "author": "Juszczyszyn, Krzysztof and Kazienko, Przemys{\\l}aw and Musia{\\l}, Katarzyna",
+    "pub_year": "2010",
+    "venue": "Agent and Multi-agent Technology \u2026",
+    "abstract": "A framework for recommendation of multimedia objects based on processing of individual ontologies is proposed in the chapter. The recommendation process takes into account similarities calculated both between objects' and users' ontologies, which reflect the social and semantic features existing in the system. The ontologies, which are close to the current context, provide a list of suggestions presented to the user. Each user in the system possesses its own Personal Agent that performs all necessary online tasks. Personal Agents",
+    "publisher": "Springer",
+    "pages": "275--292",
+    "booktitle": "Agent and Multi-agent Technology for Internet and Enterprise Systems",
+    "pub_type": "incollection",
+    "bib_id": "juszczyszyn2010personalized"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-13526-2_13",
+  "author_id": [
+    "5VX5_gUAAAAJ",
+    "cxLgNccAAAAJ",
+    "Dw5QS9wAAAAJ"
+  ],
+  "num_citations": 22,
+  "url_scholarbib": "/scholar?q=info:321MVgAQAwEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPersonalized%2Bontology-based%2Brecommender%2Bsystems%2Bfor%2Bmultimedia%2Bobjects%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=321MVgAQAwEJ&ei=0DReYYipOaPZsQKvo78o",
+  "citedby_url": "/scholar?cites=72919612601953759&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:321MVgAQAwEJ:scholar.google.com/&scioq=Personalized+ontology-based+recommender+systems+for+multimedia+objects&hl=en&as_sdt=0,5"
+}

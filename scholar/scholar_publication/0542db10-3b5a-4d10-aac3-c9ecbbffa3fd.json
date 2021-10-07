@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Polish Corpus of Wroc{\\l}aw University of Technology 1.3", "author": "Oleksy, Marcin and Marci{\\'n}czuk, Micha{\\l} and Maziarz, Marek and Berna{\\'s}, Tomasz and Wieczorek, Jan and Turek, Agnieszka and Fikus, Dominika and Wolski, Micha{\\l} and Pustowaruk, Marek and Koco{\\'n}, Jan and others", "pub_year": "2019", "venue": "NA", "abstract": "Description KPWr (Polish Corpus of Wroc\u0142aw University of Technology, pol. Korpus J\u0119zyka Polskiego Politechniki Wroc\u0142awskiej) is a corpus of written and spoken documents available on the Creative Common license. The texts are divided into 15 subcorpuses (blogs, science, stenographic recordings, etc.). The documents are annotated on the level of chunks and selected predicate-argument relations, named entities, relations between named entities, anaphora relations, word senses, events, temporal expressions, spatial relations between", "publisher": "Wroc{\\l}aw University of Science and Technology", "pub_type": "article", "bib_id": "oleksy2019polish"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/handle/11321/722", "author_id": ["1QVBEYYAAAAJ", "aAk1SIsAAAAJ", "hc3Zj7UAAAAJ", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:Y78lUxvyl7gJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPolish%2BCorpus%2Bof%2BWroc%25C5%2582aw%2BUniversity%2Bof%2BTechnology%2B1.3%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Y78lUxvyl7gJ&ei=AaJdYf_sMInmmgGQla6wAw"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Polish Corpus of Wroc{\\l}aw University of Technology 1.3",
+    "author": "Oleksy, Marcin and Marci{\\'n}czuk, Micha{\\l} and Maziarz, Marek and Berna{\\'s}, Tomasz and Wieczorek, Jan and Turek, Agnieszka and Fikus, Dominika and Wolski, Micha{\\l} and Pustowaruk, Marek and Koco{\\'n}, Jan and others",
+    "pub_year": "2019",
+    "venue": "NA",
+    "abstract": "Description KPWr (Polish Corpus of Wroc\u0142aw University of Technology, pol. Korpus J\u0119zyka Polskiego Politechniki Wroc\u0142awskiej) is a corpus of written and spoken documents available on the Creative Common license. The texts are divided into 15 subcorpuses (blogs, science, stenographic recordings, etc.). The documents are annotated on the level of chunks and selected predicate-argument relations, named entities, relations between named entities, anaphora relations, word senses, events, temporal expressions, spatial relations between",
+    "publisher": "Wroc{\\l}aw University of Science and Technology",
+    "pub_type": "article",
+    "bib_id": "oleksy2019polish"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/handle/11321/722",
+  "author_id": [
+    "1QVBEYYAAAAJ",
+    "aAk1SIsAAAAJ",
+    "hc3Zj7UAAAAJ",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:Y78lUxvyl7gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPolish%2BCorpus%2Bof%2BWroc%25C5%2582aw%2BUniversity%2Bof%2BTechnology%2B1.3%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Y78lUxvyl7gJ&ei=AaJdYf_sMInmmgGQla6wAw"
+}

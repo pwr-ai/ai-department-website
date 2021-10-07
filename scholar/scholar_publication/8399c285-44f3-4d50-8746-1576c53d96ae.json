@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "ELISI, evolutionary architectural aided design tool\u2014analytical methodology of architectural design guidelines", "author": "Nisztuk, Maciej and Myszkowski, Pawe{\\l} B", "pub_year": "2018", "venue": "Shapes of logic: everything can be \u2026", "abstract": "The article discusses new approach for possible theoretical solution for the support of architectural design of floor plans in a computational way, presents theoretical design guidelines regarding the application supporting the architectural design process and briefly describes specification for the first implementation of the application prototype from the perspective of an architect supporting the architectural design process by accelerating the initial conceptual design phase via the computational creation of architectural floor layouts", "pages": "67--84", "journal": "Shapes of logic: everything can be automated. Wrocaw: Oficyna Wydawnicza Politechniki Wrocawskiej", "pub_type": "article", "bib_id": "nisztuk2018elisi"}, "filled": true, "gsrank": 1, "pub_url": "https://www.researchgate.net/profile/Maciej-Nisztuk/publication/328942194_ELISI_Evolutionary_Architectural_Aided_Design_Tool_-_analytical_methodology_of_architectural_design_guidelines/links/5d29cf98458515c11c2b73f1/ELISI-Evolutionary-Architectural-Aided-Design-Tool-analytical-methodology-of-architectural-design-guidelines.pdf", "author_id": ["VXfrekQAAAAJ", "63xKDRcAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:tuDB0gicI_sJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DELISI,%2BEvolutionary%2BArchitectural%2BAided%2BDesign%2BTool%2B-%2Banalytical%2Bmethodology%2Bof%2Barchitectural%2Bdesign%2Bguidelines%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=tuDB0gicI_sJ&ei=aGFeYb6_NcKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=18096479289414377654&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:tuDB0gicI_sJ:scholar.google.com/&scioq=ELISI,+Evolutionary+Architectural+Aided+Design+Tool+-+analytical+methodology+of+architectural+design+guidelines&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Maciej-Nisztuk/publication/328942194_ELISI_Evolutionary_Architectural_Aided_Design_Tool_-_analytical_methodology_of_architectural_design_guidelines/links/5d29cf98458515c11c2b73f1/ELISI-Evolutionary-Architectural-Aided-Design-Tool-analytical-methodology-of-architectural-design-guidelines.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "ELISI, evolutionary architectural aided design tool\u2014analytical methodology of architectural design guidelines",
+    "author": "Nisztuk, Maciej and Myszkowski, Pawe{\\l} B",
+    "pub_year": "2018",
+    "venue": "Shapes of logic: everything can be \u2026",
+    "abstract": "The article discusses new approach for possible theoretical solution for the support of architectural design of floor plans in a computational way, presents theoretical design guidelines regarding the application supporting the architectural design process and briefly describes specification for the first implementation of the application prototype from the perspective of an architect supporting the architectural design process by accelerating the initial conceptual design phase via the computational creation of architectural floor layouts",
+    "pages": "67--84",
+    "journal": "Shapes of logic: everything can be automated. Wrocaw: Oficyna Wydawnicza Politechniki Wrocawskiej",
+    "pub_type": "article",
+    "bib_id": "nisztuk2018elisi"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.researchgate.net/profile/Maciej-Nisztuk/publication/328942194_ELISI_Evolutionary_Architectural_Aided_Design_Tool_-_analytical_methodology_of_architectural_design_guidelines/links/5d29cf98458515c11c2b73f1/ELISI-Evolutionary-Architectural-Aided-Design-Tool-analytical-methodology-of-architectural-design-guidelines.pdf",
+  "author_id": [
+    "VXfrekQAAAAJ",
+    "63xKDRcAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:tuDB0gicI_sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DELISI,%2BEvolutionary%2BArchitectural%2BAided%2BDesign%2BTool%2B-%2Banalytical%2Bmethodology%2Bof%2Barchitectural%2Bdesign%2Bguidelines%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=tuDB0gicI_sJ&ei=aGFeYb6_NcKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=18096479289414377654&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:tuDB0gicI_sJ:scholar.google.com/&scioq=ELISI,+Evolutionary+Architectural+Aided+Design+Tool+-+analytical+methodology+of+architectural+design+guidelines&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Maciej-Nisztuk/publication/328942194_ELISI_Evolutionary_Architectural_Aided_Design_Tool_-_analytical_methodology_of_architectural_design_guidelines/links/5d29cf98458515c11c2b73f1/ELISI-Evolutionary-Architectural-Aided-Design-Tool-analytical-methodology-of-architectural-design-guidelines.pdf"
+}

@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "MorphoDiTa-based tagger adapted to the Polish language technology", "author": "Piasecki, Maciej and Walentynowicz, Wiktor", "pub_year": "2017", "venue": "Proceedings of Human Language \u2026", "abstract": "We present a new morpho-syntactic tagger for Polish called MorphoIXTa-pl, which is based on the adaptation of the MorphoIiTa tagger developed originally for the Czech language. Following its basis, MorphoiTa-pl utilises a rich feature averaged perceptron neural network", "pages": "377--381", "journal": "Proceedings of Human Language Technologies as a Challenge for Computer Science and Linguistics", "pub_type": "article", "bib_id": "piasecki2017morphodita"}, "filled": true, "gsrank": 1, "pub_url": "http://ltc.amu.edu.pl/book2017/papers/PolEval1-4.pdf", "author_id": ["nU_W9XwAAAAJ", "GMmMbaoAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:Z1KVsd4m048J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMorphoDiTa-based%2Btagger%2Bfor%2BPolish%2Blanguage%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Z1KVsd4m048J&ei=lVNeYYGVIou4mAGqg5LoDg", "citedby_url": "/scholar?cites=10363669905413591655&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:Z1KVsd4m048J:scholar.google.com/&scioq=MorphoDiTa-based+tagger+for+Polish+language&hl=en&as_sdt=0,5", "eprint_url": "http://ltc.amu.edu.pl/book2017/papers/PolEval1-4.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "MorphoDiTa-based tagger adapted to the Polish language technology",
+    "author": "Piasecki, Maciej and Walentynowicz, Wiktor",
+    "pub_year": "2017",
+    "venue": "Proceedings of Human Language \u2026",
+    "abstract": "We present a new morpho-syntactic tagger for Polish called MorphoIXTa-pl, which is based on the adaptation of the MorphoIiTa tagger developed originally for the Czech language. Following its basis, MorphoiTa-pl utilises a rich feature averaged perceptron neural network",
+    "pages": "377--381",
+    "journal": "Proceedings of Human Language Technologies as a Challenge for Computer Science and Linguistics",
+    "pub_type": "article",
+    "bib_id": "piasecki2017morphodita"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://ltc.amu.edu.pl/book2017/papers/PolEval1-4.pdf",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    "GMmMbaoAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:Z1KVsd4m048J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMorphoDiTa-based%2Btagger%2Bfor%2BPolish%2Blanguage%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Z1KVsd4m048J&ei=lVNeYYGVIou4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=10363669905413591655&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:Z1KVsd4m048J:scholar.google.com/&scioq=MorphoDiTa-based+tagger+for+Polish+language&hl=en&as_sdt=0,5",
+  "eprint_url": "http://ltc.amu.edu.pl/book2017/papers/PolEval1-4.pdf"
+}

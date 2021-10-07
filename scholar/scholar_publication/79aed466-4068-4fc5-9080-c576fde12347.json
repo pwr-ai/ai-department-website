@@ -1,1 +1,32 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Compressed sensing for networked data", "author": "Haupt, Jarvis and Bajwa, Waheed U and Rabbat, Michael and Nowak, Robert", "pub_year": "2008", "venue": "IEEE Signal Processing \u2026", "abstract": "It has been established that k \u00d7 n matrices whose entries are independent and identically distributed realizations of  general settings, wavelet techniques can be extended to also handle the irregular distribution of sam  IEEE SIGNAL PROCESSING MAGAZINE [97] MARCH 2008", "publisher": "IEEE", "pages": "92--101", "number": "2", "volume": "25", "journal": "IEEE Signal Processing Magazine", "pub_type": "article", "bib_id": "haupt2008compressed"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/4472248/", "author_id": ["BXJ3LwEAAAAJ", "avQkeJEAAAAJ", "cMPKe9UAAAAJ"], "num_citations": 663, "url_scholarbib": "/scholar?q=info:e29RbOh9hswJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDistributed%2BProcessing%2Bof%2BNetworked%2BData.%26hl%3Den%26as_sdt%3D0,29&citilm=1&json=&update_op=library_add&info=e29RbOh9hswJ&ei=65pdYc2MKILemgHVs5GYDg", "citedby_url": "/scholar?cites=14737605267819687803&as_sdt=5,29&sciodt=0,29&hl=en", "url_related_articles": "/scholar?q=related:e29RbOh9hswJ:scholar.google.com/&scioq=Distributed+Processing+of+Networked+Data.&hl=en&as_sdt=0,29", "eprint_url": "http://people.ece.umn.edu/users/jdhaupt/publications/spmag07_cs_networked_data.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Compressed sensing for networked data",
+    "author": "Haupt, Jarvis and Bajwa, Waheed U and Rabbat, Michael and Nowak, Robert",
+    "pub_year": "2008",
+    "venue": "IEEE Signal Processing \u2026",
+    "abstract": "It has been established that k \u00d7 n matrices whose entries are independent and identically distributed realizations of  general settings, wavelet techniques can be extended to also handle the irregular distribution of sam  IEEE SIGNAL PROCESSING MAGAZINE [97] MARCH 2008",
+    "publisher": "IEEE",
+    "pages": "92--101",
+    "number": "2",
+    "volume": "25",
+    "journal": "IEEE Signal Processing Magazine",
+    "pub_type": "article",
+    "bib_id": "haupt2008compressed"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/4472248/",
+  "author_id": [
+    "BXJ3LwEAAAAJ",
+    "avQkeJEAAAAJ",
+    "cMPKe9UAAAAJ"
+  ],
+  "num_citations": 663,
+  "url_scholarbib": "/scholar?q=info:e29RbOh9hswJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDistributed%2BProcessing%2Bof%2BNetworked%2BData.%26hl%3Den%26as_sdt%3D0,29&citilm=1&json=&update_op=library_add&info=e29RbOh9hswJ&ei=65pdYc2MKILemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=14737605267819687803&as_sdt=5,29&sciodt=0,29&hl=en",
+  "url_related_articles": "/scholar?q=related:e29RbOh9hswJ:scholar.google.com/&scioq=Distributed+Processing+of+Networked+Data.&hl=en&as_sdt=0,29",
+  "eprint_url": "http://people.ece.umn.edu/users/jdhaupt/publications/spmag07_cs_networked_data.pdf"
+}

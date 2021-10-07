@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Hybrid evolutionary algorithm applied to automated floor plan generation", "author": "Nisztuk, Maciej and Myszkowski, Pawe{\\l} B", "pub_year": "2019", "venue": "International Journal of \u2026", "abstract": "The article presents the application of Hybrid Evolutionary and Greedy-based algorithms to the problem of Automated Floor Plan Generation. The described optimization issue is part of a wider domain of Computer-Aided Architectural Design. The article covers the extensive description of the representation domain model (architectural canonical guidelines, user design requirements and constraints) and the explanation of proposed approach: problem representation, genetic algorithm operators, and fitness function definition. The research", "publisher": "SAGE Publications Sage UK: London, England", "pages": "260--283", "number": "3", "volume": "17", "journal": "International Journal of Architectural Computing", "pub_type": "article", "bib_id": "nisztuk2019hybrid"}, "filled": true, "gsrank": 1, "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/1478077119832982", "author_id": ["VXfrekQAAAAJ", "63xKDRcAAAAJ"], "num_citations": 12, "url_scholarbib": "/scholar?q=info:EKae8nKZD74J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHybrid%2Bevolutionary%2Balgorithm%2Bapplied%2Bto%2Bautomated%2Bfloor%2Bplan%2Bgeneration%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=EKae8nKZD74J&ei=CVleYaCVGaPZsQKvo78o", "citedby_url": "/scholar?cites=13695333710832772624&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:EKae8nKZD74J:scholar.google.com/&scioq=Hybrid+evolutionary+algorithm+applied+to+automated+floor+plan+generation&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Hybrid evolutionary algorithm applied to automated floor plan generation",
+    "author": "Nisztuk, Maciej and Myszkowski, Pawe{\\l} B",
+    "pub_year": "2019",
+    "venue": "International Journal of \u2026",
+    "abstract": "The article presents the application of Hybrid Evolutionary and Greedy-based algorithms to the problem of Automated Floor Plan Generation. The described optimization issue is part of a wider domain of Computer-Aided Architectural Design. The article covers the extensive description of the representation domain model (architectural canonical guidelines, user design requirements and constraints) and the explanation of proposed approach: problem representation, genetic algorithm operators, and fitness function definition. The research",
+    "publisher": "SAGE Publications Sage UK: London, England",
+    "pages": "260--283",
+    "number": "3",
+    "volume": "17",
+    "journal": "International Journal of Architectural Computing",
+    "pub_type": "article",
+    "bib_id": "nisztuk2019hybrid"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/1478077119832982",
+  "author_id": [
+    "VXfrekQAAAAJ",
+    "63xKDRcAAAAJ"
+  ],
+  "num_citations": 12,
+  "url_scholarbib": "/scholar?q=info:EKae8nKZD74J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHybrid%2Bevolutionary%2Balgorithm%2Bapplied%2Bto%2Bautomated%2Bfloor%2Bplan%2Bgeneration%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=EKae8nKZD74J&ei=CVleYaCVGaPZsQKvo78o",
+  "citedby_url": "/scholar?cites=13695333710832772624&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:EKae8nKZD74J:scholar.google.com/&scioq=Hybrid+evolutionary+algorithm+applied+to+automated+floor+plan+generation&hl=en&as_sdt=0,5"
+}

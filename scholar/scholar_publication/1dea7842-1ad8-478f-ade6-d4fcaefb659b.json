@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Learning and inference order in structured output elements classification", "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw", "pub_year": "2012", "venue": "Asian Conference on Intelligent Information \u2026", "abstract": "In the paper three learning and inference ordering approaches in the method for structured output classification are presented. As it was previously presented by authors, classification of single element in output structure can be performed by generalization of input attributes as well as already partially classified output elements [9]. The paper addresses crucial problem of how to order elements in the structured learning process to get greater final accuracy. The learning is performed by means of ensemble, boosting classification method", "organization": "Springer", "pages": "301--309", "booktitle": "Asian Conference on Intelligent Information and Database Systems", "pub_type": "inproceedings", "bib_id": "kajdanowicz2012learning"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-28487-8_31", "author_id": ["GOoaHHEAAAAJ", "cxLgNccAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:6Kf9_7XgMWkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2Band%2Binference%2Border%2Bin%2Bstructured%2Boutput%2Belements%2Bclassification%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=6Kf9_7XgMWkJ&ei=2JddYdS8FofBmQGX-6OoBg", "citedby_url": "/scholar?cites=7580086720129771496&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:6Kf9_7XgMWkJ:scholar.google.com/&scioq=Learning+and+inference+order+in+structured+output+elements+classification&hl=en&as_sdt=0,5", "eprint_url": "https://www.ii.pwr.edu.pl/~kajdanowicz/pubs/Kajdanowicz_2012_Learning%20and%20Inference%20Order%20in%20Structured%20Output%20Elements%20Classification.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Learning and inference order in structured output elements classification",
+    "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw",
+    "pub_year": "2012",
+    "venue": "Asian Conference on Intelligent Information \u2026",
+    "abstract": "In the paper three learning and inference ordering approaches in the method for structured output classification are presented. As it was previously presented by authors, classification of single element in output structure can be performed by generalization of input attributes as well as already partially classified output elements [9]. The paper addresses crucial problem of how to order elements in the structured learning process to get greater final accuracy. The learning is performed by means of ensemble, boosting classification method",
+    "organization": "Springer",
+    "pages": "301--309",
+    "booktitle": "Asian Conference on Intelligent Information and Database Systems",
+    "pub_type": "inproceedings",
+    "bib_id": "kajdanowicz2012learning"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-28487-8_31",
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:6Kf9_7XgMWkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2Band%2Binference%2Border%2Bin%2Bstructured%2Boutput%2Belements%2Bclassification%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=6Kf9_7XgMWkJ&ei=2JddYdS8FofBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=7580086720129771496&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:6Kf9_7XgMWkJ:scholar.google.com/&scioq=Learning+and+inference+order+in+structured+output+elements+classification&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.ii.pwr.edu.pl/~kajdanowicz/pubs/Kajdanowicz_2012_Learning%20and%20Inference%20Order%20in%20Structured%20Output%20Elements%20Classification.pdf"
+}

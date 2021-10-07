@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Towards an event annotated corpus of Polish", "author": "Marci{\\'n}czuk, Micha{\\l} and Oleksy, Marcin and Berna{\\'s}, Tomasz and Koco{\\'n}, Jan and Wolski, Micha{\\l}", "pub_year": "2015", "venue": "Cognitive Studies \u2026", "abstract": "The paper presents a typology of events built on the basis of TimeML specification adapted to Polish language. Some changes were introduced to the definition of the event categories and a motivation for event categorization was formulated. The event annotation task is", "pages": "253--267", "number": "15", "journal": "Cognitive Studies| {\\'E}tudes cognitives", "pub_type": "article", "bib_id": "marcinczuk2015towards"}, "filled": true, "gsrank": 1, "pub_url": "https://www.ceeol.com/search/article-detail?id=415939", "author_id": ["aAk1SIsAAAAJ", "1QVBEYYAAAAJ", "", "pmQHb5IAAAAJ"], "num_citations": 6, "url_scholarbib": "/scholar?q=info:PMgXz56qi-EJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Ban%2Bevent%2Bannotated%2Bcorpus%2Bof%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=PMgXz56qi-EJ&ei=iZ9dYbWAMs-TmwHPvZGABQ", "citedby_url": "/scholar?cites=16252271279352563772&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:PMgXz56qi-EJ:scholar.google.com/&scioq=Towards+an+event+annotated+corpus+of+Polish&hl=en&as_sdt=0,5", "eprint_url": "https://ispan.waw.pl/journals/index.php/cs-ec/article/viewFile/cs.2015.018/1778"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Towards an event annotated corpus of Polish",
+    "author": "Marci{\\'n}czuk, Micha{\\l} and Oleksy, Marcin and Berna{\\'s}, Tomasz and Koco{\\'n}, Jan and Wolski, Micha{\\l}",
+    "pub_year": "2015",
+    "venue": "Cognitive Studies \u2026",
+    "abstract": "The paper presents a typology of events built on the basis of TimeML specification adapted to Polish language. Some changes were introduced to the definition of the event categories and a motivation for event categorization was formulated. The event annotation task is",
+    "pages": "253--267",
+    "number": "15",
+    "journal": "Cognitive Studies| {\\'E}tudes cognitives",
+    "pub_type": "article",
+    "bib_id": "marcinczuk2015towards"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.ceeol.com/search/article-detail?id=415939",
+  "author_id": [
+    "aAk1SIsAAAAJ",
+    "1QVBEYYAAAAJ",
+    "",
+    "pmQHb5IAAAAJ"
+  ],
+  "num_citations": 6,
+  "url_scholarbib": "/scholar?q=info:PMgXz56qi-EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Ban%2Bevent%2Bannotated%2Bcorpus%2Bof%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=PMgXz56qi-EJ&ei=iZ9dYbWAMs-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=16252271279352563772&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:PMgXz56qi-EJ:scholar.google.com/&scioq=Towards+an+event+annotated+corpus+of+Polish&hl=en&as_sdt=0,5",
+  "eprint_url": "https://ispan.waw.pl/journals/index.php/cs-ec/article/viewFile/cs.2015.018/1778"
+}

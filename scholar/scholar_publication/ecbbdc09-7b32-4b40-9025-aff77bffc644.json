@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Arabic WordNet and the challenges of Arabic", "author": "Elkateb, Sabry and Black, William and Vossen, Piek and Farwell, David and Rodr{\\'\\i}guez, H and Pease, A and Alkhalifa, M and others", "pub_year": "2006", "venue": "Proceedings of Arabic \u2026", "abstract": "Arabic WordNet is a lexical resource for Modern Standard Arabic based on the widely used Princeton WordNet for English (Fellbaum, 1998). Arabic WordNet (AWN) is based on the design and contents of the universally accepted Princeton WordNet (PWN) and will be", "organization": "Citeseer", "pages": "665--670", "booktitle": "Proceedings of Arabic NLP/MT Conference, London, UK", "pub_type": "inproceedings", "bib_id": "elkateb2006arabic"}, "filled": true, "gsrank": 1, "pub_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.129.492&rep=rep1&type=pdf", "author_id": ["", "", "JvllTMIAAAAJ", ""], "num_citations": 102, "url_scholarbib": "/scholar?q=info:2uCF94nZw_8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChallenges%2Bfor%2BWordnets%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=2uCF94nZw_8J&ei=8y9eYcGHCIu4mAGqg5LoDg", "citedby_url": "/scholar?cites=18429813286716694746&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:2uCF94nZw_8J:scholar.google.com/&scioq=Challenges+for+Wordnets&hl=en&as_sdt=0,5", "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.129.492&rep=rep1&type=pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Arabic WordNet and the challenges of Arabic",
+    "author": "Elkateb, Sabry and Black, William and Vossen, Piek and Farwell, David and Rodr{\\'\\i}guez, H and Pease, A and Alkhalifa, M and others",
+    "pub_year": "2006",
+    "venue": "Proceedings of Arabic \u2026",
+    "abstract": "Arabic WordNet is a lexical resource for Modern Standard Arabic based on the widely used Princeton WordNet for English (Fellbaum, 1998). Arabic WordNet (AWN) is based on the design and contents of the universally accepted Princeton WordNet (PWN) and will be",
+    "organization": "Citeseer",
+    "pages": "665--670",
+    "booktitle": "Proceedings of Arabic NLP/MT Conference, London, UK",
+    "pub_type": "inproceedings",
+    "bib_id": "elkateb2006arabic"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.129.492&rep=rep1&type=pdf",
+  "author_id": [
+    "",
+    "",
+    "JvllTMIAAAAJ",
+    ""
+  ],
+  "num_citations": 102,
+  "url_scholarbib": "/scholar?q=info:2uCF94nZw_8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChallenges%2Bfor%2BWordnets%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=2uCF94nZw_8J&ei=8y9eYcGHCIu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=18429813286716694746&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:2uCF94nZw_8J:scholar.google.com/&scioq=Challenges+for+Wordnets&hl=en&as_sdt=0,5",
+  "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.129.492&rep=rep1&type=pdf"
+}

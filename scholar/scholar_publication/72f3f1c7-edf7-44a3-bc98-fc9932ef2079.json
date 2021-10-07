@@ -1,1 +1,25 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Cinderella-tool for Clustering and Classifications of Texts in Polish", "author": "Piasecki, Maciej and M{\\l}ynarczyk, Ksenia and Walkowiak, Tomasz", "pub_year": "2016", "venue": "NA", "abstract": "Cinderella - tool for Clustering and Classifications of Texts in Polish. CLARIN-PL. Authors Piasecki, Maciej ; M\u0142ynarczyk, Ksenia ; Walkowiak, Tomasz Project URL http://clarin-pl.eu Demo URL http://ws.clarin-pl.eu/demo/cinderella.html Date issued 2016-06-06 Type toolService Language(s) Polish Description System for clustering and classifications of Texts in Polish. Source code. Publisher Wroc\u0142aw University of Science and Technology Acknowledgement Ministry of Science and Higher Education (Poland). Project code: x. Project", "publisher": "Wroc{\\l}aw University of Science and Technology", "pub_type": "article", "bib_id": "piasecki2016cinderella"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/handle/11321/299", "author_id": ["nU_W9XwAAAAJ", "", "_SNoS0gAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:RVOtN0MyU_MJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCinderella-tool%2Bfor%2BClustering%2Band%2BClassifications%2Bof%2BTexts%2Bin%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=RVOtN0MyU_MJ&ei=RsJdYeXlI8KSy9YPu-2n8AU"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Cinderella-tool for Clustering and Classifications of Texts in Polish",
+    "author": "Piasecki, Maciej and M{\\l}ynarczyk, Ksenia and Walkowiak, Tomasz",
+    "pub_year": "2016",
+    "venue": "NA",
+    "abstract": "Cinderella - tool for Clustering and Classifications of Texts in Polish. CLARIN-PL. Authors Piasecki, Maciej ; M\u0142ynarczyk, Ksenia ; Walkowiak, Tomasz Project URL http://clarin-pl.eu Demo URL http://ws.clarin-pl.eu/demo/cinderella.html Date issued 2016-06-06 Type toolService Language(s) Polish Description System for clustering and classifications of Texts in Polish. Source code. Publisher Wroc\u0142aw University of Science and Technology Acknowledgement Ministry of Science and Higher Education (Poland). Project code: x. Project",
+    "publisher": "Wroc{\\l}aw University of Science and Technology",
+    "pub_type": "article",
+    "bib_id": "piasecki2016cinderella"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/handle/11321/299",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    "",
+    "_SNoS0gAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:RVOtN0MyU_MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCinderella-tool%2Bfor%2BClustering%2Band%2BClassifications%2Bof%2BTexts%2Bin%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=RVOtN0MyU_MJ&ei=RsJdYeXlI8KSy9YPu-2n8AU"
+}

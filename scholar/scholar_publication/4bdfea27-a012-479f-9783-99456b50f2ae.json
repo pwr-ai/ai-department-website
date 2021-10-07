@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Predicting user participation in social media", "author": "Erlandsson, Fredrik and Borg, Anton and Johnson, Henric and Br{\\'o}dka, Piotr", "pub_year": "2016", "venue": "International Conference and \u2026", "abstract": "Online social networking services like Facebook provides a popular way for users to participate in different communication groups and discuss relevant topics with each other. While users tend to have an impact on each other, it is important to better understand and analyze users behavior in specific online groups. For social networking sites it is of interest to know if a topic will be interesting for users or not. Therefore, this study examines the prediction of user participation in online social networks discussions, in which we argue that", "organization": "Springer", "pages": "126--135", "booktitle": "International Conference and School on Network Science", "pub_type": "inproceedings", "bib_id": "erlandsson2016predicting"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-28361-6_10", "author_id": ["vJjq9LwAAAAJ", "iVoVPqMAAAAJ", "", "T7v65jEAAAAJ"], "num_citations": 14, "url_scholarbib": "/scholar?q=info:M0rMJFL32dIJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPredicting%2Buser%2Bparticipation%2Bin%2Bsocial%2Bmedia%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=M0rMJFL32dIJ&ei=6E5eYfb2BILemgHVs5GYDg", "citedby_url": "/scholar?cites=15193446750087825971&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:M0rMJFL32dIJ:scholar.google.com/&scioq=Predicting+user+participation+in+social+media&hl=en&as_sdt=0,5", "eprint_url": "https://www.diva-portal.org/smash/get/diva2:899464/FULLTEXT01.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Predicting user participation in social media",
+    "author": "Erlandsson, Fredrik and Borg, Anton and Johnson, Henric and Br{\\'o}dka, Piotr",
+    "pub_year": "2016",
+    "venue": "International Conference and \u2026",
+    "abstract": "Online social networking services like Facebook provides a popular way for users to participate in different communication groups and discuss relevant topics with each other. While users tend to have an impact on each other, it is important to better understand and analyze users behavior in specific online groups. For social networking sites it is of interest to know if a topic will be interesting for users or not. Therefore, this study examines the prediction of user participation in online social networks discussions, in which we argue that",
+    "organization": "Springer",
+    "pages": "126--135",
+    "booktitle": "International Conference and School on Network Science",
+    "pub_type": "inproceedings",
+    "bib_id": "erlandsson2016predicting"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-28361-6_10",
+  "author_id": [
+    "vJjq9LwAAAAJ",
+    "iVoVPqMAAAAJ",
+    "",
+    "T7v65jEAAAAJ"
+  ],
+  "num_citations": 14,
+  "url_scholarbib": "/scholar?q=info:M0rMJFL32dIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPredicting%2Buser%2Bparticipation%2Bin%2Bsocial%2Bmedia%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=M0rMJFL32dIJ&ei=6E5eYfb2BILemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=15193446750087825971&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:M0rMJFL32dIJ:scholar.google.com/&scioq=Predicting+user+participation+in+social+media&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.diva-portal.org/smash/get/diva2:899464/FULLTEXT01.pdf"
+}

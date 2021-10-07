@@ -1,1 +1,22 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "CLARIN-PL: Research user-driven Language Technology Infrastructure", "author": "Piasecki, Maciej", "pub_year": "2014", "venue": "NA", "abstract": "Some features of this site may not work without it. # Share publication. CLARIN-PL : Research user-driven Language Technology Infrastructure. Piasecki, Maciej. URI: https://repozytorium. lectorium.pl/handle/item/861. Date: 2014-11-27. Description: I Mi\u0119dzynarodowa Konferencja Humanistyki Cyfrowej - nowoczesne technologie w badaniach humanistycznych DARIAH.PL, 27 XI 2014 Warszawa. Category: bibliologia. Licencja cc-by. Niniejszy materia\u0142 jest udost\u0119pniony na licencji Creative Commons \u2013 Uznanie autorstwa 3.0 PL. Pe\u0142ne postanowienia tej licencji s\u0105", "pub_type": "article", "bib_id": "piasecki2014clarin"}, "filled": true, "gsrank": 1, "pub_url": "http://lectorium-devel.vls.icm.edu.pl/handle/item/861", "author_id": ["nU_W9XwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:nnlCbMgHgBAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCLARIN-PL:%2BResearch%2Buser-driven%2BLanguage%2BTechnology%2BInfrastructure%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=nnlCbMgHgBAJ&ei=hMRdYbedI4u4mAGqg5LoDg"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "CLARIN-PL: Research user-driven Language Technology Infrastructure",
+    "author": "Piasecki, Maciej",
+    "pub_year": "2014",
+    "venue": "NA",
+    "abstract": "Some features of this site may not work without it. # Share publication. CLARIN-PL : Research user-driven Language Technology Infrastructure. Piasecki, Maciej. URI: https://repozytorium. lectorium.pl/handle/item/861. Date: 2014-11-27. Description: I Mi\u0119dzynarodowa Konferencja Humanistyki Cyfrowej - nowoczesne technologie w badaniach humanistycznych DARIAH.PL, 27 XI 2014 Warszawa. Category: bibliologia. Licencja cc-by. Niniejszy materia\u0142 jest udost\u0119pniony na licencji Creative Commons \u2013 Uznanie autorstwa 3.0 PL. Pe\u0142ne postanowienia tej licencji s\u0105",
+    "pub_type": "article",
+    "bib_id": "piasecki2014clarin"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://lectorium-devel.vls.icm.edu.pl/handle/item/861",
+  "author_id": [
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:nnlCbMgHgBAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCLARIN-PL:%2BResearch%2Buser-driven%2BLanguage%2BTechnology%2BInfrastructure%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=nnlCbMgHgBAJ&ei=hMRdYbedI4u4mAGqg5LoDg"
+}

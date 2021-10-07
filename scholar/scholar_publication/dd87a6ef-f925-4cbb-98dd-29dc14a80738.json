@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "The practical use of problem encoding allowing cheap fitness computation of mutated individuals", "author": "Przewozniczek, Michal and Komarnicki, Marcin", "pub_year": "2018", "venue": "2018 Federated Conference \u2026", "abstract": "The usual assumption in the Evolutionary Computation field is that a cost of computing single fitness function evaluation is at last similar for all cases. Such assumption does not have to be true. In this paper we consider the recently proposed Problem Encoding Allowing Cheap Fitness Computation of Mutated Individuals (PEACh) effect that allows to significantly reduce the computation load of some of the fitness computations that occur during the evolutionary method run. To the best of our knowledge, it is the first experimental analysis", "organization": "IEEE", "pages": "57--65", "booktitle": "2018 Federated Conference on Computer Science and Information Systems (FedCSIS)", "pub_type": "inproceedings", "bib_id": "przewozniczek2018practical"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/8511272/", "author_id": ["bmJw3Z0AAAAJ", ""], "num_citations": 4, "url_scholarbib": "/scholar?q=info:T29haHmaZhoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bpractical%2Buse%2Bof%2Bproblem%2Bencoding%2Ballowing%2Bcheap%2Bfitness%2Bcomputation%2Bof%2Bmutated%2Bindividuals%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=T29haHmaZhoJ&ei=aEReYd_tFonmmgGQla6wAw", "citedby_url": "/scholar?cites=1902377738843549519&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:T29haHmaZhoJ:scholar.google.com/&scioq=The+practical+use+of+problem+encoding+allowing+cheap+fitness+computation+of+mutated+individuals&hl=en&as_sdt=0,5", "eprint_url": "https://annals-csis.org/proceedings/2018/drp/pdf/331.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "The practical use of problem encoding allowing cheap fitness computation of mutated individuals",
+    "author": "Przewozniczek, Michal and Komarnicki, Marcin",
+    "pub_year": "2018",
+    "venue": "2018 Federated Conference \u2026",
+    "abstract": "The usual assumption in the Evolutionary Computation field is that a cost of computing single fitness function evaluation is at last similar for all cases. Such assumption does not have to be true. In this paper we consider the recently proposed Problem Encoding Allowing Cheap Fitness Computation of Mutated Individuals (PEACh) effect that allows to significantly reduce the computation load of some of the fitness computations that occur during the evolutionary method run. To the best of our knowledge, it is the first experimental analysis",
+    "organization": "IEEE",
+    "pages": "57--65",
+    "booktitle": "2018 Federated Conference on Computer Science and Information Systems (FedCSIS)",
+    "pub_type": "inproceedings",
+    "bib_id": "przewozniczek2018practical"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/8511272/",
+  "author_id": [
+    "bmJw3Z0AAAAJ",
+    ""
+  ],
+  "num_citations": 4,
+  "url_scholarbib": "/scholar?q=info:T29haHmaZhoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bpractical%2Buse%2Bof%2Bproblem%2Bencoding%2Ballowing%2Bcheap%2Bfitness%2Bcomputation%2Bof%2Bmutated%2Bindividuals%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=T29haHmaZhoJ&ei=aEReYd_tFonmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=1902377738843549519&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:T29haHmaZhoJ:scholar.google.com/&scioq=The+practical+use+of+problem+encoding+allowing+cheap+fitness+computation+of+mutated+individuals&hl=en&as_sdt=0,5",
+  "eprint_url": "https://annals-csis.org/proceedings/2018/drp/pdf/331.pdf"
+}

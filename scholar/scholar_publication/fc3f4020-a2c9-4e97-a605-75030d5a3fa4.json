@@ -1,1 +1,32 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Application of the mutual information criterion for feature selection in computer-aided diagnosis", "author": "Tourassi, Georgia D and Frederick, Erik D and Markey, Mia K and Floyd Jr, Carey E", "pub_year": "2001", "venue": "Medical \u2026", "abstract": "The difference is mea- sured by the one way analysis of variance F statistic.9 Sub  The difference lies in how they measure the statistical relationship between the candidate feature and  The difference however was not statistically significant, primarily due to the small number of", "publisher": "Wiley Online Library", "pages": "2394--2402", "number": "12", "volume": "28", "journal": "Medical physics", "pub_type": "article", "bib_id": "tourassi2001application"}, "filled": true, "gsrank": 1, "pub_url": "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.1418724", "author_id": ["mBRzPfIAAAAJ", "", "RJ46kwkAAAAJ"], "num_citations": 273, "url_scholarbib": "/scholar?q=info:NeX42okSe00J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStatistical%2BModel%2BApplied%2Bto%2Bthe%2BComputer-Aided%2BMedical%2BDiagnosis%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=NeX42okSe00J&ei=o61dYfOjF6PZsQKvo78o", "citedby_url": "/scholar?cites=5583076546349425973&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:NeX42okSe00J:scholar.google.com/&scioq=Statistical+Model+Applied+to+the+Computer-Aided+Medical+Diagnosis&hl=en&as_sdt=0,5", "eprint_url": "http://www.cse.msu.edu/~cse902/S03/mi_features.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Application of the mutual information criterion for feature selection in computer-aided diagnosis",
+    "author": "Tourassi, Georgia D and Frederick, Erik D and Markey, Mia K and Floyd Jr, Carey E",
+    "pub_year": "2001",
+    "venue": "Medical \u2026",
+    "abstract": "The difference is mea- sured by the one way analysis of variance F statistic.9 Sub  The difference lies in how they measure the statistical relationship between the candidate feature and  The difference however was not statistically significant, primarily due to the small number of",
+    "publisher": "Wiley Online Library",
+    "pages": "2394--2402",
+    "number": "12",
+    "volume": "28",
+    "journal": "Medical physics",
+    "pub_type": "article",
+    "bib_id": "tourassi2001application"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.1418724",
+  "author_id": [
+    "mBRzPfIAAAAJ",
+    "",
+    "RJ46kwkAAAAJ"
+  ],
+  "num_citations": 273,
+  "url_scholarbib": "/scholar?q=info:NeX42okSe00J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStatistical%2BModel%2BApplied%2Bto%2Bthe%2BComputer-Aided%2BMedical%2BDiagnosis%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=NeX42okSe00J&ei=o61dYfOjF6PZsQKvo78o",
+  "citedby_url": "/scholar?cites=5583076546349425973&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:NeX42okSe00J:scholar.google.com/&scioq=Statistical+Model+Applied+to+the+Computer-Aided+Medical+Diagnosis&hl=en&as_sdt=0,5",
+  "eprint_url": "http://www.cse.msu.edu/~cse902/S03/mi_features.pdf"
+}

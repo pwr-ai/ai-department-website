@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Evolutionary algorithm for congestion problem in connection-oriented networks", "author": "Przewo{\\'z}niczek, Micha{\\l} and Walkowiak, Krzysztof", "pub_year": "2005", "venue": "International Conference on \u2026", "abstract": "The major objective of this paper is to deploy an effective evolutionary algorithm (EA) for the congestion problem in connection-oriented networks. The network flow is modeled as non-bifurcated multicommodity flow. The main novelty of this work is that the proposed evolutionary algorithm consists of two levels. The high level applies typical EA operators. The low level idea is based on the hierarchical algorithm idea. However, the presented approach is not a classical hierarchical algorithm. Therefore, we call the algorithm quasi", "organization": "Springer", "pages": "802--811", "booktitle": "International Conference on Computational Science and Its Applications", "pub_type": "inproceedings", "bib_id": "przewozniczek2005evolutionary"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/11424925_84", "author_id": ["bmJw3Z0AAAAJ", "cnLc7u4AAAAJ"], "num_citations": 12, "url_scholarbib": "/scholar?q=info:rryxM3r0vFIJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEvolutionary%2Balgorithm%2Bfor%2Bcongestion%2Bproblem%2Bin%2Bconnection-oriented%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=rryxM3r0vFIJ&ei=FEReYdiKN8KSy9YPu-2n8AU", "citedby_url": "/scholar?cites=5961908812422167726&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:rryxM3r0vFIJ:scholar.google.com/&scioq=Evolutionary+algorithm+for+congestion+problem+in+connection-oriented+networks&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Michal-Przewozniczek/publication/221433620_Evolutionary_Algorithm_for_Congestion_Problem_in_Connection-Oriented_Networks/links/09e4150fe8b4f379ed000000/Evolutionary-Algorithm-for-Congestion-Problem-in-Connection-Oriented-Networks.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Evolutionary algorithm for congestion problem in connection-oriented networks",
+    "author": "Przewo{\\'z}niczek, Micha{\\l} and Walkowiak, Krzysztof",
+    "pub_year": "2005",
+    "venue": "International Conference on \u2026",
+    "abstract": "The major objective of this paper is to deploy an effective evolutionary algorithm (EA) for the congestion problem in connection-oriented networks. The network flow is modeled as non-bifurcated multicommodity flow. The main novelty of this work is that the proposed evolutionary algorithm consists of two levels. The high level applies typical EA operators. The low level idea is based on the hierarchical algorithm idea. However, the presented approach is not a classical hierarchical algorithm. Therefore, we call the algorithm quasi",
+    "organization": "Springer",
+    "pages": "802--811",
+    "booktitle": "International Conference on Computational Science and Its Applications",
+    "pub_type": "inproceedings",
+    "bib_id": "przewozniczek2005evolutionary"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/11424925_84",
+  "author_id": [
+    "bmJw3Z0AAAAJ",
+    "cnLc7u4AAAAJ"
+  ],
+  "num_citations": 12,
+  "url_scholarbib": "/scholar?q=info:rryxM3r0vFIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEvolutionary%2Balgorithm%2Bfor%2Bcongestion%2Bproblem%2Bin%2Bconnection-oriented%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=rryxM3r0vFIJ&ei=FEReYdiKN8KSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=5961908812422167726&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:rryxM3r0vFIJ:scholar.google.com/&scioq=Evolutionary+algorithm+for+congestion+problem+in+connection-oriented+networks&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Michal-Przewozniczek/publication/221433620_Evolutionary_Algorithm_for_Congestion_Problem_in_Connection-Oriented_Networks/links/09e4150fe8b4f379ed000000/Evolutionary-Algorithm-for-Congestion-Problem-in-Connection-Oriented-Networks.pdf"
+}

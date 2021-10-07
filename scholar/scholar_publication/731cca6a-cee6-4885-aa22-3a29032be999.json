@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "An introduction to community detection in multi-layered social network", "author": "Br{\\'o}dka, Piotr and Filipowski, Tomasz and Kazienko, Przemys{\\l}aw", "pub_year": "2011", "venue": "World Summit on Knowledge Society", "abstract": "Social communities extraction and their dynamics are one of the most important problems in today's social network analysis. During last few years, many researchers have proposed their own methods for group discovery in social networks. However, almost none of them have noticed that modern social networks are much more complex than few years ago. Due to vast amount of different data about various user activities available in IT systems, it is possible to distinguish the new class of social networks called multi-layered social network", "organization": "Springer", "pages": "185--190", "booktitle": "World Summit on Knowledge Society", "pub_type": "inproceedings", "bib_id": "brodka2011introduction"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-35879-1_23", "author_id": ["T7v65jEAAAAJ", "", "cxLgNccAAAAJ"], "num_citations": 37, "url_scholarbib": "/scholar?q=info:p47AIqdKGL8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Bintroduction%2Bto%2Bcommunity%2Bdetection%2Bin%2Bmulti-layered%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=p47AIqdKGL8J&ei=0jBeYYiGMY2UmQGz6rqYBQ", "citedby_url": "/scholar?cites=13769837942388330151&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:p47AIqdKGL8J:scholar.google.com/&scioq=An+introduction+to+community+detection+in+multi-layered+social+network&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1209.6050"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "An introduction to community detection in multi-layered social network",
+    "author": "Br{\\'o}dka, Piotr and Filipowski, Tomasz and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2011",
+    "venue": "World Summit on Knowledge Society",
+    "abstract": "Social communities extraction and their dynamics are one of the most important problems in today's social network analysis. During last few years, many researchers have proposed their own methods for group discovery in social networks. However, almost none of them have noticed that modern social networks are much more complex than few years ago. Due to vast amount of different data about various user activities available in IT systems, it is possible to distinguish the new class of social networks called multi-layered social network",
+    "organization": "Springer",
+    "pages": "185--190",
+    "booktitle": "World Summit on Knowledge Society",
+    "pub_type": "inproceedings",
+    "bib_id": "brodka2011introduction"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-35879-1_23",
+  "author_id": [
+    "T7v65jEAAAAJ",
+    "",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 37,
+  "url_scholarbib": "/scholar?q=info:p47AIqdKGL8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Bintroduction%2Bto%2Bcommunity%2Bdetection%2Bin%2Bmulti-layered%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=p47AIqdKGL8J&ei=0jBeYYiGMY2UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=13769837942388330151&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:p47AIqdKGL8J:scholar.google.com/&scioq=An+introduction+to+community+detection+in+multi-layered+social+network&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1209.6050"
+}

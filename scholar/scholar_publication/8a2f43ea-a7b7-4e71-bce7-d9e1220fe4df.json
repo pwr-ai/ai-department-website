@@ -1,1 +1,25 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Liner2. 5 model Timex", "author": "Koco{\\'n}, Jan and Marci{\\'n}czuk, Micha{\\l}", "pub_year": "2016", "venue": "NA", "abstract": "I?\u2568}\u255b\u251c\u2557\u00ac\u221e \u00f2\u00fc\u2534-\u00fc8*** d\u00aa\u2568\u2565) \u00dcP\u00ac> \u00e9'\u00a1 \u00e9j+* h\u2565* Y\u256b\u00b1\u00f4\u00b7 x'\u00e7\u2518\u2568\u00a1* b#\u255c hl\u2592\u00ab970\u03a9* M|\u2588 K\u00ef_* J\u00e0\u00fc; q\u03c3\u2552* S\u2569*\u2514 \u00fc* TOSL\u251c\u2500\u2568*** \u00e5\u2524 I\u00c4\u00bd\u2500\u250c\" y\u2510*\u2310 \u03b1\u2551 o\u2584\u2558* d (\u255c \u00d6\u00e1*\u253c K\u2568\u2558 g* \u00ef\u00bc\u0393\u03c6l\u00c5+* Zx* \u00dc\u00d6\u2229 \u00fafAiF\u03c4\u0192,**\u2584 \u03a3\u03c0\u03c3\u255e \u00f9\u00b5\u00e2* 3 5\u2310 \u0192\u03c6M\u00eb** g\u00d1lL\u2219\u2514\u2557\u221a\u2551 1\u2564\u221e", "publisher": "Wroc{\\l}aw University of Technology", "pub_type": "article", "bib_id": "kocon2016liner2"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/302/liner25_model_timex.7z?sequence=1", "author_id": ["pmQHb5IAAAAJ", "aAk1SIsAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:etvXTQ8CbBgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiner2.%2B5%2Bmodel%2BTimex%26hl%3Den%26as_sdt%3D0,10&citilm=1&json=&update_op=library_add&info=etvXTQ8CbBgJ&ei=V6VdYcCoBofBmQGX-6OoBg", "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/302/liner25_model_timex.7z?sequence=1"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Liner2. 5 model Timex",
+    "author": "Koco{\\'n}, Jan and Marci{\\'n}czuk, Micha{\\l}",
+    "pub_year": "2016",
+    "venue": "NA",
+    "abstract": "I?\u2568}\u255b\u251c\u2557\u00ac\u221e \u00f2\u00fc\u2534-\u00fc8*** d\u00aa\u2568\u2565) \u00dcP\u00ac> \u00e9'\u00a1 \u00e9j+* h\u2565* Y\u256b\u00b1\u00f4\u00b7 x'\u00e7\u2518\u2568\u00a1* b#\u255c hl\u2592\u00ab970\u03a9* M|\u2588 K\u00ef_* J\u00e0\u00fc; q\u03c3\u2552* S\u2569*\u2514 \u00fc* TOSL\u251c\u2500\u2568*** \u00e5\u2524 I\u00c4\u00bd\u2500\u250c\" y\u2510*\u2310 \u03b1\u2551 o\u2584\u2558* d (\u255c \u00d6\u00e1*\u253c K\u2568\u2558 g* \u00ef\u00bc\u0393\u03c6l\u00c5+* Zx* \u00dc\u00d6\u2229 \u00fafAiF\u03c4\u0192,**\u2584 \u03a3\u03c0\u03c3\u255e \u00f9\u00b5\u00e2* 3 5\u2310 \u0192\u03c6M\u00eb** g\u00d1lL\u2219\u2514\u2557\u221a\u2551 1\u2564\u221e",
+    "publisher": "Wroc{\\l}aw University of Technology",
+    "pub_type": "article",
+    "bib_id": "kocon2016liner2"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/302/liner25_model_timex.7z?sequence=1",
+  "author_id": [
+    "pmQHb5IAAAAJ",
+    "aAk1SIsAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:etvXTQ8CbBgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiner2.%2B5%2Bmodel%2BTimex%26hl%3Den%26as_sdt%3D0,10&citilm=1&json=&update_op=library_add&info=etvXTQ8CbBgJ&ei=V6VdYcCoBofBmQGX-6OoBg",
+  "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/302/liner25_model_timex.7z?sequence=1"
+}

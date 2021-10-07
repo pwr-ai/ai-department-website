@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A model for collaborative scheduling based on competencies", "author": "Kajdanowicz, Tomasz", "pub_year": "2011", "venue": "\u2026 Conference on Cooperative Design, Visualization and \u2026", "abstract": "The paper presents a proposal for scheduling human resources among projects. In the situation when multiple number of projects needs to be planned in an organisation and only available human resources can be used for their completion, a group of managers needs to align scheduling and work collaboratively. The planning problem in such situations requires considering appropriate employee assignment to tasks, according to their specific skills and time constraints, which makes it very complicated. The paper describes a proposal of a", "organization": "Springer", "pages": "178--181", "booktitle": "International Conference on Cooperative Design, Visualization and Engineering", "pub_type": "inproceedings", "bib_id": "kajdanowicz2011model"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-23734-8_29", "author_id": ["GOoaHHEAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:-Gc8e7gaAWwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bmodel%2Bfor%2Bcollaborative%2Bscheduling%2Bbased%2Bon%2Bcompetencies%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=-Gc8e7gaAWwJ&ei=bphdYZ7HCIu4mAGqg5LoDg", "citedby_url": "/scholar?cites=7782531010716788728&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:-Gc8e7gaAWwJ:scholar.google.com/&scioq=A+model+for+collaborative+scheduling+based+on+competencies&hl=en&as_sdt=0,39", "eprint_url": "http://www.ii.pwr.wroc.pl/~kajdanowicz/pubs/Kajdanowicz_2011_A%20Model%20for%20Collaborative%20Scheduling%20Based%20on%20Competencies.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A model for collaborative scheduling based on competencies",
+    "author": "Kajdanowicz, Tomasz",
+    "pub_year": "2011",
+    "venue": "\u2026 Conference on Cooperative Design, Visualization and \u2026",
+    "abstract": "The paper presents a proposal for scheduling human resources among projects. In the situation when multiple number of projects needs to be planned in an organisation and only available human resources can be used for their completion, a group of managers needs to align scheduling and work collaboratively. The planning problem in such situations requires considering appropriate employee assignment to tasks, according to their specific skills and time constraints, which makes it very complicated. The paper describes a proposal of a",
+    "organization": "Springer",
+    "pages": "178--181",
+    "booktitle": "International Conference on Cooperative Design, Visualization and Engineering",
+    "pub_type": "inproceedings",
+    "bib_id": "kajdanowicz2011model"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-23734-8_29",
+  "author_id": [
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:-Gc8e7gaAWwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bmodel%2Bfor%2Bcollaborative%2Bscheduling%2Bbased%2Bon%2Bcompetencies%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=-Gc8e7gaAWwJ&ei=bphdYZ7HCIu4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=7782531010716788728&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:-Gc8e7gaAWwJ:scholar.google.com/&scioq=A+model+for+collaborative+scheduling+based+on+competencies&hl=en&as_sdt=0,39",
+  "eprint_url": "http://www.ii.pwr.wroc.pl/~kajdanowicz/pubs/Kajdanowicz_2011_A%20Model%20for%20Collaborative%20Scheduling%20Based%20on%20Competencies.pdf"
+}

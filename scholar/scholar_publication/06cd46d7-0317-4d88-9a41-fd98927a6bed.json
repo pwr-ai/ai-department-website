@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Multi population pattern searching algorithm: a new evolutionary method based on the idea of messy genetic algorithm", "author": "Kwasnicka, Halina and Przewozniczek, Michal", "pub_year": "2011", "venue": "IEEE Transactions on \u2026", "abstract": "One of the main evolutionary algorithms bottlenecks is the significant effectiveness dropdown caused by increasing number of genes necessary for coding the problem solution. In this paper, we present a multi population pattern searching algorithm (MuPPetS), which is supposed to be an answer to situations where long coded individuals are a must. MuPPetS uses some of the messy GA ideas like coding and operators. The presented algorithm uses the binary coding, however the objective is to use MuPPetS against real-life", "publisher": "IEEE", "pages": "715--734", "number": "5", "volume": "15", "journal": "IEEE Transactions on evolutionary computation", "pub_type": "article", "bib_id": "kwasnicka2011multi"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/5910464/", "author_id": ["PGRjojAAAAAJ", "bmJw3Z0AAAAJ"], "num_citations": 38, "url_scholarbib": "/scholar?q=info:GSkihLpZ5F4J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti%2Bpopulation%2Bpattern%2Bsearching%2Balgorithm:%2Ba%2Bnew%2Bevolutionary%2Bmethod%2Bbased%2Bon%2Bthe%2Bidea%2Bof%2Bmessy%2Bgenetic%2Balgorithm%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=GSkihLpZ5F4J&ei=3ENeYb7SAcKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=6837688791870875929&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:GSkihLpZ5F4J:scholar.google.com/&scioq=Multi+population+pattern+searching+algorithm:+a+new+evolutionary+method+based+on+the+idea+of+messy+genetic+algorithm&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Multi population pattern searching algorithm: a new evolutionary method based on the idea of messy genetic algorithm",
+    "author": "Kwasnicka, Halina and Przewozniczek, Michal",
+    "pub_year": "2011",
+    "venue": "IEEE Transactions on \u2026",
+    "abstract": "One of the main evolutionary algorithms bottlenecks is the significant effectiveness dropdown caused by increasing number of genes necessary for coding the problem solution. In this paper, we present a multi population pattern searching algorithm (MuPPetS), which is supposed to be an answer to situations where long coded individuals are a must. MuPPetS uses some of the messy GA ideas like coding and operators. The presented algorithm uses the binary coding, however the objective is to use MuPPetS against real-life",
+    "publisher": "IEEE",
+    "pages": "715--734",
+    "number": "5",
+    "volume": "15",
+    "journal": "IEEE Transactions on evolutionary computation",
+    "pub_type": "article",
+    "bib_id": "kwasnicka2011multi"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/5910464/",
+  "author_id": [
+    "PGRjojAAAAAJ",
+    "bmJw3Z0AAAAJ"
+  ],
+  "num_citations": 38,
+  "url_scholarbib": "/scholar?q=info:GSkihLpZ5F4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti%2Bpopulation%2Bpattern%2Bsearching%2Balgorithm:%2Ba%2Bnew%2Bevolutionary%2Bmethod%2Bbased%2Bon%2Bthe%2Bidea%2Bof%2Bmessy%2Bgenetic%2Balgorithm%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=GSkihLpZ5F4J&ei=3ENeYb7SAcKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=6837688791870875929&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:GSkihLpZ5F4J:scholar.google.com/&scioq=Multi+population+pattern+searching+algorithm:+a+new+evolutionary+method+based+on+the+idea+of+messy+genetic+algorithm&hl=en&as_sdt=0,5"
+}

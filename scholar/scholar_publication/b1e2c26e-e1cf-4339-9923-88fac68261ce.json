@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Quantitative style analysis of Mo Yan and Zhang Wei's novels", "author": "Li, Yunxuan and Ji, Weiyun and Xu, Dekuan", "pub_year": "2017", "venue": "Proceedings of the International Conference on Web \u2026", "abstract": "Selecting 24 novels written by Mo Yan and Zhang Wei as cor- pus, This paper analyzed the stylistic features of Mo Yan and Zhang Wei's novels from the perspective of quantitative style. Fea- tures include the pauses", "pages": "1158--1161", "booktitle": "Proceedings of the International Conference on Web Intelligence", "pub_type": "inproceedings", "bib_id": "li2017quantitative"}, "filled": true, "gsrank": 1, "pub_url": "https://dl.acm.org/doi/abs/10.1145/3106426.3109045", "author_id": ["", "", ""], "num_citations": 1, "url_scholarbib": "/scholar?q=info:Xdas7bUZLIgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D24%2Bnovels%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=Xdas7bUZLIgJ&ei=dMRdYdO5A42UmQGz6rqYBQ", "citedby_url": "/scholar?cites=9812245957300770397&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:Xdas7bUZLIgJ:scholar.google.com/&scioq=24+novels&hl=en&as_sdt=0,39"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Quantitative style analysis of Mo Yan and Zhang Wei's novels",
+    "author": "Li, Yunxuan and Ji, Weiyun and Xu, Dekuan",
+    "pub_year": "2017",
+    "venue": "Proceedings of the International Conference on Web \u2026",
+    "abstract": "Selecting 24 novels written by Mo Yan and Zhang Wei as cor- pus, This paper analyzed the stylistic features of Mo Yan and Zhang Wei's novels from the perspective of quantitative style. Fea- tures include the pauses",
+    "pages": "1158--1161",
+    "booktitle": "Proceedings of the International Conference on Web Intelligence",
+    "pub_type": "inproceedings",
+    "bib_id": "li2017quantitative"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://dl.acm.org/doi/abs/10.1145/3106426.3109045",
+  "author_id": [
+    "",
+    "",
+    ""
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:Xdas7bUZLIgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D24%2Bnovels%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=Xdas7bUZLIgJ&ei=dMRdYdO5A42UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=9812245957300770397&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:Xdas7bUZLIgJ:scholar.google.com/&scioq=24+novels&hl=en&as_sdt=0,39"
+}

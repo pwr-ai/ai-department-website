@@ -1,1 +1,32 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Web-based knowledge exchange through social links in the workplace", "author": "Filipowski, Tomasz and Kazienko, Przemys{\\l}aw and Brodka, Piotr and Kajdanowicz, Tomasz", "pub_year": "2012", "venue": "Behaviour & \u2026", "abstract": "Knowledge exchange between employees is an essential feature of recent commercial organisations on the competitive market. Based on the data gathered by various information technology (IT) systems, social links can be extracted and exploited in knowledge exchange systems of a new kind. Users of such a system ask their queries and the system recommends known and unknown experts selected out of user's friends. The friends either provide the solution or forward the query to their friends. By means of the established social", "publisher": "Taylor \\& Francis", "pages": "779--790", "number": "8", "volume": "31", "journal": "Behaviour \\& Information Technology", "pub_type": "article", "bib_id": "filipowski2012web"}, "filled": true, "gsrank": 1, "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/0144929X.2011.642895", "author_id": ["", "cxLgNccAAAAJ", "T7v65jEAAAAJ"], "num_citations": 17, "url_scholarbib": "/scholar?q=info:Zh8151_9tvQJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWeb-based%2Bknowledge%2Bexchange%2Bthrough%2Bsocial%2Blinks%2Bin%2Bthe%2Bworkplace%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=Zh8151_9tvQJ&ei=M5RdYc39Nc-TmwHPvZGABQ", "citedby_url": "/scholar?cites=17633559979358494566&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:Zh8151_9tvQJ:scholar.google.com/&scioq=Web-based+knowledge+exchange+through+social+links+in+the+workplace&hl=en&as_sdt=0,39", "eprint_url": "https://www.researchgate.net/profile/Piotr-Brodka/publication/262331004_Web-based_knowledge_exchange_through_social_links_in_the_workplace/links/57def7fd08ae5292a37f4173/Web-based-knowledge-exchange-through-social-links-in-the-workplace.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Web-based knowledge exchange through social links in the workplace",
+    "author": "Filipowski, Tomasz and Kazienko, Przemys{\\l}aw and Brodka, Piotr and Kajdanowicz, Tomasz",
+    "pub_year": "2012",
+    "venue": "Behaviour & \u2026",
+    "abstract": "Knowledge exchange between employees is an essential feature of recent commercial organisations on the competitive market. Based on the data gathered by various information technology (IT) systems, social links can be extracted and exploited in knowledge exchange systems of a new kind. Users of such a system ask their queries and the system recommends known and unknown experts selected out of user's friends. The friends either provide the solution or forward the query to their friends. By means of the established social",
+    "publisher": "Taylor \\& Francis",
+    "pages": "779--790",
+    "number": "8",
+    "volume": "31",
+    "journal": "Behaviour \\& Information Technology",
+    "pub_type": "article",
+    "bib_id": "filipowski2012web"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/0144929X.2011.642895",
+  "author_id": [
+    "",
+    "cxLgNccAAAAJ",
+    "T7v65jEAAAAJ"
+  ],
+  "num_citations": 17,
+  "url_scholarbib": "/scholar?q=info:Zh8151_9tvQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWeb-based%2Bknowledge%2Bexchange%2Bthrough%2Bsocial%2Blinks%2Bin%2Bthe%2Bworkplace%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=Zh8151_9tvQJ&ei=M5RdYc39Nc-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=17633559979358494566&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:Zh8151_9tvQJ:scholar.google.com/&scioq=Web-based+knowledge+exchange+through+social+links+in+the+workplace&hl=en&as_sdt=0,39",
+  "eprint_url": "https://www.researchgate.net/profile/Piotr-Brodka/publication/262331004_Web-based_knowledge_exchange_through_social_links_in_the_workplace/links/57def7fd08ae5292a37f4173/Web-based-knowledge-exchange-through-social-links-in-the-workplace.pdf"
+}

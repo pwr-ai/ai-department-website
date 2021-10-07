@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "IMOCN Track Program Committee", "author": "Andrei, Dragos and Bulira, Damian and Careglio, Davide and Cholda, Piotr and Furdek, Marija and Gomes, Teresa and Jaumard, Brigitte and Koster, Arie and Liu, Qingzhi and Monti, Paolo and others", "venue": "NA", "pub_year": "NA", "abstract": "Dragos Andrei Damian Bulira, Wroclaw University of Technology Davide Careglio, Universitat  Polit\u00e8cnica de Catalunya  Piotr Cholda, AGH University of Science and Technology Marija  Furdek, KTH Royal Institute of Technology Teresa Gomes, University of Coimbra Brigitte", "pub_type": "article", "bib_id": "andreiimocn"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/7321228/", "author_id": ["", "0hJfY_4AAAAJ", "9_O-b5oAAAAJ", "OrV0F5wAAAAJ", "X_KDVNoAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:kN0YsqnlbQ8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIMOCN%2BTrack%2BProgram%2BCommittee%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=kN0YsqnlbQ8J&ei=nEheYf-6KYu4mAGqg5LoDg"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "IMOCN Track Program Committee",
+    "author": "Andrei, Dragos and Bulira, Damian and Careglio, Davide and Cholda, Piotr and Furdek, Marija and Gomes, Teresa and Jaumard, Brigitte and Koster, Arie and Liu, Qingzhi and Monti, Paolo and others",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "Dragos Andrei Damian Bulira, Wroclaw University of Technology Davide Careglio, Universitat  Polit\u00e8cnica de Catalunya  Piotr Cholda, AGH University of Science and Technology Marija  Furdek, KTH Royal Institute of Technology Teresa Gomes, University of Coimbra Brigitte",
+    "pub_type": "article",
+    "bib_id": "andreiimocn"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/7321228/",
+  "author_id": [
+    "",
+    "0hJfY_4AAAAJ",
+    "9_O-b5oAAAAJ",
+    "OrV0F5wAAAAJ",
+    "X_KDVNoAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:kN0YsqnlbQ8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIMOCN%2BTrack%2BProgram%2BCommittee%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=kN0YsqnlbQ8J&ei=nEheYf-6KYu4mAGqg5LoDg"
+}

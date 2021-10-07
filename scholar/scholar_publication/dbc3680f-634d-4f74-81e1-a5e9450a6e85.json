@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Mapreduce approach to collective classification for networks", "author": "Indyk, Wojciech and Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw and Plamowski, S{\\l}awomir", "pub_year": "2012", "venue": "\u2026 Conference on Artificial \u2026", "abstract": "The collective classification problem for big data sets using MapReduce programming model was considered in the paper. We introduced a proposal for implementation of label propagation algorithm in the network. The method was examined on real dataset in telecommunication domain. The results indicated that it can be used to classify nodes in order to propose new offerings or tariffs to customers.", "organization": "Springer", "pages": "656--663", "booktitle": "International Conference on Artificial Intelligence and Soft Computing", "pub_type": "inproceedings", "bib_id": "indyk2012mapreduce"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-29347-4_76", "author_id": ["HvA-UicAAAAJ", "GOoaHHEAAAAJ", "cxLgNccAAAAJ"], "num_citations": 9, "url_scholarbib": "/scholar?q=info:IfHIHyr6Au8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMapreduce%2Bapproach%2Bto%2Bcollective%2Bclassification%2Bfor%2Bnetworks%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=IfHIHyr6Au8J&ei=15RdYbnYDM-TmwHPvZGABQ", "citedby_url": "/scholar?cites=17222602983847031073&as_sdt=5,44&sciodt=0,44&hl=en", "url_related_articles": "/scholar?q=related:IfHIHyr6Au8J:scholar.google.com/&scioq=Mapreduce+approach+to+collective+classification+for+networks&hl=en&as_sdt=0,44", "eprint_url": "http://www.ii.pwr.wroc.pl/~kajdanowicz/pubs/Indyk_2012_MapReduce%20Approach%20to%20Collective%20Classification%20for%20Networks.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Mapreduce approach to collective classification for networks",
+    "author": "Indyk, Wojciech and Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw and Plamowski, S{\\l}awomir",
+    "pub_year": "2012",
+    "venue": "\u2026 Conference on Artificial \u2026",
+    "abstract": "The collective classification problem for big data sets using MapReduce programming model was considered in the paper. We introduced a proposal for implementation of label propagation algorithm in the network. The method was examined on real dataset in telecommunication domain. The results indicated that it can be used to classify nodes in order to propose new offerings or tariffs to customers.",
+    "organization": "Springer",
+    "pages": "656--663",
+    "booktitle": "International Conference on Artificial Intelligence and Soft Computing",
+    "pub_type": "inproceedings",
+    "bib_id": "indyk2012mapreduce"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-29347-4_76",
+  "author_id": [
+    "HvA-UicAAAAJ",
+    "GOoaHHEAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 9,
+  "url_scholarbib": "/scholar?q=info:IfHIHyr6Au8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMapreduce%2Bapproach%2Bto%2Bcollective%2Bclassification%2Bfor%2Bnetworks%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=IfHIHyr6Au8J&ei=15RdYbnYDM-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=17222602983847031073&as_sdt=5,44&sciodt=0,44&hl=en",
+  "url_related_articles": "/scholar?q=related:IfHIHyr6Au8J:scholar.google.com/&scioq=Mapreduce+approach+to+collective+classification+for+networks&hl=en&as_sdt=0,44",
+  "eprint_url": "http://www.ii.pwr.wroc.pl/~kajdanowicz/pubs/Indyk_2012_MapReduce%20Approach%20to%20Collective%20Classification%20for%20Networks.pdf"
+}

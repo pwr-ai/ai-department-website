@@ -1,1 +1,33 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Predicting community evolution in social networks", "author": "Saganowski, Stanis{\\l}aw and Gliwa, Bogdan and Br{\\'o}dka, Piotr and Zygmunt, Anna and Kazienko, Przemys{\\l}aw and Ko{\\'z}lak, Jaros{\\l}aw", "pub_year": "2015", "venue": "Entropy", "abstract": "Nowadays, sustained development of different social media can be observed worldwide. One of the relevant research domains intensively explored recently is analysis of social communities existing in social media as well as prediction of their future evolution taking into account collected historical evolution chains. These evolution chains proposed in the paper contain group states in the previous time frames and its historical transitions that were identified using one out of two methods: Stable Group Changes Identification (SGCI) and", "publisher": "Multidisciplinary Digital Publishing Institute", "pages": "3053--3096", "number": "5", "volume": "17", "journal": "Entropy", "pub_type": "article", "bib_id": "saganowski2015predicting"}, "filled": true, "gsrank": 1, "pub_url": "https://www.mdpi.com/98782", "author_id": ["DVE_klAAAAAJ", "VvXDjFsAAAAJ", "T7v65jEAAAAJ", "gs-Q0xUAAAAJ"], "num_citations": 54, "url_scholarbib": "/scholar?q=info:bpFjosqWisUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPredicting%2Bcommunity%2Bevolution%2Bin%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bpFjosqWisUJ&ei=qzBeYaKzGMKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=14234355369309868398&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:bpFjosqWisUJ:scholar.google.com/&scioq=Predicting+community+evolution+in+social+networks&hl=en&as_sdt=0,5", "eprint_url": "https://www.mdpi.com/1099-4300/17/5/3053/pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Predicting community evolution in social networks",
+    "author": "Saganowski, Stanis{\\l}aw and Gliwa, Bogdan and Br{\\'o}dka, Piotr and Zygmunt, Anna and Kazienko, Przemys{\\l}aw and Ko{\\'z}lak, Jaros{\\l}aw",
+    "pub_year": "2015",
+    "venue": "Entropy",
+    "abstract": "Nowadays, sustained development of different social media can be observed worldwide. One of the relevant research domains intensively explored recently is analysis of social communities existing in social media as well as prediction of their future evolution taking into account collected historical evolution chains. These evolution chains proposed in the paper contain group states in the previous time frames and its historical transitions that were identified using one out of two methods: Stable Group Changes Identification (SGCI) and",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "pages": "3053--3096",
+    "number": "5",
+    "volume": "17",
+    "journal": "Entropy",
+    "pub_type": "article",
+    "bib_id": "saganowski2015predicting"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.mdpi.com/98782",
+  "author_id": [
+    "DVE_klAAAAAJ",
+    "VvXDjFsAAAAJ",
+    "T7v65jEAAAAJ",
+    "gs-Q0xUAAAAJ"
+  ],
+  "num_citations": 54,
+  "url_scholarbib": "/scholar?q=info:bpFjosqWisUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPredicting%2Bcommunity%2Bevolution%2Bin%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bpFjosqWisUJ&ei=qzBeYaKzGMKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=14234355369309868398&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:bpFjosqWisUJ:scholar.google.com/&scioq=Predicting+community+evolution+in+social+networks&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.mdpi.com/1099-4300/17/5/3053/pdf"
+}

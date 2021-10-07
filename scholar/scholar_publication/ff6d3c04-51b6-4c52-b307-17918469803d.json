@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Improved selection in evolutionary multi--objective optimization of multi--skill resource--constrained project scheduling problem", "author": "Laszczyk, Maciej and Myszkowski, Pawe{\\l} B", "pub_year": "2019", "venue": "Information Sciences", "abstract": "In this paper a modified selection operator is presented in combination with classical Non-dominated Sorting Genetic Algorithm II (NSGA-II). It is shown that various modifications can lead to increased convergence, spread or uniformity of achieved Pareto fronts. A clone prevention method is used to increase the spread of resulting sets. Furthermore a crowding operator is removed from the NSGA-II as it serves a similar purpose as the clone prevention, even though it achieves it in a different manner. The former enforces diversity in a", "publisher": "Elsevier", "pages": "412--431", "volume": "481", "journal": "Information Sciences", "pub_type": "article", "bib_id": "laszczyk2019improved"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S0020025519300039", "author_id": ["", "63xKDRcAAAAJ"], "num_citations": 26, "url_scholarbib": "/scholar?q=info:UFIetyILcyYJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImproved%2Bselection%2Bin%2Bevolutionary%2Bmulti%25E2%2580%2593objective%2Boptimization%2Bof%2Bmulti%25E2%2580%2593skill%2Bresource%25E2%2580%2593constrained%2Bproject%2Bscheduling%2Bproblem%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=UFIetyILcyYJ&ei=NlZeYdWADInmmgGQla6wAw", "citedby_url": "/scholar?cites=2770570439491998288&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:UFIetyILcyYJ:scholar.google.com/&scioq=Improved+selection+in+evolutionary+multi%E2%80%93objective+optimization+of+multi%E2%80%93skill+resource%E2%80%93constrained+project+scheduling+problem&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Improved selection in evolutionary multi--objective optimization of multi--skill resource--constrained project scheduling problem",
+    "author": "Laszczyk, Maciej and Myszkowski, Pawe{\\l} B",
+    "pub_year": "2019",
+    "venue": "Information Sciences",
+    "abstract": "In this paper a modified selection operator is presented in combination with classical Non-dominated Sorting Genetic Algorithm II (NSGA-II). It is shown that various modifications can lead to increased convergence, spread or uniformity of achieved Pareto fronts. A clone prevention method is used to increase the spread of resulting sets. Furthermore a crowding operator is removed from the NSGA-II as it serves a similar purpose as the clone prevention, even though it achieves it in a different manner. The former enforces diversity in a",
+    "publisher": "Elsevier",
+    "pages": "412--431",
+    "volume": "481",
+    "journal": "Information Sciences",
+    "pub_type": "article",
+    "bib_id": "laszczyk2019improved"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S0020025519300039",
+  "author_id": [
+    "",
+    "63xKDRcAAAAJ"
+  ],
+  "num_citations": 26,
+  "url_scholarbib": "/scholar?q=info:UFIetyILcyYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImproved%2Bselection%2Bin%2Bevolutionary%2Bmulti%25E2%2580%2593objective%2Boptimization%2Bof%2Bmulti%25E2%2580%2593skill%2Bresource%25E2%2580%2593constrained%2Bproject%2Bscheduling%2Bproblem%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=UFIetyILcyYJ&ei=NlZeYdWADInmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=2770570439491998288&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:UFIetyILcyYJ:scholar.google.com/&scioq=Improved+selection+in+evolutionary+multi%E2%80%93objective+optimization+of+multi%E2%80%93skill+resource%E2%80%93constrained+project+scheduling+problem&hl=en&as_sdt=0,5"
+}

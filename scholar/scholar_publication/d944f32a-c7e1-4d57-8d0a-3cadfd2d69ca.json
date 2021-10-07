@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Rich set of features for proper name recognition in polish texts", "author": "Marci{\\'n}czuk, Micha{\\l} and Stanek, Micha{\\l} and Piasecki, Maciej and Musia{\\l}, Adam", "pub_year": "2011", "venue": "\u2026 Joint Conferences on \u2026", "abstract": "In this paper we analyse the importance of data generalisation and usage of local context in the problem of the Proper Name recognition. We present an extended set of features that provide generalised description of the data and encode linguistic information. To utilize the rich set of features we applied Conditional Random Fields (CRF)\u2014a modern approach for sequence labelling. We present results of the evaluation on a single domain following the cross-validation scheme and cross-domain evaluation based on training and testing on", "organization": "Springer", "pages": "332--344", "booktitle": "International Joint Conferences on Security and Intelligent Information Systems", "pub_type": "inproceedings", "bib_id": "marcinczuk2011rich"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-25261-7_26", "author_id": ["aAk1SIsAAAAJ", "d1ArVMoAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 12, "url_scholarbib": "/scholar?q=info:Xi9nbXSqD5IJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRich%2Bset%2Bof%2Bfeatures%2Bfor%2Bproper%2Bname%2Brecognition%2Bin%2Bpolish%2Btexts%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Xi9nbXSqD5IJ&ei=YrFdYYukNc-TmwHPvZGABQ", "citedby_url": "/scholar?cites=10524818271216545630&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:Xi9nbXSqD5IJ:scholar.google.com/&scioq=Rich+set+of+features+for+proper+name+recognition+in+polish+texts&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Rich set of features for proper name recognition in polish texts",
+    "author": "Marci{\\'n}czuk, Micha{\\l} and Stanek, Micha{\\l} and Piasecki, Maciej and Musia{\\l}, Adam",
+    "pub_year": "2011",
+    "venue": "\u2026 Joint Conferences on \u2026",
+    "abstract": "In this paper we analyse the importance of data generalisation and usage of local context in the problem of the Proper Name recognition. We present an extended set of features that provide generalised description of the data and encode linguistic information. To utilize the rich set of features we applied Conditional Random Fields (CRF)\u2014a modern approach for sequence labelling. We present results of the evaluation on a single domain following the cross-validation scheme and cross-domain evaluation based on training and testing on",
+    "organization": "Springer",
+    "pages": "332--344",
+    "booktitle": "International Joint Conferences on Security and Intelligent Information Systems",
+    "pub_type": "inproceedings",
+    "bib_id": "marcinczuk2011rich"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-25261-7_26",
+  "author_id": [
+    "aAk1SIsAAAAJ",
+    "d1ArVMoAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 12,
+  "url_scholarbib": "/scholar?q=info:Xi9nbXSqD5IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRich%2Bset%2Bof%2Bfeatures%2Bfor%2Bproper%2Bname%2Brecognition%2Bin%2Bpolish%2Btexts%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Xi9nbXSqD5IJ&ei=YrFdYYukNc-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=10524818271216545630&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:Xi9nbXSqD5IJ:scholar.google.com/&scioq=Rich+set+of+features+for+proper+name+recognition+in+polish+texts&hl=en&as_sdt=0,5"
+}

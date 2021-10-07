@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Recognition of Polish Derivational Relations Based on Supervised Learning Scheme.", "author": "Piasecki, Maciej and Ramocki, Radoslaw and Maziarz, Marek", "pub_year": "2012", "venue": "LREC", "abstract": "The paper presents construction of Derywator\u2013a language tool for the recognition of Polish derivational relations. It was built on the basis of machine learning in a way following the bootstrapping approach: a limited set of derivational pairs described manually by linguists in plWordNet is used to train Derivator. The tool is intended to be applied in semi-automated expansion of plWordNet with new instances of derivational relations. The training process is based on the construction of two transducers working in the opposite directions: one for", "pages": "916--922", "booktitle": "LREC", "pub_type": "inproceedings", "bib_id": "piasecki2012recognition"}, "filled": true, "gsrank": 1, "pub_url": "http://www.lrec-conf.org/proceedings/lrec2012/pdf/926_Paper.pdf", "author_id": ["nU_W9XwAAAAJ", "Sv_zNIgAAAAJ", "hc3Zj7UAAAAJ"], "num_citations": 16, "url_scholarbib": "/scholar?q=info:Wizg752QGfkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRecognition%2Bof%2BPolish%2BDerivational%2BRelations%2BBased%2Bon%2BSupervised%2BLearning%2BScheme.%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Wizg752QGfkJ&ei=CLFdYejUI4fBmQGX-6OoBg", "citedby_url": "/scholar?cites=17949536797870533722&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:Wizg752QGfkJ:scholar.google.com/&scioq=Recognition+of+Polish+Derivational+Relations+Based+on+Supervised+Learning+Scheme.&hl=en&as_sdt=0,5", "eprint_url": "http://www.lrec-conf.org/proceedings/lrec2012/pdf/926_Paper.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Recognition of Polish Derivational Relations Based on Supervised Learning Scheme.",
+    "author": "Piasecki, Maciej and Ramocki, Radoslaw and Maziarz, Marek",
+    "pub_year": "2012",
+    "venue": "LREC",
+    "abstract": "The paper presents construction of Derywator\u2013a language tool for the recognition of Polish derivational relations. It was built on the basis of machine learning in a way following the bootstrapping approach: a limited set of derivational pairs described manually by linguists in plWordNet is used to train Derivator. The tool is intended to be applied in semi-automated expansion of plWordNet with new instances of derivational relations. The training process is based on the construction of two transducers working in the opposite directions: one for",
+    "pages": "916--922",
+    "booktitle": "LREC",
+    "pub_type": "inproceedings",
+    "bib_id": "piasecki2012recognition"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.lrec-conf.org/proceedings/lrec2012/pdf/926_Paper.pdf",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    "Sv_zNIgAAAAJ",
+    "hc3Zj7UAAAAJ"
+  ],
+  "num_citations": 16,
+  "url_scholarbib": "/scholar?q=info:Wizg752QGfkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRecognition%2Bof%2BPolish%2BDerivational%2BRelations%2BBased%2Bon%2BSupervised%2BLearning%2BScheme.%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Wizg752QGfkJ&ei=CLFdYejUI4fBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=17949536797870533722&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:Wizg752QGfkJ:scholar.google.com/&scioq=Recognition+of+Polish+Derivational+Relations+Based+on+Supervised+Learning+Scheme.&hl=en&as_sdt=0,5",
+  "eprint_url": "http://www.lrec-conf.org/proceedings/lrec2012/pdf/926_Paper.pdf"
+}

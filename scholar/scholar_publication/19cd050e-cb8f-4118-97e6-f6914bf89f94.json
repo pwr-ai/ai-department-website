@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Automatic acquisition of wordnet relations by the morpho-syntactic patterns extracted from the corpora in Polish", "author": "Kurc, Roman and Piasecki, Maciej", "pub_year": "2008", "venue": "2008 International Multiconference on \u2026", "abstract": "In the paper we present an adaptation of the Espresso algorithm of the extraction of lexical semantic relation to specific requirements of Polish. The introduced changes are of more technical character like the adaptation to the existing Polish language tools, but also we investigate the structure of the patterns that takes into account specific features of Polish as an inflectional language. A new method of the reliability measure computation is proposed. The modified version of the algorithm called Estratto was compared with the more direct", "organization": "IEEE", "pages": "181--188", "booktitle": "2008 International Multiconference on Computer Science and Information Technology", "pub_type": "inproceedings", "bib_id": "kurc2008automatic"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/4747237/", "author_id": ["", "nU_W9XwAAAAJ"], "num_citations": 14, "url_scholarbib": "/scholar?q=info:qUsyGusWd7QJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomatic%2Bacquisition%2Bof%2Bwordnet%2Brelations%2Bby%2Bthe%2Bmorpho-syntactic%2Bpatterns%2Bextracted%2Bfrom%2Bthe%2Bcorpora%2Bin%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qUsyGusWd7QJ&ei=MrFdYdWrPM6_mQHMm7boDg", "citedby_url": "/scholar?cites=13003887648068225961&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:qUsyGusWd7QJ:scholar.google.com/&scioq=Automatic+acquisition+of+wordnet+relations+by+the+morpho-syntactic+patterns+extracted+from+the+corpora+in+Polish&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/224370544_Automatic_acquisition_of_wordnet_relations_by_the_morpho-syntactic_patterns_extracted_from_the_corpora_in_Polish/links/0046352a96bad96bcd000000/Automatic-acquisition-of-wordnet-relations-by-the-morpho-syntactic-patterns-extracted-from-the-corpora-in-Polish.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Automatic acquisition of wordnet relations by the morpho-syntactic patterns extracted from the corpora in Polish",
+    "author": "Kurc, Roman and Piasecki, Maciej",
+    "pub_year": "2008",
+    "venue": "2008 International Multiconference on \u2026",
+    "abstract": "In the paper we present an adaptation of the Espresso algorithm of the extraction of lexical semantic relation to specific requirements of Polish. The introduced changes are of more technical character like the adaptation to the existing Polish language tools, but also we investigate the structure of the patterns that takes into account specific features of Polish as an inflectional language. A new method of the reliability measure computation is proposed. The modified version of the algorithm called Estratto was compared with the more direct",
+    "organization": "IEEE",
+    "pages": "181--188",
+    "booktitle": "2008 International Multiconference on Computer Science and Information Technology",
+    "pub_type": "inproceedings",
+    "bib_id": "kurc2008automatic"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/4747237/",
+  "author_id": [
+    "",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 14,
+  "url_scholarbib": "/scholar?q=info:qUsyGusWd7QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomatic%2Bacquisition%2Bof%2Bwordnet%2Brelations%2Bby%2Bthe%2Bmorpho-syntactic%2Bpatterns%2Bextracted%2Bfrom%2Bthe%2Bcorpora%2Bin%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qUsyGusWd7QJ&ei=MrFdYdWrPM6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=13003887648068225961&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:qUsyGusWd7QJ:scholar.google.com/&scioq=Automatic+acquisition+of+wordnet+relations+by+the+morpho-syntactic+patterns+extracted+from+the+corpora+in+Polish&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/224370544_Automatic_acquisition_of_wordnet_relations_by_the_morpho-syntactic_patterns_extracted_from_the_corpora_in_Polish/links/0046352a96bad96bcd000000/Automatic-acquisition-of-wordnet-relations-by-the-morpho-syntactic-patterns-extracted-from-the-corpora-in-Polish.pdf"
+}

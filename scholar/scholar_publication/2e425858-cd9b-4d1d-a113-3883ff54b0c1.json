@@ -1,1 +1,24 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "How we interact and influence each other in virtual worlds: spreading processes in multilayer complex network", "author": "Jankowski, Jaros{\\l}aw and Michalski, Rados{\\l}aw and Br{\\'o}dka, Piotr", "venue": "NA", "pub_year": "2017", "journal": "arXiv preprint arXiv:1702.06373", "pub_type": "article", "bib_id": "jankowski2017we"}, "filled": true, "gsrank": 1, "author_id": ["xZJ38c4AAAAJ", "xMVnv3sAAAAJ", "T7v65jEAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:qi54O3gbFacJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHow%2Bwe%2Binteract%2Band%2Binfluence%2Beach%2Bother%2Bin%2Bvirtual%2Bworlds:%2Bspreading%2Bprocesses%2Bin%2Bmultilayer%2Bcomplex%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qi54O3gbFacJ&ei=aGNeYeHRDIu4mAGqg5LoDg", "url_related_articles": "/scholar?q=related:qi54O3gbFacJ:scholar.google.com/&scioq=How+we+interact+and+influence+each+other+in+virtual+worlds:+spreading+processes+in+multilayer+complex+network&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "How we interact and influence each other in virtual worlds: spreading processes in multilayer complex network",
+    "author": "Jankowski, Jaros{\\l}aw and Michalski, Rados{\\l}aw and Br{\\'o}dka, Piotr",
+    "venue": "NA",
+    "pub_year": "2017",
+    "journal": "arXiv preprint arXiv:1702.06373",
+    "pub_type": "article",
+    "bib_id": "jankowski2017we"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "xZJ38c4AAAAJ",
+    "xMVnv3sAAAAJ",
+    "T7v65jEAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:qi54O3gbFacJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHow%2Bwe%2Binteract%2Band%2Binfluence%2Beach%2Bother%2Bin%2Bvirtual%2Bworlds:%2Bspreading%2Bprocesses%2Bin%2Bmultilayer%2Bcomplex%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qi54O3gbFacJ&ei=aGNeYeHRDIu4mAGqg5LoDg",
+  "url_related_articles": "/scholar?q=related:qi54O3gbFacJ:scholar.google.com/&scioq=How+we+interact+and+influence+each+other+in+virtual+worlds:+spreading+processes+in+multilayer+complex+network&hl=en&as_sdt=0,5"
+}

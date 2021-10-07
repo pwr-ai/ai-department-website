@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Base Classifiers in Boosting-based Classification of Sequential Structures", "author": "Kazienko, Przemyslaw and Kajdanowicz, Tomasz", "pub_year": "2010", "venue": "Neural Network World", "abstract": "Boosting as a very successful classification algorithm represents a great generalization ability with appropriate ensemble diversity. It can be easily applied in the two-class classification problem. However, sequential structure prediction, in which the output is an ordered list of the labeled classes, needs to be realized by an adjusted and extended version. For that purpose the AdaBoostSeq algorithm has been introduced. It performs the multi-class classification with respect to the sequential structure of the classification target", "publisher": "Institute of Computer Science", "pages": "839", "number": "7", "volume": "20", "journal": "Neural Network World", "pub_type": "article", "bib_id": "kazienko2010base"}, "filled": true, "gsrank": 1, "pub_url": "https://www.academia.edu/download/5144932/nnw_7_2010_small-corrected-special-issue-hais-2010.pdf#page=36", "author_id": ["cxLgNccAAAAJ", "GOoaHHEAAAAJ"], "num_citations": 4, "url_scholarbib": "/scholar?q=info:tWGUWkd-ODkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBase%2Bclassifiers%2Bin%2Bboosting-based%2Bclassification%2Bof%2Bsequential%2Bstructures%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=tWGUWkd-ODkJ&ei=opVdYdf7IILemgHVs5GYDg", "citedby_url": "/scholar?cites=4123184303785140661&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:tWGUWkd-ODkJ:scholar.google.com/&scioq=Base+classifiers+in+boosting-based+classification+of+sequential+structures&hl=en&as_sdt=0,5", "eprint_url": "https://www.academia.edu/download/5144932/nnw_7_2010_small-corrected-special-issue-hais-2010.pdf#page=36"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Base Classifiers in Boosting-based Classification of Sequential Structures",
+    "author": "Kazienko, Przemyslaw and Kajdanowicz, Tomasz",
+    "pub_year": "2010",
+    "venue": "Neural Network World",
+    "abstract": "Boosting as a very successful classification algorithm represents a great generalization ability with appropriate ensemble diversity. It can be easily applied in the two-class classification problem. However, sequential structure prediction, in which the output is an ordered list of the labeled classes, needs to be realized by an adjusted and extended version. For that purpose the AdaBoostSeq algorithm has been introduced. It performs the multi-class classification with respect to the sequential structure of the classification target",
+    "publisher": "Institute of Computer Science",
+    "pages": "839",
+    "number": "7",
+    "volume": "20",
+    "journal": "Neural Network World",
+    "pub_type": "article",
+    "bib_id": "kazienko2010base"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.academia.edu/download/5144932/nnw_7_2010_small-corrected-special-issue-hais-2010.pdf#page=36",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 4,
+  "url_scholarbib": "/scholar?q=info:tWGUWkd-ODkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBase%2Bclassifiers%2Bin%2Bboosting-based%2Bclassification%2Bof%2Bsequential%2Bstructures%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=tWGUWkd-ODkJ&ei=opVdYdf7IILemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=4123184303785140661&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:tWGUWkd-ODkJ:scholar.google.com/&scioq=Base+classifiers+in+boosting-based+classification+of+sequential+structures&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.academia.edu/download/5144932/nnw_7_2010_small-corrected-special-issue-hais-2010.pdf#page=36"
+}

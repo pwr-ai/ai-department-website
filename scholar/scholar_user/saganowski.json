@@ -1,1 +1,483 @@
-{"container_type": "Author", "filled": ["basics", "publications", "counts", "coauthors", "indices"], "scholar_id": "DVE_klAAAAAJ", "source": "AUTHOR_PROFILE_PAGE", "name": "Stanis\u0142aw Saganowski", "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DVE_klAAAAAJ&citpid=1", "affiliation": "Department of Computational Intelligence, Wroc\u0142aw University of Science and Technology", "interests": ["emotion recognition", "affective computing", "wearables", "data science", "group evolution prediction"], "email_domain": "@pwr.edu.pl", "citedby": 416, "publications": [{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "GED: the method for group evolution discovery in social networks", "pub_year": "2013"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:u5HHmVD_uO8C", "num_citations": 167, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15877422972163686082", "cites_id": ["15877422972163686082"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Predicting community evolution in social networks", "pub_year": "2015"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:eQOLeE2rZwMC", "num_citations": 54, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14234355369309868398", "cites_id": ["14234355369309868398"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Different approaches to community evolution prediction in blogosphere", "pub_year": "2013"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:u-x6o8ySG0sC", "num_citations": 35, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7215261363480822780", "cites_id": ["7215261363480822780"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Identification of Group Changes in Blogosphere", "pub_year": "2012"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:UeHWp8X0CEIC", "num_citations": 34, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9029827874267514046", "cites_id": ["9029827874267514046"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Group evolution discovery in social networks", "pub_year": "2011"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:Tyk-4Ss8FVUC", "num_citations": 31, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11977911223311227835", "cites_id": ["11977911223311227835"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Influence of the Dynamic Social Network Timeframe Type and Size on the Group Evolution Discovery", "pub_year": "2012"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:qjMakFHDy7sC", "num_citations": 18, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7731662182450203699", "cites_id": ["7731662182450203699"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Emotion Recognition Using Wearables: A Systematic Literature Review - Work-in-progress", "pub_year": "2020"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:Zph67rFs4hoC", "num_citations": 14, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13227589152635431239", "cites_id": ["13227589152635431239"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Analysis of group evolution prediction in complex networks", "pub_year": "2019"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:roLk4NBRz8UC", "num_citations": 11, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14558911642480401473", "cites_id": ["14558911642480401473"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Community Evolution", "pub_year": "2014"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:YsMSGLbcyi4C", "num_citations": 7, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13953205442297085171", "cites_id": ["13953205442297085171"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Predicting the Evolution of Physics Research from a Complex Network Perspective", "pub_year": "2019"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:8k81kl-MbHgC", "num_citations": 6, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1691289876680835109,16858205117129834986", "cites_id": ["1691289876680835109", "16858205117129834986"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Tracking group evolution in social networks", "pub_year": "2011"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:9yKSN-GCB0IC", "num_citations": 6, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14975293189617427056", "cites_id": ["14975293189617427056"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "An \u201coutside the box\u201d solution for imbalanced data classification", "pub_year": "2020"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:kNdYIx-mwKoC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4107026512645284715", "cites_id": ["4107026512645284715"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Community Evolution", "pub_year": "2017"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:LkGwnXOMwfcC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3767729478354231599", "cites_id": ["3767729478354231599"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Evaluation of TRANSFoRm Mobile eHealth Solution for Remote Patient Monitoring during Clinical Trials", "pub_year": "2016"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:ufrVoPGSRksC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16072317394290764018", "cites_id": ["16072317394290764018"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "TRANSFoRm eHealth solution for quality of life monitoring.", "pub_year": "2016"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:_FxGoFyzp5QC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12698227554261203917", "cites_id": ["12698227554261203917"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Influence of the User Importance Measure on the Group Evolution Discovery", "pub_year": "2012"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:d1gkVwhDpl0C", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12685594057153383692", "cites_id": ["12685594057153383692"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Consumer wearables and affective computing for wellbeing support", "pub_year": "2020"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:YOwf2qJgpHMC", "num_citations": 3, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13279510087403011963", "cites_id": ["13279510087403011963"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Can We Ditch Feature Engineering? End-to-End Deep Learning for Affect Recognition from Physiological Sensor Data", "pub_year": "2020"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:KlAtU1dfN6UC", "num_citations": 3, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14462171908189673385", "cites_id": ["14462171908189673385"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "How to catch them all? Enhanced data collection for emotion recognition in the field", "pub_year": "2021"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:M3ejUd6NZC8C", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1124694912863368533", "cites_id": ["1124694912863368533"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Mobile eHealth solution (ePRO)", "pub_year": "2015"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:WF5omc3nYNoC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4365176793264537860", "cites_id": ["4365176793264537860"]}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "A three-stage machine learning network security solution for public entities", "pub_year": "2020"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:_kc_bZDykSQC", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Odporno\u015b\u0107 algorytm\u00f3w podpisywania dokument\u00f3w cyfrowych", "pub_year": "2018"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:hqOjcs7Dif8C", "num_citations": 0}, {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "The 10th International Workshop on Social Network Analysis in Applications (SNAA 2020) SNAA 2020 Organizing Committee"}, "filled": false, "author_pub_id": "DVE_klAAAAAJ:qxL8FJ1GzNcC", "num_citations": 0}], "cites_per_year": {"2011": 3, "2012": 13, "2013": 29, "2014": 31, "2015": 43, "2016": 27, "2017": 33, "2018": 63, "2019": 51, "2020": 49, "2021": 55}, "coauthors": [{"container_type": "Author", "filled": [], "scholar_id": "cxLgNccAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Przemys\u0142aw Kazienko", "affiliation": "Politechnika Wroc\u0142awska"}, {"container_type": "Author", "filled": [], "scholar_id": "T7v65jEAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Piotr Br\u00f3dka", "affiliation": "Wroclaw University of Science and Technology"}, {"container_type": "Author", "filled": [], "scholar_id": "gs-Q0xUAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Anna Zygmunt", "affiliation": ""}, {"container_type": "Author", "filled": [], "scholar_id": "BO3i_IgAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Jaroslaw Kozlak", "affiliation": "AGH University of Science and Technology"}, {"container_type": "Author", "filled": [], "scholar_id": "VvXDjFsAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Bogdan Gliwa", "affiliation": "AGH"}, {"container_type": "Author", "filled": [], "scholar_id": "kcZvQwgAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Maciej Dzie\u017cyc", "affiliation": "Wroclaw University of Science and Technology"}, {"container_type": "Author", "filled": [], "scholar_id": "hEVRtosAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Micha\u0142 Koziarski", "affiliation": "AGH University of Science and Technology"}, {"container_type": "Author", "filled": [], "scholar_id": "X9VrDxkAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Vasa Curcin", "affiliation": "Reader in health informatics, King's College London"}, {"container_type": "Author", "filled": [], "scholar_id": "aapc418AAAAJ", "source": "CO_AUTHORS_LIST", "name": "Anna Andreasson", "affiliation": "Karolinska Institutet"}, {"container_type": "Author", "filled": [], "scholar_id": "xZJ38c4AAAAJ", "source": "CO_AUTHORS_LIST", "name": "Jaros\u0142aw Jankowski", "affiliation": "West Pomeranian University of Technology"}, {"container_type": "Author", "filled": [], "scholar_id": "b6NoAQMAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Martin Gjoreski", "affiliation": "Postdoc, Universit\u00e0 della Svizzera italiana"}, {"container_type": "Author", "filled": [], "scholar_id": "ZDF5t0YAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Matjaz Gams", "affiliation": "Jozef Stefan Institute"}, {"container_type": "Author", "filled": [], "scholar_id": "Q7rt95kAAAAJ", "source": "CO_AUTHORS_LIST", "name": "Mateusz Duda", "affiliation": "University of Occupational Safety Management in Katowice"}], "citedby5y": 280, "hindex": 8, "hindex5y": 8, "i10index": 8, "i10index5y": 8}
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "counts",
+    "coauthors",
+    "indices"
+  ],
+  "scholar_id": "DVE_klAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Stanis\u0142aw Saganowski",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DVE_klAAAAAJ&citpid=1",
+  "affiliation": "Department of Computational Intelligence, Wroc\u0142aw University of Science and Technology",
+  "interests": [
+    "emotion recognition",
+    "affective computing",
+    "wearables",
+    "data science",
+    "group evolution prediction"
+  ],
+  "email_domain": "@pwr.edu.pl",
+  "citedby": 416,
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GED: the method for group evolution discovery in social networks",
+        "pub_year": "2013"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 167,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15877422972163686082",
+      "cites_id": [
+        "15877422972163686082"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Predicting community evolution in social networks",
+        "pub_year": "2015"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14234355369309868398",
+      "cites_id": [
+        "14234355369309868398"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Different approaches to community evolution prediction in blogosphere",
+        "pub_year": "2013"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7215261363480822780",
+      "cites_id": [
+        "7215261363480822780"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Group Changes in Blogosphere",
+        "pub_year": "2012"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9029827874267514046",
+      "cites_id": [
+        "9029827874267514046"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Group evolution discovery in social networks",
+        "pub_year": "2011"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11977911223311227835",
+      "cites_id": [
+        "11977911223311227835"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of the Dynamic Social Network Timeframe Type and Size on the Group Evolution Discovery",
+        "pub_year": "2012"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:qjMakFHDy7sC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7731662182450203699",
+      "cites_id": [
+        "7731662182450203699"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Emotion Recognition Using Wearables: A Systematic Literature Review - Work-in-progress",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:Zph67rFs4hoC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13227589152635431239",
+      "cites_id": [
+        "13227589152635431239"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of group evolution prediction in complex networks",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:roLk4NBRz8UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14558911642480401473",
+      "cites_id": [
+        "14558911642480401473"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community Evolution",
+        "pub_year": "2014"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13953205442297085171",
+      "cites_id": [
+        "13953205442297085171"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Predicting the Evolution of Physics Research from a Complex Network Perspective",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:8k81kl-MbHgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1691289876680835109,16858205117129834986",
+      "cites_id": [
+        "1691289876680835109",
+        "16858205117129834986"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tracking group evolution in social networks",
+        "pub_year": "2011"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14975293189617427056",
+      "cites_id": [
+        "14975293189617427056"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An \u201coutside the box\u201d solution for imbalanced data classification",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4107026512645284715",
+      "cites_id": [
+        "4107026512645284715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community Evolution",
+        "pub_year": "2017"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3767729478354231599",
+      "cites_id": [
+        "3767729478354231599"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of TRANSFoRm Mobile eHealth Solution for Remote Patient Monitoring during Clinical Trials",
+        "pub_year": "2016"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:ufrVoPGSRksC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16072317394290764018",
+      "cites_id": [
+        "16072317394290764018"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TRANSFoRm eHealth solution for quality of life monitoring.",
+        "pub_year": "2016"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12698227554261203917",
+      "cites_id": [
+        "12698227554261203917"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of the User Importance Measure on the Group Evolution Discovery",
+        "pub_year": "2012"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12685594057153383692",
+      "cites_id": [
+        "12685594057153383692"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consumer wearables and affective computing for wellbeing support",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13279510087403011963",
+      "cites_id": [
+        "13279510087403011963"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Can We Ditch Feature Engineering? End-to-End Deep Learning for Affect Recognition from Physiological Sensor Data",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14462171908189673385",
+      "cites_id": [
+        "14462171908189673385"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "How to catch them all? Enhanced data collection for emotion recognition in the field",
+        "pub_year": "2021"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1124694912863368533",
+      "cites_id": [
+        "1124694912863368533"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mobile eHealth solution (ePRO)",
+        "pub_year": "2015"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:WF5omc3nYNoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4365176793264537860",
+      "cites_id": [
+        "4365176793264537860"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A three-stage machine learning network security solution for public entities",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Odporno\u015b\u0107 algorytm\u00f3w podpisywania dokument\u00f3w cyfrowych",
+        "pub_year": "2018"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The 10th International Workshop on Social Network Analysis in Applications (SNAA 2020) SNAA 2020 Organizing Committee"
+      },
+      "filled": false,
+      "author_pub_id": "DVE_klAAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    }
+  ],
+  "cites_per_year": {
+    "2011": 3,
+    "2012": 13,
+    "2013": 29,
+    "2014": 31,
+    "2015": 43,
+    "2016": 27,
+    "2017": 33,
+    "2018": 63,
+    "2019": 51,
+    "2020": 49,
+    "2021": 55
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cxLgNccAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Przemys\u0142aw Kazienko",
+      "affiliation": "Politechnika Wroc\u0142awska"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "T7v65jEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Piotr Br\u00f3dka",
+      "affiliation": "Wroclaw University of Science and Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gs-Q0xUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anna Zygmunt",
+      "affiliation": ""
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BO3i_IgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jaroslaw Kozlak",
+      "affiliation": "AGH University of Science and Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VvXDjFsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Bogdan Gliwa",
+      "affiliation": "AGH"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kcZvQwgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Maciej Dzie\u017cyc",
+      "affiliation": "Wroclaw University of Science and Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "hEVRtosAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Micha\u0142 Koziarski",
+      "affiliation": "AGH University of Science and Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "X9VrDxkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Vasa Curcin",
+      "affiliation": "Reader in health informatics, King's College London"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aapc418AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anna Andreasson",
+      "affiliation": "Karolinska Institutet"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xZJ38c4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jaros\u0142aw Jankowski",
+      "affiliation": "West Pomeranian University of Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "b6NoAQMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Martin Gjoreski",
+      "affiliation": "Postdoc, Universit\u00e0 della Svizzera italiana"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ZDF5t0YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Matjaz Gams",
+      "affiliation": "Jozef Stefan Institute"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Q7rt95kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mateusz Duda",
+      "affiliation": "University of Occupational Safety Management in Katowice"
+    }
+  ],
+  "citedby5y": 280,
+  "hindex": 8,
+  "hindex5y": 8,
+  "i10index": 8,
+  "i10index5y": 8
+}

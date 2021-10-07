@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Computer-assisted diagnosis of acute renal failure in children", "author": "Kurzy{\\'n}ski, M and Sas, J and Wikiera, I", "pub_year": "1990", "venue": "Polski tygodnik lekarski (Warsaw \u2026", "abstract": "Either your web browser doesn't support Javascript or it is currently turned off. In the latter  case, please turn on Javascript support in your web browser and reload this page   [Computer-assisted diagnosis of acute renal failure in children]  1. Instytutu Sterowania i Techniki  System\u00f3w Politechniki Wroc\u0142awskiej  To arrive at the top five similar articles we use a  word-weighted algorithm to compare words from the Title and Abstract of each citation.", "pages": "820--824", "number": "40-41", "volume": "45", "journal": "Polski tygodnik lekarski (Warsaw, Poland: 1960)", "pub_type": "article", "bib_id": "kurzynski1990computer"}, "filled": true, "gsrank": 1, "pub_url": "https://europepmc.org/article/med/2096375", "author_id": ["", "T1U6rMcAAAAJ", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:Fhw4pkHGJ1MJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComputer-assisted%2Bdiagnosis%2Bof%2Bacute%2Brenal%2Bfailure%2Bin%2Bchildren%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Fhw4pkHGJ1MJ&ei=NK5dYfebNs6_mQHMm7boDg"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Computer-assisted diagnosis of acute renal failure in children",
+    "author": "Kurzy{\\'n}ski, M and Sas, J and Wikiera, I",
+    "pub_year": "1990",
+    "venue": "Polski tygodnik lekarski (Warsaw \u2026",
+    "abstract": "Either your web browser doesn't support Javascript or it is currently turned off. In the latter  case, please turn on Javascript support in your web browser and reload this page   [Computer-assisted diagnosis of acute renal failure in children]  1. Instytutu Sterowania i Techniki  System\u00f3w Politechniki Wroc\u0142awskiej  To arrive at the top five similar articles we use a  word-weighted algorithm to compare words from the Title and Abstract of each citation.",
+    "pages": "820--824",
+    "number": "40-41",
+    "volume": "45",
+    "journal": "Polski tygodnik lekarski (Warsaw, Poland: 1960)",
+    "pub_type": "article",
+    "bib_id": "kurzynski1990computer"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://europepmc.org/article/med/2096375",
+  "author_id": [
+    "",
+    "T1U6rMcAAAAJ",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:Fhw4pkHGJ1MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComputer-assisted%2Bdiagnosis%2Bof%2Bacute%2Brenal%2Bfailure%2Bin%2Bchildren%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Fhw4pkHGJ1MJ&ei=NK5dYfebNs6_mQHMm7boDg"
+}

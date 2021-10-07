@@ -1,1 +1,24 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A method for business sequential data prediction", "author": "Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw", "pub_year": "2010", "venue": "NA", "abstract": "The paper describes the process and new methodology of a hybrid prediction system for business sequential data ie debt portfolio appraisal. Conducting the local area competence data mining approach, repayment values are predicted by means of combination of various data mining techniques. The methods include clustering of references, model selection and enrichment of input variables with prediction outputs from preceding periods. Experimental studies concern the method's configuration influence on its general performance such as", "pub_type": "article", "bib_id": "kajdanowicz2010method"}, "filled": true, "gsrank": 1, "pub_url": "https://aisel.aisnet.org/amcis2010/537/", "author_id": ["GOoaHHEAAAAJ", "cxLgNccAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:qE_CKhbNGhUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bmethod%2Bfor%2Bbusiness%2Bsequential%2Bdata%2Bprediction%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qE_CKhbNGhUJ&ei=9JxdYcTcGou4mAGqg5LoDg", "url_related_articles": "/scholar?q=related:qE_CKhbNGhUJ:scholar.google.com/&scioq=A+method+for+business+sequential+data+prediction&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A method for business sequential data prediction",
+    "author": "Kajdanowicz, Tomasz and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2010",
+    "venue": "NA",
+    "abstract": "The paper describes the process and new methodology of a hybrid prediction system for business sequential data ie debt portfolio appraisal. Conducting the local area competence data mining approach, repayment values are predicted by means of combination of various data mining techniques. The methods include clustering of references, model selection and enrichment of input variables with prediction outputs from preceding periods. Experimental studies concern the method's configuration influence on its general performance such as",
+    "pub_type": "article",
+    "bib_id": "kajdanowicz2010method"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://aisel.aisnet.org/amcis2010/537/",
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:qE_CKhbNGhUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bmethod%2Bfor%2Bbusiness%2Bsequential%2Bdata%2Bprediction%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=qE_CKhbNGhUJ&ei=9JxdYcTcGou4mAGqg5LoDg",
+  "url_related_articles": "/scholar?q=related:qE_CKhbNGhUJ:scholar.google.com/&scioq=A+method+for+business+sequential+data+prediction&hl=en&as_sdt=0,5"
+}

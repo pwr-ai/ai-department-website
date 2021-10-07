@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Struktura hipertekstu a struktura systemu WWW", "author": "Kazienko, Przemys{\\l}aw and Informacyjnych, Zak{\\l}ad System{\\'o}w", "pub_year": "1998", "venue": "Zagadnienia Informacji Naukowej", "abstract": "Idea hipertekstu zosta\u0142a po raz pierwszy przedstawiona przez Vannevar Busha w 1945 roku [10]. Jednak\u017ce dynamiczny rozw\u00f3j koncepcji hipertekstu nast\u0105pi\u0142 dopiero w latach osiemdziesi\u0105tych i dziewi\u0119\u0107dziesi\u0105tych. Opracowano wtedy wiele modeli hipertekstu, jak np. Dexter [27], HDM [24], Proxhy [30], Microcosm [28] czy bardziej formalny-XHMBS [38]; nadal prowadzone s\u0105 badania w tym zakresie. Napisanych zosta\u0142o tak\u017ce du\u017co ksi\u0105\u017cek i artyku\u0142\u00f3w w czasopismach naukowych, jak r\u00f3wnie\u017c cyklicznie odbywaj\u0105 si\u0119 wielkie mi\u0119dzynarodowe", "pages": "72", "number": "2", "journal": "Zagadnienia Informacji Naukowej", "pub_type": "article", "bib_id": "kazienko1998struktura"}, "filled": true, "gsrank": 1, "pub_url": "http://www.ii.pwr.edu.pl/~kazienko/pub/ZIN1998/ZINArtykul.pdf", "author_id": ["cxLgNccAAAAJ", ""], "num_citations": 4, "url_scholarbib": "/scholar?q=info:9_3R8ec5XFgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStruktura%2Bhipertekstu%2Ba%2Bstruktura%2Bsystemu%2BWWW%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=9_3R8ec5XFgJ&ei=5EBeYdmqKILemgHVs5GYDg", "citedby_url": "/scholar?cites=6367027641552338423&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:9_3R8ec5XFgJ:scholar.google.com/&scioq=Struktura+hipertekstu+a+struktura+systemu+WWW&hl=en&as_sdt=0,39", "eprint_url": "http://www.ii.pwr.edu.pl/~kazienko/pub/ZIN1998/ZINArtykul.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Struktura hipertekstu a struktura systemu WWW",
+    "author": "Kazienko, Przemys{\\l}aw and Informacyjnych, Zak{\\l}ad System{\\'o}w",
+    "pub_year": "1998",
+    "venue": "Zagadnienia Informacji Naukowej",
+    "abstract": "Idea hipertekstu zosta\u0142a po raz pierwszy przedstawiona przez Vannevar Busha w 1945 roku [10]. Jednak\u017ce dynamiczny rozw\u00f3j koncepcji hipertekstu nast\u0105pi\u0142 dopiero w latach osiemdziesi\u0105tych i dziewi\u0119\u0107dziesi\u0105tych. Opracowano wtedy wiele modeli hipertekstu, jak np. Dexter [27], HDM [24], Proxhy [30], Microcosm [28] czy bardziej formalny-XHMBS [38]; nadal prowadzone s\u0105 badania w tym zakresie. Napisanych zosta\u0142o tak\u017ce du\u017co ksi\u0105\u017cek i artyku\u0142\u00f3w w czasopismach naukowych, jak r\u00f3wnie\u017c cyklicznie odbywaj\u0105 si\u0119 wielkie mi\u0119dzynarodowe",
+    "pages": "72",
+    "number": "2",
+    "journal": "Zagadnienia Informacji Naukowej",
+    "pub_type": "article",
+    "bib_id": "kazienko1998struktura"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://www.ii.pwr.edu.pl/~kazienko/pub/ZIN1998/ZINArtykul.pdf",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    ""
+  ],
+  "num_citations": 4,
+  "url_scholarbib": "/scholar?q=info:9_3R8ec5XFgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStruktura%2Bhipertekstu%2Ba%2Bstruktura%2Bsystemu%2BWWW%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=9_3R8ec5XFgJ&ei=5EBeYdmqKILemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=6367027641552338423&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:9_3R8ec5XFgJ:scholar.google.com/&scioq=Struktura+hipertekstu+a+struktura+systemu+WWW&hl=en&as_sdt=0,39",
+  "eprint_url": "http://www.ii.pwr.edu.pl/~kazienko/pub/ZIN1998/ZINArtykul.pdf"
+}

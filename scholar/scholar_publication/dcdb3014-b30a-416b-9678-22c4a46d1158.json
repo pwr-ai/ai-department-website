@@ -1,1 +1,25 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Linguistically Annotated Data Sets for the Polish English Machine Translation System.", "author": "{\\L}abuzek, Marek and Piasecki, Maciej", "venue": "NA", "pub_year": "NA", "abstract": "The work presented here originates from the development of the commercial, wide scale ma chine translation (MT) system. The system was planned from its very beginning to be fully automated and was designated for wide market. Its market name is English Translator (shorten further to ET) and it was created by Techland company. Naturally, the work pre sented here has more technical than scientific character and is primarily performance oriented. However, some experimental techniques being applied in the construction of the", "pub_type": "article", "bib_id": "labuzeklinguistically"}, "filled": true, "gsrank": 1, "pub_url": "http://sun10.ci.pwr.wroc.pl/~piasecki/publications/labuzek_piaseckiFDSL4.pdf", "author_id": ["", "nU_W9XwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:TaSLar4adowJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLinguistically%2BAnnotated%2BData%2BSets%2Bfor%2Bthe%2BPolish%2BEnglish%2BMachine%2BTranslation%2BSystem.%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=TaSLar4adowJ&ei=SDBeYfHACMKSy9YPu-2n8AU", "url_related_articles": "/scholar?q=related:TaSLar4adowJ:scholar.google.com/&scioq=Linguistically+Annotated+Data+Sets+for+the+Polish+English+Machine+Translation+System.&hl=en&as_sdt=0,5", "eprint_url": "http://sun10.ci.pwr.wroc.pl/~piasecki/publications/labuzek_piaseckiFDSL4.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Linguistically Annotated Data Sets for the Polish English Machine Translation System.",
+    "author": "{\\L}abuzek, Marek and Piasecki, Maciej",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "The work presented here originates from the development of the commercial, wide scale ma chine translation (MT) system. The system was planned from its very beginning to be fully automated and was designated for wide market. Its market name is English Translator (shorten further to ET) and it was created by Techland company. Naturally, the work pre sented here has more technical than scientific character and is primarily performance oriented. However, some experimental techniques being applied in the construction of the",
+    "pub_type": "article",
+    "bib_id": "labuzeklinguistically"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://sun10.ci.pwr.wroc.pl/~piasecki/publications/labuzek_piaseckiFDSL4.pdf",
+  "author_id": [
+    "",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:TaSLar4adowJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLinguistically%2BAnnotated%2BData%2BSets%2Bfor%2Bthe%2BPolish%2BEnglish%2BMachine%2BTranslation%2BSystem.%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=TaSLar4adowJ&ei=SDBeYfHACMKSy9YPu-2n8AU",
+  "url_related_articles": "/scholar?q=related:TaSLar4adowJ:scholar.google.com/&scioq=Linguistically+Annotated+Data+Sets+for+the+Polish+English+Machine+Translation+System.&hl=en&as_sdt=0,5",
+  "eprint_url": "http://sun10.ci.pwr.wroc.pl/~piasecki/publications/labuzek_piaseckiFDSL4.pdf"
+}

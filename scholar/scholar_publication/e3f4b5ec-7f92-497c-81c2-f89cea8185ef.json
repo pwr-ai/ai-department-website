@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Dynamic Pricing and Discounts by Means of Interactive Presentation Systems in Stationary Point of Sales", "author": "Lewicki, Marcin and Kajdanowicz, Tomasz and Br{\\'o}dka, Piotr and Sobecki, Janusz", "pub_year": "2021", "venue": "\u2026 on Computational Science", "abstract": "The main purpose of this article was to create a model and simulate the profitability conditions of an interactive presentation system (IPS) with the recommender system (RS) used in the kiosk. 90 million simulations have been run in Python with SymPy to address the problem of discount recommendation offered to the clients according to their usage of the IPS.", "organization": "Springer", "pages": "609--622", "booktitle": "International Conference on Computational Science", "pub_type": "inproceedings", "bib_id": "lewicki2021dynamic"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-77970-2_46", "author_id": ["6VZaOMUAAAAJ", "GOoaHHEAAAAJ", "T7v65jEAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:4gqLw5XmBcQJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2BPricing%2Band%2BDiscounts%2Bby%2BMeans%2Bof%2BInteractive%2BPresentation%2BSystems%2Bin%2BStationary%2BPoint%2Bof%2BSales%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=4gqLw5XmBcQJ&ei=2JldYaDmPM-TmwHPvZGABQ", "url_related_articles": "/scholar?q=related:4gqLw5XmBcQJ:scholar.google.com/&scioq=Dynamic+Pricing+and+Discounts+by+Means+of+Interactive+Presentation+Systems+in+Stationary+Point+of+Sales&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Dynamic Pricing and Discounts by Means of Interactive Presentation Systems in Stationary Point of Sales",
+    "author": "Lewicki, Marcin and Kajdanowicz, Tomasz and Br{\\'o}dka, Piotr and Sobecki, Janusz",
+    "pub_year": "2021",
+    "venue": "\u2026 on Computational Science",
+    "abstract": "The main purpose of this article was to create a model and simulate the profitability conditions of an interactive presentation system (IPS) with the recommender system (RS) used in the kiosk. 90 million simulations have been run in Python with SymPy to address the problem of discount recommendation offered to the clients according to their usage of the IPS.",
+    "organization": "Springer",
+    "pages": "609--622",
+    "booktitle": "International Conference on Computational Science",
+    "pub_type": "inproceedings",
+    "bib_id": "lewicki2021dynamic"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-77970-2_46",
+  "author_id": [
+    "6VZaOMUAAAAJ",
+    "GOoaHHEAAAAJ",
+    "T7v65jEAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:4gqLw5XmBcQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2BPricing%2Band%2BDiscounts%2Bby%2BMeans%2Bof%2BInteractive%2BPresentation%2BSystems%2Bin%2BStationary%2BPoint%2Bof%2BSales%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=4gqLw5XmBcQJ&ei=2JldYaDmPM-TmwHPvZGABQ",
+  "url_related_articles": "/scholar?q=related:4gqLw5XmBcQJ:scholar.google.com/&scioq=Dynamic+Pricing+and+Discounts+by+Means+of+Interactive+Presentation+Systems+in+Stationary+Point+of+Sales&hl=en&as_sdt=0,5"
+}

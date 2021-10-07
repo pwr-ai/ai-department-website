@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Usage-based positive and negative verification of user interface structure", "author": "Kazienko, Przemyslaw", "pub_year": "2008", "venue": "\u2026 on Autonomic and Autonomous Systems (ICAS' \u2026", "abstract": "The new approach to structure verification of the Web hyperlinks is presented in the paper. It utilizes several types of patterns extracted from the Web usage data: positive and negative association rules, positive sequential patterns as well as the new kind of patterns-sequential patterns with negative conclusions. All they enable to appraise the usefulness of hyperlinks in both the positive and negative way. Based on this knowledge, the content managers can adequately promote the trustworthy hyperlinks and remove the negatively verified ones.", "organization": "IEEE", "pages": "1--6", "booktitle": "Fourth International Conference on Autonomic and Autonomous Systems (ICAS'08)", "pub_type": "inproceedings", "bib_id": "kazienko2008usage"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/4488314/", "author_id": ["cxLgNccAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:woqZfjCKNhsJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUsage-based%2Bpositive%2Band%2Bnegative%2Bverification%2Bof%2Buser%2Binterface%2Bstructure%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=woqZfjCKNhsJ&ei=GEFeYaCRL4LemgHVs5GYDg", "citedby_url": "/scholar?cites=1960906628653484738&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:woqZfjCKNhsJ:scholar.google.com/&scioq=Usage-based+positive+and+negative+verification+of+user+interface+structure&hl=en&as_sdt=0,39", "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.4558&rep=rep1&type=pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Usage-based positive and negative verification of user interface structure",
+    "author": "Kazienko, Przemyslaw",
+    "pub_year": "2008",
+    "venue": "\u2026 on Autonomic and Autonomous Systems (ICAS' \u2026",
+    "abstract": "The new approach to structure verification of the Web hyperlinks is presented in the paper. It utilizes several types of patterns extracted from the Web usage data: positive and negative association rules, positive sequential patterns as well as the new kind of patterns-sequential patterns with negative conclusions. All they enable to appraise the usefulness of hyperlinks in both the positive and negative way. Based on this knowledge, the content managers can adequately promote the trustworthy hyperlinks and remove the negatively verified ones.",
+    "organization": "IEEE",
+    "pages": "1--6",
+    "booktitle": "Fourth International Conference on Autonomic and Autonomous Systems (ICAS'08)",
+    "pub_type": "inproceedings",
+    "bib_id": "kazienko2008usage"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/4488314/",
+  "author_id": [
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:woqZfjCKNhsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUsage-based%2Bpositive%2Band%2Bnegative%2Bverification%2Bof%2Buser%2Binterface%2Bstructure%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=woqZfjCKNhsJ&ei=GEFeYaCRL4LemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=1960906628653484738&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:woqZfjCKNhsJ:scholar.google.com/&scioq=Usage-based+positive+and+negative+verification+of+user+interface+structure&hl=en&as_sdt=0,39",
+  "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.4558&rep=rep1&type=pdf"
+}

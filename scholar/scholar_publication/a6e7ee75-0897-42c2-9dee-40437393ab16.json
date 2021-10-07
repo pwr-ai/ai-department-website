@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Logo-the modular conversational agent understanding Polish", "author": "Piasecki, Maciej and Matysiak, Ireneusz and Rusak, Anna", "pub_year": "2005", "venue": "5th International Conference \u2026", "abstract": "Our paper presents a modular architecture for a natural dialogue system. The architecture is applied in the construction of Logo-a dialogue system for Polish, based on the Discourse Representation theory, implementing some aspects of the pragmatic analysis and enabling communication with an agent acting in the virtual reality of a blocks world. Logo deals also with the selected issues of coreference resolution. The proposed architecture is intended to be flexible and open for utilisation of diverged language resources.", "organization": "IEEE", "pages": "178--183", "booktitle": "5th International Conference on Intelligent Systems Design and Applications (ISDA'05)", "pub_type": "inproceedings", "bib_id": "piasecki2005logo"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/1578781/", "author_id": ["nU_W9XwAAAAJ", "", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:pY4H1_djs84J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLogo-the%2Bmodular%2Bconversational%2Bagent%2Bunderstanding%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=pY4H1_djs84J&ei=ty5eYcyKIYLemgHVs5GYDg", "url_related_articles": "/scholar?q=related:pY4H1_djs84J:scholar.google.com/&scioq=Logo-the+modular+conversational+agent+understanding+Polish&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Logo-the modular conversational agent understanding Polish",
+    "author": "Piasecki, Maciej and Matysiak, Ireneusz and Rusak, Anna",
+    "pub_year": "2005",
+    "venue": "5th International Conference \u2026",
+    "abstract": "Our paper presents a modular architecture for a natural dialogue system. The architecture is applied in the construction of Logo-a dialogue system for Polish, based on the Discourse Representation theory, implementing some aspects of the pragmatic analysis and enabling communication with an agent acting in the virtual reality of a blocks world. Logo deals also with the selected issues of coreference resolution. The proposed architecture is intended to be flexible and open for utilisation of diverged language resources.",
+    "organization": "IEEE",
+    "pages": "178--183",
+    "booktitle": "5th International Conference on Intelligent Systems Design and Applications (ISDA'05)",
+    "pub_type": "inproceedings",
+    "bib_id": "piasecki2005logo"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/1578781/",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    "",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:pY4H1_djs84J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLogo-the%2Bmodular%2Bconversational%2Bagent%2Bunderstanding%2BPolish%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=pY4H1_djs84J&ei=ty5eYcyKIYLemgHVs5GYDg",
+  "url_related_articles": "/scholar?q=related:pY4H1_djs84J:scholar.google.com/&scioq=Logo-the+modular+conversational+agent+understanding+Polish&hl=en&as_sdt=0,5"
+}

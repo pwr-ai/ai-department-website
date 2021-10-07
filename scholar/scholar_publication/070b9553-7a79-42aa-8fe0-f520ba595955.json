@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "WebSty--an Open Stylometric System based on Multilevel Text Analysis", "author": "Eder, Maciej and Piasecki, Maciej and Walkowiak, Tomasz", "venue": "NA", "pub_year": "NA", "abstract": "Stylometric techniques are known for their high accuracy of text classification, but at the same time they are usually quite difficult to be used by, say, an average literary scholar. Presumably, stylometry would have been routinely applied in many research tasks in the Humanities, if it had been more accessible to researchers with no programming skills. In this paper we present a general idea, followed by a fully functional prototype of an open stylometric system that facilitates its wide use with respect to two aspects: technical and", "pub_type": "article", "bib_id": "ederwebsty"}, "filled": true, "gsrank": 1, "pub_url": "https://pdfs.semanticscholar.org/d22d/078c5e79741b6851505f7f0da20af4ae663e.pdf", "author_id": ["Kn3f_uIAAAAJ", "nU_W9XwAAAAJ", "_SNoS0gAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:wpVJwG77KOgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWebSty%25E2%2580%2593an%2BOpen%2BStylometric%2BSystem%2Bbased%2Bon%2BMultilevel%2BText%2BAnalysis%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=wpVJwG77KOgJ&ei=5y9eYZPYNaPZsQKvo78o", "url_related_articles": "/scholar?q=related:wpVJwG77KOgJ:scholar.google.com/&scioq=WebSty%E2%80%93an+Open+Stylometric+System+based+on+Multilevel+Text+Analysis&hl=en&as_sdt=0,5", "eprint_url": "https://pdfs.semanticscholar.org/d22d/078c5e79741b6851505f7f0da20af4ae663e.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "WebSty--an Open Stylometric System based on Multilevel Text Analysis",
+    "author": "Eder, Maciej and Piasecki, Maciej and Walkowiak, Tomasz",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "Stylometric techniques are known for their high accuracy of text classification, but at the same time they are usually quite difficult to be used by, say, an average literary scholar. Presumably, stylometry would have been routinely applied in many research tasks in the Humanities, if it had been more accessible to researchers with no programming skills. In this paper we present a general idea, followed by a fully functional prototype of an open stylometric system that facilitates its wide use with respect to two aspects: technical and",
+    "pub_type": "article",
+    "bib_id": "ederwebsty"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://pdfs.semanticscholar.org/d22d/078c5e79741b6851505f7f0da20af4ae663e.pdf",
+  "author_id": [
+    "Kn3f_uIAAAAJ",
+    "nU_W9XwAAAAJ",
+    "_SNoS0gAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:wpVJwG77KOgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWebSty%25E2%2580%2593an%2BOpen%2BStylometric%2BSystem%2Bbased%2Bon%2BMultilevel%2BText%2BAnalysis%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=wpVJwG77KOgJ&ei=5y9eYZPYNaPZsQKvo78o",
+  "url_related_articles": "/scholar?q=related:wpVJwG77KOgJ:scholar.google.com/&scioq=WebSty%E2%80%93an+Open+Stylometric+System+based+on+Multilevel+Text+Analysis&hl=en&as_sdt=0,5",
+  "eprint_url": "https://pdfs.semanticscholar.org/d22d/078c5e79741b6851505f7f0da20af4ae663e.pdf"
+}

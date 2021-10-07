@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Collective classification techniques: an experimental study", "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw and Janczak, Marcin", "pub_year": "2013", "venue": "New Trends in Databases and \u2026", "abstract": "Collective classification is the area in machine learning, in which unknown nodes in the network are classified based on the classes assigned to the known nodes and the network structure only. Three collective classification algorithms were described and examined in the paper: Iterative Classification (ICA), Gibbs Sampling (GS) and Loopy Belief Propagation (LBP). Experiments on various networks revealed that greater number of output classes decreases classification accuracy, GS provides better results than ICA and LBP outperforms", "publisher": "Springer", "pages": "99--108", "booktitle": "New Trends in Databases and Information Systems", "pub_type": "incollection", "bib_id": "kajdanowicz2013collective"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-32518-2_10", "author_id": ["GOoaHHEAAAAJ", "cxLgNccAAAAJ", ""], "num_citations": 9, "url_scholarbib": "/scholar?q=info:fL-UYK-ctSYJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCollective%2Bclassification%2Btechniques:%2Ban%2Bexperimental%2Bstudy%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=fL-UYK-ctSYJ&ei=0pRdYeHhAc6_mQHMm7boDg", "citedby_url": "/scholar?cites=2789307821279461244&as_sdt=5,44&sciodt=0,44&hl=en", "url_related_articles": "/scholar?q=related:fL-UYK-ctSYJ:scholar.google.com/&scioq=Collective+classification+techniques:+an+experimental+study&hl=en&as_sdt=0,44", "eprint_url": "https://www.ii.pwr.edu.pl/~kazienko/pub/2012/ADBISmcsd2012.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Collective classification techniques: an experimental study",
+    "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw and Janczak, Marcin",
+    "pub_year": "2013",
+    "venue": "New Trends in Databases and \u2026",
+    "abstract": "Collective classification is the area in machine learning, in which unknown nodes in the network are classified based on the classes assigned to the known nodes and the network structure only. Three collective classification algorithms were described and examined in the paper: Iterative Classification (ICA), Gibbs Sampling (GS) and Loopy Belief Propagation (LBP). Experiments on various networks revealed that greater number of output classes decreases classification accuracy, GS provides better results than ICA and LBP outperforms",
+    "publisher": "Springer",
+    "pages": "99--108",
+    "booktitle": "New Trends in Databases and Information Systems",
+    "pub_type": "incollection",
+    "bib_id": "kajdanowicz2013collective"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-32518-2_10",
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "cxLgNccAAAAJ",
+    ""
+  ],
+  "num_citations": 9,
+  "url_scholarbib": "/scholar?q=info:fL-UYK-ctSYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCollective%2Bclassification%2Btechniques:%2Ban%2Bexperimental%2Bstudy%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=fL-UYK-ctSYJ&ei=0pRdYeHhAc6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=2789307821279461244&as_sdt=5,44&sciodt=0,44&hl=en",
+  "url_related_articles": "/scholar?q=related:fL-UYK-ctSYJ:scholar.google.com/&scioq=Collective+classification+techniques:+an+experimental+study&hl=en&as_sdt=0,44",
+  "eprint_url": "https://www.ii.pwr.edu.pl/~kazienko/pub/2012/ADBISmcsd2012.pdf"
+}

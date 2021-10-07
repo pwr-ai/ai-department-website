@@ -1,1 +1,32 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A picture is worth a thousand words: an empirical study on the influence of content visibility on diffusion processes within a virtual world", "author": "Jankowski, Jaros{\\l}aw and Br{\\'o}dka, Piotr and Hamari, Juho", "pub_year": "2016", "venue": "Behaviour & Information \u2026", "abstract": "Studying information diffusion and the spread of goods in the real world and in many digital services can be extremely difficult since information about the information flows is challenging to accurately track. How information spreads has commonly been analysed from the perspective of homophily, social influence, and initial seed selection. However, in virtual worlds and virtual economies, the movements of information and goods can be precisely tracked. Therefore, these environments create laboratories for the accurate study of", "publisher": "Taylor \\& Francis", "pages": "926--945", "number": "11", "volume": "35", "journal": "Behaviour \\& Information Technology", "pub_type": "article", "bib_id": "jankowski2016picture"}, "filled": true, "gsrank": 1, "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/0144929X.2016.1212932", "author_id": ["xZJ38c4AAAAJ", "T7v65jEAAAAJ", "tKMlAegAAAAJ"], "num_citations": 19, "url_scholarbib": "/scholar?q=info:mWGnld5EC0YJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bpicture%2Bis%2Bworth%2Ba%2Bthousand%2Bwords:%2Ban%2Bempirical%2Bstudy%2Bon%2Bthe%2Binfluence%2Bof%2Bcontent%2Bvisibility%2Bon%2Bdiffusion%2Bprocesses%2Bwithin%2Ba%2Bvirtual%2Bworld%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=mWGnld5EC0YJ&ei=Ik1eYcCFC4u4mAGqg5LoDg", "citedby_url": "/scholar?cites=5047203530182975897&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:mWGnld5EC0YJ:scholar.google.com/&scioq=A+picture+is+worth+a+thousand+words:+an+empirical+study+on+the+influence+of+content+visibility+on+diffusion+processes+within+a+virtual+world&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1609.05930"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A picture is worth a thousand words: an empirical study on the influence of content visibility on diffusion processes within a virtual world",
+    "author": "Jankowski, Jaros{\\l}aw and Br{\\'o}dka, Piotr and Hamari, Juho",
+    "pub_year": "2016",
+    "venue": "Behaviour & Information \u2026",
+    "abstract": "Studying information diffusion and the spread of goods in the real world and in many digital services can be extremely difficult since information about the information flows is challenging to accurately track. How information spreads has commonly been analysed from the perspective of homophily, social influence, and initial seed selection. However, in virtual worlds and virtual economies, the movements of information and goods can be precisely tracked. Therefore, these environments create laboratories for the accurate study of",
+    "publisher": "Taylor \\& Francis",
+    "pages": "926--945",
+    "number": "11",
+    "volume": "35",
+    "journal": "Behaviour \\& Information Technology",
+    "pub_type": "article",
+    "bib_id": "jankowski2016picture"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/0144929X.2016.1212932",
+  "author_id": [
+    "xZJ38c4AAAAJ",
+    "T7v65jEAAAAJ",
+    "tKMlAegAAAAJ"
+  ],
+  "num_citations": 19,
+  "url_scholarbib": "/scholar?q=info:mWGnld5EC0YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bpicture%2Bis%2Bworth%2Ba%2Bthousand%2Bwords:%2Ban%2Bempirical%2Bstudy%2Bon%2Bthe%2Binfluence%2Bof%2Bcontent%2Bvisibility%2Bon%2Bdiffusion%2Bprocesses%2Bwithin%2Ba%2Bvirtual%2Bworld%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=mWGnld5EC0YJ&ei=Ik1eYcCFC4u4mAGqg5LoDg",
+  "citedby_url": "/scholar?cites=5047203530182975897&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:mWGnld5EC0YJ:scholar.google.com/&scioq=A+picture+is+worth+a+thousand+words:+an+empirical+study+on+the+influence+of+content+visibility+on+diffusion+processes+within+a+virtual+world&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1609.05930"
+}

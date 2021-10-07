@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Named Entity Matching Method Based on the Context-Free Morphological Generator", "author": "Koco{\\'n}, Jan and Piasecki, Maciej", "pub_year": "2014", "venue": "International Conference on Natural Language \u2026", "abstract": "Polish named entities are mostly out-of-vocabulary words, ie they are not described in morphological lexicons, and their proper analysis by Polish morphological analysers is difficult. The existing approaches to guessing unknown word lemmas and descriptions do not provide results on a satisfactory level. Moreover, lemmatisation of multi-word named entities cannot be solved by word-by-word lemmatisation in Polish. Multi-word named entity lemmas (eg included in gazetteers) often contain word forms that differ from lemmas of their", "organization": "Springer", "pages": "34--44", "booktitle": "International Conference on Natural Language Processing", "pub_type": "inproceedings", "bib_id": "kocon2014named"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-10888-9_4", "author_id": ["pmQHb5IAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 3, "url_scholarbib": "/scholar?q=info:jrMrqfk9vssJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNamed%2BEntity%2BMatching%2BMethod%2BBased%2Bon%2Bthe%2BContext-Free%2BMorphological%2BGenerator%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=jrMrqfk9vssJ&ei=3J9dYbT4LM-TmwHPvZGABQ", "citedby_url": "/scholar?cites=14681239977768760206&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:jrMrqfk9vssJ:scholar.google.com/&scioq=Named+Entity+Matching+Method+Based+on+the+Context-Free+Morphological+Generator&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Jan-Kocon-2/publication/290551946_Named_Entity_Matching_Method_Based_on_the_Context-Free_Morphological_Generator/links/5982f081a6fdcc8bd247c019/Named-Entity-Matching-Method-Based-on-the-Context-Free-Morphological-Generator.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Named Entity Matching Method Based on the Context-Free Morphological Generator",
+    "author": "Koco{\\'n}, Jan and Piasecki, Maciej",
+    "pub_year": "2014",
+    "venue": "International Conference on Natural Language \u2026",
+    "abstract": "Polish named entities are mostly out-of-vocabulary words, ie they are not described in morphological lexicons, and their proper analysis by Polish morphological analysers is difficult. The existing approaches to guessing unknown word lemmas and descriptions do not provide results on a satisfactory level. Moreover, lemmatisation of multi-word named entities cannot be solved by word-by-word lemmatisation in Polish. Multi-word named entity lemmas (eg included in gazetteers) often contain word forms that differ from lemmas of their",
+    "organization": "Springer",
+    "pages": "34--44",
+    "booktitle": "International Conference on Natural Language Processing",
+    "pub_type": "inproceedings",
+    "bib_id": "kocon2014named"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-10888-9_4",
+  "author_id": [
+    "pmQHb5IAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 3,
+  "url_scholarbib": "/scholar?q=info:jrMrqfk9vssJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNamed%2BEntity%2BMatching%2BMethod%2BBased%2Bon%2Bthe%2BContext-Free%2BMorphological%2BGenerator%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=jrMrqfk9vssJ&ei=3J9dYbT4LM-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=14681239977768760206&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:jrMrqfk9vssJ:scholar.google.com/&scioq=Named+Entity+Matching+Method+Based+on+the+Context-Free+Morphological+Generator&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Jan-Kocon-2/publication/290551946_Named_Entity_Matching_Method_Based_on_the_Context-Free_Morphological_Generator/links/5982f081a6fdcc8bd247c019/Named-Entity-Matching-Method-Based-on-the-Context-Free-Morphological-Generator.pdf"
+}

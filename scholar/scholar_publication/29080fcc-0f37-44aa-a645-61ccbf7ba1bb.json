@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Trading rule discovery on Warsaw Stock Exchange using revolutionary algorithms", "author": "Myszkowski, Pawe{\\l} B and Rachwalski, {\\L}ukasz", "pub_year": "2009", "venue": "\u2026 Multiconference on Computer \u2026", "abstract": "This paper presents an application of coevolutionary algorithms to rule discovery on stock market. We used genetic programming techniques with coevolution in financial data mining process. There were tested a various approaches to include coevolution aspects in task of build trading rule (buy and sell decision). Trading rules are based on technical and fundamental indicators included in decision tree and were tested on Warsaw Stock Exchange historical data.", "organization": "IEEE", "pages": "81--88", "booktitle": "2009 International Multiconference on Computer Science and Information Technology", "pub_type": "inproceedings", "bib_id": "myszkowski2009trading"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/5352748/", "author_id": ["63xKDRcAAAAJ", ""], "num_citations": 12, "url_scholarbib": "/scholar?q=info:JCol2Jld5UEJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTrading%2Brule%2Bdiscovery%2Bon%2BWarsaw%2BStock%2BExchange%2Busing%2Bcoevolutionary%2Balgorithms%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=JCol2Jld5UEJ&ei=olleYa2ANcKSy9YPu-2n8AU", "citedby_url": "/scholar?cites=4748304297469749796&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:JCol2Jld5UEJ:scholar.google.com/&scioq=Trading+rule+discovery+on+Warsaw+Stock+Exchange+using+coevolutionary+algorithms&hl=en&as_sdt=0,5", "eprint_url": "https://annals-csis.org/proceedings/2009/PTI/pliks/133.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Trading rule discovery on Warsaw Stock Exchange using revolutionary algorithms",
+    "author": "Myszkowski, Pawe{\\l} B and Rachwalski, {\\L}ukasz",
+    "pub_year": "2009",
+    "venue": "\u2026 Multiconference on Computer \u2026",
+    "abstract": "This paper presents an application of coevolutionary algorithms to rule discovery on stock market. We used genetic programming techniques with coevolution in financial data mining process. There were tested a various approaches to include coevolution aspects in task of build trading rule (buy and sell decision). Trading rules are based on technical and fundamental indicators included in decision tree and were tested on Warsaw Stock Exchange historical data.",
+    "organization": "IEEE",
+    "pages": "81--88",
+    "booktitle": "2009 International Multiconference on Computer Science and Information Technology",
+    "pub_type": "inproceedings",
+    "bib_id": "myszkowski2009trading"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/5352748/",
+  "author_id": [
+    "63xKDRcAAAAJ",
+    ""
+  ],
+  "num_citations": 12,
+  "url_scholarbib": "/scholar?q=info:JCol2Jld5UEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTrading%2Brule%2Bdiscovery%2Bon%2BWarsaw%2BStock%2BExchange%2Busing%2Bcoevolutionary%2Balgorithms%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=JCol2Jld5UEJ&ei=olleYa2ANcKSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=4748304297469749796&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:JCol2Jld5UEJ:scholar.google.com/&scioq=Trading+rule+discovery+on+Warsaw+Stock+Exchange+using+coevolutionary+algorithms&hl=en&as_sdt=0,5",
+  "eprint_url": "https://annals-csis.org/proceedings/2009/PTI/pliks/133.pdf"
+}

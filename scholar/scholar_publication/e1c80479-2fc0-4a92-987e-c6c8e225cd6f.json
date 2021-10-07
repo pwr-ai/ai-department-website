@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Lexical platform--the first step towards user-centred integration of lexical resources", "author": "Piasecki, Maciej and Walkowiak, Tomasz and Rudnicka, Ewa and Bond, Francis", "pub_year": "2018", "venue": "Cognitive Studies", "abstract": "The paper describes the Lexical Platform\u2014a means for lightweight integration of independent lexical resources. Lexical resources (LRs) are represented as web components that implement a minimal set of predefined programming interfaces. These provide functionality for querying and generate a simple, common presentation format. Therefore, a common data format is not needed and the identity of component LRs is preserved. Users can search, browse and navigate via resources on the basis of a limited", "publisher": "Instytut Slawistyki Polskiej Akademii Nauk", "number": "18", "journal": "Cognitive Studies", "pub_type": "article", "bib_id": "piasecki2018lexical"}, "filled": true, "gsrank": 1, "pub_url": "https://www.ceeol.com/search/article-detail?id=739823", "author_id": ["nU_W9XwAAAAJ", "_SNoS0gAAAAJ", "rCk4VXEAAAAJ", "y2WMWysAAAAJ"], "num_citations": 2, "url_scholarbib": "/scholar?q=info:_eVYpEZcSt8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLexical%2Bplatform%25E2%2580%2593the%2Bfirst%2Bstep%2Btowards%2Buser-centred%2Bintegration%2Bof%2Blexical%2Bresources%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=_eVYpEZcSt8J&ei=P8BdYfjhFc-TmwHPvZGABQ", "citedby_url": "/scholar?cites=16089774077209273853&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:_eVYpEZcSt8J:scholar.google.com/&scioq=Lexical+platform%E2%80%93the+first+step+towards+user-centred+integration+of+lexical+resources&hl=en&as_sdt=0,5", "eprint_url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_11649_cs_1811/c/cs.1811-4462.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Lexical platform--the first step towards user-centred integration of lexical resources",
+    "author": "Piasecki, Maciej and Walkowiak, Tomasz and Rudnicka, Ewa and Bond, Francis",
+    "pub_year": "2018",
+    "venue": "Cognitive Studies",
+    "abstract": "The paper describes the Lexical Platform\u2014a means for lightweight integration of independent lexical resources. Lexical resources (LRs) are represented as web components that implement a minimal set of predefined programming interfaces. These provide functionality for querying and generate a simple, common presentation format. Therefore, a common data format is not needed and the identity of component LRs is preserved. Users can search, browse and navigate via resources on the basis of a limited",
+    "publisher": "Instytut Slawistyki Polskiej Akademii Nauk",
+    "number": "18",
+    "journal": "Cognitive Studies",
+    "pub_type": "article",
+    "bib_id": "piasecki2018lexical"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.ceeol.com/search/article-detail?id=739823",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    "_SNoS0gAAAAJ",
+    "rCk4VXEAAAAJ",
+    "y2WMWysAAAAJ"
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:_eVYpEZcSt8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLexical%2Bplatform%25E2%2580%2593the%2Bfirst%2Bstep%2Btowards%2Buser-centred%2Bintegration%2Bof%2Blexical%2Bresources%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=_eVYpEZcSt8J&ei=P8BdYfjhFc-TmwHPvZGABQ",
+  "citedby_url": "/scholar?cites=16089774077209273853&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:_eVYpEZcSt8J:scholar.google.com/&scioq=Lexical+platform%E2%80%93the+first+step+towards+user-centred+integration+of+lexical+resources&hl=en&as_sdt=0,5",
+  "eprint_url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_11649_cs_1811/c/cs.1811-4462.pdf"
+}

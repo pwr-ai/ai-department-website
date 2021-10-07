@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Link recommendation method based on web content and usage mining", "author": "Kazienko, Przemys{\\l}aw and Kiewra, Maciej", "pub_year": "2003", "venue": "Intelligent Information Processing and Web Mining", "abstract": "Hyperlink recommendation overcomes the problem of quick and easy access to information in web systems. A method that integrates web usage and content mining was proposed and examined in this paper. Potentially interesting documents are prompted to the user on the", "publisher": "Springer", "pages": "529--533", "booktitle": "Intelligent Information Processing and Web Mining", "pub_type": "incollection", "bib_id": "kazienko2003link"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-36562-4_56", "author_id": ["cxLgNccAAAAJ", ""], "num_citations": 30, "url_scholarbib": "/scholar?q=info:shAejwCQKKUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLink%2Brecommendation%2Bmethod%2Bbased%2Bon%2Bweb%2Bcontent%2Band%2Busage%2Bmining%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=shAejwCQKKUJ&ei=KjNeYez1EYLemgHVs5GYDg", "citedby_url": "/scholar?cites=11900920347402047666&as_sdt=5,33&sciodt=0,33&hl=en", "url_related_articles": "/scholar?q=related:shAejwCQKKUJ:scholar.google.com/&scioq=Link+recommendation+method+based+on+web+content+and+usage+mining&hl=en&as_sdt=0,33"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Link recommendation method based on web content and usage mining",
+    "author": "Kazienko, Przemys{\\l}aw and Kiewra, Maciej",
+    "pub_year": "2003",
+    "venue": "Intelligent Information Processing and Web Mining",
+    "abstract": "Hyperlink recommendation overcomes the problem of quick and easy access to information in web systems. A method that integrates web usage and content mining was proposed and examined in this paper. Potentially interesting documents are prompted to the user on the",
+    "publisher": "Springer",
+    "pages": "529--533",
+    "booktitle": "Intelligent Information Processing and Web Mining",
+    "pub_type": "incollection",
+    "bib_id": "kazienko2003link"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-36562-4_56",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    ""
+  ],
+  "num_citations": 30,
+  "url_scholarbib": "/scholar?q=info:shAejwCQKKUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLink%2Brecommendation%2Bmethod%2Bbased%2Bon%2Bweb%2Bcontent%2Band%2Busage%2Bmining%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=shAejwCQKKUJ&ei=KjNeYez1EYLemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=11900920347402047666&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:shAejwCQKKUJ:scholar.google.com/&scioq=Link+recommendation+method+based+on+web+content+and+usage+mining&hl=en&as_sdt=0,33"
+}

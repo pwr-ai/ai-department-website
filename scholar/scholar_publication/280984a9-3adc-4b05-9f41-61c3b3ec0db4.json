@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A (Non)-Perfect Match: Mapping plWordNet onto PrincetonWordNet", "author": "Rudnicka, Ewa and Witkowski, Wojciech and Piasecki, Maciej", "pub_year": "2021", "venue": "Proceedings of the 11th Global \u2026", "abstract": "The paper reports on the methodology and final results of a large-scale synset mapping between plWordNet and Princeton WordNet. Dedicated manual and semi-automatic mapping procedures as well as interlingual relation types for nouns, verbs, adjectives and adverbs are described. The statistics of all types of interlingual relations are also provided.", "pages": "137--146", "booktitle": "Proceedings of the 11th Global Wordnet Conference", "pub_type": "inproceedings", "bib_id": "rudnicka2021non"}, "filled": true, "gsrank": 1, "pub_url": "https://www.aclweb.org/anthology/2021.gwc-1.16/", "author_id": ["rCk4VXEAAAAJ", "UvbGAuIAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:cQf44Rbu9BoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2B(Non)-Perfect%2BMatch:%2BMapping%2BplWordNet%2Bonto%2BPrincetonWordNet%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=cQf44Rbu9BoJ&ei=tsFdYYSCAsKSy9YPu-2n8AU", "url_related_articles": "/scholar?q=related:cQf44Rbu9BoJ:scholar.google.com/&scioq=A+(Non)-Perfect+Match:+Mapping+plWordNet+onto+PrincetonWordNet&hl=en&as_sdt=0,5", "eprint_url": "https://www.aclweb.org/anthology/2021.gwc-1.16.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A (Non)-Perfect Match: Mapping plWordNet onto PrincetonWordNet",
+    "author": "Rudnicka, Ewa and Witkowski, Wojciech and Piasecki, Maciej",
+    "pub_year": "2021",
+    "venue": "Proceedings of the 11th Global \u2026",
+    "abstract": "The paper reports on the methodology and final results of a large-scale synset mapping between plWordNet and Princeton WordNet. Dedicated manual and semi-automatic mapping procedures as well as interlingual relation types for nouns, verbs, adjectives and adverbs are described. The statistics of all types of interlingual relations are also provided.",
+    "pages": "137--146",
+    "booktitle": "Proceedings of the 11th Global Wordnet Conference",
+    "pub_type": "inproceedings",
+    "bib_id": "rudnicka2021non"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.aclweb.org/anthology/2021.gwc-1.16/",
+  "author_id": [
+    "rCk4VXEAAAAJ",
+    "UvbGAuIAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:cQf44Rbu9BoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2B(Non)-Perfect%2BMatch:%2BMapping%2BplWordNet%2Bonto%2BPrincetonWordNet%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=cQf44Rbu9BoJ&ei=tsFdYYSCAsKSy9YPu-2n8AU",
+  "url_related_articles": "/scholar?q=related:cQf44Rbu9BoJ:scholar.google.com/&scioq=A+(Non)-Perfect+Match:+Mapping+plWordNet+onto+PrincetonWordNet&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.aclweb.org/anthology/2021.gwc-1.16.pdf"
+}

@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Supervised approach to recognise Polish temporal expressions and rule-based interpretation of timexes", "author": "Koco{\\'n}, Jan and Marci{\\'n}czuk, Micha{\\l}", "pub_year": "2017", "venue": "Natural Language Engineering", "abstract": "Several solutions were proposed for Polish as open source frameworks, eg Liner2 (Marci\u00b4nczuk  incomplete if it does not capture how these entities are temporally updated (Pustejovsky  the basis of workshops conclusions is TimeML \u2013 Markup Language for Temporal and Event", "publisher": "Cambridge University Press", "pages": "385--418", "number": "3", "volume": "23", "journal": "Natural Language Engineering", "pub_type": "article", "bib_id": "kocon2017supervised"}, "filled": true, "gsrank": 1, "pub_url": "https://www.cambridge.org/core/journals/natural-language-engineering/article/supervised-approach-to-recognise-polish-temporal-expressions-and-rulebased-interpretation-of-timexes/D6911072A23A622BFFF9D0BBEEA405AD", "author_id": ["pmQHb5IAAAAJ", "aAk1SIsAAAAJ"], "num_citations": 9, "url_scholarbib": "/scholar?q=info:sKHsPzgU8QgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiner2%2Btemporal%2Bexpressions%2Bmodel%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sKHsPzgU8QgJ&ei=E6JdYeaeKYLemgHVs5GYDg", "citedby_url": "/scholar?cites=644318453513888176&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:sKHsPzgU8QgJ:scholar.google.com/&scioq=Liner2+temporal+expressions+model&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Supervised approach to recognise Polish temporal expressions and rule-based interpretation of timexes",
+    "author": "Koco{\\'n}, Jan and Marci{\\'n}czuk, Micha{\\l}",
+    "pub_year": "2017",
+    "venue": "Natural Language Engineering",
+    "abstract": "Several solutions were proposed for Polish as open source frameworks, eg Liner2 (Marci\u00b4nczuk  incomplete if it does not capture how these entities are temporally updated (Pustejovsky  the basis of workshops conclusions is TimeML \u2013 Markup Language for Temporal and Event",
+    "publisher": "Cambridge University Press",
+    "pages": "385--418",
+    "number": "3",
+    "volume": "23",
+    "journal": "Natural Language Engineering",
+    "pub_type": "article",
+    "bib_id": "kocon2017supervised"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.cambridge.org/core/journals/natural-language-engineering/article/supervised-approach-to-recognise-polish-temporal-expressions-and-rulebased-interpretation-of-timexes/D6911072A23A622BFFF9D0BBEEA405AD",
+  "author_id": [
+    "pmQHb5IAAAAJ",
+    "aAk1SIsAAAAJ"
+  ],
+  "num_citations": 9,
+  "url_scholarbib": "/scholar?q=info:sKHsPzgU8QgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiner2%2Btemporal%2Bexpressions%2Bmodel%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=sKHsPzgU8QgJ&ei=E6JdYeaeKYLemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=644318453513888176&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:sKHsPzgU8QgJ:scholar.google.com/&scioq=Liner2+temporal+expressions+model&hl=en&as_sdt=0,5"
+}

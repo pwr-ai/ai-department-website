@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Rule-Based Medical Decision Making via Unification Procedure of Information", "author": "Kurzynski, Marek W and Sas, Jerzy and Blinowska, Aleksandra", "pub_year": "1996", "venue": "Medical Informatics Europe' \u2026", "abstract": "This paper presents the original concept of computer-aided medical decisions, which simultaneously uses the information contained in the case records and expert rules. Adopting the probabilistic model of diagnostic problem the rule-based decision algorithm with learning is presented. Proposed algorithm was applied practically to the diagnosis of acute renal failure in children. Obtained results have proved its effectiveness in the computer medical decision-making.", "publisher": "IOS Press", "pages": "537--541", "booktitle": "Medical Informatics Europe\u201996", "pub_type": "incollection", "bib_id": "kurzynski1996rule"}, "filled": true, "gsrank": 1, "pub_url": "https://ebooks.iospress.nl/doi/10.3233/978-1-60750-878-6-537", "author_id": ["", "T1U6rMcAAAAJ", ""], "num_citations": 2, "url_scholarbib": "/scholar?q=info:5TquE02VVbwJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRule-Based%2BMedical%2BDecision%2BMaking%2Bvia%2BUnification%2BProcedure%2Bof%2BInformation%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=5TquE02VVbwJ&ei=OK1dYYbeII2UmQGz6rqYBQ", "citedby_url": "/scholar?cites=13570917210426063589&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:5TquE02VVbwJ:scholar.google.com/&scioq=Rule-Based+Medical+Decision+Making+via+Unification+Procedure+of+Information&hl=en&as_sdt=0,5", "eprint_url": "https://ebooks.iospress.nl/pdf/doi/10.3233/978-1-60750-878-6-537"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Rule-Based Medical Decision Making via Unification Procedure of Information",
+    "author": "Kurzynski, Marek W and Sas, Jerzy and Blinowska, Aleksandra",
+    "pub_year": "1996",
+    "venue": "Medical Informatics Europe' \u2026",
+    "abstract": "This paper presents the original concept of computer-aided medical decisions, which simultaneously uses the information contained in the case records and expert rules. Adopting the probabilistic model of diagnostic problem the rule-based decision algorithm with learning is presented. Proposed algorithm was applied practically to the diagnosis of acute renal failure in children. Obtained results have proved its effectiveness in the computer medical decision-making.",
+    "publisher": "IOS Press",
+    "pages": "537--541",
+    "booktitle": "Medical Informatics Europe\u201996",
+    "pub_type": "incollection",
+    "bib_id": "kurzynski1996rule"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ebooks.iospress.nl/doi/10.3233/978-1-60750-878-6-537",
+  "author_id": [
+    "",
+    "T1U6rMcAAAAJ",
+    ""
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:5TquE02VVbwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRule-Based%2BMedical%2BDecision%2BMaking%2Bvia%2BUnification%2BProcedure%2Bof%2BInformation%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=5TquE02VVbwJ&ei=OK1dYYbeII2UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=13570917210426063589&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:5TquE02VVbwJ:scholar.google.com/&scioq=Rule-Based+Medical+Decision+Making+via+Unification+Procedure+of+Information&hl=en&as_sdt=0,5",
+  "eprint_url": "https://ebooks.iospress.nl/pdf/doi/10.3233/978-1-60750-878-6-537"
+}

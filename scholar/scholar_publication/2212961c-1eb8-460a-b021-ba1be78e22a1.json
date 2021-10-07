@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "The multidimensional study of viral campaigns as branching processes", "author": "Jankowski, Jaros{\\l}aw and Michalski, Rados{\\l}aw and Kazienko, Przemys{\\l}aw", "pub_year": "2012", "venue": "International Conference on Social \u2026", "abstract": "Viral campaigns on the Internet may follow variety of models, depending on the content, incentives, personal attitudes of sender and recipient to the content and other factors. Due to the fact that the knowledge of the campaign specifics is essential for the campaign managers, researchers are constantly evaluating models and real-world data. The goal of this article is to present the new knowledge obtained from studying two viral campaigns that took place in a virtual world which followed the branching process. The results show that it is", "organization": "Springer", "pages": "462--474", "booktitle": "International Conference on Social Informatics", "pub_type": "inproceedings", "bib_id": "jankowski2012multidimensional"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-35386-4_34", "author_id": ["xZJ38c4AAAAJ", "xMVnv3sAAAAJ", "cxLgNccAAAAJ"], "num_citations": 23, "url_scholarbib": "/scholar?q=info:NhcOrWarivkJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bmultidimensional%2Bstudy%2Bof%2Bviral%2Bcampaigns%2Bas%2Bbranching%2Bprocesses%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=NhcOrWarivkJ&ei=vDReYb7rJ4LemgHVs5GYDg", "citedby_url": "/scholar?cites=17981372919708522294&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:NhcOrWarivkJ:scholar.google.com/&scioq=The+multidimensional+study+of+viral+campaigns+as+branching+processes&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1303.2364"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "The multidimensional study of viral campaigns as branching processes",
+    "author": "Jankowski, Jaros{\\l}aw and Michalski, Rados{\\l}aw and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2012",
+    "venue": "International Conference on Social \u2026",
+    "abstract": "Viral campaigns on the Internet may follow variety of models, depending on the content, incentives, personal attitudes of sender and recipient to the content and other factors. Due to the fact that the knowledge of the campaign specifics is essential for the campaign managers, researchers are constantly evaluating models and real-world data. The goal of this article is to present the new knowledge obtained from studying two viral campaigns that took place in a virtual world which followed the branching process. The results show that it is",
+    "organization": "Springer",
+    "pages": "462--474",
+    "booktitle": "International Conference on Social Informatics",
+    "pub_type": "inproceedings",
+    "bib_id": "jankowski2012multidimensional"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-35386-4_34",
+  "author_id": [
+    "xZJ38c4AAAAJ",
+    "xMVnv3sAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 23,
+  "url_scholarbib": "/scholar?q=info:NhcOrWarivkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bmultidimensional%2Bstudy%2Bof%2Bviral%2Bcampaigns%2Bas%2Bbranching%2Bprocesses%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=NhcOrWarivkJ&ei=vDReYb7rJ4LemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=17981372919708522294&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:NhcOrWarivkJ:scholar.google.com/&scioq=The+multidimensional+study+of+viral+campaigns+as+branching+processes&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1303.2364"
+}

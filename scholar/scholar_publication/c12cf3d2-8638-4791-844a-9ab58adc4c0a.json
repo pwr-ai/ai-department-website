@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Seed selection for information cascade in multilayer networks", "author": "Erlandsson, Fredrik and Br{\\'o}dka, Piotr and Borg, Anton", "pub_year": "2017", "venue": "International Conference on Complex \u2026", "abstract": "Information spreading is an interesting field in the domain of online social media. In this work, we are investigating how well different seed selection strategies affect the spreading processes simulated using independent cascade model on eighteen multilayer social networks. Fifteen networks are built based on the user interaction data extracted from Facebook public pages and tree of them are multilayer networks downloaded from public repository (two of them being Twitter networks). The results indicate that various state of the", "organization": "Springer", "pages": "426--436", "booktitle": "International Conference on Complex Networks and their Applications", "pub_type": "inproceedings", "bib_id": "erlandsson2017seed"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-72150-7_35", "author_id": ["vJjq9LwAAAAJ", "T7v65jEAAAAJ", "iVoVPqMAAAAJ"], "num_citations": 14, "url_scholarbib": "/scholar?q=info:WYhQPQRc-hoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSeed%2Bselection%2Bfor%2Binformation%2Bcascade%2Bin%2Bmultilayer%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=WYhQPQRc-hoJ&ei=3k5eYeurMY2UmQGz6rqYBQ", "citedby_url": "/scholar?cites=1943967362442102873&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:WYhQPQRc-hoJ:scholar.google.com/&scioq=Seed+selection+for+information+cascade+in+multilayer+networks&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1710.04391"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Seed selection for information cascade in multilayer networks",
+    "author": "Erlandsson, Fredrik and Br{\\'o}dka, Piotr and Borg, Anton",
+    "pub_year": "2017",
+    "venue": "International Conference on Complex \u2026",
+    "abstract": "Information spreading is an interesting field in the domain of online social media. In this work, we are investigating how well different seed selection strategies affect the spreading processes simulated using independent cascade model on eighteen multilayer social networks. Fifteen networks are built based on the user interaction data extracted from Facebook public pages and tree of them are multilayer networks downloaded from public repository (two of them being Twitter networks). The results indicate that various state of the",
+    "organization": "Springer",
+    "pages": "426--436",
+    "booktitle": "International Conference on Complex Networks and their Applications",
+    "pub_type": "inproceedings",
+    "bib_id": "erlandsson2017seed"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-72150-7_35",
+  "author_id": [
+    "vJjq9LwAAAAJ",
+    "T7v65jEAAAAJ",
+    "iVoVPqMAAAAJ"
+  ],
+  "num_citations": 14,
+  "url_scholarbib": "/scholar?q=info:WYhQPQRc-hoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSeed%2Bselection%2Bfor%2Binformation%2Bcascade%2Bin%2Bmultilayer%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=WYhQPQRc-hoJ&ei=3k5eYeurMY2UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=1943967362442102873&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:WYhQPQRc-hoJ:scholar.google.com/&scioq=Seed+selection+for+information+cascade+in+multilayer+networks&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1710.04391"
+}

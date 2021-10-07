@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Quasi-hierarchical evolutionary algorithm for flow optimization in survivable MPLS networks", "author": "Przewo{\\'z}niczek, Micha{\\l} and Walkowiak, Krzysztof", "pub_year": "2007", "venue": "International Conference on \u2026", "abstract": "In this paper we address the problem of working paths optimization in survivable MPLS network. We focus on an existing facility network, in which only network flows can be optimized to provide network survivability using the local repair strategy. The main goal of our work is to develop an effective evolutionary algorithm (EA) for considered optimization problem. The novelty is that the proposed algorithm consists of two levels. The \u201chigh\u201d level applies typical EA operators. The \u201clow\u201d level idea is based on the hierarchical algorithm", "organization": "Springer", "pages": "330--342", "booktitle": "International Conference on Computational Science and Its Applications", "pub_type": "inproceedings", "bib_id": "przewozniczek2007quasi"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-74484-9_29", "author_id": ["bmJw3Z0AAAAJ", "cnLc7u4AAAAJ"], "num_citations": 14, "url_scholarbib": "/scholar?q=info:bNYa2ZLZEX8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DQuasi-hierarchical%2Bevolutionary%2Balgorithm%2Bfor%2Bflow%2Boptimization%2Bin%2Bsurvivable%2BMPLS%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bNYa2ZLZEX8J&ei=BUReYZCHBs6_mQHMm7boDg", "citedby_url": "/scholar?cites=9156338742151796332&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:bNYa2ZLZEX8J:scholar.google.com/&scioq=Quasi-hierarchical+evolutionary+algorithm+for+flow+optimization+in+survivable+MPLS+networks&hl=en&as_sdt=0,5", "eprint_url": "https://www.academia.edu/download/43210763/Quasi-hierarchical_Evolutionary_Algorith20160229-13530-1ipohhq.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Quasi-hierarchical evolutionary algorithm for flow optimization in survivable MPLS networks",
+    "author": "Przewo{\\'z}niczek, Micha{\\l} and Walkowiak, Krzysztof",
+    "pub_year": "2007",
+    "venue": "International Conference on \u2026",
+    "abstract": "In this paper we address the problem of working paths optimization in survivable MPLS network. We focus on an existing facility network, in which only network flows can be optimized to provide network survivability using the local repair strategy. The main goal of our work is to develop an effective evolutionary algorithm (EA) for considered optimization problem. The novelty is that the proposed algorithm consists of two levels. The \u201chigh\u201d level applies typical EA operators. The \u201clow\u201d level idea is based on the hierarchical algorithm",
+    "organization": "Springer",
+    "pages": "330--342",
+    "booktitle": "International Conference on Computational Science and Its Applications",
+    "pub_type": "inproceedings",
+    "bib_id": "przewozniczek2007quasi"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-540-74484-9_29",
+  "author_id": [
+    "bmJw3Z0AAAAJ",
+    "cnLc7u4AAAAJ"
+  ],
+  "num_citations": 14,
+  "url_scholarbib": "/scholar?q=info:bNYa2ZLZEX8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DQuasi-hierarchical%2Bevolutionary%2Balgorithm%2Bfor%2Bflow%2Boptimization%2Bin%2Bsurvivable%2BMPLS%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=bNYa2ZLZEX8J&ei=BUReYZCHBs6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=9156338742151796332&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:bNYa2ZLZEX8J:scholar.google.com/&scioq=Quasi-hierarchical+evolutionary+algorithm+for+flow+optimization+in+survivable+MPLS+networks&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.academia.edu/download/43210763/Quasi-hierarchical_Evolutionary_Algorith20160229-13530-1ipohhq.pdf"
+}

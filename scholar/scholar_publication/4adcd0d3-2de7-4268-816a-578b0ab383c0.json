@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Return on Investment in Machine Learning: Crossing the Chasm between Academia and Business", "author": "Mizgajski, Jan and Szymczak, Adrian and Morzy, Miko{\\l}aj and Augustyniak, {\\L}ukasz and Szyma{\\'n}ski, Piotr and {\\.Z}elasko, Piotr", "pub_year": "2020", "venue": "\u2026 of Computing and \u2026", "abstract": "Academia remains the central place of machine learning education. While academic culture is the predominant factor influencing the way we teach machine learning to students, many practitioners question this culture, claiming the lack of alignment between academic and business environments. Drawing on professional experiences from both sides of the chasm, we describe the main points of contention, in the hope that it will help better align academic syllabi with the expectations towards future machine learning practitioners. We also provide", "pages": "281--304", "number": "4", "volume": "45", "journal": "Foundations of Computing and Decision Sciences", "pub_type": "article", "bib_id": "mizgajski2020return"}, "filled": true, "gsrank": 1, "pub_url": "https://sciendo.com/pdf/10.2478/fcds-2020-0015", "author_id": ["kV8W150AAAAJ", "fNqZL_4AAAAJ", "UwvCguQAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:aUHriOFUjnMJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReturn%2Bon%2BInvestment%2Bin%2BMachine%2BLearning:%2BCrossing%2Bthe%2BChasm%2Bbetween%2BAcademia%2Band%2BBusiness%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=aUHriOFUjnMJ&ei=sENeYcHFEoLemgHVs5GYDg", "url_related_articles": "/scholar?q=related:aUHriOFUjnMJ:scholar.google.com/&scioq=Return+on+Investment+in+Machine+Learning:+Crossing+the+Chasm+between+Academia+and+Business&hl=en&as_sdt=0,5", "eprint_url": "https://sciendo.com/pdf/10.2478/fcds-2020-0015"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Return on Investment in Machine Learning: Crossing the Chasm between Academia and Business",
+    "author": "Mizgajski, Jan and Szymczak, Adrian and Morzy, Miko{\\l}aj and Augustyniak, {\\L}ukasz and Szyma{\\'n}ski, Piotr and {\\.Z}elasko, Piotr",
+    "pub_year": "2020",
+    "venue": "\u2026 of Computing and \u2026",
+    "abstract": "Academia remains the central place of machine learning education. While academic culture is the predominant factor influencing the way we teach machine learning to students, many practitioners question this culture, claiming the lack of alignment between academic and business environments. Drawing on professional experiences from both sides of the chasm, we describe the main points of contention, in the hope that it will help better align academic syllabi with the expectations towards future machine learning practitioners. We also provide",
+    "pages": "281--304",
+    "number": "4",
+    "volume": "45",
+    "journal": "Foundations of Computing and Decision Sciences",
+    "pub_type": "article",
+    "bib_id": "mizgajski2020return"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://sciendo.com/pdf/10.2478/fcds-2020-0015",
+  "author_id": [
+    "kV8W150AAAAJ",
+    "fNqZL_4AAAAJ",
+    "UwvCguQAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:aUHriOFUjnMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReturn%2Bon%2BInvestment%2Bin%2BMachine%2BLearning:%2BCrossing%2Bthe%2BChasm%2Bbetween%2BAcademia%2Band%2BBusiness%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=aUHriOFUjnMJ&ei=sENeYcHFEoLemgHVs5GYDg",
+  "url_related_articles": "/scholar?q=related:aUHriOFUjnMJ:scholar.google.com/&scioq=Return+on+Investment+in+Machine+Learning:+Crossing+the+Chasm+between+Academia+and+Business&hl=en&as_sdt=0,5",
+  "eprint_url": "https://sciendo.com/pdf/10.2478/fcds-2020-0015"
+}

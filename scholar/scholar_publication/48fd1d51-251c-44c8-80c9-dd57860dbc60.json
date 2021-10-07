@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Rule-based medical diagnosis with learning: Application to the diagnosis of acute renal failure in children", "author": "Kurznski, Marek W and Sas, Jerz and Puchala, Edward", "pub_year": "1992", "venue": "1992 14th Annual \u2026", "abstract": "This paper presents the original concept of recognition which simultaneously uses the information contained in the learning sequence and expert rules. This method has been implemented in the computer system of the general purpose. Results of its application to the diagnosis of acute renal failure in children are described.", "organization": "IEEE", "pages": "1259--1260", "volume": "3", "booktitle": "1992 14th Annual International Conference of the IEEE Engineering in Medicine and Biology Society", "pub_type": "inproceedings", "bib_id": "kurznski1992rule"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/5761773/", "author_id": ["", "T1U6rMcAAAAJ", ""], "num_citations": 5, "url_scholarbib": "/scholar?q=info:nYC0YKaVBf0J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRule-Based%2BMedical%2BDiagnosis%2Bwith%2BLearning:%2BApplication%2Bto%2Bthe%2BDiagnosis%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=nYC0YKaVBf0J&ei=J65dYdasFM6_mQHMm7boDg", "citedby_url": "/scholar?cites=18232143208298872989&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:nYC0YKaVBf0J:scholar.google.com/&scioq=Rule-Based+Medical+Diagnosis+with+Learning:+Application+to+the+Diagnosis&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Rule-based medical diagnosis with learning: Application to the diagnosis of acute renal failure in children",
+    "author": "Kurznski, Marek W and Sas, Jerz and Puchala, Edward",
+    "pub_year": "1992",
+    "venue": "1992 14th Annual \u2026",
+    "abstract": "This paper presents the original concept of recognition which simultaneously uses the information contained in the learning sequence and expert rules. This method has been implemented in the computer system of the general purpose. Results of its application to the diagnosis of acute renal failure in children are described.",
+    "organization": "IEEE",
+    "pages": "1259--1260",
+    "volume": "3",
+    "booktitle": "1992 14th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+    "pub_type": "inproceedings",
+    "bib_id": "kurznski1992rule"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/5761773/",
+  "author_id": [
+    "",
+    "T1U6rMcAAAAJ",
+    ""
+  ],
+  "num_citations": 5,
+  "url_scholarbib": "/scholar?q=info:nYC0YKaVBf0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRule-Based%2BMedical%2BDiagnosis%2Bwith%2BLearning:%2BApplication%2Bto%2Bthe%2BDiagnosis%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=nYC0YKaVBf0J&ei=J65dYdasFM6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=18232143208298872989&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:nYC0YKaVBf0J:scholar.google.com/&scioq=Rule-Based+Medical+Diagnosis+with+Learning:+Application+to+the+Diagnosis&hl=en&as_sdt=0,5"
+}

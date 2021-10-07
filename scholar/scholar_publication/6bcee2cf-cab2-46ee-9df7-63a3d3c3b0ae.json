@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A generic model for a multidimensional temporal social network", "author": "Kazienko, Przemys{\\l}aw and Kukla, El{\\.z}bieta and Musial, Katarzyna and Kajdanowicz, Tomasz and Br{\\'o}dka, Piotr and Gaworecki, Jaros{\\l}aw", "pub_year": "2011", "venue": "\u2026 Conference on e \u2026", "abstract": "A comprehensive generic model for a multidimensional, temporal social network is proposed in the paper. It covers three main dimensions: layers, time windows and social groups. All the dimensions share the same set of nodes corresponding to social entities, usually individuals. Layers correspond to different types of relationships between humans, eg social and semantic, that can be derived from different human activities in IT systems; time windows reflect the temporal profile of the social network, whereas groups (social", "organization": "Springer", "pages": "1--14", "booktitle": "International Conference on e-Technologies and Networks for Development", "pub_type": "inproceedings", "bib_id": "kazienko2011generic"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-22729-5_1", "author_id": ["cxLgNccAAAAJ", "", "Dw5QS9wAAAAJ", "GOoaHHEAAAAJ"], "num_citations": 9, "url_scholarbib": "/scholar?q=info:8LqGY6Wc0XMJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bgeneric%2Bmodel%2Bfor%2Ba%2Bmultidimensional%2Btemporal%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=8LqGY6Wc0XMJ&ei=3ZRdYaXYG4LemgHVs5GYDg", "citedby_url": "/scholar?cites=8345623818647550704&as_sdt=5,44&sciodt=0,44&hl=en", "url_related_articles": "/scholar?q=related:8LqGY6Wc0XMJ:scholar.google.com/&scioq=A+generic+model+for+a+multidimensional+temporal+social+network&hl=en&as_sdt=0,44", "eprint_url": "https://www.researchgate.net/profile/Katarzyna-Musial/publication/286437289_A_Generic_Model_for_a_Multidimensional_Temporal_Social_Network/links/566cb24e08ae1a797e3da780/A-Generic-Model-for-a-Multidimensional-Temporal-Social-Network.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A generic model for a multidimensional temporal social network",
+    "author": "Kazienko, Przemys{\\l}aw and Kukla, El{\\.z}bieta and Musial, Katarzyna and Kajdanowicz, Tomasz and Br{\\'o}dka, Piotr and Gaworecki, Jaros{\\l}aw",
+    "pub_year": "2011",
+    "venue": "\u2026 Conference on e \u2026",
+    "abstract": "A comprehensive generic model for a multidimensional, temporal social network is proposed in the paper. It covers three main dimensions: layers, time windows and social groups. All the dimensions share the same set of nodes corresponding to social entities, usually individuals. Layers correspond to different types of relationships between humans, eg social and semantic, that can be derived from different human activities in IT systems; time windows reflect the temporal profile of the social network, whereas groups (social",
+    "organization": "Springer",
+    "pages": "1--14",
+    "booktitle": "International Conference on e-Technologies and Networks for Development",
+    "pub_type": "inproceedings",
+    "bib_id": "kazienko2011generic"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-22729-5_1",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "",
+    "Dw5QS9wAAAAJ",
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 9,
+  "url_scholarbib": "/scholar?q=info:8LqGY6Wc0XMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bgeneric%2Bmodel%2Bfor%2Ba%2Bmultidimensional%2Btemporal%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,44&citilm=1&json=&update_op=library_add&info=8LqGY6Wc0XMJ&ei=3ZRdYaXYG4LemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=8345623818647550704&as_sdt=5,44&sciodt=0,44&hl=en",
+  "url_related_articles": "/scholar?q=related:8LqGY6Wc0XMJ:scholar.google.com/&scioq=A+generic+model+for+a+multidimensional+temporal+social+network&hl=en&as_sdt=0,44",
+  "eprint_url": "https://www.researchgate.net/profile/Katarzyna-Musial/publication/286437289_A_Generic_Model_for_a_Multidimensional_Temporal_Social_Network/links/566cb24e08ae1a797e3da780/A-Generic-Model-for-a-Multidimensional-Temporal-Social-Network.pdf"
+}

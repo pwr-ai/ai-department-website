@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Recommendation boosted query propagation in the social network", "author": "Kuk{\\l}a, Grzegorz and Kazienko, Przemys{\\l}aw and Br{\\'o}dka, Piotr and Filipowski, Tomasz", "pub_year": "2010", "venue": "International Conference on \u2026", "abstract": "Every single company or institution wants to utilize its resources in the most efficient way and one of the most important resources is knowledge. In the paper, a new SocLaKE system is introduced. It exploits the social network existing within the organization together with information about expertise of community members to recommend the best way to get the answer over the chains of acquaintances. The explanation how the system recommends people and experiments on the sample social network are presented as well.", "organization": "Springer", "pages": "113--124", "booktitle": "International Conference on Social Informatics", "pub_type": "inproceedings", "bib_id": "kukla2010recommendation"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-16567-2_9", "author_id": ["", "cxLgNccAAAAJ", "T7v65jEAAAAJ", ""], "num_citations": 7, "url_scholarbib": "/scholar?q=info:EvNC_6KqLAUJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRecommendation%2Bboosted%2Bquery%2Bpropagation%2Bin%2Bthe%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=EvNC_6KqLAUJ&ei=ij9eYdyMJIfBmQGX-6OoBg", "citedby_url": "/scholar?cites=372860486208910098&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:EvNC_6KqLAUJ:scholar.google.com/&scioq=Recommendation+boosted+query+propagation+in+the+social+network&hl=en&as_sdt=0,5", "eprint_url": "https://www.ii.pwr.edu.pl/~brodka/art/2010_SocInfo.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Recommendation boosted query propagation in the social network",
+    "author": "Kuk{\\l}a, Grzegorz and Kazienko, Przemys{\\l}aw and Br{\\'o}dka, Piotr and Filipowski, Tomasz",
+    "pub_year": "2010",
+    "venue": "International Conference on \u2026",
+    "abstract": "Every single company or institution wants to utilize its resources in the most efficient way and one of the most important resources is knowledge. In the paper, a new SocLaKE system is introduced. It exploits the social network existing within the organization together with information about expertise of community members to recommend the best way to get the answer over the chains of acquaintances. The explanation how the system recommends people and experiments on the sample social network are presented as well.",
+    "organization": "Springer",
+    "pages": "113--124",
+    "booktitle": "International Conference on Social Informatics",
+    "pub_type": "inproceedings",
+    "bib_id": "kukla2010recommendation"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-16567-2_9",
+  "author_id": [
+    "",
+    "cxLgNccAAAAJ",
+    "T7v65jEAAAAJ",
+    ""
+  ],
+  "num_citations": 7,
+  "url_scholarbib": "/scholar?q=info:EvNC_6KqLAUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRecommendation%2Bboosted%2Bquery%2Bpropagation%2Bin%2Bthe%2Bsocial%2Bnetwork%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=EvNC_6KqLAUJ&ei=ij9eYdyMJIfBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=372860486208910098&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:EvNC_6KqLAUJ:scholar.google.com/&scioq=Recommendation+boosted+query+propagation+in+the+social+network&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.ii.pwr.edu.pl/~brodka/art/2010_SocInfo.pdf"
+}

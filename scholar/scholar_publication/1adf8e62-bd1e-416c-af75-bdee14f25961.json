@@ -1,1 +1,33 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Analysis of group evolution prediction in complex networks", "author": "Saganowski, Stanis{\\l}aw and Br{\\'o}dka, Piotr and Koziarski, Micha{\\l} and Kazienko, Przemys{\\l}aw", "pub_year": "2019", "venue": "PloS one", "abstract": "In the world, in which acceptance and the identification with social communities are highly desired, the ability to predict the evolution of groups over time appears to be a vital but very complex research problem. Therefore, we propose a new, adaptable, generic, and multistage method for Group Evolution Prediction (GEP) in complex networks, that facilitates reasoning about the future states of the recently discovered groups. The precise GEP modularity enabled us to carry out extensive and versatile empirical studies on many real", "publisher": "Public Library of Science San Francisco, CA USA", "pages": "e0224194", "number": "10", "volume": "14", "journal": "PloS one", "pub_type": "article", "bib_id": "saganowski2019analysis"}, "filled": true, "gsrank": 1, "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224194", "author_id": ["DVE_klAAAAAJ", "T7v65jEAAAAJ", "hEVRtosAAAAJ", "cxLgNccAAAAJ"], "num_citations": 11, "url_scholarbib": "/scholar?q=info:QdxXngClC8oJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Bof%2Bgroup%2Bevolution%2Bprediction%2Bin%2Bcomplex%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=QdxXngClC8oJ&ei=pDVeYYDHKqPZsQKvo78o", "citedby_url": "/scholar?cites=14558911642480401473&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:QdxXngClC8oJ:scholar.google.com/&scioq=Analysis+of+group+evolution+prediction+in+complex+networks&hl=en&as_sdt=0,5", "eprint_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224194"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Analysis of group evolution prediction in complex networks",
+    "author": "Saganowski, Stanis{\\l}aw and Br{\\'o}dka, Piotr and Koziarski, Micha{\\l} and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2019",
+    "venue": "PloS one",
+    "abstract": "In the world, in which acceptance and the identification with social communities are highly desired, the ability to predict the evolution of groups over time appears to be a vital but very complex research problem. Therefore, we propose a new, adaptable, generic, and multistage method for Group Evolution Prediction (GEP) in complex networks, that facilitates reasoning about the future states of the recently discovered groups. The precise GEP modularity enabled us to carry out extensive and versatile empirical studies on many real",
+    "publisher": "Public Library of Science San Francisco, CA USA",
+    "pages": "e0224194",
+    "number": "10",
+    "volume": "14",
+    "journal": "PloS one",
+    "pub_type": "article",
+    "bib_id": "saganowski2019analysis"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224194",
+  "author_id": [
+    "DVE_klAAAAAJ",
+    "T7v65jEAAAAJ",
+    "hEVRtosAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 11,
+  "url_scholarbib": "/scholar?q=info:QdxXngClC8oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Bof%2Bgroup%2Bevolution%2Bprediction%2Bin%2Bcomplex%2Bnetworks%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=QdxXngClC8oJ&ei=pDVeYYDHKqPZsQKvo78o",
+  "citedby_url": "/scholar?cites=14558911642480401473&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:QdxXngClC8oJ:scholar.google.com/&scioq=Analysis+of+group+evolution+prediction+in+complex+networks&hl=en&as_sdt=0,5",
+  "eprint_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224194"
+}

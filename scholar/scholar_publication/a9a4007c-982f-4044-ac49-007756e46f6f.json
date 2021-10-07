@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Predicting social network measures using machine learning approach", "author": "Michalski, Radoslaw and Kazienko, Przemyslaw and Kr{\\'o}l, Dawid", "pub_year": "2012", "venue": "2012 IEEE/ACM International \u2026", "abstract": "The link prediction problem in social networks defined as a task to predict whether a link between two particular nodes will appear in the future is still a broadly researched topic in the field of social network analysis. However, another relevant problem is solved in the paper instead of individual link forecasting: prediction of key network measures values, what is a more time saving approach. Two machine learning techniques were examined: time series forecasting and classification. Both of them were tested on two real-life social network", "organization": "IEEE", "pages": "1056--1059", "booktitle": "2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining", "pub_type": "inproceedings", "bib_id": "michalski2012predicting"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/6425619/", "author_id": ["xMVnv3sAAAAJ", "cxLgNccAAAAJ", ""], "num_citations": 20, "url_scholarbib": "/scholar?q=info:DG_KFZKG9PYJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPredicting%2Bsocial%2Bnetwork%2Bmeasures%2Busing%2Bmachine%2Blearning%2Bapproach%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=DG_KFZKG9PYJ&ei=3TReYZTSH4LemgHVs5GYDg", "citedby_url": "/scholar?cites=17794995989636607756&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:DG_KFZKG9PYJ:scholar.google.com/&scioq=Predicting+social+network+measures+using+machine+learning+approach&hl=en&as_sdt=0,5", "eprint_url": "https://www.ii.pwr.edu.pl/~michalski/publications/pub_2012_csna.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Predicting social network measures using machine learning approach",
+    "author": "Michalski, Radoslaw and Kazienko, Przemyslaw and Kr{\\'o}l, Dawid",
+    "pub_year": "2012",
+    "venue": "2012 IEEE/ACM International \u2026",
+    "abstract": "The link prediction problem in social networks defined as a task to predict whether a link between two particular nodes will appear in the future is still a broadly researched topic in the field of social network analysis. However, another relevant problem is solved in the paper instead of individual link forecasting: prediction of key network measures values, what is a more time saving approach. Two machine learning techniques were examined: time series forecasting and classification. Both of them were tested on two real-life social network",
+    "organization": "IEEE",
+    "pages": "1056--1059",
+    "booktitle": "2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining",
+    "pub_type": "inproceedings",
+    "bib_id": "michalski2012predicting"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/6425619/",
+  "author_id": [
+    "xMVnv3sAAAAJ",
+    "cxLgNccAAAAJ",
+    ""
+  ],
+  "num_citations": 20,
+  "url_scholarbib": "/scholar?q=info:DG_KFZKG9PYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPredicting%2Bsocial%2Bnetwork%2Bmeasures%2Busing%2Bmachine%2Blearning%2Bapproach%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=DG_KFZKG9PYJ&ei=3TReYZTSH4LemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=17794995989636607756&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:DG_KFZKG9PYJ:scholar.google.com/&scioq=Predicting+social+network+measures+using+machine+learning+approach&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.ii.pwr.edu.pl/~michalski/publications/pub_2012_csna.pdf"
+}

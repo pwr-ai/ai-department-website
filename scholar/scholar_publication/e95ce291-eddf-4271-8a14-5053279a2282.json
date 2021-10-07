@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Mobile visual clothing search", "author": "Cushen, George A and Nixon, Mark S", "pub_year": "2013", "venue": "2013 IEEE International Conference \u2026", "abstract": "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the", "organization": "IEEE", "pages": "1--6", "booktitle": "2013 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)", "pub_type": "inproceedings", "bib_id": "cushen2013mobile"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/6618404/", "author_id": ["sIwtMXoAAAAJ", "hlHOU9IAAAAJ"], "num_citations": 18, "url_scholarbib": "/scholar?q=info:ngtAKep8RfIJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMobile%2Bvisual%2Bclothing%2Bsearch%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=ngtAKep8RfIJ&ei=uVNeYcaNIoLemgHVs5GYDg", "citedby_url": "/scholar?cites=17457496875727850398&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:ngtAKep8RfIJ:scholar.google.com/&scioq=Mobile+visual+clothing+search&hl=en&as_sdt=0,5", "eprint_url": "https://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Mobile visual clothing search",
+    "author": "Cushen, George A and Nixon, Mark S",
+    "pub_year": "2013",
+    "venue": "2013 IEEE International Conference \u2026",
+    "abstract": "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the",
+    "organization": "IEEE",
+    "pages": "1--6",
+    "booktitle": "2013 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)",
+    "pub_type": "inproceedings",
+    "bib_id": "cushen2013mobile"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/6618404/",
+  "author_id": [
+    "sIwtMXoAAAAJ",
+    "hlHOU9IAAAAJ"
+  ],
+  "num_citations": 18,
+  "url_scholarbib": "/scholar?q=info:ngtAKep8RfIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMobile%2Bvisual%2Bclothing%2Bsearch%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=ngtAKep8RfIJ&ei=uVNeYcaNIoLemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=17457496875727850398&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:ngtAKep8RfIJ:scholar.google.com/&scioq=Mobile+visual+clothing+search&hl=en&as_sdt=0,5",
+  "eprint_url": "https://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+}

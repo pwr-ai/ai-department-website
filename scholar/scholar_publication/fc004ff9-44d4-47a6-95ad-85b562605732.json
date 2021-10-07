@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Literary Genre Recognition among Polish Blog Posts", "author": "Rogula, Edyta and Piasecki, Maciej and Naskr{\\k{e}}t, Tomasz", "pub_year": "2021", "venue": "Procedia Computer Science", "abstract": "Robust methods have been proposed for content and topic-based text classification, as well authorship attribution in stylometry. However, the problem of a fine-grained literary genre (style) recognition is much less studied. We present several approaches to the recognition of eight literary genres manually annotated in a large corpus of Polish blogs. Different text representations were combined with neural network classifiers, including deep, recursive neural networks. Very good results were achieved for the representation of blog posts with", "publisher": "Elsevier", "pages": "1071--1080", "volume": "192", "journal": "Procedia Computer Science", "pub_type": "article", "bib_id": "rogula2021literary"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S1877050921015982", "author_id": ["", "nU_W9XwAAAAJ", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:O_G-qDUBo6EJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiterary%2BGenre%2BRecognition%2Bamong%2BPolish%2BBlog%2BPosts%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=O_G-qDUBo6EJ&ei=qsFdYfmxNc-TmwHPvZGABQ", "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1877050921015982/pdf?md5=8f3fa0ac240979afe918f43aefc31aeb&pid=1-s2.0-S1877050921015982-main.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Literary Genre Recognition among Polish Blog Posts",
+    "author": "Rogula, Edyta and Piasecki, Maciej and Naskr{\\k{e}}t, Tomasz",
+    "pub_year": "2021",
+    "venue": "Procedia Computer Science",
+    "abstract": "Robust methods have been proposed for content and topic-based text classification, as well authorship attribution in stylometry. However, the problem of a fine-grained literary genre (style) recognition is much less studied. We present several approaches to the recognition of eight literary genres manually annotated in a large corpus of Polish blogs. Different text representations were combined with neural network classifiers, including deep, recursive neural networks. Very good results were achieved for the representation of blog posts with",
+    "publisher": "Elsevier",
+    "pages": "1071--1080",
+    "volume": "192",
+    "journal": "Procedia Computer Science",
+    "pub_type": "article",
+    "bib_id": "rogula2021literary"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S1877050921015982",
+  "author_id": [
+    "",
+    "nU_W9XwAAAAJ",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:O_G-qDUBo6EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiterary%2BGenre%2BRecognition%2Bamong%2BPolish%2BBlog%2BPosts%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=O_G-qDUBo6EJ&ei=qsFdYfmxNc-TmwHPvZGABQ",
+  "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1877050921015982/pdf?md5=8f3fa0ac240979afe918f43aefc31aeb&pid=1-s2.0-S1877050921015982-main.pdf"
+}

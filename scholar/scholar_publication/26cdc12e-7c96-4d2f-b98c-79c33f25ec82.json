@@ -1,1 +1,24 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "CorpoGrabber", "author": "Koco{\\'n}, Jan", "pub_year": "2017", "venue": "NA", "abstract": "CorpoGrabber. CLARIN-PL. Authors Koco\u0144, Jan Date issued 2017-06-28 Type toolService Language(s) Description CorpoGrabber: The Toolchain to Automatic Acquiring and Extraction of the Website Content Jan Koco\u0144, Wroclaw University of Technology CorpoGrabber is a pipeline", "publisher": "Jan Koco{\\'n}", "pub_type": "article", "bib_id": "kocon2017corpograbber"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/handle/11321/403", "author_id": ["pmQHb5IAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:mVtczah9BhQJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpoGrabber%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=mVtczah9BhQJ&ei=7aNdYdrqC42UmQGz6rqYBQ", "url_related_articles": "/scholar?q=related:mVtczah9BhQJ:scholar.google.com/&scioq=CorpoGrabber&hl=en&as_sdt=0,39"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "CorpoGrabber",
+    "author": "Koco{\\'n}, Jan",
+    "pub_year": "2017",
+    "venue": "NA",
+    "abstract": "CorpoGrabber. CLARIN-PL. Authors Koco\u0144, Jan Date issued 2017-06-28 Type toolService Language(s) Description CorpoGrabber: The Toolchain to Automatic Acquiring and Extraction of the Website Content Jan Koco\u0144, Wroclaw University of Technology CorpoGrabber is a pipeline",
+    "publisher": "Jan Koco{\\'n}",
+    "pub_type": "article",
+    "bib_id": "kocon2017corpograbber"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/handle/11321/403",
+  "author_id": [
+    "pmQHb5IAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:mVtczah9BhQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpoGrabber%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=mVtczah9BhQJ&ei=7aNdYdrqC42UmQGz6rqYBQ",
+  "url_related_articles": "/scholar?q=related:mVtczah9BhQJ:scholar.google.com/&scioq=CorpoGrabber&hl=en&as_sdt=0,39"
+}

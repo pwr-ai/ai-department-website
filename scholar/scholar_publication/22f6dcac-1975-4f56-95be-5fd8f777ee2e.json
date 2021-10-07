@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Conceptual modeling of user interface in object oriented methodologies", "author": "Hnatkowska, B and Piasecki, M", "pub_year": "2005", "venue": "Foundations of Computing and Decision \u2026", "abstract": "The paper proposes application of COOAD method of conceptual modeling of user interface in well-known object-oriented methodologies of software development like RUP or USDP. The main phases of user interface construction are presented and located in mentioned processes. The introduced ideas and notions are illustrated with a simple example.", "pages": "17--27", "number": "1", "volume": "30", "journal": "Foundations of Computing and Decision Sciences", "pub_type": "article", "bib_id": "hnatkowska2005conceptual"}, "filled": true, "gsrank": 1, "pub_url": "https://www.infona.pl/resource/bwmeta1.element.baztech-article-BPP1-0049-0016", "author_id": ["GsS0EMsAAAAJ", "nU_W9XwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:1x5jbD5FvVAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DConceptual%2Bmodeling%2Bof%2Buser%2Binterface%2Bin%2Bobject%2Boriented%2Bmethodologies%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=1x5jbD5FvVAJ&ei=vC5eYeXqNM-TmwHPvZGABQ", "url_related_articles": "/scholar?q=related:1x5jbD5FvVAJ:scholar.google.com/&scioq=Conceptual+modeling+of+user+interface+in+object+oriented+methodologies&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Conceptual modeling of user interface in object oriented methodologies",
+    "author": "Hnatkowska, B and Piasecki, M",
+    "pub_year": "2005",
+    "venue": "Foundations of Computing and Decision \u2026",
+    "abstract": "The paper proposes application of COOAD method of conceptual modeling of user interface in well-known object-oriented methodologies of software development like RUP or USDP. The main phases of user interface construction are presented and located in mentioned processes. The introduced ideas and notions are illustrated with a simple example.",
+    "pages": "17--27",
+    "number": "1",
+    "volume": "30",
+    "journal": "Foundations of Computing and Decision Sciences",
+    "pub_type": "article",
+    "bib_id": "hnatkowska2005conceptual"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.infona.pl/resource/bwmeta1.element.baztech-article-BPP1-0049-0016",
+  "author_id": [
+    "GsS0EMsAAAAJ",
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:1x5jbD5FvVAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DConceptual%2Bmodeling%2Bof%2Buser%2Binterface%2Bin%2Bobject%2Boriented%2Bmethodologies%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=1x5jbD5FvVAJ&ei=vC5eYeXqNM-TmwHPvZGABQ",
+  "url_related_articles": "/scholar?q=related:1x5jbD5FvVAJ:scholar.google.com/&scioq=Conceptual+modeling+of+user+interface+in+object+oriented+methodologies&hl=en&as_sdt=0,5"
+}

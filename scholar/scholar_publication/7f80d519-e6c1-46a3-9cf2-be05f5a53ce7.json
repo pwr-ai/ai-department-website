@@ -1,1 +1,24 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Some Aspects of Semantic Representation of Polish Determiners", "author": "Piasecki, Maciej", "venue": "NA", "pub_year": "NA", "abstract": "The paper concerns some methods of semantic analysis of Polish determiners which can be used in Machine Translation. First, a brief summary of traditional approaches to the semantics of Polish noun phrases is presented together with a short discussion. The difference between reference and quantification is argued to be important for proper understanding of some phenomena. Next, a unified model for quantification and reference proposed by Hess is presented and discussed. The outline of a new solution called", "pub_type": "article", "bib_id": "piaseckisome"}, "filled": true, "gsrank": 1, "pub_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/237251254_Some_Aspects_of_Semantic_Representation_of_Polish/links/0046352a96bad65b57000000/Some-Aspects-of-Semantic-Representation-of-Polish.pdf", "author_id": ["nU_W9XwAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:fAH0AyxpxPEJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSome%2BAspects%2Bof%2BSemantic%2BRepresentation%2Bof%2BPolish%2BDeterminers%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=fAH0AyxpxPEJ&ei=NjBeYYXZJInmmgGQla6wAw", "url_related_articles": "/scholar?q=related:fAH0AyxpxPEJ:scholar.google.com/&scioq=Some+Aspects+of+Semantic+Representation+of+Polish+Determiners&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/237251254_Some_Aspects_of_Semantic_Representation_of_Polish/links/0046352a96bad65b57000000/Some-Aspects-of-Semantic-Representation-of-Polish.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Some Aspects of Semantic Representation of Polish Determiners",
+    "author": "Piasecki, Maciej",
+    "venue": "NA",
+    "pub_year": "NA",
+    "abstract": "The paper concerns some methods of semantic analysis of Polish determiners which can be used in Machine Translation. First, a brief summary of traditional approaches to the semantics of Polish noun phrases is presented together with a short discussion. The difference between reference and quantification is argued to be important for proper understanding of some phenomena. Next, a unified model for quantification and reference proposed by Hess is presented and discussed. The outline of a new solution called",
+    "pub_type": "article",
+    "bib_id": "piaseckisome"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/237251254_Some_Aspects_of_Semantic_Representation_of_Polish/links/0046352a96bad65b57000000/Some-Aspects-of-Semantic-Representation-of-Polish.pdf",
+  "author_id": [
+    "nU_W9XwAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:fAH0AyxpxPEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSome%2BAspects%2Bof%2BSemantic%2BRepresentation%2Bof%2BPolish%2BDeterminers%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=fAH0AyxpxPEJ&ei=NjBeYYXZJInmmgGQla6wAw",
+  "url_related_articles": "/scholar?q=related:fAH0AyxpxPEJ:scholar.google.com/&scioq=Some+Aspects+of+Semantic+Representation+of+Polish+Determiners&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/237251254_Some_Aspects_of_Semantic_Representation_of_Polish/links/0046352a96bad65b57000000/Some-Aspects-of-Semantic-Representation-of-Polish.pdf"
+}

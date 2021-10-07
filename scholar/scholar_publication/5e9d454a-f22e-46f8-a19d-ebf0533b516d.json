@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Compensatory seeding in networks with varying avaliability of nodes", "author": "Jankowski, Jaros{\\l}aw and Michalski, Rados{\\l}aw and Kazienko, Przemys{\\l}aw", "pub_year": "2013", "venue": "2013 IEEE/ACM \u2026", "abstract": "Diffusion of information in social networks takes more and more attention from marketers. New methods and algorithms are constantly developed towards maximizing reach of the campaigns and increasing their effectiveness. One of the important research directions in this area is related to selecting initial nodes of the campaign to result with maximizing its effects represented as total number of infections. To achieve this goal, several strategies were developed and they are based on different network measures and other characteristics", "organization": "IEEE", "pages": "1242--1249", "booktitle": "2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2013)", "pub_type": "inproceedings", "bib_id": "jankowski2013compensatory"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/6785862/", "author_id": ["xZJ38c4AAAAJ", "xMVnv3sAAAAJ"], "num_citations": 22, "url_scholarbib": "/scholar?q=info:rz7apN0bAUAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCompensatory%2Bseeding%2Bin%2Bnetworks%2Bwith%2Bvarying%2Bavaliability%2Bof%2Bnodes%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=rz7apN0bAUAJ&ei=yzReYenCG4fBmQGX-6OoBg", "citedby_url": "/scholar?cites=4611998132171587247&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:rz7apN0bAUAJ:scholar.google.com/&scioq=Compensatory+seeding+in+networks+with+varying+avaliability+of+nodes&hl=en&as_sdt=0,5", "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/2492517.2500256"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Compensatory seeding in networks with varying avaliability of nodes",
+    "author": "Jankowski, Jaros{\\l}aw and Michalski, Rados{\\l}aw and Kazienko, Przemys{\\l}aw",
+    "pub_year": "2013",
+    "venue": "2013 IEEE/ACM \u2026",
+    "abstract": "Diffusion of information in social networks takes more and more attention from marketers. New methods and algorithms are constantly developed towards maximizing reach of the campaigns and increasing their effectiveness. One of the important research directions in this area is related to selecting initial nodes of the campaign to result with maximizing its effects represented as total number of infections. To achieve this goal, several strategies were developed and they are based on different network measures and other characteristics",
+    "organization": "IEEE",
+    "pages": "1242--1249",
+    "booktitle": "2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2013)",
+    "pub_type": "inproceedings",
+    "bib_id": "jankowski2013compensatory"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/6785862/",
+  "author_id": [
+    "xZJ38c4AAAAJ",
+    "xMVnv3sAAAAJ"
+  ],
+  "num_citations": 22,
+  "url_scholarbib": "/scholar?q=info:rz7apN0bAUAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCompensatory%2Bseeding%2Bin%2Bnetworks%2Bwith%2Bvarying%2Bavaliability%2Bof%2Bnodes%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=rz7apN0bAUAJ&ei=yzReYenCG4fBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=4611998132171587247&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:rz7apN0bAUAJ:scholar.google.com/&scioq=Compensatory+seeding+in+networks+with+varying+avaliability+of+nodes&hl=en&as_sdt=0,5",
+  "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/2492517.2500256"
+}

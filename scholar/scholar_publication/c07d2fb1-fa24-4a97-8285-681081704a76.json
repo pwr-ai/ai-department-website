@@ -1,1 +1,25 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "The Oxford handbook of computational linguistics", "author": "Mitkov, Ruslan", "pub_year": "2004", "venue": "NA", "abstract": "COP CP ABBREVIATIONS Association for Computational Linguistics Association Europ\u00e9enne  intelligence Automatic Language Processing Advisory Committee application programming interface  Younger controlled language controlled language applications workshop Cross", "publisher": "Oxford University Press", "pub_type": "book", "bib_id": "mitkov2004oxford"}, "filled": true, "gsrank": 1, "pub_url": "https://books.google.com/books?hl=en&lr=&id=yl6AnaKtVAkC&oi=fnd&pg=PP2&dq=Computational+Linguistics:+Applications&ots=_VUg54tLCi&sig=f-_7E3e3GuU2uM6XPaFQHX_ZSsE", "author_id": ["9QVtDQoAAAAJ"], "num_citations": 744, "url_scholarbib": "/scholar?q=info:e5r4lgU1sfAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComputational%2BLinguistics:%2BApplications%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=e5r4lgU1sfAJ&ei=fcFdYfeWA6PZsQKvo78o", "citedby_url": "/scholar?cites=17343701938104474235&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:e5r4lgU1sfAJ:scholar.google.com/&scioq=Computational+Linguistics:+Applications&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "The Oxford handbook of computational linguistics",
+    "author": "Mitkov, Ruslan",
+    "pub_year": "2004",
+    "venue": "NA",
+    "abstract": "COP CP ABBREVIATIONS Association for Computational Linguistics Association Europ\u00e9enne  intelligence Automatic Language Processing Advisory Committee application programming interface  Younger controlled language controlled language applications workshop Cross",
+    "publisher": "Oxford University Press",
+    "pub_type": "book",
+    "bib_id": "mitkov2004oxford"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://books.google.com/books?hl=en&lr=&id=yl6AnaKtVAkC&oi=fnd&pg=PP2&dq=Computational+Linguistics:+Applications&ots=_VUg54tLCi&sig=f-_7E3e3GuU2uM6XPaFQHX_ZSsE",
+  "author_id": [
+    "9QVtDQoAAAAJ"
+  ],
+  "num_citations": 744,
+  "url_scholarbib": "/scholar?q=info:e5r4lgU1sfAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComputational%2BLinguistics:%2BApplications%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=e5r4lgU1sfAJ&ei=fcFdYfeWA6PZsQKvo78o",
+  "citedby_url": "/scholar?cites=17343701938104474235&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:e5r4lgU1sfAJ:scholar.google.com/&scioq=Computational+Linguistics:+Applications&hl=en&as_sdt=0,5"
+}

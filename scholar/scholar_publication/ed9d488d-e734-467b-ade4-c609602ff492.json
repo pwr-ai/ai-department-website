@@ -1,1 +1,34 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Testing an online, dynamic consent portal for large population biobank research", "author": "Thiel, Daniel B and Platt, Jodyn and Platt, Tevah and King, Susan B and Fisher, Nicole and Shelton, Robert and Kardia, Sharon LR", "pub_year": "2015", "venue": "Public Health \u2026", "abstract": "Background: Michigan's BioTrust for Health, a public health research biobank comprised of residual dried bloodspot (DBS) cards from newborn screening contains over 4 million samples collected without written consent. Participant-centric initiatives are IT tools that hold", "publisher": "Karger Publishers", "pages": "26--39", "number": "1", "volume": "18", "journal": "Public Health Genomics", "pub_type": "article", "bib_id": "thiel2015testing"}, "filled": true, "gsrank": 1, "pub_url": "https://www.karger.com/Article/Abstract/366128", "author_id": ["B6pQgAIAAAAJ", "AE9n8ykAAAAJ", "cJwSzTgAAAAJ", "", ""], "num_citations": 34, "url_scholarbib": "/scholar?q=info:zhgVO1Zgf34J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKing%25E2%2580%2599s%2BResearch%2BPortal%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=zhgVO1Zgf34J&ei=h1NeYbf7LM6_mQHMm7boDg", "citedby_url": "/scholar?cites=9115110094295865550&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:zhgVO1Zgf34J:scholar.google.com/&scioq=King%E2%80%99s+Research+Portal&hl=en&as_sdt=0,5", "eprint_url": "https://www.karger.com/Article/PDF/366128"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Testing an online, dynamic consent portal for large population biobank research",
+    "author": "Thiel, Daniel B and Platt, Jodyn and Platt, Tevah and King, Susan B and Fisher, Nicole and Shelton, Robert and Kardia, Sharon LR",
+    "pub_year": "2015",
+    "venue": "Public Health \u2026",
+    "abstract": "Background: Michigan's BioTrust for Health, a public health research biobank comprised of residual dried bloodspot (DBS) cards from newborn screening contains over 4 million samples collected without written consent. Participant-centric initiatives are IT tools that hold",
+    "publisher": "Karger Publishers",
+    "pages": "26--39",
+    "number": "1",
+    "volume": "18",
+    "journal": "Public Health Genomics",
+    "pub_type": "article",
+    "bib_id": "thiel2015testing"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.karger.com/Article/Abstract/366128",
+  "author_id": [
+    "B6pQgAIAAAAJ",
+    "AE9n8ykAAAAJ",
+    "cJwSzTgAAAAJ",
+    "",
+    ""
+  ],
+  "num_citations": 34,
+  "url_scholarbib": "/scholar?q=info:zhgVO1Zgf34J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKing%25E2%2580%2599s%2BResearch%2BPortal%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=zhgVO1Zgf34J&ei=h1NeYbf7LM6_mQHMm7boDg",
+  "citedby_url": "/scholar?cites=9115110094295865550&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:zhgVO1Zgf34J:scholar.google.com/&scioq=King%E2%80%99s+Research+Portal&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.karger.com/Article/PDF/366128"
+}

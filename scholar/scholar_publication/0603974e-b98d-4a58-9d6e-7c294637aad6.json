@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Co-evolutionary algorithm solving multi-skill resource-constrained project scheduling problem", "author": "Myszkowski, Pawe{\\l} B and Laszczyk, Maciej and Kalinowski, Dawid", "pub_year": "2017", "venue": "\u2026 on Computer Science \u2026", "abstract": "This paper presents methods solving MS-RCPSP as a main task-resource-time assignment optimization problem. In the paper there are presented four variants of Evolutionary Algorithm applied to MS-RCPSP problem: concerning prioritization the tasks (or resources), combined task-resources prioritizing approach and co-evolution based approach that effectively solves problem dividing it to two subproblems. All approaches are examined using benchmark MS-RCPSP iMOPSE dataset and results show that the problem", "organization": "IEEE", "pages": "75--82", "booktitle": "2017 Federated Conference on Computer Science and Information Systems (FedCSIS)", "pub_type": "inproceedings", "bib_id": "myszkowski2017co"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/8104515/", "author_id": ["63xKDRcAAAAJ", ""], "num_citations": 7, "url_scholarbib": "/scholar?q=info:yK2sJur9o_sJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCo-evolutionary%2Balgorithm%2Bsolving%2Bmulti-skill%2Bresource-constrained%2Bproject%2Bscheduling%2Bproblem%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=yK2sJur9o_sJ&ei=Y15eYYbrOY2UmQGz6rqYBQ", "citedby_url": "/scholar?cites=18132615706836774344&as_sdt=5,33&sciodt=0,33&hl=en", "url_related_articles": "/scholar?q=related:yK2sJur9o_sJ:scholar.google.com/&scioq=Co-evolutionary+algorithm+solving+multi-skill+resource-constrained+project+scheduling+problem&hl=en&as_sdt=0,33", "eprint_url": "https://annals-csis.org/proceedings/2017/drp/pdf/318.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Co-evolutionary algorithm solving multi-skill resource-constrained project scheduling problem",
+    "author": "Myszkowski, Pawe{\\l} B and Laszczyk, Maciej and Kalinowski, Dawid",
+    "pub_year": "2017",
+    "venue": "\u2026 on Computer Science \u2026",
+    "abstract": "This paper presents methods solving MS-RCPSP as a main task-resource-time assignment optimization problem. In the paper there are presented four variants of Evolutionary Algorithm applied to MS-RCPSP problem: concerning prioritization the tasks (or resources), combined task-resources prioritizing approach and co-evolution based approach that effectively solves problem dividing it to two subproblems. All approaches are examined using benchmark MS-RCPSP iMOPSE dataset and results show that the problem",
+    "organization": "IEEE",
+    "pages": "75--82",
+    "booktitle": "2017 Federated Conference on Computer Science and Information Systems (FedCSIS)",
+    "pub_type": "inproceedings",
+    "bib_id": "myszkowski2017co"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/8104515/",
+  "author_id": [
+    "63xKDRcAAAAJ",
+    ""
+  ],
+  "num_citations": 7,
+  "url_scholarbib": "/scholar?q=info:yK2sJur9o_sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCo-evolutionary%2Balgorithm%2Bsolving%2Bmulti-skill%2Bresource-constrained%2Bproject%2Bscheduling%2Bproblem%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=yK2sJur9o_sJ&ei=Y15eYYbrOY2UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=18132615706836774344&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:yK2sJur9o_sJ:scholar.google.com/&scioq=Co-evolutionary+algorithm+solving+multi-skill+resource-constrained+project+scheduling+problem&hl=en&as_sdt=0,33",
+  "eprint_url": "https://annals-csis.org/proceedings/2017/drp/pdf/318.pdf"
+}

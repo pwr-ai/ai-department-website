@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Vector representations of polish words (Word2Vec method)", "author": "K{\\k{e}}dzia, Pawe{\\l} and Czachor, Gabriela and Piasecki, Maciej and Koco{\\'n}, Jan", "pub_year": "2016", "venue": "NA", "abstract": "Vector representations of polish words (Word2Vec method). CLARIN-PL. Authors K\u0119dzia, Pawe\u0142 ; Czachor, Gabriela ; Piasecki, Maciej ; Koco\u0144, Jan Date issued 2016-11-07 Type lexicalConceptualResource Size 2,7 gb Language(s) Polish Description Model skip gram with vectors of length 100. Trained on kgr 10, a corpora with over 4 billion tokens. Data preprocessing involved segmentation, lemmatization and mophosyntactic disambiguation with MWE annotation. Publisher Wroc\u0142aw University of Technology Subject(s) Vector space Word2Vec Collection(s)", "publisher": "Wroc{\\l}aw University of Technology", "pub_type": "article", "bib_id": "kkedzia2016vector"}, "filled": true, "gsrank": 1, "pub_url": "http://clarin-pl.eu/dspace/handle/11321/327", "author_id": ["", "", "nU_W9XwAAAAJ", "pmQHb5IAAAAJ"], "num_citations": 1, "url_scholarbib": "/scholar?q=info:gQQgje_CbzMJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVector%2Brepresentations%2Bof%2Bpolish%2Bwords%2B(Word2Vec%2Bmethod)%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=gQQgje_CbzMJ&ei=xqFdYfb1FofBmQGX-6OoBg", "citedby_url": "/scholar?cites=3706395352469865601&as_sdt=2005&sciodt=0,5&hl=en"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Vector representations of polish words (Word2Vec method)",
+    "author": "K{\\k{e}}dzia, Pawe{\\l} and Czachor, Gabriela and Piasecki, Maciej and Koco{\\'n}, Jan",
+    "pub_year": "2016",
+    "venue": "NA",
+    "abstract": "Vector representations of polish words (Word2Vec method). CLARIN-PL. Authors K\u0119dzia, Pawe\u0142 ; Czachor, Gabriela ; Piasecki, Maciej ; Koco\u0144, Jan Date issued 2016-11-07 Type lexicalConceptualResource Size 2,7 gb Language(s) Polish Description Model skip gram with vectors of length 100. Trained on kgr 10, a corpora with over 4 billion tokens. Data preprocessing involved segmentation, lemmatization and mophosyntactic disambiguation with MWE annotation. Publisher Wroc\u0142aw University of Technology Subject(s) Vector space Word2Vec Collection(s)",
+    "publisher": "Wroc{\\l}aw University of Technology",
+    "pub_type": "article",
+    "bib_id": "kkedzia2016vector"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://clarin-pl.eu/dspace/handle/11321/327",
+  "author_id": [
+    "",
+    "",
+    "nU_W9XwAAAAJ",
+    "pmQHb5IAAAAJ"
+  ],
+  "num_citations": 1,
+  "url_scholarbib": "/scholar?q=info:gQQgje_CbzMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVector%2Brepresentations%2Bof%2Bpolish%2Bwords%2B(Word2Vec%2Bmethod)%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=gQQgje_CbzMJ&ei=xqFdYfb1FofBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=3706395352469865601&as_sdt=2005&sciodt=0,5&hl=en"
+}

@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Pipelined language model construction for Polish speech recognition", "author": "Sas, Jerzy and {\\.Z}o{\\l}nierek, Andrzej", "pub_year": "2013", "venue": "International Journal of Applied Mathematics \u2026", "abstract": "The aim of works described in this article is to elaborate and experimentally evaluate a consistent method of Language Model (LM) construction for the sake of Polish speech recognition. In the proposed method we tried to take into account the features and specific problems experienced in practical applications of speech recognition in the Polish language, reach inflection, a loose word order and the tendency for short word deletion. The LM is created in five stages. Each successive stage takes the model prepared at the", "number": "3", "volume": "23", "journal": "International Journal of Applied Mathematics and Computer Science", "pub_type": "article", "bib_id": "sas2013pipelined"}, "filled": true, "gsrank": 1, "pub_url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-9e24b35a-3723-46a1-b725-dd7b9e63f0ac", "author_id": ["T1U6rMcAAAAJ", ""], "num_citations": 5, "url_scholarbib": "/scholar?q=info:DFefKay-jwMJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPipelined%2Blanguage%2Bmodel%2Bconstruction%2Bfor%2BPolish%2Bspeech%2Brecognition%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=DFefKay-jwMJ&ei=j6ldYcPHCIfBmQGX-6OoBg", "citedby_url": "/scholar?cites=256633350425368332&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:DFefKay-jwMJ:scholar.google.com/&scioq=Pipelined+language+model+construction+for+Polish+speech+recognition&hl=en&as_sdt=0,5", "eprint_url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-9e24b35a-3723-46a1-b725-dd7b9e63f0ac/c/Sas.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Pipelined language model construction for Polish speech recognition",
+    "author": "Sas, Jerzy and {\\.Z}o{\\l}nierek, Andrzej",
+    "pub_year": "2013",
+    "venue": "International Journal of Applied Mathematics \u2026",
+    "abstract": "The aim of works described in this article is to elaborate and experimentally evaluate a consistent method of Language Model (LM) construction for the sake of Polish speech recognition. In the proposed method we tried to take into account the features and specific problems experienced in practical applications of speech recognition in the Polish language, reach inflection, a loose word order and the tendency for short word deletion. The LM is created in five stages. Each successive stage takes the model prepared at the",
+    "number": "3",
+    "volume": "23",
+    "journal": "International Journal of Applied Mathematics and Computer Science",
+    "pub_type": "article",
+    "bib_id": "sas2013pipelined"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-9e24b35a-3723-46a1-b725-dd7b9e63f0ac",
+  "author_id": [
+    "T1U6rMcAAAAJ",
+    ""
+  ],
+  "num_citations": 5,
+  "url_scholarbib": "/scholar?q=info:DFefKay-jwMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPipelined%2Blanguage%2Bmodel%2Bconstruction%2Bfor%2BPolish%2Bspeech%2Brecognition%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=DFefKay-jwMJ&ei=j6ldYcPHCIfBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=256633350425368332&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:DFefKay-jwMJ:scholar.google.com/&scioq=Pipelined+language+model+construction+for+Polish+speech+recognition&hl=en&as_sdt=0,5",
+  "eprint_url": "https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-9e24b35a-3723-46a1-b725-dd7b9e63f0ac/c/Sas.pdf"
+}

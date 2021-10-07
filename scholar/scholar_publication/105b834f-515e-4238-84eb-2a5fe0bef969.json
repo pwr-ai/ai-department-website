@@ -1,1 +1,26 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Key user extraction based on telecommunication data (aka. Key users in social network. How to find them?)", "author": "Br{\\'o}dka, Piotr", "pub_year": "2013", "venue": "arXiv preprint arXiv:1302.1369", "abstract": "The number of systems that collect vast amount of data about users rapidly grow during last few years. Many of these systems contain data not only about people characteristics but also about their relationships with other system users. From this kind of data it is possible to extract a social network that reflects the connections between system's users. Moreover, the analysis of such social network enables to investigate different characteristics of its members and their linkages. One of the types of examining such network is key users extraction. Key", "journal": "arXiv preprint arXiv:1302.1369", "pub_type": "article", "bib_id": "brodka2013key"}, "filled": true, "gsrank": 1, "pub_url": "https://arxiv.org/abs/1302.1369", "author_id": ["T7v65jEAAAAJ"], "num_citations": 4, "url_scholarbib": "/scholar?q=info:2b2b3lS8J_QJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKey%2Buser%2Bextraction%2Bbased%2Bon%2Btelecommunication%2Bdata%2B(aka.%2BKey%2Busers%2Bin%2Bsocial%2Bnetwork.%2BHow%2Bto%2Bfind%2Bthem%253F)%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=2b2b3lS8J_QJ&ei=SVNeYbr9EInmmgGQla6wAw", "citedby_url": "/scholar?cites=17593237542044155353&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:2b2b3lS8J_QJ:scholar.google.com/&scioq=Key+user+extraction+based+on+telecommunication+data+(aka.+Key+users+in+social+network.+How+to+find+them%3F)&hl=en&as_sdt=0,5", "eprint_url": "https://arxiv.org/pdf/1302.1369"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Key user extraction based on telecommunication data (aka. Key users in social network. How to find them?)",
+    "author": "Br{\\'o}dka, Piotr",
+    "pub_year": "2013",
+    "venue": "arXiv preprint arXiv:1302.1369",
+    "abstract": "The number of systems that collect vast amount of data about users rapidly grow during last few years. Many of these systems contain data not only about people characteristics but also about their relationships with other system users. From this kind of data it is possible to extract a social network that reflects the connections between system's users. Moreover, the analysis of such social network enables to investigate different characteristics of its members and their linkages. One of the types of examining such network is key users extraction. Key",
+    "journal": "arXiv preprint arXiv:1302.1369",
+    "pub_type": "article",
+    "bib_id": "brodka2013key"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://arxiv.org/abs/1302.1369",
+  "author_id": [
+    "T7v65jEAAAAJ"
+  ],
+  "num_citations": 4,
+  "url_scholarbib": "/scholar?q=info:2b2b3lS8J_QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKey%2Buser%2Bextraction%2Bbased%2Bon%2Btelecommunication%2Bdata%2B(aka.%2BKey%2Busers%2Bin%2Bsocial%2Bnetwork.%2BHow%2Bto%2Bfind%2Bthem%253F)%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=2b2b3lS8J_QJ&ei=SVNeYbr9EInmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=17593237542044155353&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:2b2b3lS8J_QJ:scholar.google.com/&scioq=Key+user+extraction+based+on+telecommunication+data+(aka.+Key+users+in+social+network.+How+to+find+them%3F)&hl=en&as_sdt=0,5",
+  "eprint_url": "https://arxiv.org/pdf/1302.1369"
+}

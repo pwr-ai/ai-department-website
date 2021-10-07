@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Polish corpus of wroc{\\l}aw university of technology 1.2", "author": "Marci{\\'n}czuk, Micha{\\l} and Oleksy, Marcin and Maziarz, Marek and Wieczorek, Jan and Fikus, Dominika and Turek, Agnieszka and Wolski, Micha{\\l} and Berna{\\'s}, Tomasz and Koco{\\'n}, Jan and K{\\k{e}}dzia, Pawe{\\l}", "pub_year": "2016", "venue": "NA", "abstract": "Description KPWr (Polish Corpus of Wroc\u0142aw University of Technology, pol. Korpus J\u0119zyka Polskiego Politechniki Wroc\u0142awskiej) is a corpus of written and spoken documents available on the Creative Common license. The texts are divided into 15 subcorpuses (blogs, science, stenographic recordings, etc.). The documents are annotated on the level of chunks and selected predicate-argument relations, named entities, relations between named entities, anaphora relations, word senses, events, temporal expressions, spatial relations between", "publisher": "Wroc{\\l}aw University of Technology", "pub_type": "article", "bib_id": "marcinczuk2016polish"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/handle/11321/270", "author_id": ["aAk1SIsAAAAJ", "1QVBEYYAAAAJ", "hc3Zj7UAAAAJ", "PED5C-YAAAAJ"], "num_citations": 2, "url_scholarbib": "/scholar?q=info:3JsNlKw7u-sJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPolish%2Bcorpus%2Bof%2Bwroc%25C5%2582aw%2Buniversity%2Bof%2Btechnology%2B1.2%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=3JsNlKw7u-sJ&ei=6KBdYfLVJ42UmQGz6rqYBQ", "citedby_url": "/scholar?cites=16986236031962291164&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:3JsNlKw7u-sJ:scholar.google.com/&scioq=Polish+corpus+of+wroc%C5%82aw+university+of+technology+1.2&hl=en&as_sdt=0,5", "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/270/kpwr-1.2-disamb-rc1.7z?sequence=2&isAllowed=y"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Polish corpus of wroc{\\l}aw university of technology 1.2",
+    "author": "Marci{\\'n}czuk, Micha{\\l} and Oleksy, Marcin and Maziarz, Marek and Wieczorek, Jan and Fikus, Dominika and Turek, Agnieszka and Wolski, Micha{\\l} and Berna{\\'s}, Tomasz and Koco{\\'n}, Jan and K{\\k{e}}dzia, Pawe{\\l}",
+    "pub_year": "2016",
+    "venue": "NA",
+    "abstract": "Description KPWr (Polish Corpus of Wroc\u0142aw University of Technology, pol. Korpus J\u0119zyka Polskiego Politechniki Wroc\u0142awskiej) is a corpus of written and spoken documents available on the Creative Common license. The texts are divided into 15 subcorpuses (blogs, science, stenographic recordings, etc.). The documents are annotated on the level of chunks and selected predicate-argument relations, named entities, relations between named entities, anaphora relations, word senses, events, temporal expressions, spatial relations between",
+    "publisher": "Wroc{\\l}aw University of Technology",
+    "pub_type": "article",
+    "bib_id": "marcinczuk2016polish"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/handle/11321/270",
+  "author_id": [
+    "aAk1SIsAAAAJ",
+    "1QVBEYYAAAAJ",
+    "hc3Zj7UAAAAJ",
+    "PED5C-YAAAAJ"
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:3JsNlKw7u-sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPolish%2Bcorpus%2Bof%2Bwroc%25C5%2582aw%2Buniversity%2Bof%2Btechnology%2B1.2%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=3JsNlKw7u-sJ&ei=6KBdYfLVJ42UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=16986236031962291164&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:3JsNlKw7u-sJ:scholar.google.com/&scioq=Polish+corpus+of+wroc%C5%82aw+university+of+technology+1.2&hl=en&as_sdt=0,5",
+  "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/270/kpwr-1.2-disamb-rc1.7z?sequence=2&isAllowed=y"
+}

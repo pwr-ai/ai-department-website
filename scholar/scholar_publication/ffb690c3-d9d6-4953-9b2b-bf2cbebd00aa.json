@@ -1,1 +1,22 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Data Warehouse in practice. Most common student mistakes in SAS", "author": "Kazienko, Przemys{\\l}aw and Kajdanowicz, Tomasz", "venue": "NA", "pub_year": "2010", "pub_type": "article", "bib_id": "kazienko2010data"}, "filled": true, "gsrank": 1, "author_id": ["cxLgNccAAAAJ", "GOoaHHEAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:Fp3vSqzWlD4J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData%2BWarehouse%2Bin%2Bpractice.%2BMost%2Bcommon%2Bstudent%2Bmistakes%2Bin%2BSAS%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Fp3vSqzWlD4J&ei=mptdYdnYMs-TmwHPvZGABQ", "url_related_articles": "/scholar?q=related:Fp3vSqzWlD4J:scholar.google.com/&scioq=Data+Warehouse+in+practice.+Most+common+student+mistakes+in+SAS&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Data Warehouse in practice. Most common student mistakes in SAS",
+    "author": "Kazienko, Przemys{\\l}aw and Kajdanowicz, Tomasz",
+    "venue": "NA",
+    "pub_year": "2010",
+    "pub_type": "article",
+    "bib_id": "kazienko2010data"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "cxLgNccAAAAJ",
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:Fp3vSqzWlD4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData%2BWarehouse%2Bin%2Bpractice.%2BMost%2Bcommon%2Bstudent%2Bmistakes%2Bin%2BSAS%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=Fp3vSqzWlD4J&ei=mptdYdnYMs-TmwHPvZGABQ",
+  "url_related_articles": "/scholar?q=related:Fp3vSqzWlD4J:scholar.google.com/&scioq=Data+Warehouse+in+practice.+Most+common+student+mistakes+in+SAS&hl=en&as_sdt=0,5"
+}

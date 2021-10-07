@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "User interaction simplification method for healthcare mobile applications", "author": "Radli{\\'n}ski, Piotr and Sas, Jerzy", "pub_year": "2002", "venue": "Journal of Medical Informatics & Technologies", "abstract": "In the paper an evaluation and optimisation framework for medical data access systems user interface is presented. User interface design seems to be of crucial importance for clinical data access applications acceptance, in particular for the applications running on handheld computers where the interface tools are significantly limited. The ease of program use depends strongly on the correct user interface design and on the algorithms which try to predict the user decisions and interactions made in the process of data access or", "volume": "4", "journal": "Journal of Medical Informatics \\& Technologies", "pub_type": "article", "bib_id": "radlinski2002user"}, "filled": true, "gsrank": 1, "pub_url": "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-PWA4-0022-0013", "author_id": ["", "T1U6rMcAAAAJ"], "num_citations": 2, "url_scholarbib": "/scholar?q=info:s3z6rgAFwtgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUser%2Binteraction%2Bsimplification%2Bmethod%2Bfor%2Bhealthcare%2Bmobile%2Bapplications%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=s3z6rgAFwtgJ&ei=Mq1dYazcNonmmgGQla6wAw", "citedby_url": "/scholar?cites=15619051958168091827&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:s3z6rgAFwtgJ:scholar.google.com/&scioq=User+interaction+simplification+method+for+healthcare+mobile+applications&hl=en&as_sdt=0,5", "eprint_url": "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-PWA4-0022-0013/c/2002_v4_Radlinski_Sas.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "User interaction simplification method for healthcare mobile applications",
+    "author": "Radli{\\'n}ski, Piotr and Sas, Jerzy",
+    "pub_year": "2002",
+    "venue": "Journal of Medical Informatics & Technologies",
+    "abstract": "In the paper an evaluation and optimisation framework for medical data access systems user interface is presented. User interface design seems to be of crucial importance for clinical data access applications acceptance, in particular for the applications running on handheld computers where the interface tools are significantly limited. The ease of program use depends strongly on the correct user interface design and on the algorithms which try to predict the user decisions and interactions made in the process of data access or",
+    "volume": "4",
+    "journal": "Journal of Medical Informatics \\& Technologies",
+    "pub_type": "article",
+    "bib_id": "radlinski2002user"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-PWA4-0022-0013",
+  "author_id": [
+    "",
+    "T1U6rMcAAAAJ"
+  ],
+  "num_citations": 2,
+  "url_scholarbib": "/scholar?q=info:s3z6rgAFwtgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUser%2Binteraction%2Bsimplification%2Bmethod%2Bfor%2Bhealthcare%2Bmobile%2Bapplications%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=s3z6rgAFwtgJ&ei=Mq1dYazcNonmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=15619051958168091827&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:s3z6rgAFwtgJ:scholar.google.com/&scioq=User+interaction+simplification+method+for+healthcare+mobile+applications&hl=en&as_sdt=0,5",
+  "eprint_url": "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-PWA4-0022-0013/c/2002_v4_Radlinski_Sas.pdf"
+}

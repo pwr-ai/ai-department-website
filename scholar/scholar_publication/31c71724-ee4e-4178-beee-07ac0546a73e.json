@@ -1,1 +1,24 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "KGR10-RoBERTa", "author": "Janz, Arkadiusz and Ropiak, Norbert", "pub_year": "2020", "venue": "NA", "abstract": "CLARIN-PL Repository Home; View Item. Show/Hide Menu. What can you do? Browse: All of the Repository: Issue Date; Authors; Titles; Subjects; Publisher; Language; Type; Rights Label. My Account: Login via Your home institution; Register. Statistics: StatisticsBETA. General", "publisher": "Wroc{\\l}aw University of Technology", "pub_type": "article", "bib_id": "janz2020kgr10"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/handle/11321/782", "author_id": ["UNlMg18AAAAJ", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:3zHorV-nj7AJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKGR10-RoBERTa%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=3zHorV-nj7AJ&ei=0UheYarzJIu4mAGqg5LoDg"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "KGR10-RoBERTa",
+    "author": "Janz, Arkadiusz and Ropiak, Norbert",
+    "pub_year": "2020",
+    "venue": "NA",
+    "abstract": "CLARIN-PL Repository Home; View Item. Show/Hide Menu. What can you do? Browse: All of the Repository: Issue Date; Authors; Titles; Subjects; Publisher; Language; Type; Rights Label. My Account: Login via Your home institution; Register. Statistics: StatisticsBETA. General",
+    "publisher": "Wroc{\\l}aw University of Technology",
+    "pub_type": "article",
+    "bib_id": "janz2020kgr10"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/handle/11321/782",
+  "author_id": [
+    "UNlMg18AAAAJ",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:3zHorV-nj7AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKGR10-RoBERTa%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=3zHorV-nj7AJ&ei=0UheYarzJIu4mAGqg5LoDg"
+}

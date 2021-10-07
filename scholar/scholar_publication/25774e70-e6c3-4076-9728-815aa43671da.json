@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Fact-checking: relevance assessment of references in the Polish political domain", "author": "Sawczyn, Albert and Binkowski, Jakub and Janiak, Denis and Augustyniak, {\\L}ukasz and Kajdanowicz, Tomasz", "pub_year": "2021", "venue": "Procedia Computer \u2026", "abstract": "The prevalence of fake news could be observed in circumstances of emotion-causing events, like elections or pandemics. In fear of the potential impact, many fact-checking organisations were established. However, fact-checking requires a large amount of human labor, and hence there is a strong demand for complete automation of this process. Nevertheless, this milestone has not been achieved yet, even for English. The problem grows for the less popular languages that suffer from a scarcity of available resources. To", "publisher": "Elsevier", "pages": "1285--1293", "volume": "192", "journal": "Procedia Computer Science", "pub_type": "article", "bib_id": "sawczyn2021fact"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S1877050921016215", "author_id": ["", "", ""], "num_citations": 0, "url_scholarbib": "/scholar?q=info:RjSSacQ4dy8J:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFact-checking:%2Brelevance%2Bassessment%2Bof%2Breferences%2Bin%2Bthe%2BPolish%2Bpolitical%2Bdomain%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=RjSSacQ4dy8J&ei=qkNeYZz3Dc6_mQHMm7boDg", "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1877050921016215/pdf?md5=852bdcde532c50079b336d1775772c6c&pid=1-s2.0-S1877050921016215-main.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Fact-checking: relevance assessment of references in the Polish political domain",
+    "author": "Sawczyn, Albert and Binkowski, Jakub and Janiak, Denis and Augustyniak, {\\L}ukasz and Kajdanowicz, Tomasz",
+    "pub_year": "2021",
+    "venue": "Procedia Computer \u2026",
+    "abstract": "The prevalence of fake news could be observed in circumstances of emotion-causing events, like elections or pandemics. In fear of the potential impact, many fact-checking organisations were established. However, fact-checking requires a large amount of human labor, and hence there is a strong demand for complete automation of this process. Nevertheless, this milestone has not been achieved yet, even for English. The problem grows for the less popular languages that suffer from a scarcity of available resources. To",
+    "publisher": "Elsevier",
+    "pages": "1285--1293",
+    "volume": "192",
+    "journal": "Procedia Computer Science",
+    "pub_type": "article",
+    "bib_id": "sawczyn2021fact"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S1877050921016215",
+  "author_id": [
+    "",
+    "",
+    ""
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:RjSSacQ4dy8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFact-checking:%2Brelevance%2Bassessment%2Bof%2Breferences%2Bin%2Bthe%2BPolish%2Bpolitical%2Bdomain%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=RjSSacQ4dy8J&ei=qkNeYZz3Dc6_mQHMm7boDg",
+  "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1877050921016215/pdf?md5=852bdcde532c50079b336d1775772c6c&pid=1-s2.0-S1877050921016215-main.pdf"
+}

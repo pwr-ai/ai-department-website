@@ -1,1 +1,27 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "The system of register labels in plWordNet v. 5 (Guidelines)", "author": "Maziarz, Marek and Piasecki, Maciej and Rudnicka, Ewa and Szpakowicz, Stan", "pub_year": "2014", "venue": "NA", "abstract": "\u2756 Nasze nowe rejestry b\u0119d\u0105 si\u0119 r\u00f3\u017cni\u0107 w wielu przypadkach od tych, kt\u00f3re stosowane s\u0105 w s\u0142ownikach. Dlatego nie wolno mechanicznie kopiowa\u0107 kwalifikator\u00f3w ze s\u0142ownik\u00f3w.\u2756 Rejestry nadajemy jednostkom nie dlatego, \u017ce etykietk\u0119 rejestru znale\u017ali\u015bmy w jakim\u015b s\u0142owniku, ale dlatego, \u017ce tak wychodzi z poni\u017cszych test\u00f3w. S\u0142owniki pe\u0142ni\u0105 funkcj\u0119 wy\u0142\u0105cznie pomocnicz\u0105.", "publisher": "Wroc{\\l}aw University of Science and Technology", "pub_type": "article", "bib_id": "maziarz2014system"}, "filled": true, "gsrank": 1, "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/725/Kwalifikator%C3%B3w%20system.pdf?sequence=1", "author_id": ["hc3Zj7UAAAAJ", "nU_W9XwAAAAJ", "rCk4VXEAAAAJ", "mFbRWwMAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:4-v2e89ocSYJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bsystem%2Bof%2Bregister%2Blabels%2Bin%2BplWordNet%2Bv.%2B5%2B(Guidelines)%26hl%3Den%26as_sdt%3D0,10&citilm=1&json=&update_op=library_add&info=4-v2e89ocSYJ&ei=MsVdYbzjAqPZsQKvo78o", "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/725/Kwalifikator%C3%B3w%20system.pdf?sequence=1"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "The system of register labels in plWordNet v. 5 (Guidelines)",
+    "author": "Maziarz, Marek and Piasecki, Maciej and Rudnicka, Ewa and Szpakowicz, Stan",
+    "pub_year": "2014",
+    "venue": "NA",
+    "abstract": "\u2756 Nasze nowe rejestry b\u0119d\u0105 si\u0119 r\u00f3\u017cni\u0107 w wielu przypadkach od tych, kt\u00f3re stosowane s\u0105 w s\u0142ownikach. Dlatego nie wolno mechanicznie kopiowa\u0107 kwalifikator\u00f3w ze s\u0142ownik\u00f3w.\u2756 Rejestry nadajemy jednostkom nie dlatego, \u017ce etykietk\u0119 rejestru znale\u017ali\u015bmy w jakim\u015b s\u0142owniku, ale dlatego, \u017ce tak wychodzi z poni\u017cszych test\u00f3w. S\u0142owniki pe\u0142ni\u0105 funkcj\u0119 wy\u0142\u0105cznie pomocnicz\u0105.",
+    "publisher": "Wroc{\\l}aw University of Science and Technology",
+    "pub_type": "article",
+    "bib_id": "maziarz2014system"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/725/Kwalifikator%C3%B3w%20system.pdf?sequence=1",
+  "author_id": [
+    "hc3Zj7UAAAAJ",
+    "nU_W9XwAAAAJ",
+    "rCk4VXEAAAAJ",
+    "mFbRWwMAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:4-v2e89ocSYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bsystem%2Bof%2Bregister%2Blabels%2Bin%2BplWordNet%2Bv.%2B5%2B(Guidelines)%26hl%3Den%26as_sdt%3D0,10&citilm=1&json=&update_op=library_add&info=4-v2e89ocSYJ&ei=MsVdYbzjAqPZsQKvo78o",
+  "eprint_url": "https://clarin-pl.eu/dspace/bitstream/handle/11321/725/Kwalifikator%C3%B3w%20system.pdf?sequence=1"
+}

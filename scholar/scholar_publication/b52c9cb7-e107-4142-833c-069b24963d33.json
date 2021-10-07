@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "AdROSA\u2014Adaptive personalization of web advertising", "author": "Kazienko, Przemys{\\l}aw and Adamski, Micha{\\l}", "pub_year": "2007", "venue": "Information Sciences", "abstract": "One of the greatest and most recent challenges for online advertising is the use of adaptive personalization at the same time that the Internet continues to grow as a global market. Most existing solutions to online advertising placement are based on demographic targeting or on information gained directly from the user. The AdROSA system for automatic web banner personalization, which integrates web usage and content mining techniques to reduce user input and to respect users' privacy, is presented in the paper. Furthermore, certain", "publisher": "Elsevier", "pages": "2269--2295", "number": "11", "volume": "177", "journal": "Information Sciences", "pub_type": "article", "bib_id": "kazienko2007adrosa"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S0020025507000229", "author_id": ["cxLgNccAAAAJ", ""], "num_citations": 212, "url_scholarbib": "/scholar?q=info:cVxjux-fiCoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdROSA%25E2%2580%2594Adaptive%2Bpersonalization%2Bof%2Bweb%2Badvertising%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=cVxjux-fiCoJ&ei=ZDBeYazjCYLemgHVs5GYDg", "citedby_url": "/scholar?cites=3064874505062276209&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:cVxjux-fiCoJ:scholar.google.com/&scioq=AdROSA%E2%80%94Adaptive+personalization+of+web+advertising&hl=en&as_sdt=0,5", "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.3610&rep=rep1&type=pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "AdROSA\u2014Adaptive personalization of web advertising",
+    "author": "Kazienko, Przemys{\\l}aw and Adamski, Micha{\\l}",
+    "pub_year": "2007",
+    "venue": "Information Sciences",
+    "abstract": "One of the greatest and most recent challenges for online advertising is the use of adaptive personalization at the same time that the Internet continues to grow as a global market. Most existing solutions to online advertising placement are based on demographic targeting or on information gained directly from the user. The AdROSA system for automatic web banner personalization, which integrates web usage and content mining techniques to reduce user input and to respect users' privacy, is presented in the paper. Furthermore, certain",
+    "publisher": "Elsevier",
+    "pages": "2269--2295",
+    "number": "11",
+    "volume": "177",
+    "journal": "Information Sciences",
+    "pub_type": "article",
+    "bib_id": "kazienko2007adrosa"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S0020025507000229",
+  "author_id": [
+    "cxLgNccAAAAJ",
+    ""
+  ],
+  "num_citations": 212,
+  "url_scholarbib": "/scholar?q=info:cVxjux-fiCoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdROSA%25E2%2580%2594Adaptive%2Bpersonalization%2Bof%2Bweb%2Badvertising%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=cVxjux-fiCoJ&ei=ZDBeYazjCYLemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=3064874505062276209&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:cVxjux-fiCoJ:scholar.google.com/&scioq=AdROSA%E2%80%94Adaptive+personalization+of+web+advertising&hl=en&as_sdt=0,5",
+  "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.3610&rep=rep1&type=pdf"
+}

@@ -1,1 +1,22 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Learning Order in Boosting-based Classification of Structured Output Elements", "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw", "venue": "NA", "pub_year": "NA", "pub_type": "article", "bib_id": "kajdanowiczlearning"}, "filled": true, "gsrank": 1, "author_id": ["GOoaHHEAAAAJ", "cxLgNccAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:pUvcABZ205YJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2BOrder%2Bin%2BBoosting-based%2BClassification%2Bof%2BStructured%2BOutput%2BElements%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=pUvcABZ205YJ&ei=Q51dYbmbHIu4mAGqg5LoDg", "url_related_articles": "/scholar?q=related:pUvcABZ205YJ:scholar.google.com/&scioq=Learning+Order+in+Boosting-based+Classification+of+Structured+Output+Elements&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Learning Order in Boosting-based Classification of Structured Output Elements",
+    "author": "Kajdanowicz, Tomasz and Kazienko, Przemyslaw",
+    "venue": "NA",
+    "pub_year": "NA",
+    "pub_type": "article",
+    "bib_id": "kajdanowiczlearning"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "author_id": [
+    "GOoaHHEAAAAJ",
+    "cxLgNccAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:pUvcABZ205YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2BOrder%2Bin%2BBoosting-based%2BClassification%2Bof%2BStructured%2BOutput%2BElements%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=pUvcABZ205YJ&ei=Q51dYbmbHIu4mAGqg5LoDg",
+  "url_related_articles": "/scholar?q=related:pUvcABZ205YJ:scholar.google.com/&scioq=Learning+Order+in+Boosting-based+Classification+of+Structured+Output+Elements&hl=en&as_sdt=0,5"
+}

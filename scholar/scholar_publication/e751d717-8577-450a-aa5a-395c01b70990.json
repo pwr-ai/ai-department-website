@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Utemeljevanje sloWNeta na korpusnih podatkih", "author": "Fi{\\v{s}}er, Darja and Piasecki, Maciej and Broda, Bartosz", "pub_year": "2013", "venue": "Sloven\u0161\u010dina 2.0: empirical, applied \u2026", "abstract": "Wordnets can be translated from another language or can be built from corpus evidence. The transfer approach is easier and quicker, which is why it has been most widely used. However, it has a big disadvantage that the created resource does not necessarily reflect the language in question. This is why in this paper we test a language-motivated approach that uses linguistically annotated corpus data and basic statistical methods to extract lists of semantically similar words that are then incorporated into the wordnet for Slovene. The", "pages": "82--112", "number": "2", "volume": "1", "journal": "Sloven{\\v{s}}{\\v{c}}ina 2.0: empirical, applied and interdisciplinary research", "pub_type": "article", "bib_id": "fivser2013utemeljevanje"}, "filled": true, "gsrank": 1, "pub_url": "https://revije.ff.uni-lj.si/slovenscina2/article/view/6927", "author_id": ["BwYgX1IAAAAJ", "nU_W9XwAAAAJ", "pulMdOUAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:9cBCoOtchdAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUtemeljevanje%2BsloWNeta%2Bna%2Bkorpusnih%2Bpodatkih%26hl%3Den%26as_sdt%3D0,29&citilm=1&json=&update_op=library_add&info=9cBCoOtchdAJ&ei=-SteYZj9IqPZsQKvo78o", "url_related_articles": "/scholar?q=related:9cBCoOtchdAJ:scholar.google.com/&scioq=Utemeljevanje+sloWNeta+na+korpusnih+podatkih&hl=en&as_sdt=0,29", "eprint_url": "https://revije.ff.uni-lj.si/slovenscina2/article/download/6927/6621"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Utemeljevanje sloWNeta na korpusnih podatkih",
+    "author": "Fi{\\v{s}}er, Darja and Piasecki, Maciej and Broda, Bartosz",
+    "pub_year": "2013",
+    "venue": "Sloven\u0161\u010dina 2.0: empirical, applied \u2026",
+    "abstract": "Wordnets can be translated from another language or can be built from corpus evidence. The transfer approach is easier and quicker, which is why it has been most widely used. However, it has a big disadvantage that the created resource does not necessarily reflect the language in question. This is why in this paper we test a language-motivated approach that uses linguistically annotated corpus data and basic statistical methods to extract lists of semantically similar words that are then incorporated into the wordnet for Slovene. The",
+    "pages": "82--112",
+    "number": "2",
+    "volume": "1",
+    "journal": "Sloven{\\v{s}}{\\v{c}}ina 2.0: empirical, applied and interdisciplinary research",
+    "pub_type": "article",
+    "bib_id": "fivser2013utemeljevanje"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://revije.ff.uni-lj.si/slovenscina2/article/view/6927",
+  "author_id": [
+    "BwYgX1IAAAAJ",
+    "nU_W9XwAAAAJ",
+    "pulMdOUAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:9cBCoOtchdAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUtemeljevanje%2BsloWNeta%2Bna%2Bkorpusnih%2Bpodatkih%26hl%3Den%26as_sdt%3D0,29&citilm=1&json=&update_op=library_add&info=9cBCoOtchdAJ&ei=-SteYZj9IqPZsQKvo78o",
+  "url_related_articles": "/scholar?q=related:9cBCoOtchdAJ:scholar.google.com/&scioq=Utemeljevanje+sloWNeta+na+korpusnih+podatkih&hl=en&as_sdt=0,29",
+  "eprint_url": "https://revije.ff.uni-lj.si/slovenscina2/article/download/6927/6621"
+}

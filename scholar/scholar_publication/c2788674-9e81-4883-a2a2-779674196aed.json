@@ -1,1 +1,32 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "How is a data-driven approach better than random choice in label space division for multi-label classification?", "author": "Szyma{\\'n}ski, Piotr and Kajdanowicz, Tomasz and Kersting, Kristian", "pub_year": "2016", "venue": "Entropy", "abstract": "We propose using five data-driven community detection approaches from social networks to partition the label space in the task of multi-label classification as an alternative to random partitioning into equal subsets as performed by RA k EL d. We evaluate modularity-maximizing using fast greedy and leading eigenvector approximations, infomap, walktrap and label propagation algorithms. For this purpose, we propose to construct a label co-occurrence graph (both weighted and unweighted versions) based on training data and", "publisher": "Multidisciplinary Digital Publishing Institute", "pages": "282", "number": "8", "volume": "18", "journal": "Entropy", "pub_type": "article", "bib_id": "szymanski2016data"}, "filled": true, "gsrank": 1, "pub_url": "https://www.mdpi.com/150182", "author_id": ["K8v7ROIAAAAJ", "GOoaHHEAAAAJ", "QY-earAAAAAJ"], "num_citations": 42, "url_scholarbib": "/scholar?q=info:HGMbKHbMILAJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHow%2Bis%2Ba%2Bdata-driven%2Bapproach%2Bbetter%2Bthan%2Brandom%2Bchoice%2Bin%2Blabel%2Bspace%2Bdivision%2Bfor%2Bmulti-label%2Bclassification%253F%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=HGMbKHbMILAJ&ei=8ZNdYY3OJYnmmgGQla6wAw", "citedby_url": "/scholar?cites=12691368557781148444&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:HGMbKHbMILAJ:scholar.google.com/&scioq=How+is+a+data-driven+approach+better+than+random+choice+in+label+space+division+for+multi-label+classification%3F&hl=en&as_sdt=0,39", "eprint_url": "https://www.mdpi.com/1099-4300/18/8/282/htm"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "How is a data-driven approach better than random choice in label space division for multi-label classification?",
+    "author": "Szyma{\\'n}ski, Piotr and Kajdanowicz, Tomasz and Kersting, Kristian",
+    "pub_year": "2016",
+    "venue": "Entropy",
+    "abstract": "We propose using five data-driven community detection approaches from social networks to partition the label space in the task of multi-label classification as an alternative to random partitioning into equal subsets as performed by RA k EL d. We evaluate modularity-maximizing using fast greedy and leading eigenvector approximations, infomap, walktrap and label propagation algorithms. For this purpose, we propose to construct a label co-occurrence graph (both weighted and unweighted versions) based on training data and",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "pages": "282",
+    "number": "8",
+    "volume": "18",
+    "journal": "Entropy",
+    "pub_type": "article",
+    "bib_id": "szymanski2016data"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.mdpi.com/150182",
+  "author_id": [
+    "K8v7ROIAAAAJ",
+    "GOoaHHEAAAAJ",
+    "QY-earAAAAAJ"
+  ],
+  "num_citations": 42,
+  "url_scholarbib": "/scholar?q=info:HGMbKHbMILAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHow%2Bis%2Ba%2Bdata-driven%2Bapproach%2Bbetter%2Bthan%2Brandom%2Bchoice%2Bin%2Blabel%2Bspace%2Bdivision%2Bfor%2Bmulti-label%2Bclassification%253F%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=HGMbKHbMILAJ&ei=8ZNdYY3OJYnmmgGQla6wAw",
+  "citedby_url": "/scholar?cites=12691368557781148444&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:HGMbKHbMILAJ:scholar.google.com/&scioq=How+is+a+data-driven+approach+better+than+random+choice+in+label+space+division+for+multi-label+classification%3F&hl=en&as_sdt=0,39",
+  "eprint_url": "https://www.mdpi.com/1099-4300/18/8/282/htm"
+}

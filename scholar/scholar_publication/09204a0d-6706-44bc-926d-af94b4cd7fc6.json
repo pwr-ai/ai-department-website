@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Towards solving practical problems of large solution space using a novel pattern searching hybrid evolutionary algorithm--an elastic optical network optimization case study", "author": "Przewo{\\'z}niczek, Micha{\\l} and Go{\\'s}cie{\\'n}, R{\\'o}{\\.z}a and Walkowiak, Krzysztof and Klinkowski, Miros{\\l}aw", "pub_year": "2015", "venue": "Expert Systems with \u2026", "abstract": "The fast social and economic development observed in the recent years brings up new challenging optimization problems. These problems are often very hard not only because of their computational complexity, but also due to their enormous solution space size. Therefore, this paper proposes an effective optimization method, based on the novel Multi Population Pattern Searching (MuPPetS) Algorithm, to solve optimization problems characterized with very large solution space. As a case study problem, we focus on the", "publisher": "Elsevier", "pages": "7781--7796", "number": "21", "volume": "42", "journal": "Expert Systems with Applications", "pub_type": "article", "bib_id": "przewozniczek2015towards"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417415003760", "author_id": ["bmJw3Z0AAAAJ", "YD4QTRYAAAAJ", "cnLc7u4AAAAJ"], "num_citations": 22, "url_scholarbib": "/scholar?q=info:2-rPixZIsxgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bsolving%2Bpractical%2Bproblems%2Bof%2Blarge%2Bsolution%2Bspace%2Busing%2Ba%2Bnovel%2Bpattern%2Bsearching%2Bhybrid%2Bevolutionary%2Balgorithm%25E2%2580%2593an%2Belastic%2Boptical%2Bnetwork%2Boptimization%2Bcase%2Bstudy%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=2-rPixZIsxgJ&ei=-UNeYY20FI2UmQGz6rqYBQ", "citedby_url": "/scholar?cites=1779845539413617371&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:2-rPixZIsxgJ:scholar.google.com/&scioq=Towards+solving+practical+problems+of+large+solution+space+using+a+novel+pattern+searching+hybrid+evolutionary+algorithm%E2%80%93an+elastic+optical+network+optimization+case+study&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Towards solving practical problems of large solution space using a novel pattern searching hybrid evolutionary algorithm--an elastic optical network optimization case study",
+    "author": "Przewo{\\'z}niczek, Micha{\\l} and Go{\\'s}cie{\\'n}, R{\\'o}{\\.z}a and Walkowiak, Krzysztof and Klinkowski, Miros{\\l}aw",
+    "pub_year": "2015",
+    "venue": "Expert Systems with \u2026",
+    "abstract": "The fast social and economic development observed in the recent years brings up new challenging optimization problems. These problems are often very hard not only because of their computational complexity, but also due to their enormous solution space size. Therefore, this paper proposes an effective optimization method, based on the novel Multi Population Pattern Searching (MuPPetS) Algorithm, to solve optimization problems characterized with very large solution space. As a case study problem, we focus on the",
+    "publisher": "Elsevier",
+    "pages": "7781--7796",
+    "number": "21",
+    "volume": "42",
+    "journal": "Expert Systems with Applications",
+    "pub_type": "article",
+    "bib_id": "przewozniczek2015towards"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417415003760",
+  "author_id": [
+    "bmJw3Z0AAAAJ",
+    "YD4QTRYAAAAJ",
+    "cnLc7u4AAAAJ"
+  ],
+  "num_citations": 22,
+  "url_scholarbib": "/scholar?q=info:2-rPixZIsxgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bsolving%2Bpractical%2Bproblems%2Bof%2Blarge%2Bsolution%2Bspace%2Busing%2Ba%2Bnovel%2Bpattern%2Bsearching%2Bhybrid%2Bevolutionary%2Balgorithm%25E2%2580%2593an%2Belastic%2Boptical%2Bnetwork%2Boptimization%2Bcase%2Bstudy%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=2-rPixZIsxgJ&ei=-UNeYY20FI2UmQGz6rqYBQ",
+  "citedby_url": "/scholar?cites=1779845539413617371&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:2-rPixZIsxgJ:scholar.google.com/&scioq=Towards+solving+practical+problems+of+large+solution+space+using+a+novel+pattern+searching+hybrid+evolutionary+algorithm%E2%80%93an+elastic+optical+network+optimization+case+study&hl=en&as_sdt=0,5"
+}

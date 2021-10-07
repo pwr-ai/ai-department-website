@@ -1,1 +1,28 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "MuNeG: The Framework for Multilayer Network Generator", "author": "Popiel, Adrian and Kazienko, Przemys{\\l}aw and Kajdanowicz, Tomasz", "pub_year": "2015", "venue": "Proceedings of the 2015 IEEE \u2026", "abstract": "It is a common problem that cost of extracting data for network analysis could be very high. Also sometimes in the Internet is it hard to find graph with desired features such as node degree or clustering level. Because of that graph generators can than be very helpful. In the past bunch of models of such generators was developed: random graphs, small worlds and scale free networks. All of these generators were developed to quickly and efficiently create networks with desired parameters. However all of this models produce single layer graphs", "pages": "1316--1323", "booktitle": "Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2015", "pub_type": "inproceedings", "bib_id": "popiel2015muneg"}, "filled": true, "gsrank": 1, "pub_url": "https://dl.acm.org/doi/abs/10.1145/2808797.2808902", "author_id": ["o3t23asAAAAJ", "cxLgNccAAAAJ", "GOoaHHEAAAAJ"], "num_citations": 0, "url_scholarbib": "/scholar?q=info:PAGb7vltGzgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMuNeG:%2BThe%2BFramework%2Bfor%2BMultilayer%2BNetwork%2BGenerator%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=PAGb7vltGzgJ&ei=RJpdYY7yIonmmgGQla6wAw", "url_related_articles": "/scholar?q=related:PAGb7vltGzgJ:scholar.google.com/&scioq=MuNeG:+The+Framework+for+Multilayer+Network+Generator&hl=en&as_sdt=0,33", "eprint_url": "https://lipn.univ-paris13.fr/~kanawati/manem15-content/proc/MANEM15_submission_3.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "MuNeG: The Framework for Multilayer Network Generator",
+    "author": "Popiel, Adrian and Kazienko, Przemys{\\l}aw and Kajdanowicz, Tomasz",
+    "pub_year": "2015",
+    "venue": "Proceedings of the 2015 IEEE \u2026",
+    "abstract": "It is a common problem that cost of extracting data for network analysis could be very high. Also sometimes in the Internet is it hard to find graph with desired features such as node degree or clustering level. Because of that graph generators can than be very helpful. In the past bunch of models of such generators was developed: random graphs, small worlds and scale free networks. All of these generators were developed to quickly and efficiently create networks with desired parameters. However all of this models produce single layer graphs",
+    "pages": "1316--1323",
+    "booktitle": "Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2015",
+    "pub_type": "inproceedings",
+    "bib_id": "popiel2015muneg"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://dl.acm.org/doi/abs/10.1145/2808797.2808902",
+  "author_id": [
+    "o3t23asAAAAJ",
+    "cxLgNccAAAAJ",
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 0,
+  "url_scholarbib": "/scholar?q=info:PAGb7vltGzgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMuNeG:%2BThe%2BFramework%2Bfor%2BMultilayer%2BNetwork%2BGenerator%26hl%3Den%26as_sdt%3D0,33&citilm=1&json=&update_op=library_add&info=PAGb7vltGzgJ&ei=RJpdYY7yIonmmgGQla6wAw",
+  "url_related_articles": "/scholar?q=related:PAGb7vltGzgJ:scholar.google.com/&scioq=MuNeG:+The+Framework+for+Multilayer+Network+Generator&hl=en&as_sdt=0,33",
+  "eprint_url": "https://lipn.univ-paris13.fr/~kanawati/manem15-content/proc/MANEM15_submission_3.pdf"
+}

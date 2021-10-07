@@ -1,1 +1,31 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "A hybrid approach for personalized recommendation of news on the Web", "author": "Wen, Hao and Fang, Liping and Guan, Ling", "pub_year": "2012", "venue": "Expert Systems with Applications", "abstract": "A hybrid method for personalized recommendation of news on the Web is presented, which provides Web users with an autonomous tool that is able to minimize repetitive and tedious Web surfing  In the experiments, Web news items are classified and recommended to Web", "publisher": "Elsevier", "pages": "5806--5814", "number": "5", "volume": "39", "journal": "Expert Systems with Applications", "pub_type": "article", "bib_id": "wen2012hybrid"}, "filled": true, "gsrank": 1, "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417411016332", "author_id": ["", "MAjYcGgAAAAJ", "dM3_ydMAAAAJ"], "num_citations": 87, "url_scholarbib": "/scholar?q=info:zVEnm8TT-LoJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPersonalized%2Brecommendation%2Bof%2Bweb%2Bpages%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=zVEnm8TT-LoJ&ei=sTJeYafqLofBmQGX-6OoBg", "citedby_url": "/scholar?cites=13472751126648934861&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:zVEnm8TT-LoJ:scholar.google.com/&scioq=Personalized+recommendation+of+web+pages&hl=en&as_sdt=0,5"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A hybrid approach for personalized recommendation of news on the Web",
+    "author": "Wen, Hao and Fang, Liping and Guan, Ling",
+    "pub_year": "2012",
+    "venue": "Expert Systems with Applications",
+    "abstract": "A hybrid method for personalized recommendation of news on the Web is presented, which provides Web users with an autonomous tool that is able to minimize repetitive and tedious Web surfing  In the experiments, Web news items are classified and recommended to Web",
+    "publisher": "Elsevier",
+    "pages": "5806--5814",
+    "number": "5",
+    "volume": "39",
+    "journal": "Expert Systems with Applications",
+    "pub_type": "article",
+    "bib_id": "wen2012hybrid"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417411016332",
+  "author_id": [
+    "",
+    "MAjYcGgAAAAJ",
+    "dM3_ydMAAAAJ"
+  ],
+  "num_citations": 87,
+  "url_scholarbib": "/scholar?q=info:zVEnm8TT-LoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPersonalized%2Brecommendation%2Bof%2Bweb%2Bpages%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=zVEnm8TT-LoJ&ei=sTJeYafqLofBmQGX-6OoBg",
+  "citedby_url": "/scholar?cites=13472751126648934861&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:zVEnm8TT-LoJ:scholar.google.com/&scioq=Personalized+recommendation+of+web+pages&hl=en&as_sdt=0,5"
+}

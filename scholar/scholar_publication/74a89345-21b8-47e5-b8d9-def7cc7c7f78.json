@@ -1,1 +1,30 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Corpus-based semantic filtering in discovering derivational relations", "author": "Piasecki, Maciej and Ramocki, Rados{\\l}aw and Minda, Pawe{\\l}", "pub_year": "2012", "venue": "International Conference on Artificial \u2026", "abstract": "Derivational relations are an important part of the lexical semantics system in many languages, especially those of rich inflection. They represent wide variety of semantic oppositions. Analysis of morphological word forms in terms of prefixes and suffixes provides limited information about their semantics. We propose a method of semantic classification of the potential derivational pairs. The method is based on supervised learning, but requires only a list of word pairs assigned to the derivational relations. The classification was based", "organization": "Springer", "pages": "14--22", "booktitle": "International Conference on Artificial Intelligence: Methodology, Systems, and Applications", "pub_type": "inproceedings", "bib_id": "piasecki2012corpus"}, "filled": true, "gsrank": 1, "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-33185-5_2", "author_id": ["nU_W9XwAAAAJ", "Sv_zNIgAAAAJ", ""], "num_citations": 5, "url_scholarbib": "/scholar?q=info:MQKpuWxcYREJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpus-based%2Bsemantic%2Bfiltering%2Bin%2Bdiscovering%2Bderivational%2Brelations%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=MQKpuWxcYREJ&ei=WLxdYZ6WEYLemgHVs5GYDg", "citedby_url": "/scholar?cites=1252383793426793009&as_sdt=2005&sciodt=0,5&hl=en", "url_related_articles": "/scholar?q=related:MQKpuWxcYREJ:scholar.google.com/&scioq=Corpus-based+semantic+filtering+in+discovering+derivational+relations&hl=en&as_sdt=0,5", "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/262241437_Corpus-Based_Semantic_Filtering_in_Discovering_Derivational_Relations/links/57232c7908aee491cb370c63/Corpus-Based-Semantic-Filtering-in-Discovering-Derivational-Relations.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Corpus-based semantic filtering in discovering derivational relations",
+    "author": "Piasecki, Maciej and Ramocki, Rados{\\l}aw and Minda, Pawe{\\l}",
+    "pub_year": "2012",
+    "venue": "International Conference on Artificial \u2026",
+    "abstract": "Derivational relations are an important part of the lexical semantics system in many languages, especially those of rich inflection. They represent wide variety of semantic oppositions. Analysis of morphological word forms in terms of prefixes and suffixes provides limited information about their semantics. We propose a method of semantic classification of the potential derivational pairs. The method is based on supervised learning, but requires only a list of word pairs assigned to the derivational relations. The classification was based",
+    "organization": "Springer",
+    "pages": "14--22",
+    "booktitle": "International Conference on Artificial Intelligence: Methodology, Systems, and Applications",
+    "pub_type": "inproceedings",
+    "bib_id": "piasecki2012corpus"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-33185-5_2",
+  "author_id": [
+    "nU_W9XwAAAAJ",
+    "Sv_zNIgAAAAJ",
+    ""
+  ],
+  "num_citations": 5,
+  "url_scholarbib": "/scholar?q=info:MQKpuWxcYREJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorpus-based%2Bsemantic%2Bfiltering%2Bin%2Bdiscovering%2Bderivational%2Brelations%26hl%3Den%26as_sdt%3D0,5&citilm=1&json=&update_op=library_add&info=MQKpuWxcYREJ&ei=WLxdYZ6WEYLemgHVs5GYDg",
+  "citedby_url": "/scholar?cites=1252383793426793009&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:MQKpuWxcYREJ:scholar.google.com/&scioq=Corpus-based+semantic+filtering+in+discovering+derivational+relations&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.researchgate.net/profile/Maciej-Piasecki/publication/262241437_Corpus-Based_Semantic_Filtering_in_Discovering_Derivational_Relations/links/57232c7908aee491cb370c63/Corpus-Based-Semantic-Filtering-in-Discovering-Derivational-Relations.pdf"
+}

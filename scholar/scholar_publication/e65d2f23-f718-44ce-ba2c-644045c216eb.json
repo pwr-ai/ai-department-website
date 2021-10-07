@@ -1,1 +1,29 @@
-{"container_type": "Publication", "source": "PUBLICATION_SEARCH_SNIPPET", "bib": {"title": "Simpler is better? Lexicon-based ensemble sentiment classification beats supervised methods", "author": "Augustyniak, Lukasz and Kajdanowicz, Tomasz and Szyma{\\'n}ski, Piotr and Tulig{\\l}owicz, W{\\l}odzimierz and Kazienko, Przemyslaw and Alhajj, Reda and Szymanski, Boleslaw", "pub_year": "2014", "venue": "2014 IEEE/ACM \u2026", "abstract": "It has been shown in this paper that simplistic Bag of Words (BoW) lexicon methods for sentiment polarity assignment with ensemble classifiers are much faster than a supervised approach to sentiment classification while yielding similar accuracy. BoW methods also proved to be efficient and fast across all examined datasets. Moreover, a new approach to lexicon extraction that can be successfully used for sentiment polarity assignment is presented in the paper. It has been shown that accuracy obtained from such lexicons", "organization": "IEEE", "pages": "924--929", "booktitle": "2014 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2014)", "pub_type": "inproceedings", "bib_id": "augustyniak2014simpler"}, "filled": true, "gsrank": 1, "pub_url": "https://ieeexplore.ieee.org/abstract/document/6921696/", "author_id": ["o3apDSYAAAAJ", "GOoaHHEAAAAJ"], "num_citations": 32, "url_scholarbib": "/scholar?q=info:McjgThBIKwgJ:scholar.google.com/&output=cite&scirp=0&hl=en", "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSimpler%2Bis%2Bbetter%253F%2BLexicon-based%2Bensemble%2Bsentiment%2Bclassification%2Bbeats%2Bsupervised%2Bmethods%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=McjgThBIKwgJ&ei=CJRdYeSZB8KSy9YPu-2n8AU", "citedby_url": "/scholar?cites=588643411182012465&as_sdt=5,39&sciodt=0,39&hl=en", "url_related_articles": "/scholar?q=related:McjgThBIKwgJ:scholar.google.com/&scioq=Simpler+is+better%3F+Lexicon-based+ensemble+sentiment+classification+beats+supervised+methods&hl=en&as_sdt=0,39", "eprint_url": "https://core.ac.uk/download/pdf/189659087.pdf"}
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Simpler is better? Lexicon-based ensemble sentiment classification beats supervised methods",
+    "author": "Augustyniak, Lukasz and Kajdanowicz, Tomasz and Szyma{\\'n}ski, Piotr and Tulig{\\l}owicz, W{\\l}odzimierz and Kazienko, Przemyslaw and Alhajj, Reda and Szymanski, Boleslaw",
+    "pub_year": "2014",
+    "venue": "2014 IEEE/ACM \u2026",
+    "abstract": "It has been shown in this paper that simplistic Bag of Words (BoW) lexicon methods for sentiment polarity assignment with ensemble classifiers are much faster than a supervised approach to sentiment classification while yielding similar accuracy. BoW methods also proved to be efficient and fast across all examined datasets. Moreover, a new approach to lexicon extraction that can be successfully used for sentiment polarity assignment is presented in the paper. It has been shown that accuracy obtained from such lexicons",
+    "organization": "IEEE",
+    "pages": "924--929",
+    "booktitle": "2014 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2014)",
+    "pub_type": "inproceedings",
+    "bib_id": "augustyniak2014simpler"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://ieeexplore.ieee.org/abstract/document/6921696/",
+  "author_id": [
+    "o3apDSYAAAAJ",
+    "GOoaHHEAAAAJ"
+  ],
+  "num_citations": 32,
+  "url_scholarbib": "/scholar?q=info:McjgThBIKwgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSimpler%2Bis%2Bbetter%253F%2BLexicon-based%2Bensemble%2Bsentiment%2Bclassification%2Bbeats%2Bsupervised%2Bmethods%26hl%3Den%26as_sdt%3D0,39&citilm=1&json=&update_op=library_add&info=McjgThBIKwgJ&ei=CJRdYeSZB8KSy9YPu-2n8AU",
+  "citedby_url": "/scholar?cites=588643411182012465&as_sdt=5,39&sciodt=0,39&hl=en",
+  "url_related_articles": "/scholar?q=related:McjgThBIKwgJ:scholar.google.com/&scioq=Simpler+is+better%3F+Lexicon-based+ensemble+sentiment+classification+beats+supervised+methods&hl=en&as_sdt=0,39",
+  "eprint_url": "https://core.ac.uk/download/pdf/189659087.pdf"
+}
