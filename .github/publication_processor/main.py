@@ -151,6 +151,6 @@ if __name__ == '__main__':
     is_success = False
     while not is_success and try_count > 0:
         try_count = try_count - 1
-        main_scrap()
+        is_success = main_scrap()
         scholarly.use_proxy(None)
         os.system('sudo killall -9 tor')
