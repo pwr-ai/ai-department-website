@@ -48,7 +48,7 @@ social:
     link: https://scholar.google.pl/citations?user=bmJw3Z0AAAAJ&hl=en
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Lukasz_Augustyniak
+    link: https://www.researchgate.net/profile/Michal-Przewozniczek
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-2446-6473

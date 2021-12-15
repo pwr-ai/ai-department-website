@@ -21,5 +21,5 @@ design:
 
 ---
 
-We are the Department of Computational Intelligence at Wroclaw University of Science and Technology, founded in 2014.
+We are the Department of Artificial Intelligence at Wroclaw University of Science and Technology, founded in 2014 (formerly a Department of Computational Intelligence).
 Our team researches important data science, machine learning and general artificial intelligence problems involving unstructured data: in other words, images, texts, sounds, networks or signals.
