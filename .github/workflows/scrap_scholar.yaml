@@ -20,4 +20,4 @@ jobs:
           sudo apt-get install -y tor
           pip install -r .github/publication_processor/requirements.txt
       - name: Scrap
-        run: python -u .github/publication_processor/main.py
+        run: python -u .github/publication_processor/scrap.py
