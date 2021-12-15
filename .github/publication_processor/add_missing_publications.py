@@ -24,5 +24,19 @@ def get_user_mapping() -> Dict[str, str]:
     }
 
 
+def get_bib_path(pub_scrapped_id: str) -> str:
+    return f'scholar/scholar_publication/{pub_scrapped_id}.bib'
+
+
+def add_pub_with_id(pub_scrapped_id: str):
+    print(f'adding publication {pub_scrapped_id}')
+    bib_path = get_bib_path(pub_scrapped_id)
+    print(get_file_content(bib_path))
+    os.system(f'academic import'
+              f' --publication-dir content/en/publication'
+              f' --bibtex {bib_path}')
+
+
 if __name__ == '__main__':
-    print(get_user_mapping())
+    for pub_id in get_scrapped_uid()[:5]:
+        add_pub_with_id(pub_id)
