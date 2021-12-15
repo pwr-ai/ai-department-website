@@ -38,5 +38,5 @@ def add_pub_with_id(pub_scrapped_id: str):
 
 
 if __name__ == '__main__':
-    for pub_id in get_scrapped_uid()[:5]:
+    for pub_id in get_scrapped_uid():
         add_pub_with_id(pub_id)
