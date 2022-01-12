@@ -12,7 +12,7 @@ authors:
 - Jaroslaw Watrobski
 tags: []
 categories: []
-date: 2016
+date: 2016-01-01
 lastmod: 2022-01-12T10:57:44+01:00
 featured: false
 draft: false
