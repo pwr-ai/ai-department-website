@@ -1,6 +1,6 @@
 import json
 import os
-from typing import List, Dict
+from typing import List, Dict, Optional
 
 
 def get_file_content(path: str) -> str:
@@ -41,29 +41,30 @@ def add_pub_with_id(pub_scrapped_id: str):
               f' --bibtex {bib_path}')
 
 
-def get_publication_year(pub_scrapped_id: str) -> int:
+def get_publication_year(pub_scrapped_id: str) -> Optional[int]:
     bib_path = get_bib_path(pub_scrapped_id)
     lines = get_file_content(bib_path).splitlines(False)
     pub_line = [it for it in lines if 'pub_year' in it][0]
-    return int(pub_line.split('{')[1].split('}')[0])
+    year_str = pub_line.split('{')[1].split('}')[0]
+    return int(year_str) if year_str.isnumeric() else None
 
 
 if __name__ == '__main__':
     all_pubs = json.load(open('scholar/pubs.json', 'r'))
-    for pub_id in get_scrapped_uid()[:4]:
+    for pub_id in get_scrapped_uid():
         title = json.load(open(get_json_path(pub_id), 'r'))['bib']['title']
         if title in all_pubs:
             list_before = set(os.listdir('content/en/publication'))
             pub_year = get_publication_year(pub_id)
             add_pub_with_id(pub_id)
             list_after = set(os.listdir('content/en/publication'))
-            index_file = f'content/en/publication/{list(list_after - list_before)[0]}/index.md'
-            index_content_lines = get_file_content(index_file).splitlines(keepends=True)
-            index_content_lines_updated = [
-                line if 'date: ' not in line else f'date: {pub_year}-01-01\n'
-                for line in index_content_lines
-            ]
-            print(index_content_lines_updated)
-            with open(index_file, 'w') as f:
-                f.writelines(index_content_lines_updated)
-            print('-----')
+            if len(list_after - list_before):
+                pub_year = pub_year if pub_year is not None else 2022
+                index_file = f'content/en/publication/{list(list_after - list_before)[0]}/index.md'
+                index_content_lines = get_file_content(index_file).splitlines(keepends=True)
+                index_content_lines_updated = [
+                    line if 'date: ' not in line else f'date: {pub_year}-01-01\n'
+                    for line in index_content_lines
+                ]
+                with open(index_file, 'w') as f:
+                    f.writelines(index_content_lines_updated)
