@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Michał Karol
+slug: michal-karol
 weight: 80
 # Username (this should match the folder name)
 authors:
