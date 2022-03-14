@@ -5,7 +5,7 @@ title: Cross-lingual deep neural transfer learning in sentiment analysis
 subtitle: ''
 summary: ''
 authors:
-- Kamil Kanclerz
+- kanclerz
 - Piotr Miłkowski
 - Jan Koco\ŉ
 tags: []

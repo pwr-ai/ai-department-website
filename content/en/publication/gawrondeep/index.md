@@ -9,7 +9,7 @@ authors:
 - Michał Pogoda
 - Norbert Ropiak
 - Michał Swedrowski
-- Jan Kocon
+- kocon
 tags: []
 categories: []
 date: 2022-01-01

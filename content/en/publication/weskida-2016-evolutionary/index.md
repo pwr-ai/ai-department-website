@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Michał Weskida
-- Radosław Michalski
+- michalski
 tags: []
 categories: []
 date: 2016-01-01

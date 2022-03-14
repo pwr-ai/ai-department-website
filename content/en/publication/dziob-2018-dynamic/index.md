@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Agnieszka Dziob
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2018-01-01

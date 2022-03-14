@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Marek W Kurzynski
 - Edward Puchala
-- Jerzy Sas
+- sas
 tags: []
 categories: []
 date: 1992-01-01

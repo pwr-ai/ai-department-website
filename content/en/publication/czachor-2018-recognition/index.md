@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Gabriela Czachor
-- Maciej Piasecki
-- Arkadiusz Janz
+- piasecki
+- janz
 tags: []
 categories: []
 date: 2018-01-01

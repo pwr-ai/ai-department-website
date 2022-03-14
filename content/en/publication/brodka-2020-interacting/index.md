@@ -5,7 +5,7 @@ title: 'Interacting spreading processes in multilayer networks: a systematic rev
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 - Katarzyna Musial
 - Jaroslaw Jankowski
 tags: []

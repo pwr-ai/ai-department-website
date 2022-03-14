@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Jarosław Jankowski
 - Boleslaw K Szymanski
-- Przemysław Kazienko
-- Radosław Michalski
-- Piotr Bródka
+- kazienko
+- michalski
+- brodka
 tags: []
 categories: []
 date: 2018-01-01

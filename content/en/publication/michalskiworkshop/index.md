@@ -5,7 +5,7 @@ title: Workshop on Social Influence (SI 2020) SI 2020 Organizing Committee
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 - Jarosław Jankowski
 - Paulo Shakarian
 - Frank Schweitzer

@@ -5,7 +5,7 @@ title: Personalized web advertising method
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Michał Adamski
 tags: []
 categories: []

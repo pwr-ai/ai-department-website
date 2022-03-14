@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Marek Maziarz
 - Stan Szpakowicz
-- Maciej Piasecki
+- piasecki
 - Agnieszka Dziob
 tags: []
 categories: []

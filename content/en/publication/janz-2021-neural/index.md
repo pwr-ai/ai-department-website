@@ -6,8 +6,8 @@ title: Neural Language Models vs Wordnet-based Semantically Enriched Representat
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
-- Maciej Piasecki
+- janz
+- piasecki
 - Piotr Wątorski
 tags: []
 categories: []

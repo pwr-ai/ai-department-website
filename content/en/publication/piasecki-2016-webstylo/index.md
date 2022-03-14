@@ -5,7 +5,7 @@ title: WebStylo
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Maciej Eder
 - Tomasz Walkowiak
 tags: []

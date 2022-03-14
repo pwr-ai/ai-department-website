@@ -5,7 +5,7 @@ title: A method for group extraction and analysis in multilayer social networks
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 tags: []
 categories: []
 date: 2016-01-01

@@ -5,8 +5,8 @@ title: Caption-guided patent image segmentation
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
-- Urszula Markowska-Kaczmar
+- sas
+- markowska-kaczmar
 - Anastasia Moumtzidou
 tags: []
 categories: []

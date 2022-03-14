@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Piotr Szyma\ŉski
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Nitesh Chawla
 tags: []
 categories: []

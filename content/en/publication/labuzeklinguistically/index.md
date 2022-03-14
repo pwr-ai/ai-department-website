@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Marek Łabuzek
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

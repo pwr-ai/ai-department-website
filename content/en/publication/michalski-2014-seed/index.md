@@ -6,10 +6,10 @@ title: 'Seed selection for spread of influence in social networks: Temporal vs. 
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
-- Tomasz Kajdanowicz
-- Piotr Bródka
-- Przemysław Kazienko
+- michalski
+- kajdanowicz
+- brodka
+- kazienko
 tags: []
 categories: []
 date: 2014-01-01

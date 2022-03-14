@@ -5,7 +5,7 @@ title: Link recommendation method based on web content and usage mining
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Maciej Kiewra
 tags: []
 categories: []

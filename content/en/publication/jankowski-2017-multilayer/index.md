@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Jarosław Jankowski
-- Radosław Michalski
-- Piotr Bródka
+- michalski
+- brodka
 tags: []
 categories: []
 date: 2017-01-01

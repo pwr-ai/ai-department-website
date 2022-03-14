@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Jaroslaw Jankowski
 - Kostas Kolomvatsos
-- Przemyslaw Kazienko
+- kazienko
 - Jaroslaw Watrobski
 tags: []
 categories: []

@@ -6,7 +6,7 @@ title: 'Discriminating Homonymy from Polysemy in Wordnets: English, Spanish and 
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
+- janz
 - Marek Maziarz
 tags: []
 categories: []

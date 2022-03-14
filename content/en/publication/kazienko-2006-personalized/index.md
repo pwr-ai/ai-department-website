@@ -5,7 +5,7 @@ title: Personalized Integration of Recommendation Methods for E-commerce.
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Pawel Kolodziejski
 tags: []
 categories: []

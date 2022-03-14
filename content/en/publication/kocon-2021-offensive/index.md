@@ -10,8 +10,8 @@ authors:
 - Alicja Figas
 - Marcin Gruza
 - Daria Puchalska
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2021-01-01

@@ -5,7 +5,7 @@ title: On using topic maps for knowledge representation
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Magdalena Litwin
 tags: []
 categories: []

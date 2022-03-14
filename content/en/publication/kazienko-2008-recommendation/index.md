@@ -5,7 +5,7 @@ title: Recommendation of Multimedia Objects Based on Similarity of Ontologies
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musiał
 - Krzysztof Juszczyszyn
 tags: []

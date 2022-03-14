@@ -5,8 +5,8 @@ title: Boosting-based Multi-label Classification.
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2013-01-01

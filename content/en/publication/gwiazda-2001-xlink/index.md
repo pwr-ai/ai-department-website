@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Krzysztof Gwiazda
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2001-01-01

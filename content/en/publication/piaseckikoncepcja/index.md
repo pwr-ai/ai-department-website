@@ -5,7 +5,7 @@ title: Koncepcja obiektowego modelu znaczenia polskiej frazy nominalnej.
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

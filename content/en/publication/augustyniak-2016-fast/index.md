@@ -6,10 +6,10 @@ title: Fast and accurate-improving lexicon-based sentiment classification with a
 subtitle: ''
 summary: ''
 authors:
-- Łukasz Augustyniak
+- augustyniak
 - Piotr Szyma\ŉski
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2016-01-01

@@ -5,7 +5,7 @@ title: Expansion of telecommunication social networks
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2007-01-01

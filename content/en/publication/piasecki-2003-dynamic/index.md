@@ -5,7 +5,7 @@ title: Dynamic Representation of Nominal Anaphora without Syntactic Indexing
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2003-01-01

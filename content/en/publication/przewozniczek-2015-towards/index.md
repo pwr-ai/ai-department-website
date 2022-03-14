@@ -6,7 +6,7 @@ title: Towards finding an effective uniform and single point crossover balance f
 subtitle: ''
 summary: ''
 authors:
-- Michal Przewozniczek
+- przewozniczek
 tags: []
 categories: []
 date: 2015-01-01

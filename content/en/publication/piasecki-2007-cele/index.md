@@ -5,7 +5,7 @@ title: Cele i zadania lingwistyki informatycznej
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2007-01-01

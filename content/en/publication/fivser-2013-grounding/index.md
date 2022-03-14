@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Darja Fišer
-- Maciej Piasecki
+- piasecki
 - Bartosz Broda
 tags: []
 categories: []

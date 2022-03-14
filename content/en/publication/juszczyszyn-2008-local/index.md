@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Krzysztof Juszczyszyn
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musiał
 tags: []
 categories: []

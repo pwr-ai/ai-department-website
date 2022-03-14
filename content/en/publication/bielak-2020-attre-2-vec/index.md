@@ -5,8 +5,8 @@ title: 'AttrE2vec: Unsupervised Attributed Edge Representation Learning'
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bielak
-- Tomasz Kajdanowicz
+- bielak
+- kajdanowicz
 - Nitesh V Chawla
 tags: []
 categories: []

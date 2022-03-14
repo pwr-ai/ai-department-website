@@ -5,9 +5,9 @@ title: Transfer learning approach to debt portfolio appraisal
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Slawomir Plamowski
-- Przemyslaw Kazienko
+- kazienko
 - Wojciech Indyk
 tags: []
 categories: []

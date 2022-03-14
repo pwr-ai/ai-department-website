@@ -8,8 +8,8 @@ authors:
 - Jarosław Jankowski
 - Marcin Waniek
 - Aamena Alshamsi
-- Piotr Bródka
-- Radosław Michalski
+- brodka
+- michalski
 tags: []
 categories: []
 date: 2018-01-01

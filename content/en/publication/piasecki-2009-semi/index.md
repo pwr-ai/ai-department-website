@@ -5,7 +5,7 @@ title: Semi-automatic expansion of polish wordnet based on activation-area attac
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Bartosz Broda
 - Maria Głąbska
 - Michał Marci\ŉczuk

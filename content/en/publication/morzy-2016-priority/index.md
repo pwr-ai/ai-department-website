@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Mikołaj Morzy
-- Przemysław Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 tags: []
 categories: []
 date: 2016-01-01

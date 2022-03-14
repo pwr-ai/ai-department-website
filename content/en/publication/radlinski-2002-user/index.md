@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Piotr Radli\ŉski
-- Jerzy Sas
+- sas
 tags: []
 categories: []
 date: 2002-01-01

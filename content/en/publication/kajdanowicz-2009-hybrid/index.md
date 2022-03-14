@@ -5,8 +5,8 @@ title: Hybrid repayment prediction for debt portfolio
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2009-01-01

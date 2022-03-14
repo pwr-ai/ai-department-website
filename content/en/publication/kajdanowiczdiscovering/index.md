@@ -5,8 +5,8 @@ title: Discovering Multidimensional Social Communities in Web 2.0
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 - Katarzyna Musiał
 tags: []
 categories: []

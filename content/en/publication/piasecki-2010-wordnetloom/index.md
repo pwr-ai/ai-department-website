@@ -5,7 +5,7 @@ title: 'WordnetLoom: a graph-based visual wordnet development framework'
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Michał Marci\ŉczuk
 - Adam Musiał
 - Radosław Ramocki

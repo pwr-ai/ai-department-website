@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Marek Łabuzek
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2005-01-01

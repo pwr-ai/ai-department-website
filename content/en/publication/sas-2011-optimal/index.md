@@ -5,7 +5,7 @@ title: Optimal acoustic model complexity selection in polish medical speech reco
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Tomasz Poreba
 tags: []
 categories: []

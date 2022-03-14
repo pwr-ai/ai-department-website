@@ -5,7 +5,7 @@ title: Wordnet as a Relational Semantic Dictionary Built on Corpus Data
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Agnieszka Dziob
 tags: []
 categories: []

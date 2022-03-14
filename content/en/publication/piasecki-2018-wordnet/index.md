@@ -5,9 +5,9 @@ title: Wordnet-based evaluation of large distributional models for polish
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Gabriela Czachor
-- Arkadiusz Janz
+- janz
 - Dominik Kaszewski
 - Paweł Kędzia
 tags: []

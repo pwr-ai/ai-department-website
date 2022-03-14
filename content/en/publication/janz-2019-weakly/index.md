@@ -6,8 +6,8 @@ title: A Weakly supervised word sense disambiguation for Polish using rich lexic
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
-- Maciej Piasecki
+- janz
+- piasecki
 tags: []
 categories: []
 date: 2019-01-01

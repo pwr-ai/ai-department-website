@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Adrian Popiel
-- Przemysław Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 tags: []
 categories: []
 date: 2015-01-01

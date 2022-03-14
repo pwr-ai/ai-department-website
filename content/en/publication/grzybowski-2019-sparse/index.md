@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Piotr Grzybowski
 - Ewa Juralewicz
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2019-01-01

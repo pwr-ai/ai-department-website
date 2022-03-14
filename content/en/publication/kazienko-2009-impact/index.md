@@ -5,7 +5,7 @@ title: The impact of customer churn on social value dynamics
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Dymitr Ruta
 tags: []
 categories: []

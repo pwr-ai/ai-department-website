@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Katarzyna Musiał
-- Przemysław Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 tags: []
 categories: []
 date: 2008-01-01

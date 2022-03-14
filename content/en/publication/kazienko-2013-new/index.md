@@ -5,7 +5,7 @@ title: New business client acquisition using social networking sites
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Natalia Szozda
 - Tomasz Filipowski
 - Wieslaw Blysz

@@ -5,7 +5,7 @@ title: A specialized evolutionary approach to the bi-objective travelling thief 
 subtitle: ''
 summary: ''
 authors:
-- Maciej Laszczyk
+- laszczyk
 - Paweł B Myszkowski
 tags: []
 categories: []

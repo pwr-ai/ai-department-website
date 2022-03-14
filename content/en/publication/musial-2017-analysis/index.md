@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Katarzyna Musial
-- Piotr Bródka
+- brodka
 - Pasquale De Meo
 tags: []
 categories: []

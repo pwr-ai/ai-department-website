@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Adrian Popiel
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 - Jean Karl Soler
 - Derek Corrigan
 - Vasa Curcin

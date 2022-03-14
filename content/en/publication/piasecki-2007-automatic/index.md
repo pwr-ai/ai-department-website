@@ -6,7 +6,7 @@ title: Automatic selection of heterogeneous syntactic features in semantic simil
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Stanisław Szpakowicz
 - Bartosz Broda
 tags: []

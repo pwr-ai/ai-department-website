@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Roman Kurc
-- Maciej Piasecki
+- piasecki
 - Stan Szpakowicz
 tags: []
 categories: []

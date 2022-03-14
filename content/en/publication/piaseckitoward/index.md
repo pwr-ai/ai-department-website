@@ -5,7 +5,7 @@ title: Toward Integrated Lexico-Semantic Language Technology for Polish
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

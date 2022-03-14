@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł B Myszkowski
-- Maciej Laszczyk
+- laszczyk
 tags: []
 categories: []
 date: 2021-01-01

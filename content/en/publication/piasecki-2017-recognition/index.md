@@ -5,9 +5,9 @@ title: Recognition of Genuine Polish Suicide Notes.
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Ksenia Mlynarczyk
-- Jan Kocon
+- kocon
 tags: []
 categories: []
 date: 2017-01-01

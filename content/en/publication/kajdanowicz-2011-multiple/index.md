@@ -6,9 +6,9 @@ title: Multiple classifier method for structured output prediction based on erro
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Michal Wozniak
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

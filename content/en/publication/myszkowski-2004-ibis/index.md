@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Pawel B Myszkowski
-- Halina Kwasnicka
+- kwasnicka
 tags: []
 categories: []
 date: 2004-01-01

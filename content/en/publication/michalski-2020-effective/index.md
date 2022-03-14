@@ -5,9 +5,9 @@ title: Effective influence spreading in temporal networks with sequential seedin
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 - Jarosław Jankowski
-- Piotr Bródka
+- brodka
 tags: []
 categories: []
 date: 2020-01-01

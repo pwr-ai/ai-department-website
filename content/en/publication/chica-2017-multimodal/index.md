@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Manuel Chica
 - José Barranquero
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Sergio Damas
 - Óscar Cordón
 tags: []

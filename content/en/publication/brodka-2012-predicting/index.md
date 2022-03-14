@@ -5,8 +5,8 @@ title: Predicting group evolution in the social network
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
-- Przemysław Kazienko
+- brodka
+- kazienko
 - Bartosz Kołoszczyk
 tags: []
 categories: []

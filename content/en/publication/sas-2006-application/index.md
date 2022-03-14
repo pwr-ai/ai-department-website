@@ -6,7 +6,7 @@ title: Application of bidirectional probabilistic character language model in ha
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 tags: []
 categories: []
 date: 2006-01-01

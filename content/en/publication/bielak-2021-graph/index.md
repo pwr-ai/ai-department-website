@@ -6,8 +6,8 @@ title: 'Graph Barlow Twins: A self-supervised representation learning framework 
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bielak
-- Tomasz Kajdanowicz
+- bielak
+- kajdanowicz
 - Nitesh V Chawla
 tags: []
 categories: []

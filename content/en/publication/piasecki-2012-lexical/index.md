@@ -5,7 +5,7 @@ title: Lexical activation area attachment algorithm for wordnet expansion
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Roman Kurc
 - Radosław Ramocki
 - Bartosz Broda

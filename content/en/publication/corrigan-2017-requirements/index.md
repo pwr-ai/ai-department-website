@@ -8,8 +8,8 @@ summary: ''
 authors:
 - Derek Corrigan
 - Gary Munnelly
-- Przemysław Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 - Jean-Karl Soler
 - Samhar Mahmoud
 - Talya Porat

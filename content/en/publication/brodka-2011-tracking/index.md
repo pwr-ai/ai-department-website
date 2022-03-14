@@ -5,9 +5,9 @@ title: Tracking group evolution in social networks
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
-- Stanisław Saganowski
-- Przemysław Kazienko
+- brodka
+- saganowski
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

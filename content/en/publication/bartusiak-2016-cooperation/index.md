@@ -6,8 +6,8 @@ title: Cooperation prediction in github developers network with restricted boltz
 subtitle: ''
 summary: ''
 authors:
-- Roman Bartusiak
-- Tomasz Kajdanowicz
+- bartusiak
+- kajdanowicz
 - Adam Wierzbicki
 - Leszek Bukowski
 - Oskar Jarczyk

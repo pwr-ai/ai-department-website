@@ -5,9 +5,9 @@ title: 'GED: the method for group evolution discovery in social networks'
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
-- Stanisław Saganowski
-- Przemysław Kazienko
+- brodka
+- saganowski
+- kazienko
 tags: []
 categories: []
 date: 2013-01-01

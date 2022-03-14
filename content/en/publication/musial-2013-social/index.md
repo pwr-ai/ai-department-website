@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Katarzyna Musiał
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2013-01-01

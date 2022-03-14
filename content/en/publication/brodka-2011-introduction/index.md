@@ -5,9 +5,9 @@ title: An introduction to community detection in multi-layered social network
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 - Tomasz Filipowski
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

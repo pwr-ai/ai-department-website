@@ -6,9 +6,9 @@ title: Comprehensive analysis of aspect term extraction methods using various te
 subtitle: ''
 summary: ''
 authors:
-- Lukasz Augustyniak
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- augustyniak
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2021-01-01

@@ -5,8 +5,8 @@ title: Data Warehouse in practice. Most common student mistakes in SAS
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 tags: []
 categories: []
 date: 2010-01-01

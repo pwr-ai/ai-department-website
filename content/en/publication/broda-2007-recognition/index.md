@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Bartosz Broda
 - Magdalena Derwojedowa
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2007-01-01

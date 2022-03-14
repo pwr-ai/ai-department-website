@@ -5,7 +5,7 @@ title: Filtering of web recommendation lists using positive and negative usage p
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2007-01-01

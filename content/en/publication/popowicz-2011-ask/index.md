@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Dominik Popowicz
-- Piotr Bródka
-- Przemysław Kazienko
+- brodka
+- kazienko
 - Michał Kozielski
 tags: []
 categories: []

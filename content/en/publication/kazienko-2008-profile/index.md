@@ -5,9 +5,9 @@ title: Profile of the social network in photo sharing systems
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Katarzyna Musial
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2008-01-01

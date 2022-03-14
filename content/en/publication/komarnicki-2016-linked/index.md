@@ -5,8 +5,8 @@ title: Linked Genes Migration in Island Models.
 subtitle: ''
 summary: ''
 authors:
-- Marcin Komarnicki
-- Michal Przewozniczek
+- komarnicki
+- przewozniczek
 tags: []
 categories: []
 date: 2016-01-01

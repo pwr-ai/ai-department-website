@@ -6,7 +6,7 @@ title: 'WordNetLoom: a WordNet development system integrating form-based and gra
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Michał Marci\ŉczuk
 - Radosław Ramocki
 - Marek Maziarz

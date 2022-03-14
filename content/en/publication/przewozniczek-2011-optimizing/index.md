@@ -6,7 +6,7 @@ title: Optimizing distributed computing systems for k-nearest neighbours classif
 subtitle: ''
 summary: ''
 authors:
-- Michal Przewozniczek
+- przewozniczek
 - Krzysztof Walkowiak
 - Michal Wozniak
 tags: []

@@ -5,9 +5,9 @@ title: Distance measures in training set selection for debt value prediction
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Slawomir Plamowski
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2012-01-01

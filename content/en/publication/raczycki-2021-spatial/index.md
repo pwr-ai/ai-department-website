@@ -9,7 +9,7 @@ authors:
 - Marcin Szyma\ŉski
 - Yahor Yeliseyenka
 - Piotr Szyma\ŉski
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2021-01-01

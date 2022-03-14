@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Piotr Szyma\ŉski
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2013-01-01

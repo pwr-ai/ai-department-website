@@ -5,7 +5,7 @@ title: Language Technology for Polish in Practice
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Marek Maziarz
 - Michał Marci\ŉczuk
 - Marcin Oleksy

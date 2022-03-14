@@ -6,8 +6,8 @@ title: Combining machine learning and social network analysis to reveal the orga
 subtitle: ''
 summary: ''
 authors:
-- Mateusz Nurek
-- Radosław Michalski
+- nurek
+- michalski
 tags: []
 categories: []
 date: 2020-01-01

@@ -5,7 +5,7 @@ title: The Multidimensional Approach to Quantification and Reference in the Noun
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

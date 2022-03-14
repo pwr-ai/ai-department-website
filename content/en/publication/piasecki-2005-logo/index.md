@@ -5,7 +5,7 @@ title: Logo-the modular conversational agent understanding Polish
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Ireneusz Matysiak
 - Anna Rusak
 tags: []

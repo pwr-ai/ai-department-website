@@ -6,11 +6,11 @@ title: Simpler is better? Lexicon-based ensemble sentiment classification beats 
 subtitle: ''
 summary: ''
 authors:
-- Lukasz Augustyniak
-- Tomasz Kajdanowicz
+- augustyniak
+- kajdanowicz
 - Piotr Szyma\ŉski
 - Włodzimierz Tuligłowicz
-- Przemyslaw Kazienko
+- kazienko
 - Reda Alhajj
 - Boleslaw Szymanski
 tags: []

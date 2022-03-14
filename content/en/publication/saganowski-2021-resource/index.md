@@ -5,8 +5,8 @@ title: A Resource-Aware Method for Parallel D2D Data Streaming
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
-- Przemysław Kazienko
+- saganowski
+- kazienko
 tags: []
 categories: []
 date: 2021-01-01

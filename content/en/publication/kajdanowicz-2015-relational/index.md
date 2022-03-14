@@ -5,7 +5,7 @@ title: Relational Classification Using Random Walks in Graphs
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2015-01-01

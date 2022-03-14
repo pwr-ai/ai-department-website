@@ -5,10 +5,10 @@ title: Active learning and inference method for within network classification
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Radoslaw Michalski
+- kajdanowicz
+- michalski
 - Katarzyna Musial
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2013-01-01

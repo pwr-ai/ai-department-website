@@ -5,7 +5,7 @@ title: Linear threshold model in temporal networks—Seed selection for social i
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 tags: []
 categories: []
 date: 2015-01-01

@@ -8,7 +8,7 @@ authors:
 - Jarosław Jankowski
 - Sylwia Ciuberek
 - Anita Zbieg
-- Radosław Michalski
+- michalski
 tags: []
 categories: []
 date: 2012-01-01

@@ -5,7 +5,7 @@ title: WindOwls-Adaptive system for the integration of recommendation methods in
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Paweł Kołodziejski
 tags: []
 categories: []

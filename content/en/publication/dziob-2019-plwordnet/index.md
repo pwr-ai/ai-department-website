@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Agnieszka Dziob
-- Maciej Piasecki
+- piasecki
 - Ewa Rudnicka
 tags: []
 categories: []

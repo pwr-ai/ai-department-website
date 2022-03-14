@@ -5,7 +5,7 @@ title: Analysing and predicting the adoption of anonymous transactions in crypto
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 tags: []
 categories: []
 date: 2020-01-01

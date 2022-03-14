@@ -5,7 +5,7 @@ title: Hybrid and ensemble methods in machine learning J. UCS special issue
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Edwin Lughofer
 - Bogdan Trawi\ŉski
 tags: []

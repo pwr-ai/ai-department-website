@@ -6,9 +6,9 @@ title: Review of consumer wearables in emotion, stress, meditation, sleep, and a
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
-- Przemysław Kazienko
-- Maciej Dziezyc
+- saganowski
+- kazienko
+- dziezyc
 - Anna Dutkowiak
 - Adam Polak
 - Adam Dziadek

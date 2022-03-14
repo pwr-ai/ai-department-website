@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Tomasz Filipowski
-- Piotr Bródka
-- Przemyslaw Kazienko
+- brodka
+- kazienko
 tags: []
 categories: []
 date: 2013-01-01

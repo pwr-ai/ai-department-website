@@ -5,7 +5,7 @@ title: A three-stage machine learning network security solution for public entit
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
+- saganowski
 tags: []
 categories: []
 date: 2020-01-01

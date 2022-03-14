@@ -9,7 +9,7 @@ authors:
 - Michał Witold Przewoźniczek
 - Krzysztof Walkowiak
 - Arunabha Sen
-- Marcin Komarnicki
+- komarnicki
 - Piotr Lechowicz
 tags: []
 categories: []

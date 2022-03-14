@@ -6,7 +6,7 @@ title: Extended dictionary of named entities NELexicon connected with Linked Ope
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
+- janz
 - Jan Koco\ŉ
 tags: []
 categories: []

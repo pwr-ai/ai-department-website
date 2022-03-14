@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Ewa Rudnicka
 - Marek Maziarz
-- Maciej Piasecki
+- piasecki
 - Stan Szpakowicz
 tags: []
 categories: []

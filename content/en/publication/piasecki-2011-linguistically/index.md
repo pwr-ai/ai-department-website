@@ -5,7 +5,7 @@ title: Linguistically informed mining lexical semantic relations from wikipedia 
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Agnieszka Indyka-Piasecka
 - Roman Kurc
 tags: []

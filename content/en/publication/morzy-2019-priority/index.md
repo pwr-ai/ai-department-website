@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Mikołaj Morzy
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 - Grzegorz Miebs
 - Arkadiusz Rusin
 tags: []

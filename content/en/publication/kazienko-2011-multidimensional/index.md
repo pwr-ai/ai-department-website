@@ -5,9 +5,9 @@ title: Multidimensional social network in the social recommender system
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musial
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2011-01-01

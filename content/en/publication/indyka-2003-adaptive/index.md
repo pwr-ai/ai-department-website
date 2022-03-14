@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Agnieszka Indyka-Piasecka
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2003-01-01

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Michał Marci\ŉczuk
 - Michał Stanek
-- Maciej Piasecki
+- piasecki
 - Adam Musiał
 tags: []
 categories: []

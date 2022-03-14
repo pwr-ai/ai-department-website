@@ -5,7 +5,7 @@ title: 'Social network analysis: Selected methods and applications.'
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2012-01-01

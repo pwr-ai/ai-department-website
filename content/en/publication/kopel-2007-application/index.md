@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Marek Kopel
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2007-01-01

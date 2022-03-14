@@ -5,8 +5,8 @@ title: Convince a dozen more and succeed--the influence in multi-layered social 
 subtitle: ''
 summary: ''
 authors:
-- Radoslaw Michalski
-- Przemyslaw Kazienko
+- michalski
+- kazienko
 - Jaroslaw Jankowski
 tags: []
 categories: []

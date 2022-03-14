@@ -5,7 +5,7 @@ title: Projects Feasibility Assessment Model Based on Competencies in Organizati
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Kazimierz Fraczkowski
 tags: []
 categories: []

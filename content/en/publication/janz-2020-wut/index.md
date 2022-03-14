@@ -5,8 +5,8 @@ title: WUT CST 2020
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
-- Maciej Piasecki
+- janz
+- piasecki
 - Piotr Wątorski
 - Marcin Oleksy
 tags: []

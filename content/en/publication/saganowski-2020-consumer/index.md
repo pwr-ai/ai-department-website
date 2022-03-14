@@ -5,9 +5,9 @@ title: Consumer wearables and affective computing for wellbeing support
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
-- Przemysław Kazienko
-- Maciej Dzieżyc
+- saganowski
+- kazienko
+- dziezyc
 - Patrycja Jakimów
 - Joanna Komoszy\ŉska
 - Weronika Michalska

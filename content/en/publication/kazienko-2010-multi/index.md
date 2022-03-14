@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Przemysaw Kazienko
-- Piotr Bródka
+- brodka
 - Katarzyna Musial
 - Jarosaw Gaworecki
 tags: []

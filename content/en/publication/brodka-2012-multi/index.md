@@ -5,8 +5,8 @@ title: Multi-layered social networks
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
-- Przemysław Kazienko
+- brodka
+- kazienko
 tags: []
 categories: []
 date: 2012-01-01

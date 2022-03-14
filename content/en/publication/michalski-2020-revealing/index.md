@@ -5,7 +5,7 @@ title: Revealing the character of nodes in a blockchain with supervised learning
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 - Daria Dziubałtowska
 - Piotr Macek
 tags: []

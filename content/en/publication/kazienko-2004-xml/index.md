@@ -6,7 +6,7 @@ title: XML-based learning scenario representation and presentation in the adapti
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Janusz Sobecki
 tags: []
 categories: []

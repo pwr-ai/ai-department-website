@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł B Myszkowski
-- Michał Przewoźniczek
+- przewozniczek
 - Marek Skowro\ŉski
 tags: []
 categories: []

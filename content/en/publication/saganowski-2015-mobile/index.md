@@ -5,8 +5,8 @@ title: Mobile eHealth solution (ePRO)
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
-- Piotr Bródka
+- saganowski
+- brodka
 - Andrzej Misiaszek
 - Kazimierz Fraczkowski
 tags: []

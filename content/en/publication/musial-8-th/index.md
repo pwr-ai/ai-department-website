@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Katarzyna Musial
 - Jose Mar\á Alvarez Rodrı́guez
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2022-01-01

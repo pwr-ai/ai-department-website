@@ -6,8 +6,8 @@ title: 'Punctuation prediction in spontaneous conversations: Can we mitigate asr
 subtitle: ''
 summary: ''
 authors:
-- Łukasz Augustyniak
-- Piotr Szymanski
+- augustyniak
+- szymanski
 - Mikołaj Morzy
 - Piotr Zelasko
 - Adrian Szymczak

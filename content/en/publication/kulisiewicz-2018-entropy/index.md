@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Marcin Kulisiewicz
-- Przemysław Kazienko
+- kazienko
 - Boleslaw K Szymanski
-- Radosław Michalski
+- michalski
 tags: []
 categories: []
 date: 2018-01-01

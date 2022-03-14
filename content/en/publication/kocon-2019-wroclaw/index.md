@@ -8,8 +8,8 @@ authors:
 - Jan Koco\ŉ
 - Monika Zaśko-Zieli\ŉska
 - Piotr Miłkowski
-- Arkadiusz Janz
-- Maciej Piasecki
+- janz
+- piasecki
 tags: []
 categories: []
 date: 2019-01-01

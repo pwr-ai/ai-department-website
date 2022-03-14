@@ -5,9 +5,9 @@ title: Social networks through the prism of cognition
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 - Boleslaw K Szymanski
-- Przemysław Kazienko
+- kazienko
 - Christian Lebiere
 - Omar Lizardo
 - Marcin Kulisiewicz

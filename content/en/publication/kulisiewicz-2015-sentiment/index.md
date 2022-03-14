@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Marcin Kulisiewicz
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
-- Maciej Piasecki
+- kajdanowicz
+- kazienko
+- piasecki
 tags: []
 categories: []
 date: 2015-01-01

@@ -5,7 +5,7 @@ title: Automated Bilingual Linking of Wordnet Senses
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Roman Dyszlewski
 - Ewa Rudnicka
 tags: []

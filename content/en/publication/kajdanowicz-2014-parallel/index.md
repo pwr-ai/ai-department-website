@@ -5,8 +5,8 @@ title: Parallel processing of large graphs
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 - Wojciech Indyk
 tags: []
 categories: []

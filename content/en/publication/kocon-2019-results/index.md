@@ -6,7 +6,7 @@ title: 'Results of the PolEval 2019 Shared Task 1: Recognition and Normalization
 subtitle: ''
 summary: ''
 authors:
-- Jan Kocon
+- kocon
 - Marcin Oleksy
 - Tomasz Bernas
 - Michał Marcinczuk

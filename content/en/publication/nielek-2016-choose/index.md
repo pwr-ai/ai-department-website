@@ -9,7 +9,7 @@ authors:
 - Oskar Jarczyk
 - Kamil Pawlak
 - Leszek Bukowski
-- Roman Bartusiak
+- bartusiak
 - Adam Wierzbicki
 tags: []
 categories: []

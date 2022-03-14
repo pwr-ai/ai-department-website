@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Grzegorz Godlewski
-- Maciej Piasecki
-- Jerzy Sas
+- piasecki
+- sas
 tags: []
 categories: []
 date: 2006-01-01

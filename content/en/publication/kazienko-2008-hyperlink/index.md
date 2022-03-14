@@ -5,7 +5,7 @@ title: Hyperlink recommendation based on positive and negative association rules
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Marcin Pilarczyk
 tags: []
 categories: []

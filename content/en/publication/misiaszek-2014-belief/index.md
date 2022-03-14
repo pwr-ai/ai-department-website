@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - Andrzej Misiaszek
-- Przemysław Kazienko
+- kazienko
 - Marcin Kulisiewicz
-- Łukasz Augustyniak
+- augustyniak
 - Włodzimierz Tuligłowicz
 - Adrian Popiel
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2014-01-01

@@ -5,7 +5,7 @@ title: Recognition of Polish Derivational Relations Based on Supervised Learning
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Radoslaw Ramocki
 - Marek Maziarz
 tags: []

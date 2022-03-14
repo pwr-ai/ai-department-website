@@ -5,8 +5,8 @@ title: 'Collective classification techniques: an experimental study'
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 - Marcin Janczak
 tags: []
 categories: []

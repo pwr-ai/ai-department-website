@@ -5,7 +5,7 @@ title: Effective architecture of the Polish tagger
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Grzegorz Godlewski
 tags: []
 categories: []

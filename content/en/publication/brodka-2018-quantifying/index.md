@@ -5,7 +5,7 @@ title: 'Quantifying layer similarity in multiplex networks: a systematic study'
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 - Anna Chmiel
 - Matteo Magnani
 - Giancarlo Ragozini

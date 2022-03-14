@@ -6,7 +6,7 @@ title: Dynamic subpopulation number control for solving routing and spectrum all
 subtitle: ''
 summary: ''
 authors:
-- Michal Przewozniczek
+- przewozniczek
 tags: []
 categories: []
 date: 2016-01-01

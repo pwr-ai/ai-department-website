@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Michał Marci\ŉczuk
 - Dominik Piasecki
-- Maciej Piasecki
+- piasecki
 - Adam Radziszewski
 tags: []
 categories: []

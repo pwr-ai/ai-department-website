@@ -5,8 +5,8 @@ title: Tagger for polish computer mediated communication texts
 subtitle: ''
 summary: ''
 authors:
-- Wiktor Walentynowicz
-- Maciej Piasecki
+- walentynowicz
+- piasecki
 - Marcin Oleksy
 tags: []
 categories: []

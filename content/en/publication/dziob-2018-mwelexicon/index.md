@@ -8,7 +8,7 @@ authors:
 - Agnieszka Dziob
 - Michał Kali\ŉski
 - Marek Maziarz
-- Maciej Piasecki
+- piasecki
 - Adam Radziszewski
 - Stan Szpakowicz
 - Michał Wendelberger

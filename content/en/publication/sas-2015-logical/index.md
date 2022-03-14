@@ -5,8 +5,8 @@ title: Logical structure recognition of diagram images
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
-- Urszula Markowska-Kaczmar
+- sas
+- markowska-kaczmar
 tags: []
 categories: []
 date: 2015-01-01

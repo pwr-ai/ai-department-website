@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Garry Robins
 - Liabin Zhao
-- Przemyslaw Kazienko
+- kazienko
 - Xindong Wu
 tags: []
 categories: []

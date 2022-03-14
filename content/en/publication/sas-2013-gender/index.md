@@ -5,7 +5,7 @@ title: Gender recognition using neural networks and ASR techniques
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Aleksander Sas
 tags: []
 categories: []

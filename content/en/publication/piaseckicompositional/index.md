@@ -6,7 +6,7 @@ title: Compositional, Variable Free, Binding Free and Structure Oriented Discour
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

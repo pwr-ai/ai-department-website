@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Marek Kurzynski
-- Jerzy Sas
+- sas
 tags: []
 categories: []
 date: 2004-01-01

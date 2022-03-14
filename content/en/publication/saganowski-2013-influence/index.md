@@ -5,9 +5,9 @@ title: Influence of the user importance measure on the group evolution discovery
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
-- Piotr Bródka
-- Przemysław Kazienko
+- saganowski
+- brodka
+- kazienko
 tags: []
 categories: []
 date: 2013-01-01

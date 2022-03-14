@@ -6,7 +6,7 @@ title: Quasi-hierarchical evolutionary algorithm for flow optimization in surviv
 subtitle: ''
 summary: ''
 authors:
-- Michał Przewoźniczek
+- przewozniczek
 - Krzysztof Walkowiak
 tags: []
 categories: []

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Maciej Nisztuk
-- Paweł Myszkowski
+- myszkowski
 tags: []
 categories: []
 date: 2019-01-01

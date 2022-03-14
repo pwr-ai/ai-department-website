@@ -11,7 +11,7 @@ authors:
 - Agata Juros
 - Michał Marci\ŉczuk
 - Dominik Piasecki
-- Maciej Piasecki
+- piasecki
 - Aleksandra Pilarska
 - Marcin Ptak
 - Adam Radziszewski

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jan Koco\ŉ
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2014-01-01

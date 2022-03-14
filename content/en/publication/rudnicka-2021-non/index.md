@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Ewa Rudnicka
 - Wojciech Witkowski
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2021-01-01

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jan Koco\ŉ
-- Kamil Kanclerz
+- kanclerz
 - Piotr Miłkowski
 - Bartosz Bojanowski
 - Monika Zaśko-Zieli\ŉska

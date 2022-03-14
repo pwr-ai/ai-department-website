@@ -9,7 +9,7 @@ authors:
 - Łukasz Kłyk
 - Paweł B Myszkowski
 - Bartosz Broda
-- Maciej Piasecki
+- piasecki
 - David Urbansky
 tags: []
 categories: []

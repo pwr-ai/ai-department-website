@@ -5,7 +5,7 @@ title: Eksploracja danych a serwisy internetowe
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2022-01-01

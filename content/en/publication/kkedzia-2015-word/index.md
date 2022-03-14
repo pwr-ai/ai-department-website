@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł Kędzia
-- Maciej Piasecki
+- piasecki
 - Marlena Orli\ŉska
 tags: []
 categories: []

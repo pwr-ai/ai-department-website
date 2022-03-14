@@ -12,8 +12,8 @@ authors:
 - Sarah N Lim Choi Keung
 - Lei Zhao
 - Anna Andreasson
-- Piotr Bródka
-- Radoslaw Michalski
+- brodka
+- michalski
 - Theodoros N Arvanitis
 - Nikolaos Mastellos
 - ' others'

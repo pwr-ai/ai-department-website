@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Katarzyna Musiał
-- Przemysław Kazienko
-- Piotr Brodka
+- kazienko
+- brodka
 tags: []
 categories: []
 date: 2009-01-01

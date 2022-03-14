@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Izabela Krysi\ŉska
 - Mikołaj Morzy
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2021-01-01

@@ -5,7 +5,7 @@ title: Hyperlink assessment based on web usage mining
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Marcin Pilarczyk
 tags: []
 categories: []

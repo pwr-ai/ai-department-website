@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Jarosław Jankowski
-- Piotr Bródka
-- Radosław Michalski
-- Przemysław Kazienko
+- brodka
+- michalski
+- kazienko
 tags: []
 categories: []
 date: 2017-01-01

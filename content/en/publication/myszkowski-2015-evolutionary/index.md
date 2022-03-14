@@ -5,7 +5,7 @@ title: Evolutionary algorithms for timetable problems
 subtitle: ''
 summary: ''
 authors:
-- Paweł Myszkowski
+- myszkowski
 - Maciej Norberciak
 tags: []
 categories: []

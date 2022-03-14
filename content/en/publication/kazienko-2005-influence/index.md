@@ -5,7 +5,7 @@ title: The influence of indirect association rules on recommendation ranking lis
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - P Kuzminska
 tags: []
 categories: []

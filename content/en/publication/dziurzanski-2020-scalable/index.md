@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Piotr Dziurzanski
 - Shuai Zhao
-- Michal Przewozniczek
-- Marcin Komarnicki
+- przewozniczek
+- komarnicki
 - Leandro Soares Indrusiak
 tags: []
 categories: []

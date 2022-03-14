@@ -9,7 +9,7 @@ authors:
 - Krzysztof Juszczyszyn
 - Anna Musial
 - Katarzyna Musial
-- Piotr Bródka
+- brodka
 tags: []
 categories: []
 date: 2010-01-01

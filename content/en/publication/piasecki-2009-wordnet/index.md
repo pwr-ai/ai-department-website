@@ -6,7 +6,7 @@ title: 'The WordNet Weaver: Multi-criteria Voting for Semi-automatic Extension o
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Bartosz Broda
 - Michał Marci\ŉczuk
 - Stan Szpakowicz

@@ -5,9 +5,9 @@ title: Mapreduce approach to relational influence propagation in complex network
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Wojciech Indyk
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2014-01-01

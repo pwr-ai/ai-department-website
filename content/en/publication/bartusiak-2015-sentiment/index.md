@@ -5,8 +5,8 @@ title: Sentiment analysis based on collaborative data for Polish language
 subtitle: ''
 summary: ''
 authors:
-- Roman Bartusiak
-- Tomasz Kajdanowicz
+- bartusiak
+- kajdanowicz
 tags: []
 categories: []
 date: 2015-01-01

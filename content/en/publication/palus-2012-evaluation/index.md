@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Sebastian Palus
-- Przemyslaw Kazienko
-- Radoslaw Michalski
+- kazienko
+- michalski
 tags: []
 categories: []
 date: 2012-01-01

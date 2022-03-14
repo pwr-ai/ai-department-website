@@ -5,9 +5,9 @@ title: Quantifying social network dynamics
 subtitle: ''
 summary: ''
 authors:
-- Radoslaw Michalski
-- Piotr Bródka
-- Przemysław Kazienko
+- michalski
+- brodka
+- kazienko
 - Krzysztof Juszczyszyn
 tags: []
 categories: []

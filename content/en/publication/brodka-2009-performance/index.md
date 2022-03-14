@@ -5,9 +5,9 @@ title: A performance of centrality calculation in social networks
 subtitle: ''
 summary: ''
 authors:
-- Piotr Brodka
+- brodka
 - Katarzyna Musial
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2009-01-01

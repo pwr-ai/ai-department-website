@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Monika Zaśko-Zieli\ŉska
-- Maciej Piasecki
+- piasecki
 - Stan Szpakowicz
 tags: []
 categories: []

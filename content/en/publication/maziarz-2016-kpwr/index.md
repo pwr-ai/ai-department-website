@@ -8,7 +8,7 @@ authors:
 - Marek Maziarz
 - Michał Marci\ŉczuk
 - Marcin Oleksy
-- Maciej Piasecki
+- piasecki
 - Adam Radziszewski
 - Joanna Nowak
 - Adam Wardy\ŉski

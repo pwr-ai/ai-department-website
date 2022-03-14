@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Francis Bond
-- Arkadiusz Janz
+- janz
 - Marek Maziarz
 - Ewa Rudnicka
 tags: []

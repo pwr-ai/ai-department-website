@@ -5,11 +5,11 @@ title: 'WordNet2Vec: Corpora agnostic word vectorization method'
 subtitle: ''
 summary: ''
 authors:
-- Roman Bartusiak
-- Łukasz Augustyniak
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
-- Maciej Piasecki
+- bartusiak
+- augustyniak
+- kajdanowicz
+- kazienko
+- piasecki
 tags: []
 categories: []
 date: 2019-01-01

@@ -8,7 +8,7 @@ authors:
 - Ewa Rudnicka
 - Francis Bond
 - Łukasz Grabowski
-- Maciej Piasecki
+- piasecki
 - Tadeusz Piotrowski
 tags: []
 categories: []

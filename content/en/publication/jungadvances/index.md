@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jason J Jung
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2022-01-01

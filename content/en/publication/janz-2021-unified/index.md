@@ -5,7 +5,7 @@ title: Unified Word Sense Disambiguation Inventory for Polish
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
+- janz
 - Joanna Chlebus
 tags: []
 categories: []

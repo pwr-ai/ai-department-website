@@ -9,7 +9,7 @@ authors:
 - Patryk Pazura
 - Kamil Bortko
 - Jarosław Jankowski
-- Radosław Michalski
+- michalski
 tags: []
 categories: []
 date: 2020-01-01

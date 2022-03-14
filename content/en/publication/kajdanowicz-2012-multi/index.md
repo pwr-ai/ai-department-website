@@ -5,8 +5,8 @@ title: Multi-label classification using error correcting output codes
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2012-01-01

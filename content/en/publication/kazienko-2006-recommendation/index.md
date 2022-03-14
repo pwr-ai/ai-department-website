@@ -5,7 +5,7 @@ title: Recommendation framework for online social networks
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musiał
 tags: []
 categories: []

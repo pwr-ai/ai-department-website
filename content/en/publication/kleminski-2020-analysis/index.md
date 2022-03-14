@@ -6,9 +6,9 @@ title: Analysis of direct citation, co-citation and bibliographic coupling in sc
 subtitle: ''
 summary: ''
 authors:
-- Rajmund Kleminski
+- kleminski
 - Przemysiaw Kazienko
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2020-01-01

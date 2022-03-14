@@ -5,7 +5,7 @@ title: Evaluation of node position based on email communication.
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Katarzyna Musial
 - Aleksander Zgrzywa
 tags: []

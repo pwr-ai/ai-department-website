@@ -5,7 +5,7 @@ title: 'CLARIN-PL: Research user-driven Language Technology Infrastructure'
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2014-01-01

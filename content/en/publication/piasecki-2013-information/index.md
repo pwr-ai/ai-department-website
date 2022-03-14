@@ -5,7 +5,7 @@ title: Information spreading in expanding wordnet hypernymy structure
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Radoslaw Ramocki
 - Michał Kali\ŉski
 tags: []

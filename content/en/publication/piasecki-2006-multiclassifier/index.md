@@ -5,7 +5,7 @@ title: Multiclassifier approach to tagging of Polish
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Adam Wardy\ŉski
 tags: []
 categories: []

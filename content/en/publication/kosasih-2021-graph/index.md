@@ -8,8 +8,8 @@ authors:
 - Edward Elson Kosasih
 - Joaquin Cabezas
 - Xavier Sumba
-- Piotr Bielak
-- Kamil Tagowski
+- bielak
+- tagowski
 - Kelvin Idanwekhai
 - Benedict Aaron Tjandra
 - Arian Rokkum Jamasb

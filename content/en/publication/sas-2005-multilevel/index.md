@@ -5,7 +5,7 @@ title: Multilevel Recognition of Structured Handprinted Documents-Probabilistic 
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Marek Kurzynski
 tags: []
 categories: []

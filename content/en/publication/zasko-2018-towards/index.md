@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Monika Zaśko-Zieli\ŉska
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2018-01-01

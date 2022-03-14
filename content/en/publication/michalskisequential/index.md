@@ -6,8 +6,8 @@ title: 'Sequential Seeding in Complex Networks: Trading Speed for Coverage (work
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
-- Tomasz Kajdanowicz
+- michalski
+- kajdanowicz
 tags: []
 categories: []
 date: 2022-01-01

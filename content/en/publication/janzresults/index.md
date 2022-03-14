@@ -5,10 +5,10 @@ title: 'Results of the PolEval 2020 Shared Task 3: Word Sense Disambiguation'
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
+- janz
 - Joanna Chlebus
 - Agnieszka Dziob
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

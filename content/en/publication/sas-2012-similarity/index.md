@@ -5,8 +5,8 @@ title: Similarity-based training set acquisition for continuous handwriting reco
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
-- Urszula Markowska-Kaczmar
+- sas
+- markowska-kaczmar
 tags: []
 categories: []
 date: 2012-01-01

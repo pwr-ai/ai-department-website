@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - Bogdan Gliwa
-- Piotr Bródka
+- brodka
 - Anna Zygmunt
-- Stanisław Saganowski
-- Przemysław Kazienko
+- saganowski
+- kazienko
 - Jarosław Koźlak
 tags: []
 categories: []

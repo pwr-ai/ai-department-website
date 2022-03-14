@@ -8,8 +8,8 @@ summary: ''
 authors:
 - Przemysław Różewski
 - Jarosław Jankowski
-- Piotr Brodka
-- Radosław Michalski
+- brodka
+- michalski
 tags: []
 categories: []
 date: 2015-01-01

@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Wojciech Indyk
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 - Slawomir Plamowski
 tags: []
 categories: []

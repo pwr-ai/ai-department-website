@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Agnieszka Dziob
-- Wiktor Walentynowicz
+- walentynowicz
 tags: []
 categories: []
 date: 2021-01-01

@@ -5,7 +5,7 @@ title: KGR10-RoBERTa
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
+- janz
 - Norbert Ropiak
 tags: []
 categories: []

@@ -5,8 +5,8 @@ title: Boosting-based sequential output prediction
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

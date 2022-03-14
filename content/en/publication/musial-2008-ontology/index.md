@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Katarzyna Musiał
 - Krzysztof Juszczyszyn
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2008-01-01

@@ -5,7 +5,7 @@ title: Classification-based filtering of semantic relatedness in hypernymy extra
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Stanisław Szpakowicz
 - Michał Marci\ŉczuk
 - Bartosz Broda

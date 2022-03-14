@@ -5,7 +5,7 @@ title: plWordNet in Word Sense Disambiguation task
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Paweł Kędzia
 - Marlena Orli\ŉska
 tags: []

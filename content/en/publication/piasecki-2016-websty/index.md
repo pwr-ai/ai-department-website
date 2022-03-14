@@ -6,7 +6,7 @@ title: WebSty-an Open Web-based System for Exploring Stylometric Structures in D
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Tomasz Walkowiak
 - Maciej Eder
 tags: []

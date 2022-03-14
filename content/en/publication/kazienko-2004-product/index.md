@@ -6,7 +6,7 @@ title: Product recommendation in e-commerce using direct and indirect confidence
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2004-01-01

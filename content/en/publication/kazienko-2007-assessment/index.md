@@ -5,7 +5,7 @@ title: Assessment of personal importance based on social networks
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musiał
 tags: []
 categories: []

@@ -5,7 +5,7 @@ title: Some Aspects of Semantic Representation of Polish Determiners
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

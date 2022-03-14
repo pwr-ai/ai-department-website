@@ -9,7 +9,7 @@ authors:
 - Piek Vossen
 - Ewa Rudnicka
 - Marek Maziarz
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2019-01-01

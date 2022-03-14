@@ -5,9 +5,9 @@ title: Extracting aspects hierarchies using rhetorical structure theory
 subtitle: ''
 summary: ''
 authors:
-- Łukasz Augustyniak
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- augustyniak
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2018-01-01

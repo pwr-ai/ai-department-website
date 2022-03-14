@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Grzegorz Kukla
-- Przemysław Kazienko
-- Piotr Bródka
+- kazienko
+- brodka
 - Tomasz Filipowski
 tags: []
 categories: []

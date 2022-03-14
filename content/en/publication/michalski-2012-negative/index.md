@@ -5,9 +5,9 @@ title: Negative effects of incentivised viral campaigns for activity in social n
 subtitle: ''
 summary: ''
 authors:
-- Radoslaw Michalski
+- michalski
 - Jaroslaw Jankowski
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2012-01-01

@@ -6,7 +6,7 @@ title: Key user extraction based on telecommunication data (aka. Key users in so
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 tags: []
 categories: []
 date: 2013-01-01

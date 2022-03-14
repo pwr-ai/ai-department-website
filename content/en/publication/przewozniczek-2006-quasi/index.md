@@ -6,7 +6,7 @@ title: Quasi-hierarchical evolution algorithm for flow assignment in survivable 
 subtitle: ''
 summary: ''
 authors:
-- Michał Przewoźniczek
+- przewozniczek
 - Krzysztof Walkowiak
 tags: []
 categories: []

@@ -5,8 +5,8 @@ title: Heuristic classifier chains for multi-label classification
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2013-01-01

@@ -8,7 +8,7 @@ authors:
 - Jarosław Jankowski
 - Michał Kozielski
 - Wojciech Filipowski
-- Radosław Michalski
+- michalski
 tags: []
 categories: []
 date: 2013-01-01

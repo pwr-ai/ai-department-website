@@ -5,8 +5,8 @@ title: 8th international symposium advances in artificial intelligence and appli
 subtitle: ''
 summary: ''
 authors:
-- Halina Kwaśnicka
-- Urszula Markowska-Kaczmar
+- kwasnicka
+- markowska-kaczmar
 - Bartosz Krawczyk
 - Dominik Slezak
 - Anna Bartkowiak

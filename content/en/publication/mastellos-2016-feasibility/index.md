@@ -11,7 +11,7 @@ authors:
 - Dorota Czopnik
 - Mark McGilchrist
 - Andrzej Misiaszek
-- Piotr Bródka
+- brodka
 - Vasa Curcin
 - Josip Car
 - Brendan C Delaney

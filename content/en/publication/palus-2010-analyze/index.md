@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Sebastian Palus
-- Piotr Bródka
-- Przemysław Kazienko
+- brodka
+- kazienko
 tags: []
 categories: []
 date: 2010-01-01

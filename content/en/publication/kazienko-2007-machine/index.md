@@ -6,7 +6,7 @@ title: Machine Learning and Data Mining-Assessment of Personal Importance Based 
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Katarzyna Musial
 tags: []
 categories: []

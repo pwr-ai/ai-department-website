@@ -5,7 +5,7 @@ title: Profile cloning detection in social networks
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 - Mateusz Sobas
 - Henric Johnson
 tags: []

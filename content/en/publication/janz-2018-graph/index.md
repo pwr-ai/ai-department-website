@@ -6,9 +6,9 @@ title: Graph-based complex representation in inter-sentence relation recognition
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
+- janz
 - Paweł Kędzia
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2018-01-01

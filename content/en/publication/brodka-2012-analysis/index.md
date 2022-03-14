@@ -5,8 +5,8 @@ title: Analysis of neighbourhoods in multi-layered dynamic social networks
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
-- Przemysław Kazienko
+- brodka
+- kazienko
 - Katarzyna Musiał
 - Krzysztof Skibicki
 tags: []

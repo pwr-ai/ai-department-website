@@ -5,9 +5,9 @@ title: Comprehensive study on lexicon-based ensemble classification sentiment an
 subtitle: ''
 summary: ''
 authors:
-- Łukasz Augustyniak
+- augustyniak
 - Piotr Szyma\ŉski
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Włodzimierz Tuligłowicz
 tags: []
 categories: []

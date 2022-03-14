@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Magdalena Derwojedowa
-- Maciej Piasecki
+- piasecki
 - Stanisław Szpakowicz
 - Magdalena Zawisławska
 tags: []

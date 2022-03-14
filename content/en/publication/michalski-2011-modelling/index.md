@@ -5,10 +5,10 @@ title: Modelling social network evolution
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 - Sebastian Palus
-- Piotr Bródka
-- Przemysław Kazienko
+- brodka
+- kazienko
 - Krzysztof Juszczyszyn
 tags: []
 categories: []

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Bartosz Broda
 - Roman Kurc
-- Maciej Piasecki
+- piasecki
 - Radosław Ramocki
 tags: []
 categories: []

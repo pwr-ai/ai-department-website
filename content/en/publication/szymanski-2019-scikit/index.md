@@ -6,8 +6,8 @@ title: 'Scikit-multilearn: a scikit-based Python environment for performing mult
 subtitle: ''
 summary: ''
 authors:
-- Piotr Szymanski
-- Tomasz Kajdanowicz
+- szymanski
+- kajdanowicz
 tags: []
 categories: []
 date: 2019-01-01

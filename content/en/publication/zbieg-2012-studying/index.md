@@ -8,7 +8,7 @@ authors:
 - Anita Zbieg
 - Blazej Zak
 - Jaroslaw Jankowski
-- Radoslaw Michalski
+- michalski
 - Sylwia Ciuberek
 tags: []
 categories: []

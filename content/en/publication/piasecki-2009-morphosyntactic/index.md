@@ -6,7 +6,7 @@ title: Morphosyntactic Constraints in the Acquisition of Linguistic Knowledge fo
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Adam Radziszewski
 tags: []
 categories: []

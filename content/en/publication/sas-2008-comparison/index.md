@@ -5,7 +5,7 @@ title: Comparison of feature reduction methods in the text recognition task
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Andrzej Zolnierek
 tags: []
 categories: []

@@ -5,7 +5,7 @@ title: 'Dru: Studying Blockchain as a Complex Network'
 subtitle: ''
 summary: ''
 authors:
-- Radoslaw Michalski
+- michalski
 - Marcin Pieczka
 tags: []
 categories: []

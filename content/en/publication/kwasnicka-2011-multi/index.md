@@ -6,8 +6,8 @@ title: 'Multi population pattern searching algorithm: a new evolutionary method 
 subtitle: ''
 summary: ''
 authors:
-- Halina Kwasnicka
-- Michal Przewozniczek
+- kwasnicka
+- przewozniczek
 tags: []
 categories: []
 date: 2011-01-01

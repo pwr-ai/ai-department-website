@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paulo Shakarian
-- Radosław Michalski
+- michalski
 - Jarosław Jankowski
 - José Fernando Mendes
 - Frank Schweitzer

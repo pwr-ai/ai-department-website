@@ -5,9 +5,9 @@ title: Matching organizational structure and social network extracted from email
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 - Sebastian Palus
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

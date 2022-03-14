@@ -5,8 +5,8 @@ title: Social network analysis as a tool for improving enterprise architecture
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
-- Radosław Michalski
+- kazienko
+- michalski
 - Sebastian Palus
 tags: []
 categories: []

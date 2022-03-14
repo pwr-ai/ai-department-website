@@ -6,13 +6,13 @@ title: 'Controversy and conformity: from generalized to personalized aggressiven
 subtitle: ''
 summary: ''
 authors:
-- Kamil Kanclerz
+- kanclerz
 - Alicja Figas
 - Marcin Gruza
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Jan Koco\ŉ
 - Daria Puchalska
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2021-01-01

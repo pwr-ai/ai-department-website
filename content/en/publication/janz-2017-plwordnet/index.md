@@ -5,9 +5,9 @@ title: plWordNet as a basis for large emotive lexicons of Polish
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
-- Jan Kocon
-- Maciej Piasecki
+- janz
+- kocon
+- piasecki
 - Monika Zasko-Zielinska
 tags: []
 categories: []

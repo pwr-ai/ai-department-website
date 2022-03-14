@@ -6,10 +6,10 @@ title: Can we ditch feature engineering? end-to-end deep learning for affect rec
 subtitle: ''
 summary: ''
 authors:
-- Maciej Dzieżyc
+- dziezyc
 - Martin Gjoreski
-- Przemysław Kazienko
-- Stanisław Saganowski
+- kazienko
+- saganowski
 - Matjaž Gams
 tags: []
 categories: []

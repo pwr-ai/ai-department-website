@@ -6,7 +6,7 @@ title: 'Editorial on the special issue “Hybrid and ensemble techniques in soft
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Edwin Lughofer
 - Bogdan Trawinski
 tags: []

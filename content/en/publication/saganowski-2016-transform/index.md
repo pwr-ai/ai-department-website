@@ -5,9 +5,9 @@ title: TRANSFoRm eHealth solution for quality of life monitoring.
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
+- saganowski
 - Andrzej Misiaszek
-- Piotr Bródka
+- brodka
 - Anna Andreasson
 - Vasa Curcin
 - Brendan Delaney

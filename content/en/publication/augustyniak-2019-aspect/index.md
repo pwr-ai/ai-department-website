@@ -5,9 +5,9 @@ title: Aspect detection using word and char embeddings with (Bi) LSTM and CRF
 subtitle: ''
 summary: ''
 authors:
-- Łukasz Augustyniak
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- augustyniak
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2019-01-01

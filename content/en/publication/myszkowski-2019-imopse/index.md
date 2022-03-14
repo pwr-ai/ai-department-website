@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł B Myszkowski
-- Maciej Laszczyk
+- laszczyk
 - Ivan Nikulin
 - Marek Skowro\ŉski
 tags: []

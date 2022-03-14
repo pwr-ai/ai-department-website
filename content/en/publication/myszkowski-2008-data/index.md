@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Pawel B Myszkowski
-- Halina Kwasnicka
-- Urszula Markowska-Kaczmar
+- kwasnicka
+- markowska-kaczmar
 tags: []
 categories: []
 date: 2008-01-01

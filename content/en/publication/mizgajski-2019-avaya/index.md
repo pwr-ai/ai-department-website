@@ -11,7 +11,7 @@ authors:
 - Robert Głowski
 - Piotr Szyma\ŉski
 - Piotr Żelasko
-- Łukasz Augustyniak
+- augustyniak
 - Mikołaj Morzy
 - Yishay Carmiel
 - Jeff Hodson

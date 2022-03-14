@@ -5,8 +5,8 @@ title: Recent Advances in Cross-Domain Sentiment Analysis of Polish Texts?
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
-- Jan Kocon
+- janz
+- kocon
 tags: []
 categories: []
 date: 2022-01-01

@@ -6,11 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Jaroslaw Jankowski
-- Przemyslaw Kazienko
+- kazienko
 - Boleslaw K Szymanski
-- Piotr Bródka
-- Radoslaw Michalski
-- Tomasz Kajdanowicz
+- brodka
+- michalski
+- kajdanowicz
 tags: []
 categories: []
 date: 2017-01-01

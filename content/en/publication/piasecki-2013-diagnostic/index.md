@@ -5,7 +5,7 @@ title: Diagnostic tools in plWordNet development process
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Łukasz Burdka
 - Marek Maziarz
 - Michał Kali\ŉski

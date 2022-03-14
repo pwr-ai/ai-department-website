@@ -5,7 +5,7 @@ title: On utilising social networks to discover representatives of human communi
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musial
 tags: []
 categories: []

@@ -10,7 +10,7 @@ authors:
 - Chenliang Li
 - Meng Qin
 - Prathamesh Deshpande
-- Stanislaw Saganowski
+- saganowski
 - Chainarong Amornbunchornvej
 - Marian-Andrei Rizoiu
 - Andreas Nuernberger

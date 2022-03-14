@@ -5,7 +5,7 @@ title: The Concept of Lexical Platform.
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Tomasz Walkowiak
 - Ewa Rudnicka
 - Tomasz Naskret

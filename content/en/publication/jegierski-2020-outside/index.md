@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Hubert Jegierski
-- Stanisław Saganowski
+- saganowski
 tags: []
 categories: []
 date: 2020-01-01

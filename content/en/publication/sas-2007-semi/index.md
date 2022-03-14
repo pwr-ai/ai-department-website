@@ -6,7 +6,7 @@ title: Semi-automatic Handwritten Word Segmentation Based on Character Width App
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Marek Kurzynski
 tags: []
 categories: []

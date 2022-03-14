@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Jan Koco\ŉ
 - Piotr Miłkowski
-- Kamil Kanclerz
+- kanclerz
 tags: []
 categories: []
 date: 2021-01-01

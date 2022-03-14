@@ -5,7 +5,7 @@ title: Social capital in online social networks
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musiał
 tags: []
 categories: []

@@ -5,7 +5,7 @@ title: AdROSA—Adaptive personalization of web advertising
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Michał Adamski
 tags: []
 categories: []

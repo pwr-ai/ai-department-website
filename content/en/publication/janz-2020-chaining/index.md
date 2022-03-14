@@ -5,7 +5,7 @@ title: Chaining polysemous senses for evocation recognition
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
+- janz
 - Marek Maziarz
 tags: []
 categories: []

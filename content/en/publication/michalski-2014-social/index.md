@@ -5,8 +5,8 @@ title: Social Network Analysis in Organizational Structures Evaluation.
 subtitle: ''
 summary: ''
 authors:
-- Radoslaw Michalski
-- Przemyslaw Kazienko
+- michalski
+- kazienko
 tags: []
 categories: []
 date: 2014-01-01

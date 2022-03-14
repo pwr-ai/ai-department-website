@@ -6,7 +6,7 @@ title: Using Graph and Vertex Entropy to Measure Similarity of Empirical Graphs 
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Mikołaj Morzy
 tags: []
 categories: []

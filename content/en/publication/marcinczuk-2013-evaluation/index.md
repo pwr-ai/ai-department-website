@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Michał Marci\ŉczuk
 - Adam Radziszewski
-- Maciej Piasecki
+- piasecki
 - Dominik Piasecki
 - Marcin Ptak
 tags: []

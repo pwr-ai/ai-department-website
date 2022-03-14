@@ -8,8 +8,8 @@ authors:
 - Reda Alhajj
 - H Ulrich Hoppe
 - Tobias Hecking
-- Piotr Bródka
-- Przemyslaw Kazienko
+- brodka
+- kazienko
 tags: []
 categories: []
 date: 2018-01-01

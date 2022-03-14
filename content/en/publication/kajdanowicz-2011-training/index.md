@@ -5,9 +5,9 @@ title: Training set selection using entropy based distance
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Slawomir Plamowski
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

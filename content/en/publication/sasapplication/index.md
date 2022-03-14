@@ -5,7 +5,7 @@ title: APPLICATION OF DOCUMENT TYPE IDENTIFICATION IN MEDICAL HANDWRITTEN TEXTS 
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Jerzy PEJCZ
 tags: []
 categories: []

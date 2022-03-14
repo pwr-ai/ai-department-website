@@ -5,7 +5,7 @@ title: Reductionistic, tree and rule based tagger for Polish
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Grzegorz Godlewski
 tags: []
 categories: []

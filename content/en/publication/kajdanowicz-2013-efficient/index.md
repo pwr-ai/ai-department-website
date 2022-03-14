@@ -6,7 +6,7 @@ title: Efficient Usage of Collective Classification Algorithms for Collaborative
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2013-01-01

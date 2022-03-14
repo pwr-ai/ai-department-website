@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Edyta Rogula
-- Maciej Piasecki
+- piasecki
 - Tomasz Naskręt
 tags: []
 categories: []

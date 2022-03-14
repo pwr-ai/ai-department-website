@@ -6,7 +6,7 @@ title: Disambiguating wikipedia articles on the basis of plWordNet lexico-semant
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Michał Kali\ŉski
 - Agnieszka Indyka-Piasecka
 tags: []

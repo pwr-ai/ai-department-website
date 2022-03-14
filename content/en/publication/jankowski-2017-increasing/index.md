@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jarosław Jankowski
-- Radosław Michalski
+- michalski
 tags: []
 categories: []
 date: 2017-01-01

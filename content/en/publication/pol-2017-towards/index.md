@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Marcin Pol
 - Tomasz Walkowiak
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2017-01-01

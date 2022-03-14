@@ -5,7 +5,7 @@ title: Mining sequential patterns with negative conclusions
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2008-01-01

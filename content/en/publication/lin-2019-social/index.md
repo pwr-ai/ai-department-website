@@ -8,7 +8,7 @@ authors:
 - Suwen Lin
 - Louis Faust
 - Pablo Robles-Granda
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Nitesh V Chawla
 tags: []
 categories: []

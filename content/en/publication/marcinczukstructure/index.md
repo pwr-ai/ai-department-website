@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Michał Marcinczuk
 - Monika Zasko-Zielinska
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

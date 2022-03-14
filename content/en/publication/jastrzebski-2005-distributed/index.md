@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Lukasz Jastrzebski
-- Maciej Piasecki
+- piasecki
 - Grzegorz Strzelecki
 - Krzysztof Wilkosz
 tags: []

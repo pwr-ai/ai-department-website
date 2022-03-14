@@ -5,8 +5,8 @@ title: Brand-Product Relation Extraction Corpora
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
-- Maciej Piasecki
+- janz
+- piasecki
 - Łukasz Kopoci\ŉski
 - Agnieszka Pluwak
 tags: []

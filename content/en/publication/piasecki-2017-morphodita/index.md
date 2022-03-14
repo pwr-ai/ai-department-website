@@ -5,8 +5,8 @@ title: MorphoDiTa-based tagger adapted to the Polish language technology
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
-- Wiktor Walentynowicz
+- piasecki
+- walentynowicz
 tags: []
 categories: []
 date: 2017-01-01

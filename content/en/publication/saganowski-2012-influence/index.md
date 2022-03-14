@@ -6,9 +6,9 @@ title: Influence of the dynamic social network timeframe type and size on the gr
 subtitle: ''
 summary: ''
 authors:
-- Stanislaw Saganowski
-- Piotr Bródka
-- Przemyslaw Kazienko
+- saganowski
+- brodka
+- kazienko
 tags: []
 categories: []
 date: 2012-01-01

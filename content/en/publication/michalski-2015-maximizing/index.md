@@ -6,8 +6,8 @@ title: Maximizing social influence in real-world networks—the state of the art
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
-- Przemysław Kazienko
+- michalski
+- kazienko
 tags: []
 categories: []
 date: 2015-01-01

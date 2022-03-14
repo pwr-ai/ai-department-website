@@ -5,9 +5,9 @@ title: Shortest path discovery in the multi-layered social network
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 - Pawel Stawiak
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

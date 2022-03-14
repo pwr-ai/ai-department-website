@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł Kędzia
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2014-01-01

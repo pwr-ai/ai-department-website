@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Rajmund Klemi\ŉski
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2017-01-01

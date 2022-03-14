@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Jarosław Jankowski
-- Stanisław Saganowski
-- Piotr Bródka
+- saganowski
+- brodka
 tags: []
 categories: []
 date: 2016-01-01

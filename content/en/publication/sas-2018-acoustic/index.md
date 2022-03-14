@@ -6,7 +6,7 @@ title: Acoustic Data Building Toolset for Easy Experimentation with Neural Netwo
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 tags: []
 categories: []
 date: 2018-01-01

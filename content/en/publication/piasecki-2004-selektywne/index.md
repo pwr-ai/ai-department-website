@@ -5,7 +5,7 @@ title: Selektywne wprowadzenie do semantyki formalnej
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2004-01-01

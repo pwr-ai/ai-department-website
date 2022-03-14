@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Marek Maziarz
 - Stanisław Szpakowicz
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2012-01-01

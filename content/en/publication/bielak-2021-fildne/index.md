@@ -5,10 +5,10 @@ title: 'FILDNE: A Framework for Incremental Learning of Dynamic Networks Embeddi
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bielak
-- Kamil Tagowski
-- Maciej Falkiewicz
-- Tomasz Kajdanowicz
+- bielak
+- tagowski
+- falkiewicz
+- kajdanowicz
 - Nitesh V Chawla
 tags: []
 categories: []

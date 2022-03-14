@@ -5,7 +5,7 @@ title: Handwriting recognition accuracy improvement by author identification
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 tags: []
 categories: []
 date: 2006-01-01

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Bartosz Broda
-- Maciej Piasecki
+- piasecki
 - Stan Szpakowicz
 tags: []
 categories: []

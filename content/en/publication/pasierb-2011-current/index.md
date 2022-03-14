@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Katarzyna Ewa Pasierb
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

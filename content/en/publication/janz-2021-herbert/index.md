@@ -5,7 +5,7 @@ title: HerBERT Large Pre-trained on KGR10 Data
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
+- janz
 - Piotr Wątorski
 tags: []
 categories: []

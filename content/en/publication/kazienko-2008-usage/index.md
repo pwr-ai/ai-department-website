@@ -5,7 +5,7 @@ title: Usage-based positive and negative verification of user interface structur
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2008-01-01

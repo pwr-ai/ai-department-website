@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Andrzej Misiaszek
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
-- Maciej Piasecki
+- kajdanowicz
+- kazienko
+- piasecki
 tags: []
 categories: []
 date: 2013-01-01

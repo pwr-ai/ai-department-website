@@ -6,7 +6,7 @@ title: Multi population pattern searching algorithm for solving routing spectrum
 subtitle: ''
 summary: ''
 authors:
-- Michal Przewozniczek
+- przewozniczek
 tags: []
 categories: []
 date: 2015-01-01

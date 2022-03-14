@@ -6,7 +6,7 @@ title: 'CorpoGrabber: The Toolchain to Automatic Acquiring and Extraction of the
 subtitle: ''
 summary: ''
 authors:
-- Jan Kocon
+- kocon
 tags: []
 categories: []
 date: 2014-01-01

@@ -5,8 +5,8 @@ title: Incremental prediction for sequential data
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2010-01-01

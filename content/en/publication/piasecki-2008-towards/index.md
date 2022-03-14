@@ -5,7 +5,7 @@ title: Towards computational verification of Self-organising Logic of Structures
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Adam Radziszewski
 tags: []
 categories: []

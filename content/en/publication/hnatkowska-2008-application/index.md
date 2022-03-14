@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Bogumiła Hnatkowska
-- Jerzy Sas
+- sas
 tags: []
 categories: []
 date: 2008-01-01

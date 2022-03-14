@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł Kędzia
-- Maciej Piasecki
+- piasecki
 - Jan Koco\ŉ
 - Agnieszka Indyka-Piasecka
 tags: []

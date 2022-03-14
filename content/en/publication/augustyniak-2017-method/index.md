@@ -5,9 +5,9 @@ title: Method for aspect-based sentiment annotation using rhetorical analysis
 subtitle: ''
 summary: ''
 authors:
-- Łukasz Augustyniak
-- Krzysztof Rajda
-- Tomasz Kajdanowicz
+- augustyniak
+- rajda
+- kajdanowicz
 tags: []
 categories: []
 date: 2017-01-01

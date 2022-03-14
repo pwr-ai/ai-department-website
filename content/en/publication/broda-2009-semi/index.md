@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Bartosz Broda
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2009-01-01

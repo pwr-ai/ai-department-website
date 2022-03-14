@@ -5,7 +5,7 @@ title: Application of Rough Sets in Combined Handwritten Words Classifier
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Andrzej Zolnierek
 tags: []
 categories: []

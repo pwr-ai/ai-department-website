@@ -6,7 +6,7 @@ title: Fast automatic speech recognition training with phoneme coverage balancin
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Bogumila Hnatkowska
 tags: []
 categories: []

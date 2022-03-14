@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Michal Ptaszynski
 - Fumito Masui
-- Arkadiusz Janz
+- janz
 - J Kocon
-- Maciej Piasecki
+- piasecki
 - ZZ Monika
 - Paweł Dybała
 tags: []

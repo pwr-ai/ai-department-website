@@ -5,7 +5,7 @@ title: A model for collaborative scheduling based on competencies
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2011-01-01

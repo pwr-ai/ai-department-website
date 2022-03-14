@@ -5,9 +5,9 @@ title: Sequential seeding in multilayer networks
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 - Jarosław Jankowski
-- Radosław Michalski
+- michalski
 tags: []
 categories: []
 date: 2021-01-01

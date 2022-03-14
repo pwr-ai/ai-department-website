@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł Kędzia
-- Maciej Piasecki
+- piasecki
 - Ewa Rudnicka
 - Konrad Przybycie\ŉ
 tags: []

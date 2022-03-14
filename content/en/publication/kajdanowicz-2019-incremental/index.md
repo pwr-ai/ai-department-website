@@ -5,11 +5,11 @@ title: Incremental embedding for temporal networks
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Kamil Tagowski
-- Maciej Falkiewicz
-- Piotr Bielak
-- Przemysław Kazienko
+- kajdanowicz
+- tagowski
+- falkiewicz
+- bielak
+- kazienko
 - Nitesh V Chawla
 tags: []
 categories: []

@@ -6,8 +6,8 @@ title: Hawkes-modeled telecommunication patterns reveal relationship dynamics an
 subtitle: ''
 summary: ''
 authors:
-- Mateusz Nurek
-- Radosław Michalski
+- nurek
+- michalski
 - Marian-Andrei Rizoiu
 tags: []
 categories: []

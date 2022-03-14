@@ -6,8 +6,8 @@ title: The practical use of problem encoding allowing cheap fitness computation 
 subtitle: ''
 summary: ''
 authors:
-- Michal Przewozniczek
-- Marcin Komarnicki
+- przewozniczek
+- komarnicki
 tags: []
 categories: []
 date: 2018-01-01

@@ -5,7 +5,7 @@ title: Corpus-based semantic filtering in discovering derivational relations
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Radosław Ramocki
 - Paweł Minda
 tags: []

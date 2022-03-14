@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Michał Marcinczuk
-- Jan Kocon
+- kocon
 - Michał Gawor
 tags: []
 categories: []

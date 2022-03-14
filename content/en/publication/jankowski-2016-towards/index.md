@@ -9,7 +9,7 @@ authors:
 - Jarosław Jankowski
 - Paweł Ziemba
 - Jarosław Wątróbski
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2016-01-01

@@ -5,9 +5,9 @@ title: 'An approach to sentiment analysis of movie reviews: Lexicon based vs. cl
 subtitle: ''
 summary: ''
 authors:
-- Lukasz Augustyniak
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- augustyniak
+- kajdanowicz
+- kazienko
 - Marcin Kulisiewicz
 - Wlodzimierz Tuliglowicz
 tags: []

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - RV Belfin
-- Piotr Bródka
+- brodka
 - ' others'
 tags: []
 categories: []

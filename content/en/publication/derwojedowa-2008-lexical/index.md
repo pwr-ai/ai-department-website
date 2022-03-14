@@ -8,7 +8,7 @@ authors:
 - Magda Derwojedowa
 - Stanisław Szpakowicz
 - Magda Zawisławska
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2008-01-01

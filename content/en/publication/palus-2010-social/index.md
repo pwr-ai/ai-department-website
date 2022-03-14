@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Sebastian Palus
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2010-01-01

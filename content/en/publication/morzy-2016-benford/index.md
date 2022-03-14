@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Mikołaj Morzy
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Bolesław K Szyma\ŉski
 tags: []
 categories: []

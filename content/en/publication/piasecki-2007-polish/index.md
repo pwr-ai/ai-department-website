@@ -5,7 +5,7 @@ title: 'Polish tagger TaKIPI: Rule based construction and optimisation'
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2007-01-01

@@ -5,7 +5,7 @@ title: Distant Co-occurrence Language Model for ASR in LooseWord Order Languages
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Andrzej Zolnierek
 tags: []
 categories: []

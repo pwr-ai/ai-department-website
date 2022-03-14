@@ -5,7 +5,7 @@ title: ChunkRel WS
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2011-01-01

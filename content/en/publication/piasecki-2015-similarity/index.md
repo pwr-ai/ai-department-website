@@ -6,7 +6,7 @@ title: Similarity Measure for Polish Short Texts Based on Wordnet-Enhanced Bag-o
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Anna Gut
 tags: []
 categories: []

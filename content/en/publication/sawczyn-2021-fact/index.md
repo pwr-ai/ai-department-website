@@ -9,8 +9,8 @@ authors:
 - Albert Sawczyn
 - Jakub Binkowski
 - Denis Janiak
-- Łukasz Augustyniak
-- Tomasz Kajdanowicz
+- augustyniak
+- kajdanowicz
 tags: []
 categories: []
 date: 2021-01-01

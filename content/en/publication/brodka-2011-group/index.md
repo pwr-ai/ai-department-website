@@ -5,9 +5,9 @@ title: Group evolution discovery in social networks
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
-- Stanislaw Saganowski
-- Przemyslaw Kazienko
+- brodka
+- saganowski
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

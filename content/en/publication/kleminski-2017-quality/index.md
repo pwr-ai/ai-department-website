@@ -5,10 +5,10 @@ title: On Quality Assesement in Wikipedia Articles Based on Markov Random Fields
 subtitle: ''
 summary: ''
 authors:
-- Rajmund Kleminski
-- Tomasz Kajdanowicz
-- Roman Bartusiak
-- Przemyslaw Kazienko
+- kleminski
+- kajdanowicz
+- bartusiak
+- kazienko
 tags: []
 categories: []
 date: 2017-01-01

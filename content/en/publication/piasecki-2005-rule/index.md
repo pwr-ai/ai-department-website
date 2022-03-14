@@ -5,7 +5,7 @@ title: A rule-based tagger for Polish based on Genetic Algorithm
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Bartłomiej Gaweł
 tags: []
 categories: []

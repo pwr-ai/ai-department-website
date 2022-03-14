@@ -6,7 +6,7 @@ title: Integration of relational databases and web site content for product and 
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Maciej Kiewra
 tags: []
 categories: []

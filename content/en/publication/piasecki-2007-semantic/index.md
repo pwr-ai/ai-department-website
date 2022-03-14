@@ -5,7 +5,7 @@ title: Semantic similarity measure of Polish nouns based on linguistic features
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Bartosz Broda
 tags: []
 categories: []

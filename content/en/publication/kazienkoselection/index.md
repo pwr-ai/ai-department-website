@@ -5,7 +5,7 @@ title: Selection of the Target Group based on Social Network
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musiał
 - Aleksander Zgrzywa
 tags: []

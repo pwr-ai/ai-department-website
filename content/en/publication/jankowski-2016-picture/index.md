@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jarosław Jankowski
-- Piotr Bródka
+- brodka
 - Juho Hamari
 tags: []
 categories: []

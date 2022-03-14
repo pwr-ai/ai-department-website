@@ -6,9 +6,9 @@ title: Comparison of the efficiency of mapreduce and bulk synchronous parallel a
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Wojciech Indyk
-- Przemyslaw Kazienko
+- kazienko
 - Jakub Kukul
 tags: []
 categories: []

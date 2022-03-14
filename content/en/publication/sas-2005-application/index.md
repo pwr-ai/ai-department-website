@@ -6,7 +6,7 @@ title: Application of Statistic Properties of Letters Succession in Polish Langu
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Marek Kurzynski
 tags: []
 categories: []

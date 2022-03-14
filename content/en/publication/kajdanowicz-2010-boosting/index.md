@@ -5,8 +5,8 @@ title: Boosting algorithm with sequence-loss cost function for structured predic
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 - Jan Kraszewski
 tags: []
 categories: []

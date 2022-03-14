@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł Kędzia
-- Maciej Piasecki
+- piasecki
 - Marek Maziarz
 - Michał Marci\ŉczuk
 tags: []

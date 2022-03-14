@@ -6,7 +6,7 @@ title: Intrusion Detection Systems (IDS) Part I-(network intrusions; attack symp
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Piotr Dorosz
 tags: []
 categories: []

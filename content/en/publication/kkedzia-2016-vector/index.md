@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Paweł Kędzia
 - Gabriela Czachor
-- Maciej Piasecki
+- piasecki
 - Jan Koco\ŉ
 tags: []
 categories: []

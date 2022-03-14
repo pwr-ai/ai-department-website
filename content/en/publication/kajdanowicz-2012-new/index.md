@@ -5,9 +5,9 @@ title: New Entropy Based Distance for Training Set Selection in Debt Portfolio V
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Slawomir Plamowski
-- Przemyslaw Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2012-01-01

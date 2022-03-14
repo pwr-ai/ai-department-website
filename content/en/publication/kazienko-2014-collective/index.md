@@ -5,8 +5,8 @@ title: Collective Classification, Structural Features.
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 tags: []
 categories: []
 date: 2014-01-01

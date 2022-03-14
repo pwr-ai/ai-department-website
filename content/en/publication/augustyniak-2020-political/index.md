@@ -6,9 +6,9 @@ title: 'Political Advertising Dataset: the use case of the Polish 2020 President
 subtitle: ''
 summary: ''
 authors:
-- Łukasz Augustyniak
-- Krzysztof Rajda
-- Tomasz Kajdanowicz
+- augustyniak
+- rajda
+- kajdanowicz
 - Michał Bernaczyk
 tags: []
 categories: []

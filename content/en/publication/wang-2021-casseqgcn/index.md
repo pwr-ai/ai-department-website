@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Yansong Wang
 - Xiaomeng Wang
-- Radosław Michalski
+- michalski
 - Yijun Ran
 - Tao Jia
 tags: []

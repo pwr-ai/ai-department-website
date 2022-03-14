@@ -8,7 +8,7 @@ authors:
 - Fredrik Erlandsson
 - Anton Borg
 - Henric Johnson
-- Piotr Bródka
+- brodka
 tags: []
 categories: []
 date: 2016-01-01

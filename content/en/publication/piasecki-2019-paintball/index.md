@@ -6,7 +6,7 @@ title: 'Paintball: Automated wordnet expansion algorithm based on distributional
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2019-01-01

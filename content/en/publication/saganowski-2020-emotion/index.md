@@ -5,15 +5,15 @@ title: 'Emotion recognition using wearables: A systematic literature review-work
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
+- saganowski
 - Anna Dutkowiak
 - Adam Dziadek
-- Maciej Dzieżyc
+- dziezyc
 - Joanna Komoszy\ŉska
 - Weronika Michalska
 - Adam Polak
 - Michał Ujma
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2020-01-01

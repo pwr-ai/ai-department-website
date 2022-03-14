@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Roman Kurc
-- Maciej Piasecki
+- piasecki
 - Bartosz Broda
 tags: []
 categories: []

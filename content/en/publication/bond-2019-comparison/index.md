@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Francis Bond
-- Arkadiusz Janz
-- Maciej Piasecki
+- janz
+- piasecki
 tags: []
 categories: []
 date: 2019-01-01

@@ -6,7 +6,7 @@ title: 'AspectEmo: Multi-Domain Corpus of Consumer Reviews for Aspect-Based Sent
 subtitle: ''
 summary: ''
 authors:
-- Jan Kocon
+- kocon
 - Jarema Radom
 - Ewa Kaczmarz-Wawryk
 - Kamil Wabnic

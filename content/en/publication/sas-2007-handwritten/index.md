@@ -5,7 +5,7 @@ title: Handwritten Word Recognition with Combined Classifier Based on Tri-grams
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Andrzej Zolnierek
 tags: []
 categories: []

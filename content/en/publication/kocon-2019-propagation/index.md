@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jan Koco\ŉ
-- Arkadiusz Janz
+- janz
 tags: []
 categories: []
 date: 2019-01-01

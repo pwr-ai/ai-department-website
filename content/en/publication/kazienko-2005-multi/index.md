@@ -5,7 +5,7 @@ title: Multi-agent system for web advertising
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2005-01-01

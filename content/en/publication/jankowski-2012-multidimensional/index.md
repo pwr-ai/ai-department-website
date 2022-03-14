@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Jarosław Jankowski
-- Radosław Michalski
-- Przemysław Kazienko
+- michalski
+- kazienko
 tags: []
 categories: []
 date: 2012-01-01

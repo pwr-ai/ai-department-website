@@ -6,7 +6,7 @@ title: Literary Criticism of Cartography and Indexing of Spatial Data and Semant
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2014-01-01

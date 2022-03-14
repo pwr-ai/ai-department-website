@@ -5,8 +5,8 @@ title: Computational Method for Claim Portfolio Valuation
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2009-01-01

@@ -6,8 +6,8 @@ title: The influence of customer churn and acquisition on value dynamics of soci
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
-- Piotr Bródka
+- kazienko
+- brodka
 - Dymitr Ruta
 tags: []
 categories: []

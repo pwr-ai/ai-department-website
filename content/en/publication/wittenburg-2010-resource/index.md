@@ -14,7 +14,7 @@ authors:
 - Kimmo Koskenniemi
 - Lothar Lemnitzer
 - Bente Maegaard
-- Maciej Piasecki
+- piasecki
 - ' others'
 tags: []
 categories: []

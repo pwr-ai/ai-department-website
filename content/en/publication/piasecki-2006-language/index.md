@@ -5,7 +5,7 @@ title: Language modelling for the needs of OCR of medical texts
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Grzegorz Godlewski
 tags: []
 categories: []

@@ -5,7 +5,7 @@ title: Discourse interpretation based on dynamic constraints
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2005-01-01

@@ -5,7 +5,7 @@ title: Cinderella-tool for Clustering and Classifications of Texts in Polish
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Ksenia Młynarczyk
 - Tomasz Walkowiak
 tags: []

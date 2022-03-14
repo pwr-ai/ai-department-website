@@ -5,7 +5,7 @@ title: Hand-written and automatically extracted rules for Polish tagger
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2006-01-01

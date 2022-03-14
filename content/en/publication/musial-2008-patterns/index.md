@@ -9,7 +9,7 @@ authors:
 - Katarzyna Musial
 - Krzysztof Juszczyszyn
 - Bogdan Gabrys
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2008-01-01

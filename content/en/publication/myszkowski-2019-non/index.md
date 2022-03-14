@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł B Myszkowski
-- Maciej Laszczyk
+- laszczyk
 - Kamil Dziadek
 tags: []
 categories: []

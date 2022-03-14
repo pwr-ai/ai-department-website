@@ -5,7 +5,7 @@ title: Adjustment of indirect association rules for the web
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Mariusz Matrejek
 tags: []
 categories: []

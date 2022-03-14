@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Anna Zygmunt
-- Piotr Bródka
-- Przemyslaw Kazienko
+- brodka
+- kazienko
 - Jaroslaw Kozlak
 tags: []
 categories: []

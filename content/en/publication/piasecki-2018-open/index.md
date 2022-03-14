@@ -6,7 +6,7 @@ title: 'Open stylometric system WebSty: integrated language processing, analysis
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Tomasz Walkowiak
 - Maciej Eder
 tags: []

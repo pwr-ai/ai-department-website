@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Ewa Rudnicka
 - Marek Maziarz
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

@@ -8,7 +8,7 @@ authors:
 - Michał Marcinczuk
 - Marcin Ptak
 - Adam Radziszewski
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2013-01-01

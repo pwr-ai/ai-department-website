@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Kacper Kania
 - Maciej Zięba
-- Tomasz Kajdanowicz
+- kajdanowicz
 tags: []
 categories: []
 date: 2020-01-01

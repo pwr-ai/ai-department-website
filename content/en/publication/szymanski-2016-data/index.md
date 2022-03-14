@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Piotr Szyma\ŉski
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Kristian Kersting
 tags: []
 categories: []

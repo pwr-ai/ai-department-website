@@ -5,11 +5,11 @@ title: A generic model for a multidimensional temporal social network
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Elżbieta Kukla
 - Katarzyna Musial
-- Tomasz Kajdanowicz
-- Piotr Bródka
+- kajdanowicz
+- brodka
 - Jarosław Gaworecki
 tags: []
 categories: []

@@ -6,8 +6,8 @@ title: An assessment of node classification accuracy in social networks using la
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 - Piotr Doskocz
 - Krzysztof Litwin
 tags: []

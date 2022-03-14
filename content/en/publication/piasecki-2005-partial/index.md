@@ -5,8 +5,8 @@ title: Partial Parsing Method Applied to Rules Acquisition for Medical Expert Sy
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
-- Jerzy Sas
+- piasecki
+- sas
 tags: []
 categories: []
 date: 2005-01-01

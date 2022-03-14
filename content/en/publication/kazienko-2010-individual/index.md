@@ -5,8 +5,8 @@ title: Individual neighbourhood exploration in complex multi-layered social netw
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
-- Piotr Bródka
+- kazienko
+- brodka
 - Katarzyna Musial
 tags: []
 categories: []

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Agnieszka Dziob
-- Maciej Piasecki
+- piasecki
 - Marek Maziarz
 - Justyna Wieczorek
 - Marta Dobrowolska-Pigon

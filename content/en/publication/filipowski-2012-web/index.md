@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Tomasz Filipowski
-- Przemysław Kazienko
-- Piotr Brodka
-- Tomasz Kajdanowicz
+- kazienko
+- brodka
+- kajdanowicz
 tags: []
 categories: []
 date: 2012-01-01

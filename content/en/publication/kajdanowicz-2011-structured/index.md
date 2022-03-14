@@ -5,8 +5,8 @@ title: Structured output element ordering in boosting-based classification
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2011-01-01

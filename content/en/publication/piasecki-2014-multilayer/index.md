@@ -5,7 +5,7 @@ title: A Multilayer System of Lexical Resources for Language Technology Infrastr
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2014-01-01

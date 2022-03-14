@@ -8,8 +8,8 @@ authors:
 - Roxana Danger
 - Derek Corrigan
 - Jean Karl Soler
-- Przemyslaw Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 - Azeem Majeed
 - Vasa Curcin
 tags: []

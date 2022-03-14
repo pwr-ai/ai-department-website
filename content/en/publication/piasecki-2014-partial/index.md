@@ -5,7 +5,7 @@ title: Partial Measure of Semantic Relatedness Based on the Local Feature Select
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Michał Wendelberger
 tags: []
 categories: []

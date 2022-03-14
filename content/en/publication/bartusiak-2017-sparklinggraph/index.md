@@ -5,7 +5,7 @@ title: SparklingGraph Documentation
 subtitle: ''
 summary: ''
 authors:
-- Roman Bartusiak
+- bartusiak
 tags: []
 categories: []
 date: 2017-01-01

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Tomasz Walkowiak
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2018-01-01

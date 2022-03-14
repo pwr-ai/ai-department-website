@@ -5,7 +5,7 @@ title: Struktura hipertekstu a struktura systemu WWW
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Zakład Systemów Informacyjnych
 tags: []
 categories: []

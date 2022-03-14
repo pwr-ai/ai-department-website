@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Michał Marci\ŉczuk
 - Monika Zaśko-Zieli\ŉska
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2011-01-01

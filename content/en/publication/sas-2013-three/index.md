@@ -5,7 +5,7 @@ title: Three-stage method of text region extraction from diagram raster images
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Andrzej Zolnierek
 tags: []
 categories: []

@@ -5,7 +5,7 @@ title: Evolutionary algorithm for congestion problem in connection-oriented netw
 subtitle: ''
 summary: ''
 authors:
-- Michał Przewoźniczek
+- przewozniczek
 - Krzysztof Walkowiak
 tags: []
 categories: []

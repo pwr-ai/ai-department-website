@@ -6,7 +6,7 @@ title: 'Survey of quality measures for multi-objective optimization: Constructio
 subtitle: ''
 summary: ''
 authors:
-- Maciej Laszczyk
+- laszczyk
 - Paweł B Myszkowski
 tags: []
 categories: []

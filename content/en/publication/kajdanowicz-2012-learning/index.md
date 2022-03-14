@@ -5,8 +5,8 @@ title: Learning and inference order in structured output elements classification
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2012-01-01

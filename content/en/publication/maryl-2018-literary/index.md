@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Maciej Maryl
-- Maciej Piasecki
+- piasecki
 - Tomasz Walkowiak
 tags: []
 categories: []

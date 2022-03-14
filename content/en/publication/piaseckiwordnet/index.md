@@ -5,7 +5,7 @@ title: Wordnet-based Similarity Measure for Polish Short Texts
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Anna Gut
 tags: []
 categories: []

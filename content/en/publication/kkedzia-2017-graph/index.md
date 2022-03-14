@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Paweł Kędzia
-- Maciej Piasecki
-- Arkadiusz Janz
+- piasecki
+- janz
 tags: []
 categories: []
 date: 2017-01-01

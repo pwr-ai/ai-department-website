@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Marcin Bartoszewski
-- Halina Kwasnicka
-- Urszula Markowska-Kaczmar
+- kwasnicka
+- markowska-kaczmar
 - Pawel B Myszkowski
 tags: []
 categories: []

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ewa Rudnicka
-- Maciej Piasecki
+- piasecki
 - Francis Bond
 - Łukasz Grabowski
 - Tadeusz Piotrowski

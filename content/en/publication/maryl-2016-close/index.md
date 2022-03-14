@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Maciej Maryl
-- Maciej Piasecki
+- piasecki
 - Ksenia Mlynarczyk
 tags: []
 categories: []

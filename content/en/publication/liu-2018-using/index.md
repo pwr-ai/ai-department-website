@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Wenyuan Liu
-- Stanisław Saganowski
-- Przemysław Kazienko
+- saganowski
+- kazienko
 - Siew Ann Cheong
 tags: []
 categories: []

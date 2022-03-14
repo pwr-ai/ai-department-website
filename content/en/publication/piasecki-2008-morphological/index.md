@@ -5,7 +5,7 @@ title: Morphological prediction for Polish by a statistical a tergo index
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Adam Radziszewski
 tags: []
 categories: []

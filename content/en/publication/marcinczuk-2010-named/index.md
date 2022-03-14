@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Michał Marci\ŉczuk
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2010-01-01

@@ -5,10 +5,10 @@ title: Competence region modelling in relational classification
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
+- kajdanowicz
 - Tomasz Filipowski
-- Przemysław Kazienko
-- Piotr Bródka
+- kazienko
+- brodka
 tags: []
 categories: []
 date: 2013-01-01

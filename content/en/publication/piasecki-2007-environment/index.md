@@ -5,7 +5,7 @@ title: Environment supporting construction of the Polish Wordnet
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Paweł Koczan
 tags: []
 categories: []

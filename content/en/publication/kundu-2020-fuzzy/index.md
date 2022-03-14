@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Suman Kundu
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 - Nitesh Chawla
 tags: []
 categories: []

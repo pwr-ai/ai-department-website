@@ -5,7 +5,7 @@ title: and Indirect Confidence for Historical User Sessions
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2004-01-01

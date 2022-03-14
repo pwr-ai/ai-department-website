@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Rajmund Klemi\ŉski
-- Przemyslaw Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 tags: []
 categories: []
 date: 2021-01-01

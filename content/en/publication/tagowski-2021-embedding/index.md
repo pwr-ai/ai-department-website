@@ -5,9 +5,9 @@ title: Embedding Alignment Methods in Dynamic Networks
 subtitle: ''
 summary: ''
 authors:
-- Kamil Tagowski
-- Piotr Bielak
-- Tomasz Kajdanowicz
+- tagowski
+- bielak
+- kajdanowicz
 tags: []
 categories: []
 date: 2021-01-01

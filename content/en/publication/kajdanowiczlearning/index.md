@@ -5,8 +5,8 @@ title: Learning Order in Boosting-based Classification of Structured Output Elem
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- kazienko
 tags: []
 categories: []
 date: 2022-01-01

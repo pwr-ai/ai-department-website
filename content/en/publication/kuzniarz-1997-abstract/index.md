@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ludwik Kuzniarz
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 1997-01-01

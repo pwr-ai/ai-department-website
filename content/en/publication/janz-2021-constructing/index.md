@@ -6,7 +6,7 @@ title: 'Constructing VeSNet: Mapping LOD Thesauri onto Princeton WordNet and Pol
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
+- janz
 - Grzegorz Kostkowski
 - Marek Maziarz
 tags: []

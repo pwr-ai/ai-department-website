@@ -5,7 +5,7 @@ title: Heterogeneous knowledge sources in graph-based expansion of the polish wo
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Roman Kurc
 - Bartosz Broda
 tags: []

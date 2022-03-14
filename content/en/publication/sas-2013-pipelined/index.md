@@ -5,7 +5,7 @@ title: Pipelined language model construction for Polish speech recognition
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Andrzej Żołnierek
 tags: []
 categories: []

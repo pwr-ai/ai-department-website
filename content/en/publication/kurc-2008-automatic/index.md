@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Roman Kurc
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2008-01-01

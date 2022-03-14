@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Jarosław Jankowski
-- Radosław Michalski
-- Piotr Bródka
-- Przemysław Kazienko
+- michalski
+- brodka
+- kazienko
 - Sonja Utz
 tags: []
 categories: []

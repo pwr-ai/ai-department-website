@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Grzegorz Godlewski
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

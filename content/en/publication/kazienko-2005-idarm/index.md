@@ -5,7 +5,7 @@ title: IDARM—Mining of indirect association rules
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2005-01-01

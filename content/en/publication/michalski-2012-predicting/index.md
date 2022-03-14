@@ -5,8 +5,8 @@ title: Predicting social network measures using machine learning approach
 subtitle: ''
 summary: ''
 authors:
-- Radoslaw Michalski
-- Przemyslaw Kazienko
+- michalski
+- kazienko
 - Dawid Król
 tags: []
 categories: []

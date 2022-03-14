@@ -5,8 +5,8 @@ title: Base Classifiers in Boosting-based Classification of Sequential Structure
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 tags: []
 categories: []
 date: 2010-01-01

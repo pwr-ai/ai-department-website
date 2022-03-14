@@ -6,7 +6,7 @@ title: Evaluation of Node Position Based on Mutual Interaction in Social Network
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musiał
 - Aleksander Zgrzywa
 tags: []

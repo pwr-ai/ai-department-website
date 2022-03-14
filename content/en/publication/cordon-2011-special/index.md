@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Oscar Cordón
-- Przemysław Kazienko
+- kazienko
 - Bogdan Trawi\ŉski
 tags: []
 categories: []

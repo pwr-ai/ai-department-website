@@ -5,7 +5,7 @@ title: Computational aspects of social network analysis
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
+- kazienko
 - Reda Alhajj
 - Jaideep Srivastava
 tags: []

@@ -6,8 +6,8 @@ title: Word Sense Disambiguation Based on Constrained Random Walks in Linked Sem
 subtitle: ''
 summary: ''
 authors:
-- Arkadiusz Janz
-- Maciej Piasecki
+- janz
+- piasecki
 tags: []
 categories: []
 date: 2019-01-01

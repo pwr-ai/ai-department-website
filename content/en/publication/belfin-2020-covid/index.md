@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - RV Belfin
-- Piotr Brodka
+- brodka
 - BL Radhakrishnan
 - V Rejula
 tags: []

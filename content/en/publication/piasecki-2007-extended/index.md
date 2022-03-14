@@ -5,7 +5,7 @@ title: Extended similarity test for the evaluation of semantic similarity functi
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Stanisław Szpakowicz
 - Bartosz Broda
 tags: []

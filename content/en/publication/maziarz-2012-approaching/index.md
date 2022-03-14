@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Marek Maziarz
-- Maciej Piasecki
+- piasecki
 - Stan Szpakowicz
 tags: []
 categories: []

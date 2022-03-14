@@ -5,9 +5,9 @@ title: A method for group extraction in complex social networks
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 - Katarzyna Musial
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2010-01-01

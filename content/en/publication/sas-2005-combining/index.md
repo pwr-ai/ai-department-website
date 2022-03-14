@@ -5,7 +5,7 @@ title: Combining character classifiers using member classifiers assessment
 subtitle: ''
 summary: ''
 authors:
-- Jerzy Sas
+- sas
 - Michal Luzyna
 tags: []
 categories: []

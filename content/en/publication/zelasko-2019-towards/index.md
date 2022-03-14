@@ -11,7 +11,7 @@ authors:
 - Mikołaj Morzy
 - Adrian Szymczak
 - Piotr Szyma\ŉski
-- Łukasz Augustyniak
+- augustyniak
 - Yishay Carmiel
 tags: []
 categories: []

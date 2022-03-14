@@ -5,7 +5,7 @@ title: Entropy-Based Measure for Influence Maximization in Temporal Networks
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 - Jarosław Jankowski
 - Patryk Pazura
 tags: []

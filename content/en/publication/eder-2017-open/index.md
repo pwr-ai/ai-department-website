@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Maciej Eder
-- Maciej Piasecki
+- piasecki
 - Tomasz Walkowiak
 tags: []
 categories: []

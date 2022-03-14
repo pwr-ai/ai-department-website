@@ -8,8 +8,8 @@ summary: ''
 authors:
 - Jean K Soler
 - Derek Corrigan
-- Przemyslaw Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 - Roxana Danger
 - Marcin Kulisiewicz
 - Brendan Delaney

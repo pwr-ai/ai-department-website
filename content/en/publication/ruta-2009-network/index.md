@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Dymitr Ruta
-- Przemyslaw Kazienko
-- Piotr Bródka
+- kazienko
+- brodka
 tags: []
 categories: []
 date: 2009-01-01

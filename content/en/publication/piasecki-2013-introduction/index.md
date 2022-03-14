@@ -5,7 +5,7 @@ title: 'Introduction to the special issue: On wordnets and relations'
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Stan Szpakowicz
 - Christiane Fellbaum
 - Bolette Sandford Pedersen

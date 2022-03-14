@@ -6,14 +6,14 @@ title: How to catch them all? Enhanced data collection for emotion recognition i
 subtitle: ''
 summary: ''
 authors:
-- Maciej Dzieżyc
+- dziezyc
 - Joanna Komoszy\ŉska
-- Stanisław Saganowski
+- saganowski
 - Magda Boruch
 - Jakub Dziwi\ŉski
 - Katarzyna Jabło\ŉska
 - Dominika Kunc
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2021-01-01

@@ -5,8 +5,8 @@ title: Label-dependent node classification in the network
 subtitle: ''
 summary: ''
 authors:
-- Przemyslaw Kazienko
-- Tomasz Kajdanowicz
+- kazienko
+- kajdanowicz
 tags: []
 categories: []
 date: 2012-01-01

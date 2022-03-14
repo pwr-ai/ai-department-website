@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Harith Alani
 - Martin Boldt
-- Piotr Bródka
+- brodka
 - Bengt Carlsson
 - Ricardo Colomo-Palacios
 - Michele Coscia

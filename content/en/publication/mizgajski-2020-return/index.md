@@ -9,7 +9,7 @@ authors:
 - Jan Mizgajski
 - Adrian Szymczak
 - Mikołaj Morzy
-- Łukasz Augustyniak
+- augustyniak
 - Piotr Szyma\ŉski
 - Piotr Żelasko
 tags: []

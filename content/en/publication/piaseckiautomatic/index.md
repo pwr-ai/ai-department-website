@@ -6,7 +6,7 @@ title: Automatic Acquisition of Semantic Similarity as a Small Step towards Unco
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2022-01-01

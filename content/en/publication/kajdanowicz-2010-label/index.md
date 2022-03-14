@@ -5,8 +5,8 @@ title: Label-dependent feature extraction in social networks for node classifica
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Przemysław Kazienko
+- kajdanowicz
+- kazienko
 - Piotr Doskocz
 tags: []
 categories: []

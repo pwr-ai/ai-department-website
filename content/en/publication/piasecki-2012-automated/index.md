@@ -5,7 +5,7 @@ title: Automated generation of derivative relations in the Wordnet expansion per
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Radoslaw Ramocki
 - Marek Maziarz
 tags: []

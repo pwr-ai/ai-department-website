@@ -5,9 +5,9 @@ title: A degree centrality in multi-layered social network
 subtitle: ''
 summary: ''
 authors:
-- Piotr Bródka
+- brodka
 - Krzysztof Skibicki
-- Przemysław Kazienko
+- kazienko
 - Katarzyna Musiał
 tags: []
 categories: []

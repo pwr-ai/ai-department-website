@@ -13,7 +13,7 @@ authors:
 - Jean-François Ethier
 - Anita Burgun
 - Mark McGilchrist
-- Piotr Bródka
+- brodka
 - Wodzimierz Tuligowicz
 - Brendan C Delaney
 - ' others'

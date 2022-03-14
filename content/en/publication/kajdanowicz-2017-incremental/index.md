@@ -5,10 +5,10 @@ title: Incremental Learning in Dynamic Networks for Node Classification
 subtitle: ''
 summary: ''
 authors:
-- Tomasz Kajdanowicz
-- Kamil Tagowski
-- Maciej Falkiewicz
-- Przemyslaw Kazienko
+- kajdanowicz
+- tagowski
+- falkiewicz
+- kazienko
 tags: []
 categories: []
 date: 2017-01-01

@@ -6,7 +6,7 @@ title: 'Automated extraction of lexical meanings from corpus: A case study of po
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 tags: []
 categories: []
 date: 2009-01-01

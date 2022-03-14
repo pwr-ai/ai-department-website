@@ -6,7 +6,7 @@ title: Extraction of the multi-word lexical units in the perspective of the word
 subtitle: ''
 summary: ''
 authors:
-- Maciej Piasecki
+- piasecki
 - Michał Wendelberger
 - Marek Maziarz
 tags: []

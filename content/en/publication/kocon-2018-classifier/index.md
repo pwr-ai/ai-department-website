@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Jan Koco\ŉ
-- Arkadiusz Janz
-- Maciej Piasecki
+- janz
+- piasecki
 tags: []
 categories: []
 date: 2018-01-01

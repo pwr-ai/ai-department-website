@@ -11,7 +11,7 @@ authors:
 - Adrian Szymczak
 - Marzena \̇yła-Hoppe
 - Joanna Banaszczak
-- Lukasz Augustyniak
+- augustyniak
 - Jan Mizgajski
 - Yishay Carmiel
 tags: []

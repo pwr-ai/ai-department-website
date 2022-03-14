@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Piotr Miłkowski
 - Marcin Gruza
-- Kamil Kanclerz
-- Przemyslaw Kazienko
+- kanclerz
+- kazienko
 - Damian Grimling
 - Jan Koco\ŉ
 tags: []

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Krzysztof Walkowiak
-- Michał Przewoźniczek
+- przewozniczek
 - Krzysztof Pająk
 tags: []
 categories: []

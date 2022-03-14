@@ -5,10 +5,10 @@ title: Analysis of group evolution prediction in complex networks
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
-- Piotr Bródka
+- saganowski
+- brodka
 - Michał Koziarski
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2019-01-01

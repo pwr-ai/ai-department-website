@@ -6,10 +6,10 @@ title: The same network-different communities? The multidimensional study of gro
 subtitle: ''
 summary: ''
 authors:
-- Radosław Michalski
+- michalski
 - Jarosław Jankowski
-- Piotr Bródka
-- Przemysław Kazienko
+- brodka
+- kazienko
 tags: []
 categories: []
 date: 2014-01-01

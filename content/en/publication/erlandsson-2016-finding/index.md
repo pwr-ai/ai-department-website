@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Fredrik Erlandsson
-- Piotr Bródka
+- brodka
 - Anton Borg
 - Henric Johnson
 tags: []

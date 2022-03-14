@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Marek W Kurzynski
-- Jerzy Sas
+- sas
 - Aleksandra Blinowska
 tags: []
 categories: []

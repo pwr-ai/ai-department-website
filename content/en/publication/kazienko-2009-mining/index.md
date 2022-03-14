@@ -5,7 +5,7 @@ title: Mining indirect association rules for web recommendation
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 tags: []
 categories: []
 date: 2009-01-01

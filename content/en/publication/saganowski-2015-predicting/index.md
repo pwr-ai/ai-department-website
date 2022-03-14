@@ -5,11 +5,11 @@ title: Predicting community evolution in social networks
 subtitle: ''
 summary: ''
 authors:
-- Stanisław Saganowski
+- saganowski
 - Bogdan Gliwa
-- Piotr Bródka
+- brodka
 - Anna Zygmunt
-- Przemysław Kazienko
+- kazienko
 - Jarosław Koźlak
 tags: []
 categories: []

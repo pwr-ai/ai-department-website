@@ -5,7 +5,7 @@ title: ROSA—Multi-agent system for web services personalization
 subtitle: ''
 summary: ''
 authors:
-- Przemysław Kazienko
+- kazienko
 - Maciej Kiewra
 tags: []
 categories: []

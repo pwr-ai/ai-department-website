@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Marcin Lewicki
-- Tomasz Kajdanowicz
-- Piotr Bródka
+- kajdanowicz
+- brodka
 - Janusz Sobecki
 tags: []
 categories: []
