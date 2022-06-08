@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include Social Network Anaysis and .....
 
 interests:
-
+ - NLP
 
 education:
   courses:

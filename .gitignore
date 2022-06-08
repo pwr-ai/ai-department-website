@@ -4,3 +4,6 @@
 # Hugo
 resources/
 public/
+
+geckodriver.log
+.DS_Store
