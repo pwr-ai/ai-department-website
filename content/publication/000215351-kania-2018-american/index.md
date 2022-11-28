@@ -1,0 +1,38 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: American sign language fingerspelling recognition using wide residual networks
+subtitle: ''
+summary: ''
+authors:
+- Kacper Kania
+- markowska-kaczmar
+tags: []
+categories: []
+date: '2018-01-01'
+lastmod: 2022-10-07T04:58:19Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-10-07T04:58:18.734390Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Artificial Intelligence and Soft Computing : 17th International Conference,
+  ICAISC 2018, Zakopane, Poland, June 3-7, 2018 : proceedings. Pt. 1*'
+doi: 10.1007/978-3-319-91253-0_10
+---

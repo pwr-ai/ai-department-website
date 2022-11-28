@@ -1,0 +1,41 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Flocking behaviour in simple ecosystems as a result of artificial evolution
+subtitle: ''
+summary: ''
+authors:
+- kwasnicka
+- markowska-kaczmar
+- Marcin Mikosik
+tags: []
+categories: []
+date: '2011-01-01'
+lastmod: 2022-10-07T04:57:41Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-10-07T04:57:40.104229Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Applied Soft Computing*'
+doi: 10.1016/j.asoc.2010.01.018
+links:
+- name: URL
+  url: http://vls1.icm.edu.pl/cgi-bin/sciserv.pl?collection=elsevier&journal=15684946&issue=v11i0001&article=982_fbiseaaroae
+---
