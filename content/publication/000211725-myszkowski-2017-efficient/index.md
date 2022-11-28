@@ -1,0 +1,40 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Efficient selection operators in NSGA-II for Solving Bi-Objective Multi-Skill
+  Resource-Constrained Project Scheduling Problem
+subtitle: ''
+summary: ''
+authors:
+- Paweł Myszkowski
+- Joanna Lichodij
+- laszczyk
+tags: []
+categories: []
+date: '2017-01-01'
+lastmod: 2022-10-07T05:05:35Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-10-07T05:05:34.559146Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Proceedings of the 2017 Federated Conference on Computer Science and
+  Information Systems : September 3-6, 2017, Prague, Czech Republic*'
+doi: 10.15439/2017F317
+---
