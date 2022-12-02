@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: ai.jpg
+        media: neurips.jpg
     - title: Study Artificial Intelligence @ WrUST
       content: There's no AI without an I, apply now!
       align: center

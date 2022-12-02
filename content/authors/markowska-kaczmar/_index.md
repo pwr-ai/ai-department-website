@@ -1,6 +1,6 @@
 ---
 title: Urszula Markowska-Kaczmar
-role: Associate Professor
+role: Full Professor
 bio: Urszula Markowska-Kaczmar is an associate professor of the Wroclaw
   University of Science and Technology, at the Computational Intelligence
   Department.
