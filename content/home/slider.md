@@ -36,7 +36,7 @@ content:
         icon_pack: fas
         text: Show more
         url: https://studiuj.ai
-    - title: Interested work with us?
+    - title: Interested in working with us?
       content: 'If you’re interested in joining our group, send an email with your interests and CV to ai@pwr.edu.pl'
       align: right
       background:
