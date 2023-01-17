@@ -19,12 +19,15 @@ main:
 #  - name: Events
 #    url: event
 #    weight: 40
+  - name: studiuj.ai
+    url: https://studiuj.ai
+    weight: 31
   - name: Publications
     url: publication
     weight: 50
-#  - name: Internal
-#    url: publication
-#    weight: 55
+  - name: Intranet
+    url: https://sites.google.com/pwr.edu.pl/kio/strona-g%C5%82%C3%B3wna)w
+    weight: 55
   - name: Contact
     url: contact
     weight: 60
