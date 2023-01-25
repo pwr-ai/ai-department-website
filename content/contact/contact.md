@@ -25,8 +25,12 @@ content:
   coordinates:
     latitude: '51.109838'
     longitude: '17.057482'
-  directions: Enter Building D2 and take the stairs to Office 201/6 on Floor 2
+  directions: Building D-21 entrance C, Floor 2, room 224
   contact_links:
+    - icon: facebook
+      icon_pack: fab
+      name: '@PWrAILab'                  
+      link: 'https://www.facebook.com/PWrAILab'
     - icon: twitter
       icon_pack: fab
       name: '@PWrAILab'                  

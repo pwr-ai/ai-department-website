@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: native
-  font_size: L
+  font: classic
+  font_size: M
 
 # SEO
 
@@ -21,7 +21,7 @@ marketing:
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-D7DZQTLYBW'
     baidu_tongji: ''
   verification:
     google: ''
@@ -37,7 +37,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
@@ -66,9 +66,9 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content

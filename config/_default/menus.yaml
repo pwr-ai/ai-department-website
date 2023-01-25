@@ -7,9 +7,9 @@ main:
   - name: Main
     url: home
     weight: 10
-#  - name: News
-#    url: post
-#    weight: 20
+  - name: News
+    url: post
+    weight: 20
 #  - name: Research
 #    url: post
 #    weight: 25
@@ -19,15 +19,23 @@ main:
 #  - name: Events
 #    url: event
 #    weight: 40
-  - name: studiuj.ai
-    url: https://studiuj.ai
-    weight: 31
   - name: Publications
     url: publication
+    weight: 40
+  - name: Projects
+    url: projects
     weight: 50
-  - name: Intranet
-    url: https://sites.google.com/pwr.edu.pl/kio/strona-g%C5%82%C3%B3wna)w
-    weight: 55
   - name: Contact
     url: contact
     weight: 60
+
+  - name: Study AI
+    url: https://studiuj.ai
+    weight: 70
+    pre: <b>
+    post: </b>
+
+  - name: Intranet
+    url: https://sites.google.com/pwr.edu.pl/kio/strona-g%C5%82%C3%B3wna
+    weight: 80
+
