@@ -7,13 +7,12 @@ superuser: false
 authors:
   - saganowski
 title: Stanisław Saganowski
-role: Assistant Professor
-bio: My research interests include emotion recognition, affective computing and
-  applications of wearable technologies in human health.
+role: Associate Professor
+bio: My research interests include affect recognition, affective computing, and applications of wearable technologies in human health.
 interests:
-  - Emotion Recognition
-  - Affective Computing
-  - Wearable Technologies
+  - Affect recognition
+  - Affective computing
+  - Wearable technologies
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,6 +25,9 @@ social:
     link: https://scholar.google.com/citations?user=DVE_klAAAAAJ
 education:
   courses:
+    - course: D.Sc. in Information and Communication Technology
+      institution: Wroclaw University of Science and Technology
+      year: 2023
     - course: PhD in Computer Science (with Honours)
       institution: Wroclaw University of Science and Technology
       year: 2018
@@ -40,8 +42,6 @@ user_groups:
 weight: 201
 email: ""
 ---
-Stanisław is one of the leaders of the Emognition research team, which focuses on emotion recognition in everyday life using physiological data. He is a member of the Top 500 Innovators association.
+Stanisław is one of the leaders of the Emognition lab, which focuses on emotion recognition in everyday life using physiological data. His research interests include affect recognition from physiological data, mobile and wearable technologies, as well as affective computing solutions that improve health.
 
-In recent years, Stanisław has spent 20+ months at the world’s best universities: Cambridge (UK), Oxford (UK), NTU (Singapore), UC Davis (USA), U. of Southern California (USA),UTS (AU).
-
-His research interests include emotion recognition, affective computing, as well as mobile and wearable technologies. He has authored over 30 research articles.
+In 2021 he received a scholarship for outstanding young scientists funded by the Polish Ministry of Education and Science. He is also a member of the Top 500 Innovators association. In recent years, Stanisław has spent over 30 months at the world’s best universities: Cambridge (UK), Oxford (UK), NTU (Singapore), UC Davis (USA), U. of Southern California (USA), UTS (AU). He has authored over 40 research articles.
