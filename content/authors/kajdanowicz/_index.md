@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor, head of faculty's doctoral studies, head of department
+role: Associate Professor, head of department
 
 # Organizations/Affiliations
 organizations:
