@@ -18,6 +18,7 @@ content:
   user_groups:
     - Faculty
     - PhD Students
+    - Alumni PhD
 design:
   show_interests: false
   show_role: true
