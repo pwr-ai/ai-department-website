@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Maciej Zięba
-weight: 72
+weight: 3
 # Username (this should match the folder name)
 authors:
 - zieba

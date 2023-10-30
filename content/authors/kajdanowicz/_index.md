@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Tomasz Kajdanowicz
-weight: 71
+weight: 1
 # Username (this should match the folder name)
 authors:
 - kajdanowicz

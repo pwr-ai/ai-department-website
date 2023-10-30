@@ -44,7 +44,7 @@ authors:
   - markowska-kaczmar
 user_groups:
   - Faculty
-weight: 141
+weight: 7
 email: Urszula.Markowska-Kaczmar@pwr.edu.pl
 ---
 Urszula Markowska-Kaczmar is a full professor at the Wroclaw University of Science and Technology in the Artificial Intelligence Department. She has graduated and received a Ph.D. from the Faculty of Electronics at the Wroclaw University of Technology. In 2008 she received DSc (habilitation) at the System Research Institute of the Polish Academy of Sciences in Warsaw. In 1999-2001 she was deputy dean of the Faculty of Computer Science and Management at the Wroclaw University of Science and Technology. For ten years, she led the student scientific group [medical.ml](http://medical.ml/). Her research interests include Computational Intelligence Methods. Since the beginning, she has researched Neural Networks and knowledge extraction from these models. Now she focuses on deep neural networks and their applications. She is the author of more than 130 papers on neural networks, deep network applications, and artificial life. She is a member of international committees and a reviewer in prestigious international journals focused on machine learning pattern recognition and neural networks.

@@ -40,7 +40,7 @@ education:
       year: 2018
 user_groups:
   - Faculty
-weight: 101
+weight: 13
 email: jan.kocon@pwr.edu.pl
 ---
 Jan Kocoń is an Assistant Professor at the Wroclaw University of Science and Technology, where he received a Ph.D. degree in computer science (2018) and an MSc. Eng. degree (2012). He is also AI/ML Team Leader and Senior ML/NLP Data Scientist in the CLARIN-BIZ project. He has worked on natural language processing (NLP) for over a decade, especially using machine learning methods. He is the author of more than 60 scientific publications, presented at conferences such as ACL, ICDM, CoNLL, COLING, PerCOM, ICCS, KES, LREC, RANLP, and GWC. He is currently working on advanced personalized models based on deep learning in subjective tasks, such as emotion, sentiment, hate speech, or humor recognition. He also works on cross-lingual knowledge transfer and the application of language-agnostic models. He actively participated in the following projects using machine learning-based solutions: SYNAT, NEKST, CLARIN-PL, Parthenos, AZON, Sentimenti, CLARIN-BIZ, Q-Travel, and AI Tech. He lectures on an introduction to data science, the application of artificial intelligence in natural language processing, and the construction of advanced deep neural network models. Winner of HackYeah 2021 - the largest hackathon in Europe - in a task related to optimizing the construction of a power plant based on renewable energy sources for hydrogen production.

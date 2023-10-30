@@ -1,4 +1,5 @@
 ---
+weight: 15
 organizations:
   - name: Department of Artificial Intelligence, Wroclaw University of Science and
       Technology

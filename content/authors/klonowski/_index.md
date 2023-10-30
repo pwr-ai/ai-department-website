@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Marek Klonowski"
-
+weight: 5
 # Username (this should match the folder name and the name on publications)
 authors:
 - "klonowski"

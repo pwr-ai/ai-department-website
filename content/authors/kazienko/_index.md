@@ -71,7 +71,7 @@ education:
       year: 2016
 user_groups:
   - Faculty
-weight: 81
+weight: 4
 link: https://kazienko.eu/sites/default/files/Kazienko%20CV%20PL.pdf
 email: ""
 ---

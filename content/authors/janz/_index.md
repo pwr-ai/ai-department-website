@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Arkadiusz Janz
-weight: 2000
+weight: 12
 # Username (this should match the folder name)
 authors:
   - janz

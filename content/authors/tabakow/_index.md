@@ -28,7 +28,7 @@ authors:
   - tabakow
 user_groups:
   - Faculty
-weight: 231
+weight: 17
 email: martin.tabakow@pwr.edu.pl
 ---
 Martin Tabakov has extensive experience in projects applying IT solutions in medicine. His research provides solutions for computed tomography image segmentation and recognition problems, histopathology image analysis problems, capsule endoscopy pathology recognition and others.

@@ -1,5 +1,6 @@
 ---
 title: Piotr Bródka
+weight: 2
 role: Associate Professor
 avatar_filename: avatar.jpg
 organizations:
@@ -65,7 +66,6 @@ education:
       year: 2008
 user_groups:
   - Faculty
-weight: 31
 email: piotr.brodka@pwr.edu.pl
 ---
 <!--StartFragment-->
