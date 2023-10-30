@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Damian Serweta"
-
+weight: 1030
 # Username (this should match the folder name and the name on publications)
 authors:
 - "serweta"

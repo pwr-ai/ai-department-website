@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Piotr Miłkowski"
+weight: 1024
 
 # Username (this should match the folder name and the name on publications)
 authors:

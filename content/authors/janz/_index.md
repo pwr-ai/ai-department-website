@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni PhD
+role: Assistant Professor, Alumni PhD
 
 
 # Organizations/Affiliations

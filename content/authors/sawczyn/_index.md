@@ -3,6 +3,8 @@ organizations:
   - name: Department of Artificial Intelligence, Wrocław University of Science
       and Technology
     url: ""
+weight: 1029
+
 superuser: false
 authors:
   - sawczyn

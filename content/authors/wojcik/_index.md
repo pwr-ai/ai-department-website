@@ -1,6 +1,7 @@
 ---
 role: PhD Student
 avatar_filename: ""
+weight: 1038
 bio: PhD Student in Continual Learning
 interests:
   - Continual Learning

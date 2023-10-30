@@ -4,6 +4,7 @@ organizations:
       and Technology
     url: ""
 superuser: false
+weight: 1026
 authors:
   - perz
 title: Bartosz Perz
@@ -42,7 +43,6 @@ education:
       year: 2019
 user_groups:
   - PhD Students
-weight: 166
 email: ""
 ---
 Bartosz is a Ph.D. student at the Department of Artificial Intelligence and a member of the [Emognition](https://emotions.pwr.edu.pl) research group. He does his research in affective computing;  specifically he works on personalized specifically emotion recognition from physiological signals. Bartosz is also the head of the DaniE student research club that focuses on data analysis and machine learning.

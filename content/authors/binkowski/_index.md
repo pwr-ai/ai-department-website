@@ -4,6 +4,7 @@ organizations:
       and Technology
     url: ""
 superuser: false
+weight: 1003
 authors:
   - binkowski
 role: PhD Student

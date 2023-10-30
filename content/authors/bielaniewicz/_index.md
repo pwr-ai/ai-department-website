@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Julita Bielaniewicz"
+weight: 1002
 
 # Username (this should match the folder name and the name on publications)
 authors:

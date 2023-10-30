@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Bartłomiej Koptyra"
-
+weight: 1018
 # Username (this should match the folder name and the name on publications)
 authors:
 - "koptyra"

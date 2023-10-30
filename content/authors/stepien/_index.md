@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Stanisław Stępień"
-
+weight: 1031
 # Username (this should match the folder name and the name on publications)
 authors:
 - "stepien"

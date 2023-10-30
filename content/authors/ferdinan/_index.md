@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Teddy Ferdinan"
+weight: 1008
 
 # Username (this should match the folder name and the name on publications)
 authors:

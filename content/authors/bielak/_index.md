@@ -7,7 +7,7 @@ superuser: false
 authors:
   - bielak
 title: Piotr Bielak
-role: PhD Student
+role: Alumni PhD
 bio: Interested in graph representation learning
 interests:
   - representation learning
@@ -32,7 +32,7 @@ education:
       institution: Wroclaw University of Science and Technology
       year: 2017
 user_groups:
-  - PhD Students
+  - Alumni PhD
 weight: 21
 email: ""
 ---

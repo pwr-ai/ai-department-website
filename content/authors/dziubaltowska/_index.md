@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Daria Dziubałtowska"
+weight: 1007
 
 # Username (this should match the folder name and the name on publications)
 authors:

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Mateusz Marciniak"
-
+weight: 1022
 # Username (this should match the folder name and the name on publications)
 authors:
 - "marciniak"

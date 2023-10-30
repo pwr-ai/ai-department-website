@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Katarzyna Fojcik"
+weight: 1009
 
 # Username (this should match the folder name and the name on publications)
 authors:

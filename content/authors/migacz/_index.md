@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Dawid Migacz"
+weight: 1023
 
 # Username (this should match the folder name and the name on publications)
 authors:

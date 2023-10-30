@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Joanna Komoszyńska"
-
+weight: 1017
 # Username (this should match the folder name and the name on publications)
 authors:
 - "komoszynska"

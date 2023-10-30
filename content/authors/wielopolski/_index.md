@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Patryk Wielopolski"
+weight: 1035
 
 # Username (this should match the folder name and the name on publications)
 authors:
