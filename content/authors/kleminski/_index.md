@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Alumni PhD
 
 # Organizations/Affiliations
 organizations:
@@ -30,6 +30,9 @@ education:
   - course: MsC in Control Engineering and Robotics
     institution: Wroclaw University of Science and Technology
     year: 2015
+  - course: PhD in information and communication technology
+    institution: Wroclaw University of Science and Technology
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
