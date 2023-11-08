@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Arkadiusz Janz
-weight: 1
+weight: 12
 # Username (this should match the folder name)
 authors:
   - janz
@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Assistant Professor, Alumni PhD
+
 
 # Organizations/Affiliations
 organizations:
@@ -32,6 +33,9 @@ education:
     - course: MsC in Computer Science
       institution: Wroclaw University of Science and Technology
       year: 2016
+    - course: PhD in information and communication technology
+      institution: Wroclaw University of Science and Technology
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,8 +55,9 @@ email: "arkadiusz.janz@pwr.edu.pl"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
-  - Project's staff
+  - Faculty
+  - Alumni PhD
+
 ---
 
 Description in progress..

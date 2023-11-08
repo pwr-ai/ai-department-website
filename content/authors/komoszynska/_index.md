@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Ilya Hradovich"
-
+title: "Joanna Komoszyńska"
+weight: 1017
 # Username (this should match the folder name and the name on publications)
 authors:
-- "hradovich"
+- "komoszynska"
 
 # Is this the primary user of the site?
 superuser: false

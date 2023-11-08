@@ -49,7 +49,7 @@ education:
       year: 1976
 user_groups:
   - Faculty
-weight: 121
+weight: 6
 email: Halina.Kwasnicka@pwr.edu.pl
 ---
 Halina Kwaśnicka, DSc, PhD, is a full Professor at the Department of Artificial Intelligence, the Faculty of Information and Communication Technology, Wroclaw University of Science and Technology, Poland. She graduated from the Faculty of Electronics at the Wrocław University of Science and Technology. She received PhD and DSc (habilitation in Poland) at the Faculty of Electronics. In 2009 she was nominated by the President of Poland as a full professor (the highest scientific title in Poland), the System Research Institute Polish Academy of Sciences conducted this procedure.

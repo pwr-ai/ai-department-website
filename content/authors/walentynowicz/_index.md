@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Wiktor Walentynowicz
-weight: 251
+weight: 1034
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,7 @@
 ---
 title: Denis Janiak
 role: PhD Student
+weight: 1013
 bio: Machine learning engineer, Bayesianist
 interests:
   - probability

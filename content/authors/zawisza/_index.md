@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Artur Zawisza
-weight: 271
+weight: 21
 # Username (this should match the folder name)
 authors:
 - zawisza
@@ -57,7 +57,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
 - Faculty
 ---
 Short description in third person.

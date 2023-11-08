@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Marcin Plata"
-
+weight: 1027
 # Username (this should match the folder name and the name on publications)
 authors:
 - "plata"

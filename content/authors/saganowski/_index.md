@@ -39,7 +39,7 @@ education:
       year: 2011
 user_groups:
   - Faculty
-weight: 201
+weight: 11
 email: ""
 ---
 Stanisław is one of the leaders of the Emognition lab, which focuses on emotion recognition in everyday life using physiological data. His research interests include affect recognition from physiological data, mobile and wearable technologies, as well as affective computing solutions that improve health.

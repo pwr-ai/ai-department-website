@@ -2,7 +2,7 @@
 # Display name
 title: Michał Karol
 slug: michal-karol
-weight: 80
+weight: 1015
 # Username (this should match the folder name)
 authors:
 - karol

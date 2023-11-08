@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jerzy Sas
-weight: 211
+weight: 14
 # Username (this should match the folder name)
 authors:
 - sas

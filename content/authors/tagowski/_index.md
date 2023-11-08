@@ -2,6 +2,7 @@
 title: Kamil Tagowski
 role: PhD Student
 bio: Data Scientist, Machine Learning Engineer
+weight: 1033
 interests:
   - Representation Learning
   - Deep Learning
@@ -25,7 +26,6 @@ authors:
 user_groups:
   - PhD Students
   - Project's staff
-weight: 241
 email: ""
 ---
 Machine Learning enthusiast, a Ph.D. student with five years of experience in the field. Co-author of machine learning publications concerning graph representation learning field and natural language processing. 

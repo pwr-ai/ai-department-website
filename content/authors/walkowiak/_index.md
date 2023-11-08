@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Tomasz Walkowiak
-weight: 252
+weight: 18
 
 # Username (this should match the folder name)
 authors:

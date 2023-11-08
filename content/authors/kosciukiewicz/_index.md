@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Witold Kościukiewicz"
+weight: 1019
 
 # Username (this should match the folder name and the name on publications)
 authors:

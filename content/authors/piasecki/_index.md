@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Maciej Piasecki
-weight: 171
+weight: 10
 # Username (this should match the folder name)
 authors:
 - piasecki

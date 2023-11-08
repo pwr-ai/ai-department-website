@@ -1,7 +1,8 @@
 ---
 # Display name
 title: Kamil Kanclerz
-weight: 76
+weight: 1014
+
 # Username (this should match the folder name)
 authors:
 - kanclerz

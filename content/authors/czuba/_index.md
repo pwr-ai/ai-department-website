@@ -3,6 +3,7 @@ organizations:
   - name: Department of Artificial Intelligence, WUST
     url: https://ai.pwr.edu.pl/
 superuser: false
+weight: 1004
 authors:
   - czuba
 role: PhD Student

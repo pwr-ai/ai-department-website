@@ -48,7 +48,7 @@ education:
       year: 2022
 user_groups:
   - Faculty
-weight: 151
+weight: 9
 email: ""
 ---
 Radosław Michalski is an Associate Professor with the Department of Artificial Intelligence, Wrocław University of Science and Technology, Wrocław, Poland. His research interests include network science, complex (especially temporal) networks, and spreading processes on top of these. In many cases he uses machine learning to reveal specific phenomena in networks. Recently, he also started to investigate another type of complex network - based on blockchain, where entities are linked by transactions. He has coauthored over 50 publications in these areas, fifteen of which were published in influential journals. For more details, visit his [personal webpage](https://www.ii.pwr.edu.pl/~michalski).
