@@ -1,10 +1,8 @@
 ---
 organizations:
-  - name: Department of Artificial Intelligence, Wrocław University of Science
-      and Technology
-    url: ""
+  - name: Department of Artificial Intelligence, Wrocław University of Science and Technology
+    url: https://ai.pwr.edu.pl
 weight: 1029
-
 superuser: false
 authors:
   - sawczyn
@@ -39,6 +37,6 @@ education:
 user_groups:
   - PhD Students
 highlight_name: false
-email: ""
+email: albert.sawczyn@pwr.edu.pl
 ---
-**Albert graduated in BSc in Computer Science and MSc in Data Science, both from Wroclaw University of Science and Technology. He became passionate about general Artificial Intelligence as he started learning programming in a high school. His past developed and deployed projects are both scientific and commercial. He was fortunate to work on thematically diversified projects, covering signal processing, reinforcement learning, natural language processing and graph processing. His current work is placed in the field of learning representation of knowledge graphs and its applications.**
+Albert graduated in BSc in Computer Science and MSc in Data Science, both from Wroclaw University of Science and Technology. He became passionate about general Artificial Intelligence as he started learning programming in a high school. His past developed and deployed projects are both scientific and commercial. He was fortunate to work on thematically diversified projects, covering signal processing, reinforcement learning, natural language processing and graph processing. His current work is placed in the field of learning representation of knowledge graphs and its applications.
