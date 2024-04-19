@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor, head of department
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -42,12 +42,12 @@ interests:
 
 education:
   courses:
-    - ccourse: PhD in Economy
-    institution: Wroclaw University of Science and Technology
-    year: 2001
+    - course: PhD in Economy
+      institution: Wroclaw University of Science and Technology
+      year: 2001
     - course: MsC in Computer Science
-    institution: Wroclaw University of Science and Technology
-    year: 1997
+      institution: Wroclaw University of Science and Technology
+      year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
