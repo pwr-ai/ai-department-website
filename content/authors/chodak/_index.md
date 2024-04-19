@@ -9,16 +9,26 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:
+# Role/position
+role: Associate Professor, head of department
 
 # Organizations/Affiliations
 organizations:
-  - name:
-    url: ""
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: My research interests include E-Business, Social Media, Digital Marketing, VR, NLP, Logistics.
+
+interests:
+- E-Commerce
+- Logistics Management
+- Virtual Reality
+- Natural Language Processing
+- LLMs
+- Social Media
+- Digital Marketing
+
 
 # List each interest with a dash
 interests:
@@ -32,12 +42,12 @@ interests:
 
 education:
   courses:
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
+    - ccourse: PhD in Economy
+    institution: Wroclaw University of Science and Technology
+    year: 2001
+    - course: MsC in Computer Science
+    institution: Wroclaw University of Science and Technology
+    year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -46,7 +56,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+    link: mailto:Grzegorz.Chodak@pwr.edu.pl
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=yCFJquYAAAAJ&hl=pl&oi=ao
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-9604-482X
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/grzegorz-chodak-24b4426/
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
