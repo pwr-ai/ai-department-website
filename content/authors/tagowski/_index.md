@@ -1,6 +1,6 @@
 ---
 title: Kamil Tagowski
-role: PhD Student
+role: Alumni PhD
 bio: Data Scientist, Machine Learning Engineer
 weight: 1033
 interests:
@@ -24,7 +24,7 @@ superuser: false
 authors:
   - tagowski
 user_groups:
-  - PhD Students
+  - Alumni PhD
   - Project's staff
 email: ""
 ---

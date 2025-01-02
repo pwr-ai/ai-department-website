@@ -1,6 +1,6 @@
 ---
 title: Dominika Kunc
-role: PhD student
+role: PhD Student
 bio: Data Scientist
 weight: 1021
 interests:

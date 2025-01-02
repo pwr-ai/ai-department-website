@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Piotr Gramacki"
+title: Piotr Gramacki
 weight: 1010
 # Username (this should match the folder name and the name on publications)
 authors:
-- "gramacki"
+- gramacki
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:

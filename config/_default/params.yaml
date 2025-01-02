@@ -103,10 +103,10 @@ features:
 # Extensions
 
 extensions:
-  cms:
+  decap_cms:
     branch: main
     publish_mode: editorial_workflow
-    local_backend: false
+    local_backend: true
   academicons:
     enable: true
 

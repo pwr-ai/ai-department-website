@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Artur Zawisza
-weight: 21
+weight: 410
 # Username (this should match the folder name)
 authors:
 - zawisza
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Assistant
 
 # Organizations/Affiliations
 organizations:

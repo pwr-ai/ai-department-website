@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jan Jakubik
-weight: 20
+weight: 405
 # Username (this should match the folder name)
 authors:
 - jakubik
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Faculty
+role: Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Department of Artificial Intelligence, Wroclaw University of Science and Technology
+bio: PhD Student in Department of Artificial Intelligence, Wroclaw University of Science and Technology
 
 interests:
 - Deep learnning
@@ -53,4 +53,4 @@ email: "jan.jakubik@pwr.edu.pl"
 user_groups:
 - Faculty
 ---
-Research/education assistant, PhD student, interested in applications of machine learning to music and audio analysis. Other research interest include methods of learning with insufficient labels, such as semi-supervised and weakly supervised learning. He participated in R&D projects regarding the use of ML to analyse music for videogame content creation and applications of weak supervision in Natural Language Processing of sensitive data.
+Research/education assistant, PhD Student, interested in applications of machine learning to music and audio analysis. Other research interest include methods of learning with insufficient labels, such as semi-supervised and weakly supervised learning. He participated in R&D projects regarding the use of ML to analyse music for videogame content creation and applications of weak supervision in Natural Language Processing of sensitive data.

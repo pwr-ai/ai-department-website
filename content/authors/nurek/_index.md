@@ -40,4 +40,4 @@ user_groups:
   - PhD Students
 email: ""
 ---
-Mateusz Nurek is a PhD student at the Department of Artificial Intelligence, Wroclaw University of Science and Technology. His research area includes network science and machine learning. Mateusz is primarily interested in using computational intelligence to study social aspects; therefore, his current research focuses on problems such as the classification of human relationships or predicting personality traits based on communication patterns.
+Mateusz Nurek is a PhD Student at the Department of Artificial Intelligence, Wroclaw University of Science and Technology. His research area includes network science and machine learning. Mateusz is primarily interested in using computational intelligence to study social aspects; therefore, his current research focuses on problems such as the classification of human relationships or predicting personality traits based on communication patterns.

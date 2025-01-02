@@ -1,17 +1,16 @@
 ---
 # Display name
-title: "Weronika Jakubowska"
-weight: 1006
+title: "Karol Dykiert"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jakubowska"
-
+- "dykiert"
+weight: 1012
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:

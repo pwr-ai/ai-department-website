@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Łukasz Augustyniak
-weight: 1
+weight: 401
 # Username (this should match the folder name)
 authors:
   - augustyniak
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -80,7 +80,7 @@ email: "lukasz.augustyniak@pwr.edu.pl"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Project's staff
+  - Faculty
 ---
 
 Łukasz is a Data Scientist with 8+ years of experience in various ML projects (social media monitoring, call center's transcriptions analysis, recommendation engines, information extraction from texts, legal texts analysis, and many more). He is finishing a PhD in Machine Learning, related to aspect-based sentiment analysis at the Wroclaw University of Science and Technology, Poland. He received MSc in Computer Science from the Wroclaw University of Technology in 2013 with distinction. He also received an MA in Law from Wroclaw University in 2014, and he is still actively interested in the legal aspects of IT and analysis of legal documents using NLP.

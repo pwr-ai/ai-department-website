@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Grzegorz Chodak"
-weight: 8
+weight: 205
 # Username (this should match the folder name and the name on publications)
 authors:
   - "chodak"

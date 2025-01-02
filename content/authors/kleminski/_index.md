@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student with an interest in the analysis of science, otherwise known as scientometrics. My work revolves around networked data, its processing and representation.
+bio: I am a PhD Student with an interest in the analysis of science, otherwise known as scientometrics. My work revolves around networked data, its processing and representation.
 
 interests:
 - Scientometrics

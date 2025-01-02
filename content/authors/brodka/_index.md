@@ -1,7 +1,7 @@
 ---
 title: Piotr Bródka
 weight: 2
-role: Associate Professor
+role: Associate Professor, Deputy Head of the Department
 avatar_filename: avatar.jpg
 organizations:
   - name: Department of Artificial Intelligence, Wroclaw University of Science and

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: Associate Professor, Deputy Head of the Department
 
 # Organizations/Affiliations
 organizations:

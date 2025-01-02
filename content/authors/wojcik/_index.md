@@ -34,4 +34,4 @@ highlight_name: false
 title: Mateusz Wójcik
 email: ""
 ---
-Mateusz Wójcik is a PhD student at the Wroclaw University of Science and Technology. He obtained his Bachelor and Master degrees in Computer Science with specialization in Data Science. His current research along with his doctoral dissertation focuses on continual learning methods for neural networks. Mateusz is also a machine learning engineer with three years of professional experience in the industry and currently works at Alphamoon.
+Mateusz Wójcik is a PhD Student at the Wroclaw University of Science and Technology. He obtained his Bachelor and Master degrees in Computer Science with specialization in Data Science. His current research along with his doctoral dissertation focuses on continual learning methods for neural networks. Mateusz is also a machine learning engineer with three years of professional experience in the industry and currently works at Alphamoon.

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -67,4 +67,5 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
+- Alumni PhD
 ---

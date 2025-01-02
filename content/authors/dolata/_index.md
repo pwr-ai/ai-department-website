@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Przemysław Dolata"
-weight: 19
+weight: 403
 # Username (this should match the folder name and the name on publications)
 authors:
 - "dolata"
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Assistant
 
 # Organizations/Affiliations
 organizations:

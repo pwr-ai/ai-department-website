@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:

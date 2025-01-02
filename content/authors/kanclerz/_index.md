@@ -73,7 +73,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
-- Project's staff
+
 ---
 Kamil Kanclerz has been involved in research in the field of natural language analysis at the Wrocław University of Technology since 2019. He specializes in natural language processing in the following areas: sentiment analysis, information extraction, transfer learning, document embeddings, grammatical error correction and multiword expression recognition. 
 
