@@ -1,72 +1,70 @@
 ---
-title: Piotr Bródka
-weight: 2
-role: Associate Professor, Deputy Head of the Department
-avatar_filename: avatar.jpg
-organizations:
-  - name: Department of Artificial Intelligence, Wroclaw University of Science and
-      Technology
-    url: https://ai.pwr.edu.pl/
-superuser: false
 authors:
-  - brodka
-bio: My research interests include Complex Network Anaysis and Spreading
-  Proceses in Complex Networks
-interests:
-  - Computational Network Science
-  - Spreading Proceses in Complex Networks
-  - Dynamic of Social Networks
-  - Controll of Complex Networks
-  - Multilayer Networks
-  - Community Detection, Evolution and Prediction in Complex Networks
-social:
-  - icon: home
-    icon_pack: fas
-    link: http://piotrbrodka.pl/
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:piotr.brodka@pwr.edu.pl
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Piotr_Brodka2
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0002-6474-0089
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=T7v65jEAAAAJ&hl
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/pbrodka
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/brodkapiotr
+- brodka
+avatar_filename: avatar.jpg
+bio: My research interests include Complex Network Anaysis and Spreading Proceses
+  in Complex Networks
 education:
   courses:
-    - course: D.Sc. in Information and Communication Technology
-      institution: Wroclaw University of Science and Technology
-      year: 2020
-    - course: Stanford Center fo Professional Development "Science - Management -
-        Commercialization"
-      institution: Stanford University, USA
-      year: 2013
-    - course: Ph.D. in Computer Science, Network Science (with  honours)
-      institution: Wroclaw University of Science and Technology
-      year: 2012
-    - course: Postgraduate studies in Research Project Management and
-        Commercialization of research results
-      institution: Wroclaw University of Science and Technology, International Project
-        Management Association
-      year: 2012
-    - course: MSc in Computer Science
-      institution: Blekinge Institute of Technology
-      year: 2012
-    - course: MSc in Computer Science (with  honours)
-      institution: Wroclaw University of Science and Technology
-      year: 2008
-user_groups:
-  - Faculty
+  - course: D.Sc. in Information and Communication Technology
+    institution: Wroclaw University of Science and Technology
+    year: 2020
+  - course: Stanford Center fo Professional Development "Science - Management - Commercialization"
+    institution: Stanford University, USA
+    year: 2013
+  - course: Ph.D. in Computer Science, Network Science (with  honours)
+    institution: Wroclaw University of Science and Technology
+    year: 2012
+  - course: Postgraduate studies in Research Project Management and Commercialization
+      of research results
+    institution: Wroclaw University of Science and Technology, International Project
+      Management Association
+    year: 2012
+  - course: MSc in Computer Science
+    institution: Blekinge Institute of Technology
+    year: 2012
+  - course: MSc in Computer Science (with  honours)
+    institution: Wroclaw University of Science and Technology
+    year: 2008
 email: piotr.brodka@pwr.edu.pl
+interests:
+- Computational Network Science
+- Spreading Proceses in Complex Networks
+- Dynamic of Social Networks
+- Controll of Complex Networks
+- Multilayer Networks
+- Community Detection, Evolution and Prediction in Complex Networks
+organizations:
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
+  url: https://ai.pwr.edu.pl/
+role: Associate Professor, Deputy Head of the Department
+social:
+- icon: home
+  icon_pack: fas
+  link: http://piotrbrodka.pl/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:piotr.brodka@pwr.edu.pl
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Piotr_Brodka2
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6474-0089
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=T7v65jEAAAAJ&hl
+- icon: github
+  icon_pack: fab
+  link: https://github.com/pbrodka
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/brodkapiotr
+superuser: false
+title: Piotr Bródka
+user_groups:
+- Faculty
+weight: 10
 ---
 <!--StartFragment-->
 

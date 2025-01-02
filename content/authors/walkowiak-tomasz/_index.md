@@ -1,25 +1,15 @@
 ---
-# Display name
-title: Tomasz Walkowiak
-weight: 18
-
-# Username (this should match the folder name)
 authors:
-  - walkowiak-tomasz
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: Assistant Professor
-
-# Organizations/Affiliations
+- walkowiak-tomasz
+bio: null
 organizations:
-  - name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
-    url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: ---
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
+  url: ''
+role: Assistant Professor
+superuser: false
+title: Tomasz Walkowiak
+weight: 308
+---
 
 interests:
   - natural language processing

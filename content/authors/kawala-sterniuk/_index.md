@@ -1,50 +1,48 @@
 ---
-organizations:
-  - name: Department of Artificial Intelligence, Wroclaw University of Science and
-      Technology
-    url: ""
-superuser: true
 authors:
-  - kawala-sterniuk
-title: Aleksandra Kawala-Sterniuk
-first_name: Aleksandra
-last_name: Kawala-Sterniuk
-role: Associate Professor
-bio: My research focuses on Human-Machine Interfaces, Brain-Computer Interfaces,
-  biomedical signal analysis, neurodegenerative diseases, machine learning, and
-  electroencephalography.
-interests:
-  - Human-Machine Interfaces
-  - Brain-Computer Interfaces
-  - Biomedical Signal Analysis
-  - Neurodegenerative Diseases
-  - Machine Learning
-  - Electroencephalography
-  - Infrared Spectroscopy
-social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=stUsxGgAAAAJ
+- kawala-sterniuk
+bio: My research focuses on Human-Machine Interfaces, Brain-Computer Interfaces, biomedical
+  signal analysis, neurodegenerative diseases, machine learning, and electroencephalography.
 education:
   courses:
-    - course: D.Sc. in Cybernetics (Technical Informatics and Telecommunications)
-      institution: VSB–Technical University of Ostrava
-      year: 2021
-    - course: Ph.D. in Computing and Mathematical Sciences
-      institution: University of Greenwich, UK
-      year: 2013
-    - course: MBA in Leadership and Coaching
-      institution: Collegium Humanum, Warsaw
-      year: 2023
-    - course: Postgraduate in Psychotraumatology
-      institution: Collegium Humanum, Warsaw
-      year: 2023
-    - course: MSc in Computer Science
-      institution: Opole University of Technology
-      year: 2007
+  - course: D.Sc. in Cybernetics (Technical Informatics and Telecommunications)
+    institution: VSB–Technical University of Ostrava
+    year: 2021
+  - course: Ph.D. in Computing and Mathematical Sciences
+    institution: University of Greenwich, UK
+    year: 2013
+  - course: MBA in Leadership and Coaching
+    institution: Collegium Humanum, Warsaw
+    year: 2023
+  - course: Postgraduate in Psychotraumatology
+    institution: Collegium Humanum, Warsaw
+    year: 2023
+  - course: MSc in Computer Science
+    institution: Opole University of Technology
+    year: 2007
+first_name: Aleksandra
+interests:
+- Human-Machine Interfaces
+- Brain-Computer Interfaces
+- Biomedical Signal Analysis
+- Neurodegenerative Diseases
+- Machine Learning
+- Electroencephalography
+- Infrared Spectroscopy
+last_name: Kawala-Sterniuk
+organizations:
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
+  url: ''
+role: Associate Professor
+social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=stUsxGgAAAAJ
+superuser: true
+title: Aleksandra Kawala-Sterniuk
 user_groups:
-  - Faculty
-weight: 3
+- Faculty
+weight: 201
 ---
 Professor Aleksandra Kawala-Sterniuk is an expert in Human-Machine Interfaces, Brain-Computer Interfaces, and biomedical signal processing. She holds a D.Sc. in Cybernetics and a Ph.D. in Computing and Mathematical Sciences. With over 153 scientific publications, she has contributed significantly to fields such as EEG signal processing, machine learning, and biomedical applications of advanced technologies.
 

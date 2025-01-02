@@ -1,56 +1,47 @@
 ---
-title: Radosław Brożek
-
-weight: 300
-
 authors:
-  - brozek
-
-role: Projects' office
-
-organizations:
-  - name: Department of Artificial Intelligence, Wroclaw University of Science
-      and Technology
-    url: ""
-superuser: false
-
+- brozek
 bio: Interested in graph representation learning
-interests:
-  - coming soon interest 1
-  - coming soon interest 2
-  - coming soon interest 3
-social:
-  - icon: home
-    icon_pack: fas
-    link: homepage
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:email
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/YOUR_ID
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/YOUR_ID
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.pl/citations?user=YOUR_ID
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/YOUR_ID
-
 education:
   courses:
-    - course: MsC in Computer Science 
-      institution: Wroclaw University of Science and Technology
-      year: 2019
-    - course: B.Eng. in Computer Science
-      institution: Wroclaw University of Science and Technology
-      year: 2017
-
+  - course: MsC in Computer Science
+    institution: Wroclaw University of Science and Technology
+    year: 2019
+  - course: B.Eng. in Computer Science
+    institution: Wroclaw University of Science and Technology
+    year: 2017
+email: ''
+interests:
+- coming soon interest 1
+- coming soon interest 2
+- coming soon interest 3
+organizations:
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
+  url: ''
+role: Projects' office
+social:
+- icon: home
+  icon_pack: fas
+  link: homepage
+- icon: envelope
+  icon_pack: fas
+  link: mailto:email
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/YOUR_ID
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/YOUR_ID
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.pl/citations?user=YOUR_ID
+- icon: github
+  icon_pack: fab
+  link: https://github.com/YOUR_ID
+superuser: false
+title: Radosław Brożek
 user_groups:
-  - Project's staff
-
-email: ""
+- Project's staff
+weight: 500
 ---
 Short bio.
