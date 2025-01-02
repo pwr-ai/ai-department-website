@@ -1,32 +1,30 @@
 ---
-title: Kamil Tagowski
-role: PhD Student
+authors:
+- tagowski
 bio: Data Scientist, Machine Learning Engineer
-weight: 1033
-interests:
-  - Representation Learning
-  - Deep Learning
-  - Natural Language Processing
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:kamil.tagowski@pwr.edu.pl
-organizations:
-  - name: Department of Artificial Intelligence, Wroclaw University of Science
-      and Technology
-    url: http://kio.pwr.edu.pl/?page_id=2
 education:
   courses:
-    - course: M. Sc. in Computer Science
-      institution: Wroclaw University of Science and Technology
-      year: 2017
+  - course: M. Sc. in Computer Science
+    institution: Wroclaw University of Science and Technology
+    year: 2017
+email: ''
+interests:
+- Representation Learning
+- Deep Learning
+- Natural Language Processing
+organizations:
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
+  url: http://kio.pwr.edu.pl/?page_id=2
+role: Alumni PhD
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:kamil.tagowski@pwr.edu.pl
 superuser: false
-authors:
-  - tagowski
+title: Kamil Tagowski
 user_groups:
-  - PhD Students
-  - Project's staff
-email: ""
+- Alumni PhD
+weight: 2002
 ---
 Machine Learning enthusiast, a Ph.D. student with five years of experience in the field. Co-author of machine learning publications concerning graph representation learning field and natural language processing. 
 

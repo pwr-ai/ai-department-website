@@ -1,32 +1,8 @@
 ---
-# Display name
-title: Kamil Kanclerz
-weight: 1014
-
-# Username (this should match the folder name)
 authors:
 - kanclerz
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: PhD Student
-
-# Organizations/Affiliations
-organizations:
-- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural Language Processing, Machine Learning and Deep Neural Network Architectures.
-
-interests:
-- Natural Language Processing
-- Machine Learning
-- GPU-based Deep Learning
-- Artificial Intelligence
-
+bio: My research interests include Natural Language Processing, Machine Learning and
+  Deep Neural Network Architectures.
 education:
   courses:
   - course: MSc in Computer Science (with honours)
@@ -35,15 +11,20 @@ education:
   - course: BSc in Computer Science (with honours)
     institution: Wroclaw University of Science and Technology
     year: 2019
-    
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+email: ''
+interests:
+- Natural Language Processing
+- Machine Learning
+- GPU-based Deep Learning
+- Artificial Intelligence
+organizations:
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
+  url: ''
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:kamil.kanclerz@pwr.edu.pl"
+  link: mailto:kamil.kanclerz@pwr.edu.pl
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Kamil_Kanclerz
@@ -59,21 +40,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kamil-kanclerz/
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: false
+title: Kamil Kanclerz
 user_groups:
 - PhD Students
-- Project's staff
+weight: 1017
 ---
 Kamil Kanclerz has been involved in research in the field of natural language analysis at the Wrocław University of Technology since 2019. He specializes in natural language processing in the following areas: sentiment analysis, information extraction, transfer learning, document embeddings, grammatical error correction and multiword expression recognition. 
 

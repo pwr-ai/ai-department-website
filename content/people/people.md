@@ -19,6 +19,7 @@ content:
     - Faculty
     - PhD Students
     - Alumni PhD
+    - Project's staff
 design:
   show_interests: false
   show_role: true

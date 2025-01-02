@@ -1,34 +1,9 @@
 ---
-# Display name
-title: Tomasz Kajdanowicz
-weight: 1
-# Username (this should match the folder name)
 authors:
 - kajdanowicz
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Associate Professor, head of department
-
-# Organizations/Affiliations
-organizations:
-- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include representation learning, social network and media analysis, and machine learning.
-
-interests:
-- Social Network and Media Analysis
-- Computational Linguistics
-- Networks and Relational Learning
-- Representation Learning
-- Bayesian Optimization
-- Bayesian Methods
-- Graphical Models
-
+avatar_filename: avatar2.jpg
+bio: My research interests include representation learning, large language models,
+  media analysis, and machine learning.
 education:
   courses:
   - course: D.Sc. in Information and Communication Technology
@@ -37,7 +12,8 @@ education:
   - course: Stanford Center fo Professional Development "Science - Management - Commercialization"
     institution: Stanford University, USA
     year: 2013
-  - course: Ph.D. in Computer Science, Artificial Intelligence (with  honours, national EAI award)
+  - course: Ph.D. in Computer Science, Artificial Intelligence (with  honours, national
+      EAI award)
     institution: Wroclaw University of Science and Technology
     year: 2012
   - course: Postgraduate studies, Project Management (with  honours)
@@ -46,15 +22,22 @@ education:
   - course: MsC in Computer Science
     institution: Wroclaw University of Science and Technology
     year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+email: ''
+first_name: Tomasz
+interests:
+- Large Language Models
+- Social Network and Media Analysis
+- Representation Learning
+- Networks and Relational Learning
+- Machine Learning
+- Bayesian Methods
+- Generative Models
+last_name: Kajdanowicz
+organizations:
+- name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
+  url: ''
+role: Associate Professor, Head of Department
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tkajdanowicz
@@ -64,21 +47,18 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/kajdanowicz
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
+title: Tomasz Kajdanowicz
 user_groups:
 - Faculty
+weight: 1
 ---
-Professor Tomasz Kajdanowicz graduated with MSc and Ph.D. with honors, both from Wroclaw University of Technology, Poland, in 2008 and 2012, respectively. His Ph.D. was given The Best Polish Ph.D. Dissertation Award in 2012/2013, European Association for Artificial Intelligence – Polish Chapter, 2014. Recently, he serves as an associate professor of Wroclaw University of Science and Technology at the Faculty of Computer Science, Poland. He leads the Department of Artificial Intelligence. He was a co-chair and a member of the organizing committee of multiple workshops and summer schools on Data Science, Artificial Intelligence, Machine Learning, and Big Data. He regularly serves as a member of international program committees and a reviewer for prestigious international journals and scientific conferences in the area of Social Networks, Machine Learning, PrallelComputing, Data and Knowledge Management, Big Data, IntelligentSystems. He has authored over 100 research articles in a variety of areas related to Ensemble Classification, Collective Classification, MachineLearning, Social Network Analysis, Collaborative Systems, Data Mining, Recommender Systems, Representation Learning, and Big Data. He also initialized and led 10 research projects in cooperation with commercial companies, including large international corporations. Tomasz holds ITIL v3Foundation Certificate and multiple professional certificates from project management and data science.
- 
-He conducted  research  at  Stanford  University, USA, University of Sydney, Australia University of Notre Dame, USA and Technical  University  of  Dortmund.  His  research interests include social network and media analysis, machine learning and representation learning.
+Professor Tomasz Kajdanowicz graduated with an MSc and Ph.D., both with honors, from Wroclaw University of Technology, Poland, in 2008 and 2012, respectively. His doctoral dissertation was awarded The Best Polish Ph.D. Dissertation Award (2012/2013) by the European Association for Artificial Intelligence – Polish Chapter in 2014. He currently serves as an Associate Professor at Wroclaw University of Science and Technology, Poland, in the Faculty of Information and Communication Technology, where he leads the Department of Artificial Intelligence.
 
+Professor Kajdanowicz has been the principal investigator of numerous research projects, including a prestigious European research grant under the CHIST-ERA program, National Science Center grants SONATA, and a grant funded by the Foundation for Polish Science - First Team Grant. He has also initiated and led 15 research projects in collaboration with commercial entities, including major international corporations.
+
+He has served as a co-chair and organizing committee member for numerous workshops and summer schools focusing on Data Science, Artificial Intelligence, Machine Learning, and Big Data (including NeurIPS and ACL). Additionally, he co-organized panel sessions as part of AI House 2025 at the World Economic Forum in Davos. 
+
+To date, Professor Kajdanowicz has authored over 160 research articles spanning a broad spectrum of topics, including Ensemble Classification, Collective Classification, Machine Learning, Social Network Analysis, Collaborative Systems, Data Mining, Recommender Systems, Representation Learning, Large Language Models, and Big Data. He holds the ITIL v3 Foundation Certificate and several professional certifications in project management and data science.
+
+His research experience includes conducting studies at Stanford University (USA), the University of Notre Dame (USA), the Technical University of Dortmund (Germany) and holding visiting professorships at the University of Sydney (Australia). His research interests focus on large language models, media analysis, machine learning, and representation learning.
