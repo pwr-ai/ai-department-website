@@ -11,12 +11,6 @@ education:
   - course: Ph.D. in Computing and Mathematical Sciences
     institution: University of Greenwich, UK
     year: 2013
-  - course: MBA in Leadership and Coaching
-    institution: Collegium Humanum, Warsaw
-    year: 2023
-  - course: Postgraduate in Psychotraumatology
-    institution: Collegium Humanum, Warsaw
-    year: 2023
   - course: MSc in Computer Science
     institution: Opole University of Technology
     year: 2007
