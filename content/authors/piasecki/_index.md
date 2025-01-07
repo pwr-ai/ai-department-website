@@ -2,7 +2,6 @@
 authors:
 - piasecki
 bio: Professor Maciej Piasecki is a researcher specializing in computational linguistics, natural language processing, and machine learning. His work focuses on areas such as the development of linguistic resources, semantic networks, Large Language Models, and applications of AI in text analysis. He has contributed significantly to advancing methods for analyzing and processing Polish language data within multidisciplinary contexts.
-
 education:
   courses:
   - course: MSc in Computer Science

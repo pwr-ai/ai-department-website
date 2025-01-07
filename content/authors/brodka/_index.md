@@ -9,7 +9,7 @@ education:
   - course: D.Sc. in Information and Communication Technology
     institution: Wroclaw University of Science and Technology
     year: 2020
-  - course: Stanford Center fo Professional Development "Science - Management - Commercialization"
+  - course: Stanford Center for Professional Development "Science - Management - Commercialization"
     institution: Stanford University, USA
     year: 2013
   - course: Ph.D. in Computer Science, Network Science (with  honours)
@@ -29,9 +29,9 @@ education:
 email: piotr.brodka@pwr.edu.pl
 interests:
 - Computational Network Science
-- Spreading Proceses in Complex Networks
+- Spreading Processes in Complex Networks
 - Dynamic of Social Networks
-- Controll of Complex Networks
+- Control of Complex Networks
 - Multilayer Networks
 - Community Detection, Evolution and Prediction in Complex Networks
 organizations:
@@ -41,7 +41,10 @@ role: Associate Professor, Deputy Head of the Department
 social:
 - icon: home
   icon_pack: fas
-  link: http://piotrbrodka.pl/
+  link: https://linktr.ee/piotrbrodka
+- icon: flask
+  icon_pack: fas
+  link: https://networks.pwr.edu.pl/
 - icon: envelope
   icon_pack: fas
   link: mailto:piotr.brodka@pwr.edu.pl
@@ -57,9 +60,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/pbrodka
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/brodkapiotr
 superuser: false
 title: Piotr Bródka
 user_groups:
@@ -68,6 +68,15 @@ weight: 10
 ---
 <!--StartFragment-->
 
-Piotr Bródka is an associate professor of Computer Science at the Department of Artificial Intelligence, Wroclaw University of Science and Technology. He received MSc in Computer Science from the Wroclaw University of Technology, Poland, in 2008 and a PhD in 2012 (He also received an MSc in Computer Science from Blekinge Institute of Technology, Sweden). He was a visiting scholar at Stanford University in 2013 and visiting professor at the University of Technology Sydney in 2018 and 2019. He has authored over 70 scholarly and research articles on various areas related to complex networks, focusing on the extraction and dynamics of communities within social networks, spreading processes in complex networks and the analysis of multilayer networks. In 2015 he received 3 years scholarship for the best young scientists awarded by the Polish Ministry of Science and Higher Education. He is a certified project manager (IPMA D and IPMA D RD). You can meet him at most of the top conferences on social networks and social informatics, e.g., NetSci, NetSciX, IC2S2, ASONAM, SocInfo etc.
+Piotr Bródka has been affiliated with Wrocław University of Science and Technology for over 20 years, first as a student from 2003 to 2008 (also earning a Master's degree from Blekinge University of Technology), then as a PhD candidate from 2008 to 2012, and since December 2010, as a faculty member. In 2012, he defended his PhD dissertation with distinction, completed postgraduate studies at the Faculty of Computer Science and Management (Project Management and Commercialization of Research Results), and became a certified project manager (International Project Management Association Level D). In 2013, he completed an internship at Stanford University under the government-funded Top500 Innovators program. Between 2018 and 2025, he served as a visiting professor at the University of Technology Sydney. Additionally, he completed several month-long research internships (at Rensselaer Polytechnic Institute, the University of California, and the Slovenian Press Agency). In 2020, he obtained his habilitation degree in Computer Science and Telecommunications and was appointed professor at the Department of Artificial Intelligence at the Faculty of Computer Science and Telecommunications.
+
+He conducts research in computational network science, resulting in over 100 publications in renowned journals and at prestigious international conferences. He focuses on the **analysis and mining of multilayer networks, spreading processes, community detection, and important nodes identification**. You can find more on the Network Science Lab website (https://networks.pwr.edu.pl/) he co-leads. You can meet him at most of the top complex network and computational network science, e.g., NetSci, IC2S2, Sunbelt, ASONAM, etc.
+
+Piotr has participated in numerous research projects (funded by the National Science Centre, National Centre for Research and Development, European Commission, and Visegrad Fund, among others) and has received multiple awards, including several Rector's Awards for outstanding contributions to the university, the Dean's Laurel awarded three times for exceptional contributions within the Faculty of Computer Science and Management, and a scientific scholarship for outstanding young researchers from the Ministry of Science and Higher Education (2015-2018). 
+
+In education, Piotr has supervised dozens of master's theses and conducted numerous courses, including original ones such as Computational Network Science and Methods for Analyzing Complex Networks. He co-authored the Data Science specialization and the program in Artificial Intelligence, both of which he has overseen from the beginning. He supervises or co-supervises several ongoing doctoral dissertations and has supervised a few completed ones.
+
+Piotr Bródka serves as the Deputy Head of the Department of Artificial Intelligence. He is a member of various bodies, including the Faculty Council and the Discipline Council, where he is part of the working group preparing curriculum reviews. He has served as a senator in the Senate of Wrocław University of Science and Technology, participated in the team monitoring the implementation of the European Researcher Strategy at PWr, acted as the Dean's Representative for the Artificial Intelligence program, and been a member of the Faculty Committee for Evaluation and Quality Assurance in Education.
+
 
 <!--EndFragment-->
