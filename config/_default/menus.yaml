@@ -7,9 +7,9 @@ main:
   - name: Main
     url: home
     weight: 10
-  - name: News
-    url: post
-    weight: 20
+  # - name: News
+  #   url: post
+  #   weight: 20
 #  - name: Research
 #    url: post
 #    weight: 25
@@ -38,4 +38,3 @@ main:
   - name: Intranet
     url: https://sites.google.com/pwr.edu.pl/kio/strona-g%C5%82%C3%B3wna
     weight: 80
-

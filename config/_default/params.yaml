@@ -115,3 +115,8 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+projects:
+  post_view: list        # styl wyświetlania powiązanych postów {compact, list, card, showcase}
+  publication_view: card # styl wyświetlania publikacji
+  talk_view: compact       # styl wyświetlania wystąpień
