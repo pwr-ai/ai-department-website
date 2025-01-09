@@ -21,9 +21,7 @@ organizations:
   url: ''
 role: PhD Student
 social:
-- display:
-    header: false
-  icon: envelope
+- icon: envelope
   icon_pack: fas
   link: mailto:jakub.binkowski@pwr.edu.pl
 - icon: twitter
