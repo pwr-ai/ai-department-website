@@ -45,4 +45,4 @@ user_groups:
   - PhD Students
 weight: 1011
 ---
-Magdalena is currently a PhD student at the Department of Artificial Intelligence. She received the Eng. degree in Quantum Engineering in 2023 and the MSc degree in Trustworthy Artificial Intelligence, both from Wrocław University of Science and Technology. During bachelor studies, she was awarded the Scholarship of Minister of Education and Science for Significant Scientific Accomplishments. She is interested in enhancing human-computer interactions by including emotions.
+Magdalena is currently a PhD student at the Department of Artificial Intelligence. She received the Eng. degree in Quantum Engineering in 2023 and the M.Sc. degree in Trustworthy Artificial Intelligence, both from Wrocław University of Science and Technology. During bachelor studies, she was awarded the Scholarship of Minister of Education and Science for Significant Scientific Accomplishments. She is interested in enhancing human-computer interactions by including emotions.
