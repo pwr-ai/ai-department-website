@@ -40,6 +40,8 @@ social:
   link: https://github.com/bperz
 superuser: false
 title: Bartosz Perz
+first_name: Bartosz
+last_name: Perz
 user_groups:
 - Faculty
 - PhD Students

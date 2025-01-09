@@ -38,6 +38,8 @@ social:
   link: https://scholar.google.com/citations?user=DVE_klAAAAAJ
 superuser: false
 title: Stanisław Saganowski
+first_name: Stanisław
+last_name: Saganowski
 user_groups:
 - Faculty
 weight: 204

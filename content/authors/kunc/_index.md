@@ -4,8 +4,7 @@ authors:
 bio: Data Scientist
 education:
   courses:
-  - course: M. Sc. in Computer Science, specialization Data Science, Faculty of Computer
-      Science and Management
+  - course: M. Sc. in Computer Science, specialization Data Science, Faculty of Computer Science and Management
     institution: Wrocław University of Science and Technology
     year: 2021
   - course: Eng. in Computer Science, Faculty of Fundamental Problems of Technology
@@ -14,7 +13,9 @@ education:
 email: ''
 highlight_name: false
 interests:
-- DataScience;Psychophysiology;AffectiveComputing
+- Data Science
+- Psychophysiology
+- Affective Computing
 organizations:
 - name: Department of Artificial Intelligence, Wrocław University of Science and Technology
   url: ''
@@ -34,6 +35,8 @@ social:
   link: https://github.com/dkunc
 superuser: false
 title: Dominika Kunc
+first_name: Dominika
+last_name: Kunc
 user_groups:
 - PhD Students
 weight: 1025

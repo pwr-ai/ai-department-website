@@ -35,6 +35,8 @@ social:
   link: https://github.com/katarzyna-jablonska
 superuser: false
 title: Katarzyna Jabłońska
+first_name: Katarzyna
+last_name: Jabłońska
 user_groups:
 - PhD Students
 weight: 1014

@@ -48,6 +48,8 @@ social:
   link: mailto:lukasz.augustyniak@pwr.edu.pl
 superuser: false
 title: Łukasz Augustyniak
+first_name: Łukasz
+last_name: Augustyniak
 user_groups:
 - Faculty
 weight: 400

@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Piotr Gramacki
+first_name: Piotr
+last_name: Gramacki
 user_groups:
 - PhD Students
 weight: 1012

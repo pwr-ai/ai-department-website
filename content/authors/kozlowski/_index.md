@@ -33,7 +33,9 @@ social:
   icon_pack: fab
   link: https://github.com/USERNAME
 superuser: false
-title: Wojciech Kozlowski
+title: Wojciech Kozłowski
+first_name: Wojciech
+last_name: Kozłowski
 user_groups:
 - PhD Students
 weight: 1023

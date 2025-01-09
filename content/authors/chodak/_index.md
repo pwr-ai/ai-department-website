@@ -40,6 +40,8 @@ social:
   link: https://www.linkedin.com/in/grzegorz-chodak-24b4426/
 superuser: false
 title: Grzegorz Chodak
+first_name: Grzegorz
+last_name: Chodak
 user_groups:
 - Faculty
 weight: 200

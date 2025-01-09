@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Martyna Skuła
+first_name: Martyna
+last_name: Skuła
 user_groups:
 - PhD Students
 weight: 1037

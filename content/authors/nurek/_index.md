@@ -35,6 +35,8 @@ social:
   link: https://scholar.google.com/citations?user=H8fsOdkAAAAJ&hl=pl
 superuser: false
 title: Mateusz Nurek
+first_name: Mateusz
+last_name: Nurek
 user_groups:
 - PhD Students
 weight: 1032

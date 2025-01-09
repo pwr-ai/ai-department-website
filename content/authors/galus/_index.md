@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Krzysztof Galus
+first_name: Krzysztof
+last_name: Galus
 user_groups:
 - PhD Students
 weight: 1010

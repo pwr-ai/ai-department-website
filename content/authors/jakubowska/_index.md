@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Weronika Jakubowska
+first_name: Weronika
+last_name: Jakubowska
 user_groups:
 - PhD Students
 weight: 1015

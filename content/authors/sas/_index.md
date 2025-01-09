@@ -19,6 +19,8 @@ social:
   link: https://scholar.google.com/citations?user=T1U6rMcAAAAJ&hl=pl
 superuser: false
 title: Jerzy Sas
+first_name: Jerzy
+last_name: Sas
 user_groups:
 - Faculty
 weight: 304

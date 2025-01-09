@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Joanna Komoszyńska
+first_name: Joanna
+last_name: Komoszyńska
 user_groups:
 - PhD Students
 weight: 1019

@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Bożena Panachida
+first_name: Bożena
+last_name: Panachida
 user_groups:
 - Project's staff
 weight: 501

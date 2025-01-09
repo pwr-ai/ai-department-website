@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Bartłomiej Marek
+first_name: Bartłomiej
+last_name: Marek
 user_groups:
 - PhD Students
 weight: 1026

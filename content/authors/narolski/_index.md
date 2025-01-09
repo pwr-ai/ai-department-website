@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Paweł Narolski
+first_name: Paweł
+last_name: Narolski
 user_groups:
 - PhD Students
 weight: 1031

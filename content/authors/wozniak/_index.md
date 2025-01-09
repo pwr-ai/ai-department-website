@@ -43,6 +43,8 @@ social:
   link: https://github.com/sates298
 superuser: false
 title: Stanisław Woźniak
+first_name: Stanisław
+last_name: Woźniak
 user_groups:
 - PhD Students
 weight: 1045

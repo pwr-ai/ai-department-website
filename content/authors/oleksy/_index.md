@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Marcin Oleksy
+first_name: Marcin
+last_name: Oleksy
 user_groups:
 - Project's staff
 weight: 402

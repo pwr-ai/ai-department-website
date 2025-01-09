@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Mateusz Grzesiuk
+first_name: Mateusz
+last_name: Grzesiuk
 user_groups:
 - PhD Students
 weight: 1013

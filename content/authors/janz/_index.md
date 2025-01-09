@@ -30,6 +30,8 @@ social:
   link: https://www.researchgate.net/profile/Arkadiusz-Janz
 superuser: false
 title: Arkadiusz Janz
+first_name: Arkadiusz
+last_name: Janz
 user_groups:
 - Faculty
 - Alumni PhD

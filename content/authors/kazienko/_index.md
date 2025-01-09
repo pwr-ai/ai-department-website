@@ -60,6 +60,8 @@ social:
   link: https://github.com/kazienko
 superuser: false
 title: Przemysław Kazienko
+first_name: Przemysław
+last_name: Kazienko
 user_groups:
 - Faculty
 weight: 100

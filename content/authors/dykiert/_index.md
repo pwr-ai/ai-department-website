@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Karol Dykiert
+first_name: Karol
+last_name: Dykiert
 user_groups:
 - PhD Students
 weight: 1005

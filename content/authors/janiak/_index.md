@@ -24,6 +24,8 @@ social:
   link: https://scholar.google.com/citations?user=ICTlqh0AAAAJ&hl=en
 superuser: false
 title: Denis Janiak
+first_name: Denis
+last_name: Janiak
 user_groups:
 - PhD Students
 weight: 1016

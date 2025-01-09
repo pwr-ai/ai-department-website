@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Julita Bielaniewicz
+first_name: Julita
+last_name: Bielaniewicz
 user_groups:
 - PhD Students
 weight: 1000

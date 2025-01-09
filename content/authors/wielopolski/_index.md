@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Patryk Wielopolski
+first_name: Patryk
+last_name: Wielopolski
 user_groups:
 - PhD Students
 weight: 1042

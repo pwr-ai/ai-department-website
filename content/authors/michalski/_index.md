@@ -46,6 +46,8 @@ social:
   link: https://github.com/rmhere
 superuser: false
 title: Radosław Michalski
+first_name: Radosław
+last_name: Michalski
 user_groups:
 - Faculty
 weight: 202

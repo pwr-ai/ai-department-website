@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Maciej Markiewicz
+first_name: Maciej
+last_name: Markiewicz
 user_groups:
 - PhD Students
 weight: 1027

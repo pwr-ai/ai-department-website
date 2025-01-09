@@ -35,8 +35,10 @@ social:
   link: https://github.com/asawczyn
 superuser: false
 title: Albert Sawczyn
+first_name: Albert
+last_name: Sawczyn
 user_groups:
 - PhD Students
 weight: 1035
 ---
-**Albert graduated in BSc in Computer Science and MSc in Data Science, both from Wroclaw University of Science and Technology. He became passionate about general Artificial Intelligence as he started learning programming in a high school. His past developed and deployed projects are both scientific and commercial. He was fortunate to work on thematically diversified projects, covering signal processing, reinforcement learning, natural language processing and graph processing. His current work is placed in the field of learning representation of knowledge graphs and its applications.**
+Albert graduated in BSc in Computer Science and MSc in Data Science, both from Wroclaw University of Science and Technology. He became passionate about general Artificial Intelligence as he started learning programming in a high school. His past developed and deployed projects are both scientific and commercial. He was fortunate to work on thematically diversified projects, covering signal processing, reinforcement learning, natural language processing and graph processing. His current work is placed in the field of learning representation of knowledge graphs and its applications.

@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Przemysław Dolata
+first_name: Przemysław
+last_name: Dolata
 user_groups:
 - Faculty
 weight: 401
