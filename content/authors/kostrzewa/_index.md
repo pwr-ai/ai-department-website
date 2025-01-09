@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Marcin Kostrzewa
+first_name: Marcin
+last_name: Kostrzewa
 user_groups:
 - PhD Students
 weight: 1021

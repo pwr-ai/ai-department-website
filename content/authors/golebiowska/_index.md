@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Magdalena Gołębiowska
+first_name: Magdalena
+last_name: Gołębiowska
 user_groups:
 - PhD Students
 weight: 1011

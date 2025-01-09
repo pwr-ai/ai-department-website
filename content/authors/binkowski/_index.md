@@ -37,6 +37,8 @@ social:
   link: https://github.com/binkjakub
 superuser: false
 title: Jakub Binkowski
+first_name: Jakub
+last_name: Binkowski
 user_groups:
 - PhD Students
 weight: 1001

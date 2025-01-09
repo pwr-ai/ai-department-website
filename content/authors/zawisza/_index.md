@@ -25,6 +25,8 @@ social:
   link: https://github.com/
 superuser: false
 title: Artur Zawisza
+first_name: Artur
+last_name: Zawisza
 user_groups:
 - Faculty
 weight: 404

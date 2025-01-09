@@ -30,6 +30,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Mateusz Wójcik
+first_name: Mateusz
+last_name: Wójcik
 user_groups:
 - PhD Students
 weight: 1043

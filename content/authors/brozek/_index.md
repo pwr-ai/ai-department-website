@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Radosław Brożek
+first_name: Radosław
+last_name: Brożek
 user_groups:
 - Project's staff
 weight: 500

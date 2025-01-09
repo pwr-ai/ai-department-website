@@ -1,6 +1,6 @@
 ---
 authors:
-- serweta
+- serwata
 bio: null
 education:
   courses:
@@ -33,8 +33,11 @@ social:
   icon_pack: fab
   link: https://github.com/USERNAME
 superuser: false
-title: Damian Serweta
+title: Damian Serwata
+first_name: Damian
+last_name: Serwata
 user_groups:
 - PhD Students
 weight: 1036
 ---
+

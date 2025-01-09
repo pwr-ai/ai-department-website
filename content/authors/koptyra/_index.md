@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Bartłomiej Koptyra
+first_name: Bartłomiej
+last_name: Koptyra
 user_groups:
 - PhD Students
 weight: 1020

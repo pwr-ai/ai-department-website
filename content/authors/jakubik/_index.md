@@ -23,6 +23,8 @@ social:
   link: mailto:jan.jakubik@pwr.edu.pl
 superuser: false
 title: Jan Jakubik
+first_name: Jan
+last_name: Jakubik
 user_groups:
 - Faculty
 weight: 402

@@ -22,6 +22,8 @@ social:
   link: mailto:kamil.tagowski@pwr.edu.pl
 superuser: false
 title: Kamil Tagowski
+first_name: Kamil
+last_name: Tagowski
 user_groups:
 - Alumni PhD
 weight: 2002

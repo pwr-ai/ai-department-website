@@ -36,6 +36,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Stanisław Stępień
+first_name: Stanisław
+last_name: Stępień
 user_groups:
 - PhD Students
 weight: 1038

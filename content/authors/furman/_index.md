@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Oleksii Furman
+first_name: Oleksii
+last_name: Furman
 user_groups:
 - PhD Students
 weight: 1009

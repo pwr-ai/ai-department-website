@@ -31,6 +31,8 @@ social:
   link: https://scholar.google.com/citations?user=nU_W9XwAAAAJ&hl=en&oi=ao
 superuser: false
 title: Maciej Piasecki
+first_name: Maciej
+last_name: Piasecki
 user_groups:
 - Faculty
 weight: 203

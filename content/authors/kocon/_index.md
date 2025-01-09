@@ -38,6 +38,8 @@ social:
   link: https://linkedin.com/in/jankocon
 superuser: false
 title: Jan Kocoń
+first_name: Jan
+last_name: Kocoń
 user_groups:
 - Faculty
 weight: 302

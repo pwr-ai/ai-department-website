@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Julia Moska
+first_name: Julia
+last_name: Moska
 user_groups:
 - PhD Students
 weight: 1030

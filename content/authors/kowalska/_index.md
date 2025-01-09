@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Bianka Kowalska
+first_name: Bianka
+last_name: Kowalska
 user_groups:
 - PhD Students
 weight: 1022

@@ -49,6 +49,8 @@ social:
   link: https://www.researchgate.net/profile/Maciej-Zieba-2
 superuser: true
 title: Maciej Zięba
+first_name: Maciej
+last_name: Zięba
 user_groups:
 - Faculty
 weight: 11

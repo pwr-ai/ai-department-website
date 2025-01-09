@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Bartłomiej Alberski
+first_name: Bartłomiej
+last_name: Alberski
 user_groups:
 - Project's staff
 weight: 400
