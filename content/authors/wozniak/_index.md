@@ -9,12 +9,13 @@ weight: 1037
 authors:
   - wozniak
 role: PhD Student
-bio: Machine Learning Researcher Engineer
+bio: My research focuses on Large Language Models and advanced fine-tuning techniques, with a particular emphasis on personalized approaches.
 interests:
   - Natural Language Processing
-  - Machine Learning
-  - Continual Learning
-  - Multitask Learning
+  - Large Language Models
+  - Reinforcement Learning from Human Feedback
+  - Personalization
+  - LLM-based Recommender Systems
 social:
   - icon: envelope
     icon_pack: fas
@@ -47,5 +48,5 @@ user_groups:
   - PhD Students
 highlight_name: false
 title: Stanisław Woźniak
-email: ""
+email: stanislaw.wozniak@pwr.edu.pl
 ---
