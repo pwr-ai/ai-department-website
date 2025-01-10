@@ -6,7 +6,7 @@ title: 'gtfs2vec: learning GTFS embeddings for comparing public transport offer 
 subtitle: ''
 summary: ''
 authors:
-- Piotr Gramacki
+- gramacki
 - Szymon Woźniak
 - szymanski
 tags: []
