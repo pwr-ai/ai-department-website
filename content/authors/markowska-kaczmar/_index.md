@@ -41,6 +41,8 @@ social:
   link: https://www.linkedin.com/in/urszula-markowska-kaczmar-7730b93/
 superuser: false
 title: Urszula Markowska-Kaczmar
+first_name: Urszula
+last_name: Markowska-Kaczmar
 user_groups:
 - Faculty
 weight: 103

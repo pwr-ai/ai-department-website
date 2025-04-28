@@ -39,6 +39,8 @@ social:
   link: https://linkedin.com/in/niedakh
 superuser: false
 title: Piotr Szymański
+first_name: Piotr
+last_name: Szymański
 user_groups:
 - Faculty
 weight: 306

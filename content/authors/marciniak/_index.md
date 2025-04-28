@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Mateusz Marciniak
+first_name: Mateusz
+last_name: Marciniak
 user_groups:
 - Alumni PhD
 weight: 2001

@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Nadezhda Dazhunts
+first_name: Nadezhda
+last_name: Dazhunts
 user_groups:
 - PhD Students
 weight: 1004

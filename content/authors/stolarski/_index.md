@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Mateusz Stolarski
+first_name: Mateusz
+last_name: Stolarski
 user_groups:
 - PhD Students
 weight: 1039

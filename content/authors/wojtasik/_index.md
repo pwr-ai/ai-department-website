@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Konrad Wojtasik
+first_name: Konrad
+last_name: Wojtasik 
 user_groups:
 - PhD Students
 weight: 1044

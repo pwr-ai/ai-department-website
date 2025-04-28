@@ -38,6 +38,8 @@ social:
   link: https://github.com/Manik2000
 superuser: false
 title: Marcin Kostrzewa
+first_name: Marcin
+last_name: Kostrzewa
 user_groups:
 - PhD Students
 weight: 1021

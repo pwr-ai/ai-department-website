@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Piotr Miłkowski
+first_name: Piotr
+last_name: Miłkowski
 user_groups:
 - PhD Students
 weight: 1029

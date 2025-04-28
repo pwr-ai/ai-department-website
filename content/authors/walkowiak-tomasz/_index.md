@@ -8,8 +8,9 @@ organizations:
 role: Assistant Professor
 superuser: false
 title: Tomasz Walkowiak
+first_name: Tomasz
+last_name: Walkowiak
 weight: 308
----
 
 interests:
   - natural language processing

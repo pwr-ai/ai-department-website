@@ -36,8 +36,10 @@ social:
   link: https://github.com/piotrgramacki
 superuser: false
 title: Piotr Gramacki
+first_name: Piotr
+last_name: Gramacki
 user_groups:
 - PhD Students
 weight: 1012
 ---
-**Piotr is a PhD student working on Geospatial task-solving with the help of Large Language Models (LLMs). Apart from that, he is interested in representation learning from geospatial data and natural language processing. He is a member of the Kraina.AI research group, where he works with spatial data and urban-related tasks, and develops an open-source library for geospatial data processing.**
+Piotr is a PhD student working on Geospatial task-solving with the help of Large Language Models (LLMs). Apart from that, he is interested in representation learning from geospatial data and natural language processing. He is a member of the Kraina.AI research group, where he works with spatial data and urban-related tasks, and develops an open-source library for geospatial data processing.

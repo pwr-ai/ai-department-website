@@ -21,9 +21,7 @@ organizations:
   url: ''
 role: PhD Student
 social:
-- display:
-    header: false
-  icon: envelope
+- icon: envelope
   icon_pack: fas
   link: mailto:jakub.binkowski@pwr.edu.pl
 - icon: twitter
@@ -37,6 +35,8 @@ social:
   link: https://github.com/binkjakub
 superuser: false
 title: Jakub Binkowski
+first_name: Jakub
+last_name: Binkowski
 user_groups:
 - PhD Students
 weight: 1001

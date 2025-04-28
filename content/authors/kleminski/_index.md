@@ -32,6 +32,8 @@ social:
   link: https://github.com/RKleminski
 superuser: false
 title: Rajmund Klemiński
+first_name: Rajmund
+last_name: Klemiński
 user_groups:
 - Alumni PhD
 weight: 2000

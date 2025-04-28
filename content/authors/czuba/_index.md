@@ -36,6 +36,8 @@ social:
   link: https://www.linkedin.com/in/michalczuba/
 superuser: false
 title: Michał Czuba
+first_name: Michał
+last_name: Czuba
 user_groups:
 - PhD Students
 weight: 1003

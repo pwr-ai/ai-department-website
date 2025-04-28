@@ -62,6 +62,8 @@ social:
   link: https://github.com/pbrodka
 superuser: false
 title: Piotr Bródka
+first_name: Piotr
+last_name: Bródka
 user_groups:
 - Faculty
 weight: 10

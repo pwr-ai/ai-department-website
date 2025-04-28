@@ -39,7 +39,9 @@ social:
   icon_pack: fab
   link: https://github.com/YOUR_ID
 superuser: false
-title: Radosław Kuczbanski
+title: Radosław Kuczbański
+first_name: Radosław
+last_name: Kuczbański
 user_groups:
 - PhD Students
 weight: 1024

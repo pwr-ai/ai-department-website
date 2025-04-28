@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Magdalena Wiśniewska
+first_name: Magdalena
+last_name: Wiśniewska
 user_groups:
 - Project's staff
 weight: 2
