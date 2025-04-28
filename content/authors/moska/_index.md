@@ -4,17 +4,18 @@ authors:
 bio: Interested in graph representation learning
 education:
   courses:
-  - course: MsC in Computer Science
+  - course: MsC in Artificial Intelligence
     institution: Wroclaw University of Science and Technology
-    year: 2019
-  - course: B.Eng. in Computer Science
+    year: 2024
+  - course: B.Eng. in Applied Computer Science
     institution: Wroclaw University of Science and Technology
-    year: 2017
+    year: 2023
 email: ''
 interests:
-- coming soon interest 1
-- coming soon interest 2
-- coming soon interest 3
+- Natural Language Processing
+- LLM Agents
+- Mulit-Agent Systems
+- Geo AI
 organizations:
 - name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
   url: ''
@@ -25,23 +26,23 @@ social:
   link: homepage
 - icon: envelope
   icon_pack: fas
-  link: mailto:email
+  link: mailto:julia.moska@pwr.edu.pl
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/YOUR_ID
+  link: https://www.researchgate.net/profile/Julia-Moska
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/YOUR_ID
+  link: https://orcid.org/0009-0003-8581-1098
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.pl/citations?user=YOUR_ID
+  link: https://scholar.google.com/citations?user=6GCbRM8AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/YOUR_ID
+  link: https://github.com/mskaa3
 superuser: false
 title: Julia Moska
 user_groups:
 - PhD Students
 weight: 1030
 ---
-Short bio.
+ Julia Moska is a PhD Student at the Department of Artificial Intelligence, Wroclaw University of Science and Technology. Her primary research focuses on natural language processing, especially large language models and autonomous agents powered by these models. She is also interested in multi-agent systems. Beyond her core interests, she is passionate about mathematics and the field of geoAI.
