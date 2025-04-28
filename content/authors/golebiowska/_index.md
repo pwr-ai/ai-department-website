@@ -1,20 +1,21 @@
 ---
 authors:
 - golebiowska
-bio: Interested in graph representation learning
+bio: ''
 education:
   courses:
-  - course: MsC in Computer Science
+  - course: MsC in Computer Science, specialization in Trustworthy Artificial Intelligence
     institution: Wroclaw University of Science and Technology
-    year: 2019
-  - course: B.Eng. in Computer Science
+    year: 2024
+  - course: B.Eng. in Quantum Engineering
     institution: Wroclaw University of Science and Technology
-    year: 2017
+    year: 2023
 email: ''
 interests:
-- coming soon interest 1
-- coming soon interest 2
-- coming soon interest 3
+- Affective computing
+- Biometrics
+- Image processing
+- Deep learning
 organizations:
 - name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
   url: ''
@@ -25,16 +26,16 @@ social:
   link: homepage
 - icon: envelope
   icon_pack: fas
-  link: mailto:email
+  link: mailto:magdalena.golebiowska@pwr.edu.pl
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/YOUR_ID
+  link: https://www.researchgate.net/profile/Magdalena-Golebiowska-2
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/YOUR_ID
+  link: https://orcid.org/0000-0001-7507-6737
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.pl/citations?user=YOUR_ID
+  link: https://scholar.google.com/citations?hl=pl&authuser=1&user=q2fsokkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/YOUR_ID
@@ -46,4 +47,4 @@ user_groups:
 - PhD Students
 weight: 1011
 ---
-Short bio.
+Magdalena is currently a PhD student at the Department of Artificial Intelligence. She received the Eng. degree in Quantum Engineering in 2023 and the M.Sc. degree in Trustworthy Artificial Intelligence, both from Wrocław University of Science and Technology. During bachelor studies, she was awarded the Scholarship of Minister of Education and Science for Significant Scientific Accomplishments. She is interested in enhancing human-computer interactions by including emotions.

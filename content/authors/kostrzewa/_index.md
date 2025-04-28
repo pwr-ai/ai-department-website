@@ -1,43 +1,41 @@
 ---
 authors:
 - kostrzewa
-bio: Interested in graph representation learning
+bio: Marcin Kostrzewa is a PhD student and co-coordinator of the genwro.AI research group at Wrocław University of Science and Technology.
+  His research focuses on explainable AI, with particular emphasis on counterfactual explanations - investigating their robustness, multimodality, and causal aspects. He received his MSc in Applied Mathematics,
+  where his work centered on applying deep learning methods to analyze anomalous diffusion processes in biological modeling.
+  Marcin combines academic research with industry experience, currently specializing in integrating Large Language Models for data processing and extraction tasks.
 education:
   courses:
-  - course: MsC in Computer Science
+  - course: MsC in Applied Mathematics
     institution: Wroclaw University of Science and Technology
-    year: 2019
-  - course: B.Eng. in Computer Science
+    year: 2024
+  - course: MsC in Applied Mathematics
     institution: Wroclaw University of Science and Technology
-    year: 2017
-email: ''
+    year: 2023
+email: marcin.kostrzewa@pwr.edu.pl
 interests:
-- coming soon interest 1
-- coming soon interest 2
-- coming soon interest 3
+- explainable AI
+- deep learning
+- probabilistic methods
+- unsupervised learning
 organizations:
 - name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
   url: ''
 role: PhD Student
 social:
-- icon: home
-  icon_pack: fas
-  link: homepage
 - icon: envelope
   icon_pack: fas
-  link: mailto:email
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/YOUR_ID
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/YOUR_ID
+  link: mailto:marcin.kostrzewa@pwr.edu.pl
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.pl/citations?user=YOUR_ID
+  link: https://scholar.google.pl/citations?user=KrtP5RgAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/marcin-kostrzewa/
 - icon: github
   icon_pack: fab
-  link: https://github.com/YOUR_ID
+  link: https://github.com/Manik2000
 superuser: false
 title: Marcin Kostrzewa
 first_name: Marcin
@@ -46,4 +44,7 @@ user_groups:
 - PhD Students
 weight: 1021
 ---
-Short bio.
+Marcin Kostrzewa is a PhD student and co-coordinator of the genwro.AI research group at Wrocław University of Science and Technology.
+His research focuses on explainable AI, with particular emphasis on counterfactual explanations - investigating their robustness, multimodality, and causal aspects. He received his MSc in Applied Mathematics,
+where his work centered on applying deep learning methods to analyze anomalous diffusion processes in biological modeling.
+Marcin combines academic research with industry experience, currently specializing in integrating Large Language Models for data processing and extraction tasks.
