@@ -1,9 +1,12 @@
 ---
 authors:
 - perz
-bio: Interested in affective computing and everything emotion-related.
+bio: Interested in machine learning, biosignal processing, and affective computing.
 education:
   courses:
+  - course: PhD in Information and Communication Technology
+    institution: Wroclaw University of Science and Technology
+    year: 2025
   - course: M.Sc. in Big Data Analytics
     institution: Wroclaw University of Science and Technology
     year: 2020
@@ -12,9 +15,9 @@ education:
     year: 2019
 email: ''
 interests:
-- Affective Computing
+- Biosignals
 - Machine Learning
-- Physiological signals
+- Affective Computing
 organizations:
 - name: Department of Artificial Intelligence, Wroclaw University of Science and Technology
   url: ''
@@ -44,7 +47,7 @@ first_name: Bartosz
 last_name: Perz
 user_groups:
 - Faculty
-- PhD Students
+- Alumni PhD
 weight: 403
 ---
-Bartosz is a Ph.D. student at the Department of Artificial Intelligence and a member of the [Emognition](https://emotions.pwr.edu.pl) research group. He does his research in affective computing;  specifically he works on personalized specifically emotion recognition from physiological signals. Bartosz is also the head of the DaniE student research club that focuses on data analysis and machine learning.
+Bartosz is an Assistant at the Department of Artificial Intelligence and a member of the [Emognition](https://emotions.pwr.edu.pl) research group. Currently his research focuses on personalized biosignal processing and affective state recognition.
