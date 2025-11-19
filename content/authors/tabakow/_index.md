@@ -26,6 +26,8 @@ social:
   link: https://www.linkedin.com/in/martin-tabakov-45985864/
 superuser: false
 title: Martin Tabakov
+first_name: Martin
+last_name: Tabakov
 user_groups:
 - Faculty
 weight: 307

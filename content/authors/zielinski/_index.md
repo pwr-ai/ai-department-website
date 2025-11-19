@@ -33,6 +33,8 @@ social:
   link: https://github.com/piotlinski
 superuser: false
 title: Piotr Zieliński
+first_name: Piotr
+last_name: Zieliński
 user_groups:
 - PhD Students
 weight: 1046

@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Joanna Szołomicka
+first_name: Joanna
+last_name: Szołomicka
 user_groups:
 - PhD Students
 weight: 1040

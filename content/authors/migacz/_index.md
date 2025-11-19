@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Dawid Migacz
+first_name: Dawid
+last_name: Migacz
 user_groups:
 - PhD Students
 weight: 1028

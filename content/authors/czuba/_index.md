@@ -32,8 +32,10 @@ social:
   link: https://www.linkedin.com/in/michalczuba/
 superuser: false
 title: Michał Czuba
+first_name: Michał
+last_name: Czuba
 user_groups:
 - PhD Students
 weight: 1003
 ---
-I am an early-stage researcher working on problems related to information diffusion in multilayer networks, such as the spread of misinformation, the dynamics of epidemic outbreaks, and the identification of key influencers in social systems. Understanding these phenomena is crucial for designing strategies to mitigate societal risks, enhance public health responses, and improve communication in interconnected environments. My industrial expertise encompasses challenges in computer vision, cybersecurity, and the optimisation of industrial processes, including the deployment of ML-based solutions in production environments.
+I am an early stage researcher focused on the issue of information diffusion in complex networks. My experience in AI projects touches also machine vision, cyber-security and facilitation of industrial processes by ML. Apart from scientific aspects, I am concerned in problems like deployment, scaling and monitoring of AI algorithms in business products. My interests evolved from software-related issues of robotics (during studies at Faculty of Mechanical Engineering) into pure aspects of artificial intelligence scoped in network-science.

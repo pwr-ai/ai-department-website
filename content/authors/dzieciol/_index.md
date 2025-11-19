@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Ewa Dzięcioł
+first_name: Ewa
+last_name: Dzięcioł
 user_groups:
 - Project's staff
 weight: 401

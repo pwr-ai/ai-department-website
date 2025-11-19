@@ -31,6 +31,8 @@ social:
   link: https://gitlab.com/pbielak
 superuser: false
 title: Piotr Bielak
+first_name: Piotr
+last_name: Bielak
 user_groups:
 - Alumni PhD
 - Faculty

@@ -47,6 +47,8 @@ social:
   link: https://www.linkedin.com/in/halina-kwasnicka-0ba300/
 superuser: false
 title: Halina Kwaśnicka
+first_name: Halina
+last_name: Kwaśnicka
 user_groups:
 - Faculty
 weight: 102

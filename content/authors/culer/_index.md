@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Łukasz Culer
+first_name: Łukasz
+last_name: Culer
 user_groups:
 - PhD Students
 weight: 1002

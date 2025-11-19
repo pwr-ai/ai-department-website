@@ -47,6 +47,8 @@ social:
   link: https://dblp.org/pid/118/1146.html
 superuser: false
 title: Piotr Syga
+first_name: Piotr
+last_name: Syga
 user_groups:
 - Faculty
 weight: 305

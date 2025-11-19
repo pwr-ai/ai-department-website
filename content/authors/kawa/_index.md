@@ -33,6 +33,8 @@ social:
   link: https://github.com/piotrkawa/
 superuser: false
 title: Piotr Kawa
+first_name: Piotr
+last_name: Kawa
 user_groups:
 - PhD Students
 weight: 1018

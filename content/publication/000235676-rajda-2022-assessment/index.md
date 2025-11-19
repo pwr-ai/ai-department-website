@@ -7,7 +7,7 @@ summary: ''
 authors:
 - rajda
 - Łukasz M. Augustyniak
-- Piotr Gramacki
+- gramacki
 - Marcin Gruza
 - Szymon Woźniak
 - kajdanowicz

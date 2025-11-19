@@ -40,6 +40,8 @@ social:
   link: https://github.com/YOUR_ID
 superuser: false
 title: Łukasz Radlinski
+first_name: Łukasz
+last_name: Radlinski
 user_groups:
 - PhD Students
 weight: 1033

@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Daria Dziubałtowska
+first_name: Daria
+last_name: Dziubałtowska
 user_groups:
 - PhD Students
 weight: 1006

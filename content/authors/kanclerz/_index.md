@@ -42,6 +42,8 @@ social:
   link: https://www.linkedin.com/in/kamil-kanclerz/
 superuser: false
 title: Kamil Kanclerz
+first_name: Kamil
+last_name: Kanclerz
 user_groups:
 - PhD Students
 weight: 1017

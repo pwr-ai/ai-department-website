@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Katarzyna Fojcik
+first_name: Katarzyna
+last_name: Fojcik
 user_groups:
 - PhD Students
 weight: 1008

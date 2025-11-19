@@ -34,6 +34,8 @@ social:
   link: https://github.com/USERNAME
 superuser: false
 title: Marek Klonowski
+first_name: Marek
+last_name: Klonowski
 user_groups:
 - Faculty
 weight: 101
