@@ -4,13 +4,10 @@ authors:
 bio: Data Scientist, Machine Learning Engineer
 education:
   courses:
-  - course: Doctor of Philosophy (Computer Science)
-    institution: WUST, Faculty of Information and Communication Technology
-    year: ''
-  - course: Master of Science (Individual course of study)
+  - course: Master of Science (Individual Course of Study)
     institution: WUST, Faculty of Mechanical Engineering
     year: 2019
-  - course: Bechelor of Science (Artificial Intelligence)
+  - course: Bechelor of Science (Computer Science)
     institution: WUST, Faculty of Information and Communication Technology
     year: 2020
   - course: Bechelor of Science (Control Engineering and Robotics)
@@ -19,9 +16,8 @@ education:
 email: michal.czuba@pwr.edu.pl
 highlight_name: false
 interests:
-- network-science
 - complex-networks
-- phenomena-spreading
+- spreading-processes
 - information-diffusion
 - machie-learning
 organizations:
